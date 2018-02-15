@@ -1,5 +1,4 @@
-//jquery/////////////////////////////////////
-//imperative way..
+// jquery: imperative code ////////////////////
 <div id="app"></div>
 <button id="increment">+</button>
 <button id="decrement">-</button>
@@ -8,7 +7,7 @@
     var counter = 0;
 
     $(document).ready(function() {
-        $('#app').html(counter); //show initial value of counter
+        $('#app').html(counter);				//show initial value of counter
         $('#increment').click(function() {
             counter++;
             $('#app').html(counter);
@@ -21,7 +20,7 @@
 </script>
 
 
-//vue////////////////////////////////////////
+// vue ////////////////////////////////////////
 <div id="app">
     <div>{{ counter }}</div>
     <button v-on:click="increment">+</button>
@@ -42,7 +41,7 @@
 </script>
 
 
-//hyperapp///////////////////////////////////
+// hyperapp ///////////////////////////////////
 import { h, app } from "hyperapp"
 
 const state = {
@@ -65,9 +64,9 @@ const view = (state, actions) => (
 app(state, actions, view, document.body)
 
 
-//react//////////////////////////////////////
+// react //////////////////////////////////////
 
-<div id="app-container"></div>
+<div id="app"></div>
 
 class App extends React.Component {
     constructor(props) {
@@ -75,19 +74,24 @@ class App extends React.Component {
             count: 0
         }
     }
-    onClick(e) {
+    increment(e) {
         this.setState({
             count: this.state.count + 1
+        });
+    decrement(e) {
+        this.setState({
+            count: this.state.count - 1
         });
     }
     render() {
         return (
             <div>
                 <h1>{this.state.count}</h1>
-                <button onClick={this.onClick.bind(this)}>+</button>
+                <button onClick={this.increment.bind(this)}>+</button>
+                <button onClick={this.increment.bind(this)}>+</button>
             </div>
         )
     }
 }
 
-React.render(<App/>, document.getElementById('app-container'));
+React.render(<App/>, document.getElementById('app'));
