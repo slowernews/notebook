@@ -1,32 +1,27 @@
-// jquery: imperative code ////////////////////
-<div id="app"></div>
+// jquery: imperative code ///////////////////////
+// <script src="https://..."></script> ///////////
+<script>
+    $(document).ready(function() {
+        var counter = 0
+        $('#app').html(counter)                 //show initial value of counter
+        $('#increment').click(function() {
+            counter++
+            $('#app').html(counter)
+        });
+        $('#decrement').click(function() {
+            counter--
+            $('#app').html(counter)
+        })
+    })
+</script>
+
+<h1 id="app"></h1>
 <button id="increment">+</button>
 <button id="decrement">-</button>
 
-<script>
-    var counter = 0;
 
-    $(document).ready(function() {
-        $('#app').html(counter);				//show initial value of counter
-        $('#increment').click(function() {
-            counter++;
-            $('#app').html(counter);
-        });
-        $('#decrement').click(function() {
-            counter--;
-            $('#app').html(counter);
-        });
-    });
-</script>
-
-
-// vue ////////////////////////////////////////
-<div id="app">
-    <div>{{ counter }}</div>
-    <button v-on:click="increment">+</button>
-    <button v-on:click="decrement">-</button>
-</div>
-
+// vue: reactive code ////////////////////////////
+// <script src="https://..."></script> ///////////
 <script>
     new Vue({
         el: '#app',
@@ -34,64 +29,67 @@
             counter: 0
         },
         methods: {
-            increment() {this.counter++}
+            increment() {this.counter++},
             decrement() {this.counter--}
         }
-    });
+    })
 </script>
 
+<div id="app">
+    <h1>{{ counter }}</h1>
+    <button v-on:click="increment">+</button>
+    <button v-on:click="decrement">-</button>
+</div>
 
-// hyperapp ///////////////////////////////////
-import { h, app } from "hyperapp"
 
+// hyperapp: reactive and functional code ////////
+// implies Babel pragma // @jsx h  ///////////////
 const state = {
     counter: 0
 }
 
 const actions = {
-    down: value => state => ({ counter: state.counter - value }),
-    up: value => state => ({ counter: state.counter + value })
+    changeCounter: value => state => ({ counter: state.counter + value })
 }
 
 const view = (state, actions) => (
     <div>
         <h1>{state.counter}</h1>
-        <button onclick={() => actions.down(1)}>-</button>
-        <button onclick={() => actions.up(1)}>+</button>
+        <button onclick={() => actions.changeCounter(1)}>+</button>
+        <button onclick={() => actions.changeCounter(-1)}>-</button>
     </div>
 )
 
-app(state, actions, view, document.body)
-
-
-// react //////////////////////////////////////
+app(state, actions, view, document.getElementById('app'))
 
 <div id="app"></div>
 
+
+// react /////////////////////////////////////////
+// implies Babel /////////////////////////////////
 class App extends React.Component {
     constructor(props) {
+        super(props);                   //required
         this.state = {
-            count: 0
+            counter: 0
         }
     }
-    increment(e) {
+    changeCounter(value) {
         this.setState({
-            count: this.state.count + 1
-        });
-    decrement(e) {
-        this.setState({
-            count: this.state.count - 1
+            counter: this.state.counter + value
         });
     }
     render() {
         return (
             <div>
-                <h1>{this.state.count}</h1>
-                <button onClick={this.increment.bind(this)}>+</button>
-                <button onClick={this.increment.bind(this)}>+</button>
+                <h1>{ this.state.counter }</h1>
+                <button onClick={ this.changeCounter.bind(this, 1) }>+</button>
+                <button onClick={ this.changeCounter.bind(this, -1) }>−</button>
             </div>
         )
     }
 }
 
-React.render(<App/>, document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('app'))
+
+<div id="app"></div>
