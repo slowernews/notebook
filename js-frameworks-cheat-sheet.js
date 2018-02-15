@@ -1,24 +1,27 @@
 //jquery/////////////////////////////////////
-
-<div id="output"></div>
+//imperative way..
+<div id="app"></div>
 <button id="increment">+</button>
 <button id="decrement">-</button>
 
 <script>
     var counter = 0;
+
     $(document).ready(function() {
-        var $output = $('#output');  
+        $('#app').html(counter); //show initial value of counter
         $('#increment').click(function() {
             counter++;
-            $output.html(counter);
+            $('#app').html(counter);
         });
-        $output.html(counter);
+        $('#decrement').click(function() {
+            counter--;
+            $('#app').html(counter);
+        });
     });
 </script>
 
 
 //vue////////////////////////////////////////
-
 <div id="app">
     <div>{{ counter }}</div>
     <button v-on:click="increment">+</button>
@@ -40,7 +43,6 @@
 
 
 //hyperapp///////////////////////////////////
-
 import { h, app } from "hyperapp"
 
 const state = {
@@ -65,32 +67,27 @@ app(state, actions, view, document.body)
 
 //react//////////////////////////////////////
 
+<div id="app-container"></div>
+
 class App extends React.Component {
     constructor(props) {
         this.state = {
             count: 0
         }
     }
-
     onClick(e) {
         this.setState({
             count: this.state.count + 1
         });
     }
-
     render() {
         return (
             <div>
                 <h1>{this.state.count}</h1>
-                <button onClick={this.onClick.bind(this)}>Count Up!!</button>
+                <button onClick={this.onClick.bind(this)}>+</button>
             </div>
         )
     }
 }
 
-React.render(
-    <App/>,
-    document.getElementById('app-container')
-);
-
-<div id="app-container"></div>
+React.render(<App/>, document.getElementById('app-container'));
