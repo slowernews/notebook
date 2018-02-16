@@ -1,4 +1,7 @@
+/*   BASIC COUNTER IN DIFFERENT JS FRAMEWORKS   */
+
 // jquery: imperative code ///////////////////////
+// no build step needed! /////////////////////////
 // <script src="https://..."></script> ///////////
 <script>
     $(document).ready(function() {
@@ -21,6 +24,7 @@
 
 
 // vue: reactive code ////////////////////////////
+// no build step needed! /////////////////////////
 // <script src="https://..."></script> ///////////
 <script>
     new Vue({
@@ -37,13 +41,13 @@
 
 <div id="app">
     <h1>{{ counter }}</h1>
-    <button v-on:click="increment">+</button>
-    <button v-on:click="decrement">-</button>
+    <button @click="increment">+</button>       //instead of calling a method we could simply say: 
+    <button @click="decrement">-</button>       //counter++ or counter--     
 </div>
 
 
 // hyperapp: reactive and functional code ////////
-// implies Babel pragma // @jsx h  ///////////////
+// implies Babel build step pragma // @jsx h  ////
 const state = {
     counter: 0
 }
@@ -66,7 +70,7 @@ app(state, actions, view, document.getElementById('app'))
 
 
 // react /////////////////////////////////////////
-// implies Babel /////////////////////////////////
+// implies Babel build step //////////////////////
 class App extends React.Component {
     constructor(props) {
         super(props);                   //required
@@ -77,7 +81,7 @@ class App extends React.Component {
     changeCounter(value) {
         this.setState({
             counter: this.state.counter + value
-        });
+        })
     }
     render() {
         return (
@@ -93,3 +97,6 @@ class App extends React.Component {
 ReactDOM.render(<App />, document.getElementById('app'))
 
 <div id="app"></div>
+
+
+/*    BASIC CLOCK IN DIFFERENT JS FRAMEWORKS    */
