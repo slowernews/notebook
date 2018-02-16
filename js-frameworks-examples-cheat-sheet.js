@@ -1,7 +1,7 @@
 /*   BASIC COUNTER IN DIFFERENT JS FRAMEWORKS   */
 
-// jquery: imperative code ///////////////////////
-// no build step needed! /////////////////////////
+
+// jquery: imperative code - no build step ///////
 // <script src="https://..."></script> ///////////
 <script>
     $(document).ready(function() {
@@ -23,8 +23,7 @@
 <button id="decrement">-</button>
 
 
-// vue: reactive code ////////////////////////////
-// no build step needed! /////////////////////////
+// vue: reactive code - no build step ////////////
 // <script src="https://..."></script> ///////////
 <script>
     new Vue({
