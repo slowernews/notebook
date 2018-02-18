@@ -26,9 +26,9 @@ It might be useful to others doing this lonely journey.
 - [Installing Ruby](#installing-ruby)
 - [Learning Ruby](#learning-ruby)
 
-### 5. Next? Elixir (back-end) and Elm (front-end)
+### 5. Next?
 
-- [Why Elm?](#why-elm)
+- [Elm?](#elm)
 - [Installing Elm](#installing-elm)
 - [Learning Elm](#learning-elm)
 
@@ -161,9 +161,9 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 
 
 ---
-## 5. Next? Elm (front-end) and Elixir (back-end)
+## 5. Next?
 
-### Why Elm?
+### Elm?
 
 - Pros:
   - concise and elegant - this is VERY important for someone with my background.
