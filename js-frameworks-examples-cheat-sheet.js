@@ -46,7 +46,7 @@
 
 
 // hyperapp: reactive and functional code ////////
-// implies Babel build step pragma // @jsx h  ////
+// implies Babel build step //////////////////////
 const state = {
     counter: 0
 }
@@ -73,14 +73,10 @@ app(state, actions, view, document.getElementById('app'))
 class App extends React.Component {
     constructor(props) {
         super(props);                   //required
-        this.state = {
-            counter: 0
-        }
+        this.state = {counter: 0}
     }
     changeCounter(value) {
-        this.setState({
-            counter: this.state.counter + value
-        })
+        this.setState({counter: this.state.counter + value})
     }
     render() {
         return (
