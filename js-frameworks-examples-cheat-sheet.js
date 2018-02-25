@@ -146,25 +146,23 @@ ReactDOM.render(<App />, document.getElementById('app'))
 </div>
 
 
-/*   TOGGLE CLASSES:   */
+/*   HIDING AND SHOWING:   */
 
 
 // jquery: imperative code - no build step ///////
 // <script src="https://..."></script> ///////////
 <script>
     $(function() {
-        $('button').click(function(e) {
-            $('.toggle').toggleClass('red')
-            $(this).attr('aria-pressed', ($(this).attr('aria-pressed') == "false" ? true : false)) // ???
+        $('button').on('click', function() {
+            $('#hello').toggle() //$('#hello').toggleClass('red') would style the element
+            $(this).attr('aria-expanded', ($(this).attr('aria-expanded') == "false" ? true : false))
         })
     })
 </script>
 
-<style>.red {color: red}</style>
-
 <div id="app">
-    <button aria-pressed="false">Toggle me</button>
-    <p class="toggle">Sometimes I need to be styled differently</p>
+    <button aria-expanded="false">Toggle Panel</button>
+    <p id="hello">hello</p>
 </div>
 
 
@@ -179,9 +177,8 @@ ReactDOM.render(<App />, document.getElementById('app'))
     })
 </script>script>
 
-<style>.red {color: red}</style>
-
 <div id="app">
     <button @click="active = !active" :aria-pressed="active ? 'true' : 'false'">Toggle me</button>
-    <p :class="{ red: active }">Sometimes I need to be styled differently</p>
+    <p v-if="active">hello</p>
+<!--<p :class="{ red: active }">Sometimes I need to be styled differently</p> -->
 </div>
