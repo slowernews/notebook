@@ -23,7 +23,7 @@
 <button id="decrement">-</button>
 
 
-// vue: declarative code - no build step ////////////
+// vue: declarative code - no build step /////////
 // <script src="https://..."></script> ///////////
 <script>
     new Vue({
@@ -45,7 +45,7 @@
 </div>
 
 
-// hyperapp: declarative and functional code ////////
+// hyperapp: declarative and functional code /////
 // implies Babel build step //////////////////////
 const state = {
     counter: 0
@@ -175,10 +175,58 @@ ReactDOM.render(<App />, document.getElementById('app'))
             active: false
         }
     })
-</script>script>
+</script>
 
 <div id="app">
     <button @click="active = !active" :aria-pressed="active ? 'true' : 'false'">Toggle me</button>
-    <p v-if="active">hello</p>
-<!--<p :class="{ red: active }">Sometimes I need to be styled differently</p> -->
+    <p v-if="active">hello</p> <!-- If this button would work a lot it is preferable to use v-show instead
+    <p :class="{ red: active }">Sometimes I need to be styled differently</p> -->
 </div>
+
+
+/*    HIDING AND SHOWING 2:   */
+
+
+// jquery: imperative code - no build step ///////
+// <script src="https://..."></script> ///////////
+<script>
+    $(function() {
+        $('button').hide()
+        $('#textarea').keyup(function() {
+            if (textarea.val().length > 0) {
+                $('button').show()
+            } else {
+                $('button').hide();
+            } 
+        })
+    })
+</script>
+
+<div id="app">
+    <label for="textarea">What is your favorite kind of taco?</label>
+    <textarea id="textarea"></textarea>
+    <button>Let us know!</button>
+</div>
+
+
+// vue: declarative code - no build step /////////
+// <script src="https://..."></script> ///////////
+<script>
+    new Vue({
+        el: '#app',
+        data() {
+            return {
+                tacos: ''
+            }
+        }
+    })
+</script>
+
+<div id="app">
+    <label for="textarea">What is your favorite kind of taco?</label>
+    <textarea id="textarea" v-model="tacos"></textarea>
+    <button v-show="tacos">Let us know!</button>
+</div>
+
+
+/*    SUBMITING A FORM:   */
