@@ -1,4 +1,4 @@
-/*   BASIC COUNTER IN DIFFERENT JS FRAMEWORKS   */
+/*   BASIC COUNTER:   */
 
 
 // jquery: imperative code - no build step ///////
@@ -23,7 +23,7 @@
 <button id="decrement">-</button>
 
 
-// vue: reactive code - no build step ////////////
+// vue: declarative code - no build step ////////////
 // <script src="https://..."></script> ///////////
 <script>
     new Vue({
@@ -45,7 +45,7 @@
 </div>
 
 
-// hyperapp: reactive and functional code ////////
+// hyperapp: declarative and functional code ////////
 // implies Babel build step //////////////////////
 const state = {
     counter: 0
@@ -94,4 +94,94 @@ ReactDOM.render(<App />, document.getElementById('app'))
 <div id="app"></div>
 
 
-/*    BASIC CLOCK IN DIFFERENT JS FRAMEWORKS    */
+/*   CAPTURING USER INPUT:   */
+
+
+// jquery: imperative code - no build step ///////
+// <script src="https://..."></script> ///////////
+<script> // with continuous user input capture
+    $(function() {
+        //keypress wouldn't include delete key, keyup does.
+        //We also query the div id app and find the other elements so that we can reduce lookups
+        $('#app').keyup(function(e) {
+            var userInput = $(this).find('#answerBox').val()
+            $(this).find('.answer').empty()
+            $(this).find('.answer').append(userInput)
+        })
+    })
+</script>
+
+<script> // with single event user input capture
+    $(function() {
+        $('#app').change(function(e) {
+            var userInput = $(this).find('#answerBox').val()
+            $(this).find('.answer').append(userInput)
+        })
+    })
+</script>
+
+<div id="app">
+    <label for="answerBox">Answer:</label>
+    <input id="answerBox" type="text" />  
+    <p>Your answer is: <span class="answer"></span></p>
+</div>
+
+
+// vue: declarative code - no build step /////////
+// <script src="https://..."></script> ///////////
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            answer: ''
+        }
+    })
+</script>
+
+<div id="app">
+    <label for="answer">Answer:</label>
+    <!-- with countinuous user input capture --><input id="answer" type="text" v-model="answer"/> 
+    <!-- with single user input capture --><input id="answer" type="text" v-model.lazy="answer"/>
+    <p>Your answer is: <span>{{ answer }}</span></p>
+</div>
+
+
+/*   TOGGLE CLASSES:   */
+
+
+// jquery: imperative code - no build step ///////
+// <script src="https://..."></script> ///////////
+<script>
+    $(function() {
+        $('button').click(function(e) {
+            $('.toggle').toggleClass('red')
+            $(this).attr('aria-pressed', ($(this).attr('aria-pressed') == "false" ? true : false)) // ???
+        })
+    })
+</script>
+
+<style>.red {color: red}</style>
+
+<div id="app">
+    <button aria-pressed="false">Toggle me</button>
+    <p class="toggle">Sometimes I need to be styled differently</p>
+</div>
+
+
+// vue: declarative code - no build step /////////
+// <script src="https://..."></script> ///////////
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            active: false
+        }
+    })
+</script>script>
+
+<style>.red {color: red}</style>
+
+<div id="app">
+    <button @click="active = !active" :aria-pressed="active ? 'true' : 'false'">Toggle me</button>
+    <p :class="{ red: active }">Sometimes I need to be styled differently</p>
+</div>
