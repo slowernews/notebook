@@ -2,7 +2,6 @@
 
 
 // jquery: imperative code - no build step ///////
-// <script src="https://..."></script> ///////////
 <script>
     $(document).ready(function() {
         var counter = 0
@@ -24,7 +23,6 @@
 
 
 // vue: declarative code - no build step /////////
-// <script src="https://..."></script> ///////////
 <script>
     new Vue({
         el: '#app',
@@ -98,7 +96,6 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 
 // jquery: imperative code - no build step ///////
-// <script src="https://..."></script> ///////////
 <script> // with continuous user input capture
     $(function() {
         //keypress wouldn't include delete key, keyup does.
@@ -128,7 +125,6 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 
 // vue: declarative code - no build step /////////
-// <script src="https://..."></script> ///////////
 <script>
     new Vue({
         el: '#app',
@@ -150,7 +146,6 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 
 // jquery: imperative code - no build step ///////
-// <script src="https://..."></script> ///////////
 <script>
     $(function() {
         $('button').on('click', function() {
@@ -167,7 +162,6 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 
 // vue: declarative code - no build step /////////
-// <script src="https://..."></script> ///////////
 <script>
     new Vue({
         el: '#app',
@@ -188,7 +182,6 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 
 // jquery: imperative code - no build step ///////
-// <script src="https://..."></script> ///////////
 <script>
     $(function() {
         $('button').hide()
@@ -210,7 +203,6 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 
 // vue: declarative code - no build step /////////
-// <script src="https://..."></script> ///////////
 <script>
     new Vue({
         el: '#app',
