@@ -1,96 +1,105 @@
-// JS Array & String properties
-array_string.constructor	// Returns the function that created the Array object's prototype
-array_String.length		// Sets or returns the number of elements in an array
-array_String.prototype		// Allows you to add properties and methods to an Array object
+// JS properties
 
+arrayOrString.constructor	// Returns the function that created the datatype object's prototype
+arrayOrString.length		// Sets or returns the number of elements in a datatype
+arrayOrString.prototype		// To add properties and methods to a datatype
 
-// JS Array & String methods
+// JS methods to check if: (Boolean result)
 
-array_String.includes()		// Check if it contains the specified element or string/chars
-array_String.concat()		// Joins two or more strings/arrays and returns a new one
-array_String.indexOf()		// Returns the position of the first found occurrence of a specified value
-array_String.lastIndexOf()	// Returns the position of the last found occurrence of a specified value
-array_String.valueOf()		// Returns the primitive value
+array.isArray()			// Whether an object is an array
+array.every()			// Every element in an array pass a test
+array.some()			// Any of the elements in an array pass a test
+arrayOrString.includes()	// It contains the specified element or string/chars
+string.startsWith()		// A string begins with specified chars
+string.endsWith()		// A string ends with specified string/chars
 
-// JS Array methods
+// JS methods to return the index of:
 
-array.entries()			// Returns a key/value pair Array Iteration Object
-array.fill()			// Fill the elements in an array with a static value
-array.filter()			// Creates a new array with every element in an array that pass a test
-array.find()			// Returns the value of the first element in an array that pass a test
-array.findIndex()		// Returns the index of the first element in an array that pass a test
-array.forEach()			// Calls a function for each array element
-array.keys()			// Returns a Array Iteration Object, containing the keys of the original array
-array.map()			// Creates a new array with the result of calling a function for each array element
-array.reduce()			// Reduce the values of an array to a single value (going left-to-right)
-array.reduceRight()		// Reduce the values of an array to a single value (going right-to-left)
+array.findIndex()		// First element in an array that pass a test
+arrayOrString.indexOf()		// First found occurrence of a specified value
+arrayOrString.lastIndexOf()	// Last found occurrence of a specified value
+string.search()			// A specified value or regex and returns the position of the match
 
-array.copyWithin()		// Copies array elements within the array, to and from specified positions
-array.pop()			// Removes the last element of an array, and returns that element
-array.push()			// Adds new elements to the end of an array, and returns the new length
-array.shift()			// Removes the first element of an array, and returns that element
-array.slice()			// Selects a part of an array, and returns the new array
-array.splice()			// Adds/Removes elements from an array
-array.unshift()			// Adds new elements to the beginning of an array, and returns the new length
+// JS methods to return, at a specified index, the:
 
-array.some()			// Checks if any of the elements in an array pass a test
-array.every()			// Checks if every element in an array pass a test
-array.isArray()			// Checks whether an object is an array
+string.charAt()			// Char
+string.charCodeAt()		// Unicode of the char
+string.codePointAt()		// Code point value
+
+// JS methods to find:
+
+array.find()			// The first element in an array that pass a test and returns the value
+string.match()			// A match against a regex and returns the matches
+
+// JS methods to reorder:
 
 array.reverse()			// Reverses the order of the elements in an array
 array.sort()			// Sorts the elements of an array
 
-array.toString()		// Converts an array to a string, and returns the result
-array.join()			// Joins all elements of an array into a string. You can define a separator.
+// JS methods to glue and keep datatype:
+
+arrayOrString.concat()		// Joins two or more strings/arrays and returns a new one
+
+// JS methods to glue/break and convert datatype:
+
 array.from()			// Creates an array from an object
-
-// JS String methods: all methods return a new value. Original don't change
-
-string.charAt()			// Returns the character at the specified index (position)
-string.charCodeAt()		// Returns the Unicode of the character at the specified index
-string.match()			// Searches for a match against a regex and returns the matches
-string.repeat()			// Returns a new string with a specified number of copies of an existing string
-string.replace()		// Searches for a specified value or regex and returns a new string where the specified values are replaced
-string.search()			// Searches for a specified value or regex and returns the position of the match
-
-string.localeCompare()		// Compares two strings in the current locale
-string.startsWith()		// Checks whether a string begins with specified chars
-string.endsWith()		// Checks whether a string ends with specified string/chars
-
-string.slice()			// Extracts a part of a string and returns a new string
+array.join()			// Joins all elements into a string (you can define a separator)
+allDatatypes.toString()		// Converts an array to a string, and returns the result
 string.split()			// Splits a string into an array of substrings
-string.substr()			// Extracts the chars, beginning at a specified start position, and through the specified number of chars
+
+// JS methods to transform all elements:
+
+array.forEach()			// Calls a function for each array element
+array.reduce()			// Reduce the values of an array to a single value (going left-to-right)
+array.reduceRight()		// Reduce the values of an array to a single value (going right-to-left)
+
+// JS methods to transform some elements/chars:
+
+array.splice()			// Adds/Removes elements from an array
+array.pop()			// Removes the last element and returns that element
+array.shift()			// Removes the first element and returns that element
+array.push()			// Adds new elements to the end of an array and returns the new length
+array.unshift()			// Adds new elements to the beginning of an array and returns the new length
+array.copyWithin()		// Copies array elements within the array, to and from specified positions
+
+// JS methods to create a new array/string by transforming an existent one:
+
+array.filter()			// With every element in an array that pass a test
+array.map()			// With the result of calling a function for each array element
+arrayOrString.slice()		// With a selected apart of an array
+string.replace()		// Whith specified values replacing the specified value or regex
+string.substr()			// Extracts the chars, beginning at a specified start position and through the specified number of chars
 string.substring()		// Extracts the chars, between two specified indices
 string.trim()			// Removes whitespace from both ends of a string
-
-string.toLocaleLowerCase()	// Converts a string to lowercase letters, according to the host's locale
-string.toLocaleUpperCase()	// Converts a string to uppercase letters, according to the host's locale
 string.toLowerCase()		// Converts a string to lowercase letters
 string.toUpperCase()		// Converts a string to uppercase letters
 string.fromCharCode()		// Converts Unicode values to chars
 
-// How jquery work..
+// JS methods to populate:
 
-$('one string! describing the elements you want to select').jqueryMethod().pipingMethodsPossible()
+array.fill()			// Fill the elements in an array with a static value
+string.repeat()			// Returns a new string with a specified number of copies of an existing string
 
-// JS Math object relevant properties
+// JS Math object relevant methods and properties
 
 Math.E				// Returns Euler's number (approx. 2.718)
 Math.PI				// Returns PI (approx. 3.14)
 Math.SQRT2			// Returns the square root of 2 (approx. 1.414)
 
-// JS Math object relevant methods
-
 Math.floor(x)			// Returns x, rounded downwards to the nearest integer
 Math.ceil(x)			// Returns x, rounded upwards to the nearest integer
 Math.round(x)			// Rounds x to the nearest integer
 
-Math.cbrt(x)			// Returns the cubic root of x
-Math.sqrt(x)			// Returns the square root of x
 Math.pow(x, y)			// Returns the value of x to the power of y
+Math.sqrt(x)			// Returns the square root of x
+Math.cbrt(x)			// Returns the cubic root of x
 
 Math.random()			// Returns a random number between 0 and 1
-Math.max(x, y, n)		// Returns the number with the highest value
-Math.min(x, y, n)		// Returns the number with the lowest value
+Math.max(x, y .. n)		// Returns the number with the highest value
+Math.min(x, y .. n)		// Returns the number with the lowest value
 Math.abs(x)			// Returns the absolute value of x
 Math.trunc(x)			// Returns the integer part of a number (x)
+
+// How jquery work..
+
+$('one string! describing the elements you want to select').jqueryMethod().pipingMethodsPossible()
