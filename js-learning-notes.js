@@ -1,12 +1,6 @@
-// JS properties
-
-arrayOrString.constructor	// Returns the function that created the datatype object's prototype
-arrayOrString.length		// Sets or returns the number of elements in a datatype
-arrayOrString.prototype		// To add properties and methods to a datatype
-
 // JS methods to check if: (Boolean result)
 
-array.isArray()			// Whether an object is an array
+array.isArray()			// An object is an array
 array.every()			// Every element in an array pass a test
 array.some()			// Any of the elements in an array pass a test
 arrayOrString.includes()	// It contains the specified element or string/chars
@@ -18,23 +12,17 @@ string.endsWith()		// A string ends with specified string/chars
 array.findIndex()		// First element in an array that pass a test
 arrayOrString.indexOf()		// First found occurrence of a specified value
 arrayOrString.lastIndexOf()	// Last found occurrence of a specified value
-string.search()			// A specified value or regex and returns the position of the match
+string.search()			// A specified value or regex
 
 // JS methods to return, at a specified index, the:
 
 string.charAt()			// Char
 string.charCodeAt()		// Unicode of the char
-string.codePointAt()		// Code point value
 
-// JS methods to find:
+// JS methods to find values:
 
 array.find()			// The first element in an array that pass a test and returns the value
 string.match()			// A match against a regex and returns the matches
-
-// JS methods to reorder:
-
-array.reverse()			// Reverses the order of the elements in an array
-array.sort()			// Sorts the elements of an array
 
 // JS methods to glue and keep datatype:
 
@@ -47,13 +35,13 @@ array.join()			// Joins all elements into a string (you can define a separator)
 allDatatypes.toString()		// Converts an array to a string, and returns the result
 string.split()			// Splits a string into an array of substrings
 
-// JS methods to transform all elements:
+// JS methods to transform all array elements:
 
 array.forEach()			// Calls a function for each array element
 array.reduce()			// Reduce the values of an array to a single value (going left-to-right)
 array.reduceRight()		// Reduce the values of an array to a single value (going right-to-left)
 
-// JS methods to transform some elements/chars:
+// JS methods to transform some array elements:
 
 array.splice()			// Adds/Removes elements from an array
 array.pop()			// Removes the last element and returns that element
@@ -73,7 +61,11 @@ string.substring()		// Extracts the chars, between two specified indices
 string.trim()			// Removes whitespace from both ends of a string
 string.toLowerCase()		// Converts a string to lowercase letters
 string.toUpperCase()		// Converts a string to uppercase letters
-string.fromCharCode()		// Converts Unicode values to chars
+
+// JS methods to reorder elements:
+
+array.reverse()			// Reverses the order of the elements in an array
+array.sort()			// Sorts the elements of an array
 
 // JS methods to populate:
 
@@ -86,19 +78,25 @@ Math.E				// Returns Euler's number (approx. 2.718)
 Math.PI				// Returns PI (approx. 3.14)
 Math.SQRT2			// Returns the square root of 2 (approx. 1.414)
 
-Math.floor(x)			// Returns x, rounded downwards to the nearest integer
-Math.ceil(x)			// Returns x, rounded upwards to the nearest integer
-Math.round(x)			// Rounds x to the nearest integer
-
 Math.pow(x, y)			// Returns the value of x to the power of y
 Math.sqrt(x)			// Returns the square root of x
 Math.cbrt(x)			// Returns the cubic root of x
+
+Math.floor(x)			// Returns x, rounded downwards to the nearest integer
+Math.ceil(x)			// Returns x, rounded upwards to the nearest integer
+Math.round(x)			// Rounds x to the nearest integer
+Math.trunc(x)			// Returns the integer part of a number (x)
 
 Math.random()			// Returns a random number between 0 and 1
 Math.max(x, y .. n)		// Returns the number with the highest value
 Math.min(x, y .. n)		// Returns the number with the lowest value
 Math.abs(x)			// Returns the absolute value of x
-Math.trunc(x)			// Returns the integer part of a number (x)
+
+// JS properties
+
+arrayOrString.constructor	// Returns the function that created the datatype object's prototype
+arrayOrString.length		// Sets or returns the number of elements in a datatype
+arrayOrString.prototype		// To add properties and methods to a datatype
 
 // How jquery work..
 
