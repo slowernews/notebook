@@ -14,8 +14,9 @@ arrayOrString.indexOf()		// First found occurrence of a specified value
 arrayOrString.lastIndexOf()	// Last found occurrence of a specified value
 string.search()			// A specified value or regex
 
-// JS methods to return, at a specified index, the:
+// JS methods to return values at a specified index:
 
+arrayOrString[]			// Char or element
 string.charAt()			// Char
 string.charCodeAt()		// Unicode of the char
 
@@ -24,24 +25,22 @@ string.charCodeAt()		// Unicode of the char
 array.find()			// The first element in an array that pass a test and returns the value
 string.match()			// A match against a regex and returns the matches
 
-// JS methods to glue and keep datatype:
+// JS methods to glue and keep the datatype:
 
-arrayOrString.concat()		// Joins two or more strings/arrays and returns a new one
+arrayOrString.concat()		// Joins two or more strings/arrays and returns a new one with the same datatype
 
-// JS methods to glue/break and convert datatype:
+// JS methods to convert datatypes:
 
-array.from()			// Creates an array from an object
 array.join()			// Joins all elements into a string (you can define a separator)
+array.from()			// Creates an array from an object
 allDatatypes.toString()		// Converts an array to a string, and returns the result
 string.split()			// Splits a string into an array of substrings
 
-// JS methods to transform all array elements:
+// JS methods to transform the array:
 
 array.forEach()			// Calls a function for each array element
 array.reduce()			// Reduce the values of an array to a single value (going left-to-right)
 array.reduceRight()		// Reduce the values of an array to a single value (going right-to-left)
-
-// JS methods to transform some array elements:
 
 array.splice()			// Adds/Removes elements from an array
 array.pop()			// Removes the last element and returns that element
@@ -54,23 +53,18 @@ array.copyWithin()		// Copies array elements within the array, to and from speci
 
 array.filter()			// With every element in an array that pass a test
 array.map()			// With the result of calling a function for each array element
-arrayOrString.slice()		// With a selected apart of an array
-string.replace()		// Whith specified values replacing the specified value or regex
-string.substr()			// Extracts the chars, beginning at a specified start position and through the specified number of chars
-string.substring()		// Extracts the chars, between two specified indices
+arrayOrString.slice()		// With a selected part of an array
+string.replace()		// With a specified value replacing a specified value or regex
+string.substr()			// Extracts the chars from a specified index and length
+string.substring()		// Extracts the chars between two specified indices
 string.trim()			// Removes whitespace from both ends of a string
-string.toLowerCase()		// Converts a string to lowercase letters
-string.toUpperCase()		// Converts a string to uppercase letters
+string.toLowerCase()		// With the string converted to lowercase letters
+string.toUpperCase()		// With the string converted to uppercase letters
 
-// JS methods to reorder elements:
+// JS methods to reorder the array:
 
 array.reverse()			// Reverses the order of the elements in an array
 array.sort()			// Sorts the elements of an array
-
-// JS methods to populate:
-
-array.fill()			// Fill the elements in an array with a static value
-string.repeat()			// Returns a new string with a specified number of copies of an existing string
 
 // JS Math object relevant methods and properties
 
