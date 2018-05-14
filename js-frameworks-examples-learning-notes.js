@@ -1,6 +1,5 @@
 /*   BASIC COUNTER:   */
 
-
 // jquery: imperative code - no build step ///////
 <script>
     $(document).ready(function() {
@@ -48,11 +47,9 @@
 const state = {
     counter: 0
 }
-
 const actions = {
     changeCounter: value => state => ({ counter: state.counter + value })
 }
-
 const view = (state, actions) => (
     <div>
         <h1>{state.counter}</h1>
@@ -76,15 +73,13 @@ class App extends React.Component {
     changeCounter(value) {
         this.setState({counter: this.state.counter + value})
     }
-    render() {
-        return (
-            <div>
-                <h1>{ this.state.counter }</h1>
-                <button onClick={ this.changeCounter.bind(this, 1) }>+</button>
-                <button onClick={ this.changeCounter.bind(this, -1) }>−</button>
-            </div>
-        )
-    }
+    render() { return (
+        <div>
+            <h1>{ this.state.counter }</h1>
+            <button onClick={this.changeCounter.bind(this, 1)}>+</button>
+            <button onClick={this.changeCounter.bind(this, -1)}>−</button>
+        </div>
+    )}
 }
 
 ReactDOM.render(<App />, document.getElementById('app'))
@@ -136,11 +131,10 @@ ReactDOM.render(<App />, document.getElementById('app'))
 
 <div id="app">
     <label for="answer">Answer:</label>
-    <!-- with countinuous user input capture --><input id="answer" type="text" v-model="answer"/> 
-    <!-- with single user input capture --><input id="answer" type="text" v-model.lazy="answer"/>
+   <input id="answer" type="text" v-model="answer"/>        // with countinuous user input capture
+   <input id="answer" type="text" v-model.lazy="answer"/>   //  with single user input capture
     <p>Your answer is: <span>{{ answer }}</span></p>
 </div>
-
 
 
 /*   HIDING AND SHOWING:   */
@@ -220,6 +214,3 @@ ReactDOM.render(<App />, document.getElementById('app'))
     <textarea id="textarea" v-model="tacos"></textarea>
     <button v-show="tacos">Let us know!</button>
 </div>
-
-
-/*    SUBMITING A FORM:   */
