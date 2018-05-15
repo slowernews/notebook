@@ -1,5 +1,6 @@
 /*   BASIC COUNTER:   */
 
+
 // jquery: imperative code - no build step ///////
 <script>
     $(document).ready(function() {
@@ -57,7 +58,6 @@ const view = (state, actions) => (
         <button onclick={() => actions.changeCounter(-1)}>-</button>
     </div>
 )
-
 app(state, actions, view, document.getElementById('app'))
 
 <div id="app"></div>
@@ -73,7 +73,7 @@ class App extends React.Component {
     changeCounter(value) {
         this.setState({counter: this.state.counter + value})
     }
-    render() { return (
+    render() {return(
         <div>
             <h1>{ this.state.counter }</h1>
             <button onClick={this.changeCounter.bind(this, 1)}>+</button>
@@ -81,7 +81,6 @@ class App extends React.Component {
         </div>
     )}
 }
-
 ReactDOM.render(<App />, document.getElementById('app'))
 
 <div id="app"></div>

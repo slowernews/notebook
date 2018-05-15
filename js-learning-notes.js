@@ -95,3 +95,35 @@ arrayOrString.prototype		// To add properties and methods to a datatype
 // How jquery work..
 
 $('one string! describing the elements you want to select').jqueryMethod().pipingMethodsPossible()
+
+// Return a count of the total number of objects 'o' satisfying o.x == o.y.
+// Parameter: an array of objects with integer properties 'x' and 'y'
+
+// solution array.filter
+function getCount(objects) {
+    return objects.filter(object => object.x == object.y).length; 
+}
+// solution for .. of
+function getCount(objects) {
+    let count = 0
+    for (let o of objects) {
+        if (o.x === o.y) count++
+    }   
+    return count
+}
+// solution for .. ín
+function getCount(objects) {
+    let count = 0;
+    for (const o in objects) {
+        if (objects[o].x == objects[o].y) count++
+    }
+    return count
+}
+// solution array.forEach
+function getCount(objects) {
+    let count = 0;
+    objects.forEach(function (o) {
+        if (o.x == o.y) count++
+    })
+    return count
+}
