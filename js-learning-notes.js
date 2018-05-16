@@ -12,7 +12,7 @@ string.endsWith()		// A string ends with specified string/chars
 array.findIndex()		// First element in an array that pass a test
 arrayOrString.indexOf()		// First found occurrence of a specified value
 arrayOrString.lastIndexOf()	// Last found occurrence of a specified value
-string.search()			// A specified value or regex
+string.search()			// A specified value or REGEX
 
 // JS methods to return values at a specified index:
 
@@ -54,7 +54,7 @@ array.copyWithin()		// Copies array elements within the array, to and from speci
 array.filter()			// With every element in an array that pass a test
 array.map()			// With the result of calling a function for each array element
 arrayOrString.slice()		// With a selected part of an array
-string.replace()		// With a specified value replacing a specified value or regex
+string.replace()		// With a specified value replacing a specified value or REGEX
 string.substr()			// Extracts the chars from a specified index and length
 string.substring()		// Extracts the chars between two specified indices
 string.trim()			// Removes whitespace from both ends of a string
@@ -65,6 +65,74 @@ string.toUpperCase()		// With the string converted to uppercase letters
 
 array.reverse()			// Reverses the order of the elements in an array
 array.sort()			// Sorts the elements of an array
+
+// JS date methods:
+
+date.getFullYear()	date.setFullYear()	// Get/set year as a four digit number (yyyy)
+date.getMonth()		date.setMonth()		// Get/set month as a number (0-11)
+date.getDate()		date.setDate()		// Get/set day as a number (1-31)
+date.getHours()		date.setHours()		// Get/set hour (0-23)
+date.getMinutes()	date.setMinutes()	// Get/set minute (0-59)
+date.getSeconds()	date.setSeconds()	// Get/set second (0-59)
+date.getMilliseconds()	date.setMilliseconds()	// Get/set millisecond (0-999)
+date.getTime()		date.setTime()		// Get/set time (milliseconds since January 1, 1970)
+date.getDay()					// Get weekday as a number (0-6)
+
+date.now()		// Returns milliseconds since midnight Jan 1, 1970
+date.parse()		// Parses a date string and returns milliseconds since January 1, 1970
+date.toDateString()	// Converts the date portion of a Date object into a readable string
+
+// JS regular expressions
+// syntax: /pattern/modifiers; 
+
+var regex = /w3schools/i; // e.g. w3schools is a pattern, i is a modifier 
+
+regex.test()		// search a string for a pattern and returns true or false
+regex.exec()		// search a string for a pattern and returns the found text or null
+
+// regExp patterns
+
+[abc]		// Find any of the characters between the brackets range
+[^abc]		// Find any character NOT between the brackets range
+[0-9]		// Find any of the digits between the brackets range
+[^0-9]		// Find any character NOT between the brackets (any non-digit)
+(x|y)		// Find any of the alternatives separated with |
+
+.		// Find a single character, except newline or line terminator
+\w		// Find a word character
+\W		// Find a non-word character
+\d		// Find a digit
+\D		// Find a non-digit character
+\s		// Find a whitespace character
+\S		// Find a non-whitespace character
+\b		// Find a match at the beginning/end of a word
+\B		// Find a match not at the beginning/end of a word
+\0		// Find a NUL character
+\n		// Find a new line character
+\f		// Find a form feed character
+\r		// Find a carriage return character
+\t		// Find a tab character
+\v		// Find a vertical tab character
+\xxx		// Find the character specified by an octal number xxx
+\xdd		// Find the character specified by a hexadecimal number dd
+\uxxxx		// Find the Unicode character specified by a hexadecimal number xxxx
+
+n+		// Matches any string that contains at least one n
+n*		// Matches any string that contains zero or more occurrences of n
+n?		// Matches any string that contains zero or one occurrences of n
+n{X}		// Matches any string that contains a sequence of X n's
+n{X,Y}		// Matches any string that contains a sequence of X to Y n's
+n{X,}		// Matches any string that contains a sequence of at least X n's
+n$		// Matches any string with n at the end of it
+^n		// Matches any string with n at the beginning of it
+?=n		// Matches any string that is followed by a specific string n
+?!n		// Matches any string that is not followed by a specific string n
+
+// regExp modifiers
+
+i	// case-insensitive matching
+g	// global match (find all matches rather than stopping after the first match)
+m	// multiline matching
 
 // JS Math object relevant methods and properties
 
@@ -101,29 +169,32 @@ $('one string! describing the elements you want to select').jqueryMethod().pipin
 
 // solution array.filter
 function getCount(objects) {
-    return objects.filter(object => object.x == object.y).length; 
+        return objects.filter(object => object.x == object.y).length; 
 }
+
 // solution for .. of
 function getCount(objects) {
-    let count = 0
-    for (let o of objects) {
-        if (o.x === o.y) count++
-    }   
-    return count
+        let count = 0
+        for (let o of objects) {
+                if (o.x == o.y) count++
+        }   
+        return count
 }
+
 // solution for .. ín
 function getCount(objects) {
-    let count = 0;
-    for (const o in objects) {
-        if (objects[o].x == objects[o].y) count++
-    }
-    return count
+        let count = 0;
+        for (let o in objects) {
+                if (objects[o].x == objects[o].y) count++
+        }
+        return count
 }
+
 // solution array.forEach
 function getCount(objects) {
-    let count = 0;
-    objects.forEach(function (o) {
-        if (o.x == o.y) count++
-    })
-    return count
+        let count = 0;
+        objects.forEach(function (o) {
+                if (o.x == o.y) count++
+        })
+        return count
 }
