@@ -18,7 +18,7 @@
 
 <h1 id="app">0</h1>
 <button onClick="increment()">+</button>
-<button onClick="decrement()>-</button>
+<button onClick="decrement()">-</button>
 
 
 // jquery: imperative code - no build step ///////
