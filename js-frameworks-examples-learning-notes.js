@@ -1,6 +1,26 @@
 /*   BASIC COUNTER:   */
 
 
+
+// vanilla JS ////////////////////////////////////
+
+<script>
+	var counter = 0;
+	function increment(){
+	    counter++;
+	    document.getElementById("app").innerHTML = counter;
+	}
+	function decrement(){
+	    counter--;
+	    document.getElementById("app").innerHTML = counter;
+	}
+</script>
+
+<h1 id="app">0</h1>
+<button onClick="increment()">+</button>
+<button onClick="decrement()>-</button>
+
+
 // jquery: imperative code - no build step ///////
 <script>
     $(document).ready(function() {

@@ -87,8 +87,8 @@ date.toDateString()	// Converts the date portion of a Date object into a readabl
 
 var regex = /w3schools/i; // e.g. w3schools is a pattern, i is a modifier 
 
-regex.test()		// search a string for a pattern and returns true or false
-regex.exec()		// search a string for a pattern and returns the found text or null
+regex.test(string)		// search a string for a pattern and returns true or false
+regex.exec(string)		// search a string for a pattern and returns the found text or null
 
 // regExp patterns
 
@@ -99,14 +99,10 @@ regex.exec()		// search a string for a pattern and returns the found text or nul
 (x|y)		// Find any of the alternatives separated with |
 
 .		// Find a single character, except newline or line terminator
-\w		// Find a word character
-\W		// Find a non-word character
-\d		// Find a digit
-\D		// Find a non-digit character
-\s		// Find a whitespace character
-\S		// Find a non-whitespace character
-\b		// Find a match at the beginning/end of a word
-\B		// Find a match not at the beginning/end of a word
+\w	\W	// Find a word | non-word character
+\d	\D	// Find a digit | non-digit character
+\s	\S	// Find a whitespace | non-whitespace character
+\b	\B	// Find a match at the beginning/end | not at the beginning/end of a word
 \0		// Find a NUL character
 \n		// Find a new line character
 \f		// Find a form feed character
@@ -117,8 +113,8 @@ regex.exec()		// search a string for a pattern and returns the found text or nul
 \xdd		// Find the character specified by a hexadecimal number dd
 \uxxxx		// Find the Unicode character specified by a hexadecimal number xxxx
 
-n+		// Matches any string that contains at least one n
-n*		// Matches any string that contains zero or more occurrences of n
+n*              // Matches any string that contains zero or more occurrences of n
+n+		// Matches any string that contains one or more occurrences of n
 n?		// Matches any string that contains zero or one occurrences of n
 n{X}		// Matches any string that contains a sequence of X n's
 n{X,Y}		// Matches any string that contains a sequence of X to Y n's
@@ -133,6 +129,7 @@ n$		// Matches any string with n at the end of it
 i	// case-insensitive matching
 g	// global match (find all matches rather than stopping after the first match)
 m	// multiline matching
+x       // ignore whitespace
 
 // JS Math object relevant methods and properties
 
