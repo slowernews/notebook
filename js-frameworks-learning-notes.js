@@ -233,3 +233,46 @@ ReactDOM.render(<App />, document.getElementById('app'))
     <textarea id="textarea" v-model="tacos"></textarea>
     <button v-show="tacos">Let us know!</button>
 </div>
+
+
+// How jquery work..
+
+
+$('one string! describing the elements you want to select').jqueryMethod().pipingMethodsPossible()
+
+
+// HACKERRANK exercise
+// Return a count of the total number of objects 'o' satisfying o.x == o.y.
+// Parameter: an array of objects with integer properties 'x' and 'y'
+
+// solution jsArray.filter
+function getCount(objects) {
+        return objects.filter(object => object.x == object.y).length; 
+}
+
+// solution for .. of
+function getCount(objects) {
+        let count = 0
+        for (let o of objects) {
+                if (o.x == o.y) count++
+        }   
+        return count
+}
+
+// solution for .. ín
+function getCount(objects) {
+        let count = 0;
+        for (let o in objects) {
+                if (objects[o].x == objects[o].y) count++
+        }
+        return count
+}
+
+// solution jsArray.forEach
+function getCount(objects) {
+        let count = 0;
+        objects.forEach(function (o) {
+                if (o.x == o.y) count++
+        })
+        return count
+}
