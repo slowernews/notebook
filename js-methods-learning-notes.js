@@ -68,68 +68,68 @@ jsArray.sort()			// Sorts the elements of an array
 
 // JS jsDate methods:
 
-jsDate.getFullYear()		jsDate.setFullYear()	// Get/set year as a four digit number (yyyy)
-jsDate.getMonth()		jsDate.setMonth()	// Get/set month as a number (0-11)
-jsDate.getDate()		jsDate.setDate()	// Get/set day as a number (1-31)
-jsDate.getHours()		jsDate.setHours()	// Get/set hour (0-23)
-jsDate.getMinutes()		jsDate.setMinutes()	// Get/set minute (0-59)
-jsDate.getSeconds()		jsDate.setSeconds()	// Get/set second (0-59)
-jsDate.getMilliseconds()	jsDate.setMilliseconds()// Get/set millisecond (0-999)
-jsDate.getTime()		jsDate.setTime()	// Get/set time (milliseconds since January 1, 1970)
-jsDate.getDay()						// Get weekday as a number (0-6)
+jsDate.getFullYear()		jsDate.setFullYear()		// Get/set year as a four digit number (yyyy)
+jsDate.getMonth()		jsDate.setMonth()		// Get/set month as a number (0-11)
+jsDate.getDate()		jsDate.setDate()		// Get/set day as a number (1-31)
+jsDate.getHours()		jsDate.setHours()		// Get/set hour (0-23)
+jsDate.getMinutes()		jsDate.setMinutes()		// Get/set minute (0-59)
+jsDate.getSeconds()		jsDate.setSeconds()		// Get/set second (0-59)
+jsDate.getMilliseconds()	jsDate.setMilliseconds()	// Get/set millisecond (0-999)
+jsDate.getTime()		jsDate.setTime()		// Get/set time (milliseconds since January 1, 1970)
+jsDate.getDay()							// Get weekday as a number (0-6)
 
-jsDate.now()		// Returns milliseconds since midnight Jan 1, 1970
-jsDate.parse()		// Parses a jsDate string and returns milliseconds since January 1, 1970
-jsDate.toDateString()	// Converts the jsDate portion of a Date object into a readable string
+jsDate.now()			// Returns milliseconds since midnight Jan 1, 1970
+jsDate.parse()			// Parses a jsDate string and returns milliseconds since January 1, 1970
+jsDate.toDateString()		// Converts the jsDate portion of a Date object into a readable string
 
 // JS regular expressions
 // syntax: /pattern/modifiers; 
 
-var regex = /w3schools/i; // e.g. w3schools is a pattern, i is a modifier 
+var regex = /w3schools/i; 	// e.g. w3schools is a pattern, i is a modifier 
 
-jsRegex.test(string)	// search a string for a pattern and returns true or false
-jsRegex.exec(string)	// search a string for a pattern and returns the found text or null
+jsRegex.test(string)		// search a string for a pattern and returns true or false
+jsRegex.exec(string)		// search a string for a pattern and returns the found text or null
 
 // regExp patterns
 
-[abc]		// Find any of the characters between the brackets range
-[^abc]		// Find any character NOT between the brackets range
-[0-9]		// Find any of the digits between the brackets range
-[^0-9]		// Find any character NOT between the brackets (any non-digit)
-(x|y)		// Find any of the alternatives separated with |
+[abc]				// Find any of the characters between the brackets range
+[^abc]				// Find any character NOT between the brackets range
+[0-9]				// Find any of the digits between the brackets range
+[^0-9]				// Find any character NOT between the brackets (any non-digit)
+(x|y)				// Find any of the alternatives separated with |
 
-.		// Find a single character, except newline or line terminator
-\w	\W	// Find a word | non-word character
-\d	\D	// Find a digit | non-digit character
-\s	\S	// Find a whitespace | non-whitespace character
-\b	\B	// Find a match at the beginning/end | not at the beginning/end of a word
-\0		// Find a NUL character
-\n		// Find a new line character
-\f		// Find a form feed character
-\r		// Find a carriage return character
-\t		// Find a tab character
-\v		// Find a vertical tab character
-\xxx		// Find the character specified by an octal number xxx
-\xdd		// Find the character specified by a hexadecimal number dd
-\uxxxx		// Find the Unicode character specified by a hexadecimal number xxxx
+.				// Find a single character, except newline or line terminator
+\w	\W			// Find a word | non-word character
+\d	\D			// Find a digit | non-digit character
+\s	\S			// Find a whitespace | non-whitespace character
+\b	\B			// Find a match at the beginning/end | not at the beginning/end of a word
+\0				// Find a NUL character
+\n				// Find a new line character
+\f				// Find a form feed character
+\r				// Find a carriage return character
+\t				// Find a tab character
+\v				// Find a vertical tab character
+\xxx				// Find the character specified by an octal number xxx
+\xdd				// Find the character specified by a hexadecimal number dd
+\uxxxx				// Find the Unicode character specified by a hexadecimal number xxxx
 
-n*              // Matches any string that contains zero or more occurrences of n
-n+		// Matches any string that contains one or more occurrences of n
-n?		// Matches any string that contains zero or one occurrences of n
-n{X}		// Matches any string that contains a sequence of X n's
-n{X,Y}		// Matches any string that contains a sequence of X to Y n's
-n{X,}		// Matches any string that contains a sequence of at least X n's
-n$		// Matches any string with n at the end of it
-^n		// Matches any string with n at the beginning of it
-?=n		// Matches any string that is followed by a specific string n
-?!n		// Matches any string that is not followed by a specific string n
+n*              		// Matches any string that contains zero or more occurrences of n
+n+				// Matches any string that contains one or more occurrences of n
+n?				// Matches any string that contains zero or one occurrences of n
+n{X}				// Matches any string that contains a sequence of X n's
+n{X,Y}				// Matches any string that contains a sequence of X to Y n's
+n{X,}				// Matches any string that contains a sequence of at least X n's
+n$				// Matches any string with n at the end of it
+^n				// Matches any string with n at the beginning of it
+?=n				// Matches any string that is followed by a specific string n
+?!n				// Matches any string that is not followed by a specific string n
 
 // regExp modifiers
 
-i		// case-insensitive matching
-g		// global match (find all matches rather than stopping after the first match)
-m		// multiline matching
-x       	// ignore whitespace
+i				// case-insensitive matching
+g				// global match (find all matches rather than stopping after the first match)
+m				// multiline matching
+x       			// ignore whitespace
 
 // JS Math object relevant methods and properties
 
@@ -137,7 +137,7 @@ Math.E				// Returns Euler's number (approx. 2.718)
 Math.PI				// Returns PI (approx. 3.14)
 Math.SQRT2			// Returns the square root of 2 (approx. 1.414)
 
-Math.pow(x, y)			// Returns the value of x to the power of y
+Math.pow(x,y)	or: x ** y	// Returns the value of x to the power of y
 Math.sqrt(x)			// Returns the square root of x
 Math.cbrt(x)			// Returns the cubic root of x
 
