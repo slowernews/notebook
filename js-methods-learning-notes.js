@@ -1,4 +1,4 @@
-// JS methods to check if: (Boolean result)
+// Native methods to check if: (Boolean result)
 
 jsArray.isArray()		// An object is an array
 jsArray.every()			// Every element in an array pass a test
@@ -7,36 +7,36 @@ jsArrayOrString.includes()	// It contains the specified element or string/chars
 jsString.startsWith()		// A string begins with specified chars
 jsString.endsWith()		// A string ends with specified string/chars
 
-// JS methods to return the index of:
+// Native methods to return the index of:
 
 jsArray.findIndex()		// First element in an array that pass a test
 jsArrayOrString.indexOf()	// First found occurrence of a specified value
 jsArrayOrString.lastIndexOf()	// Last found occurrence of a specified value
 jsString.search()		// A specified value or REGEX
 
-// JS methods to return values at a specified index:
+// Native methods to return values at a specified index:
 
 jsArrayOrString[]		// Char or element
 jsString.charAt()		// Char
 jsString.charCodeAt()		// Unicode of the char
 
-// JS methods to find values:
+// Native methods to find and return:
 
-jsArray.find()			// The first element in an array that pass a test and returns the value
-jsString.match()		// A match against a regex and returns the matches
+jsArray.find()			// The first element in an array that pass a test
+jsString.match()		// Matches against a REGEX
 
-// JS methods to glue and keep the datatype:
+// Native methods to glue and keep the same datatype:
 
-jsArrayOrString.concat()	// Joins two or more strings/arrays and returns a new one with the same datatype
+jsArrayOrString.concat()	// Joins two or more strings/arrays and returns a new one
 
-// JS methods to convert datatypes:
+// Native methods to convert datatypes:
 
 jsArray.join()			// Joins all elements into a string (you can define a separator)
 jsArray.from()			// Creates an array from an object
-allJsDatatypes.toString()	// Converts an array to a string, and returns the result
+allJsDatatypes.toString()	// Converts to a string, and returns the result
 jsString.split()		// Splits a string into an array of substrings
 
-// JS methods to transform the array:
+// Native methods to transform the array:
 
 jsArray.forEach()		// Calls a function for each array element
 jsArray.reduce()		// Reduce the values of an array to a single value (going left-to-right)
@@ -49,7 +49,7 @@ jsArray.push()			// Adds new elements to the end of an array and returns the new
 jsArray.unshift()		// Adds new elements to the beginning of an array and returns the new length
 jsArray.copyWithin()		// Copies array elements within the array, to and from specified positions
 
-// JS methods to create a new array/string by transforming an existent one:
+// Native methods to create a new array/string by transforming an existent one:
 
 jsArray.filter()		// With every element in an array that pass a test
 jsArray.map()			// With the result of calling a function for each array element
@@ -61,7 +61,7 @@ jsString.trim()			// Removes whitespace from both ends of a string
 jsString.toLowerCase()		// With the string converted to lowercase letters
 jsString.toUpperCase()		// With the string converted to uppercase letters
 
-// JS methods to reorder the array:
+// Native methods to reorder the array:
 
 jsArray.reverse()		// Reverses the order of the elements in an array
 jsArray.sort()			// Sorts the elements of an array
