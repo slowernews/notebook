@@ -2,8 +2,8 @@
 // * A manifest.json file
 // * Optional: One or more HTML files (unless the extension is a theme)
 // * Optional: One or more JavaScript files
-// * Optional: Any other files your extension needs—for example, image files
-//
+// * Optional: Any other files your extension needs. e.g. image files
+
 // But how to create a basic Chrome extension?
 // Create a simple manifest.json and a JS file.
 

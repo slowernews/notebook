@@ -1,6 +1,6 @@
 // Native methods to check if: (Boolean result)
 
-jsArray.isArray()		// An object is an array
+Array.isArray()			// An object is an array
 jsArray.every()			// Every element in an array pass a test
 jsArray.some()			// Any of the elements in an array pass a test
 jsArrayOrString.includes()	// It contains the specified element or string/chars
@@ -32,9 +32,23 @@ jsArrayOrString.concat()	// Joins two or more strings/arrays and returns a new o
 // Native methods to convert datatypes:
 
 jsArray.join()			// Joins all elements into a string (you can define a separator)
-jsArray.from()			// Creates an array from an object
+Array.from()			// Creates an array from an iterable object
 allJsDatatypes.toString()	// Converts to a string, and returns the result
 jsString.split()		// Splits a string into an array of substrings
+JSON.parse()			// Parses a JSON string into a JS value or object
+JSON.stringify()		// Converts a JS value or object into a JSON string
+
+// Native methods to create a new array/string by transforming an existent one:
+
+jsArray.filter()		// With every element in an array that pass a test
+jsArray.map()			// With the result of calling a function for each array element
+jsArrayOrString.slice()		// With a selected part of an array
+jsString.replace()		// With a specified value replacing a specified value or REGEX
+jsString.substr()		// Extracts the chars from a specified index and length
+jsString.substring()		// Extracts the chars between two specified indices
+jsString.trim()			// Removes whitespace from both ends of a string
+jsString.toLowerCase()		// With the string converted to lowercase letters
+jsString.toUpperCase()		// With the string converted to uppercase letters
 
 // Native methods to transform the array:
 
@@ -49,24 +63,12 @@ jsArray.push()			// Adds new elements to the end of an array and returns the new
 jsArray.unshift()		// Adds new elements to the beginning of an array and returns the new length
 jsArray.copyWithin()		// Copies array elements within the array, to and from specified positions
 
-// Native methods to create a new array/string by transforming an existent one:
-
-jsArray.filter()		// With every element in an array that pass a test
-jsArray.map()			// With the result of calling a function for each array element
-jsArrayOrString.slice()		// With a selected part of an arrayH
-jsString.replace()		// With a specified value replacing a specified value or REGEX
-jsString.substr()		// Extracts the chars from a specified index and length
-jsString.substring()		// Extracts the chars between two specified indices
-jsString.trim()			// Removes whitespace from both ends of a string
-jsString.toLowerCase()		// With the string converted to lowercase letters
-jsString.toUpperCase()		// With the string converted to uppercase letters
-
 // Native methods to reorder the array:
 
 jsArray.reverse()		// Reverses the order of the elements in an array
 jsArray.sort()			// Sorts the elements of an array
 
-// JS jsDate methods:
+// Native jsDate methods:
 
 jsDate.getFullYear()		jsDate.setFullYear()		// Get/set year as a four digit number (yyyy)
 jsDate.getMonth()		jsDate.setMonth()		// Get/set month as a number (0-11)
