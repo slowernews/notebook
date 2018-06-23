@@ -1,11 +1,11 @@
 // Native methods to check if: (Boolean result)
 
-Array.isArray()			// An object is an array
+Array.isArray()			// It is an array
 jsArray.every()			// Every element in an array pass a test
 jsArray.some()			// Any of the elements in an array pass a test
 jsArrayOrString.includes()	// It contains the specified element or string/chars
-jsString.startsWith()		// A string begins with specified chars
-jsString.endsWith()		// A string ends with specified string/chars
+jsString.startsWith()		// It begins with specified chars
+jsString.endsWith()		// It ends with specified chars
 
 // Native methods to return the index of:
 
