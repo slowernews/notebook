@@ -1,5 +1,13 @@
 # Learning notes
 
-My learning notes on JS, Chrome extensions, Sketchup extensions and Polish language (WIP)
+My learning notes on Frontend JS, Chrome extensions and Sketchup extensions (WIP)
 
-Bonus: trail guides to self learn web development and self-publishing.
+Bonus:
+
+- note on portuguese taxes.
+
+- note on polish language.
+
+- trail guide to self learn web development.
+
+- trail guide on self-publishing.

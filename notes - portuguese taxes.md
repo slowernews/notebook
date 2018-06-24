@@ -1,3 +1,17 @@
+## Que sistema escolher?
+
+- [Empresário em Nome Individual](#empresario-em-nome-individual)
+
+- [Sociedade por quotas](#sociedade-por-quotas)
+
+- [Sociedade anónima](#sociedade-anónima)
+
+- [Trabalhador independente: recibo verde](#trabalhador-independente-recibo-verde)
+
+- [Trabalhador esporádico: ato isolado](#trabalhador-esporadico-ato-isolado)
+
+
+
 ## Empresário em Nome Individual
 
 Um empresário em nome individual é uma pessoa que se dedica ao comércio (genericamente falando). Para se tornar empresário em nome individual deverá, apenas,efetuar a matrícula no registo comercial. 
@@ -23,6 +37,9 @@ No regime de contabilidade organizada, a determinação do rendimento segue as r
 
 O empresário em nome individual, caso não tenha tido no ano anterior um volume de negócios superior a € 10.000 nem possuir contabilidade organizada, pode estar isento de IVA. Nessa situação, não terá de exigir o IVA aos seus clientes. Caso não haja isenção de IVA, e o volume de negócios seja inferior a € 498.797,90, este terá de ser entregue ao Estado trimestralmente.
 
+
+
+
 ## IES
 
 A IES, ou Informação Empresarial Simplificada, representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística, que entrou em vigor em 2007 como parte integrante do programa SIMPLEX.
@@ -45,6 +62,9 @@ Quais são os prazos de entrega das Declarações?
 A Declaração Periódica do IVA pode ser entregue, pela internet até ao dia 10 do segundo mês seguinte àquele a que respeitam as operações, ou até ao dia 15 do segundo mês seguinte ao trimestre a que respeitam as operações.
 Todas as declarações entregues fora destes prazos continuarão a ser aceites através desta via, mas o sujeito será obrigado ao pagamento de uma coima.
 
+
+
+
 ## IRS
 
 O IRS (Imposto sobre o Rendimento das Pessoas Singulares) é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
@@ -58,14 +78,20 @@ São considerados, neste imposto, os rendimentos provenientes de:
 Deve, contudo, levar-se em conta que durante o ano são aplicados descontos noutras situações – retenções na fonte – e que acabam por funcionar como um pagamento adiantado que se processa no momento em que se obtém os rendimentos. Por outro lado, existem também algumas despesas que propiciam benefícios fiscais e que funcionam como deduções ao imposto (por exemplo, despesas de saúde ou educação).
 Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS; caso contrário, será necessário efetuar um pagamento.
 
-## Recibo Verde
+
+
+
+## Trabalhador independente: recibo verde
 
 Um recibo verde é um documento entregue pelo trabalhador independente à pessoa ou entidade para que presta serviços. Os trabalhadores independentes - aqueles que trabalham por conta própria - necessitam de preencher um recibo verde para efeitos fiscais declarativos, no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens. 
 A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
 Se tiver de passar um recibo verde a uma só empresa e não vai fazer da prestação de serviços uma atividade contínua ou permanente, o acto isolado será a opção ideal. 
 Desde Julho de 2011 que todas as pessoas que passam recibos verdes estão obrigadas a preencher o recibo de forma electrónica através do Portal das Finanças.
 
-## Ato Isolado
+
+
+
+## Trabalhador esporádico: ato isolado
 
 O ato isolado diz respeito a prestações de serviços ou vendas efetuadas de forma esporádica e de caráter não contínuo. É especialmente indicado para trabalhos pontuais e para quem não está coletado como trabalhador independente e não deseja abrir atividade nas Finanças. Não obstante o seu caráter não contínuo, isto não significa que não possa ser utilizado mais de uma vez – quatro atos isolados num ano, passados a diferentes entidades, não o obrigam a inscrever-se na categoria B. Todavia, se os atos e as entidades se repetirem ao longo dos anos – tornado assim o serviço previsível – o contribuinte será obrigado a coletar-se. Os rendimentos obtidos por ato isolado estão sujeitos à taxa de IVA de 23%, devendo o pagamento ser efetuado até ao final do mês seguinte da prestação do serviço. Estão isentas de pagamento as prestações de serviço designadas no artigo 9º do Código de IVA.
 
@@ -218,8 +244,7 @@ O que deverá constar obrigatoriamente no contrato
 - Salário: Para efeitos de exemplo, assumimos que o referido trabalhador tomará partido de um salário bruto de 1200 €. Ora para calcular o valor de mobilização necessário à empresa anualmente no que respeita a salários deverá multiplicar este valor por 14 (meses) e dividi-lo posteriormente por 12, apurando assim o seu custo médio mensal e cada um dos subsídios de férias e Natal (o mesmo cálculo será feito para a SS e Seguro de Acidentes de Trabalho).
 No exemplo: 1.200€ x 14 = 16.800€ / 12 = 1.400€
 
-- Contribuições para a Segurança Social
-No total, a TSU corresponde a 34% do salário bruto, sendo que cabe às empresas pagar uma taxa de 23% e aos trabalhadores pagam os restantes 11%.
+- Contribuições para a Segurança Social: No total, a TSU corresponde a 34% do salário bruto, sendo que cabe às empresas pagar uma taxa de 23% e aos trabalhadores pagam os restantes 11%.
 No exemplo: 1.200€ x 23% = 276€
 276€ x 14 = 3.864€ / 12 = 322€
 Seguro de Acidentes de Trabalho
@@ -233,10 +258,10 @@ No exemplo (depósito conjunto com ordenado):
 No exemplo (cartão refeição):
 6,83€ x 21 dias úteis = 143,43€ x 11 meses = 1.577,73€ / 12 = 131,48€
 
-- Custos complementares
+- Custos complementares:
 Existem custos extra que deverão ser levados em conta, como aqueles afetos a formação, medicina no trabalho, auditorias, etc.
 
-- Contas finais
+- Contas finais:
 Custo médio mensal (considerando o uso de cartão de alimentação): 1.867,48€
 Custo anual total: 22.409,76€
 
