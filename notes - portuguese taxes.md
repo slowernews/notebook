@@ -1,20 +1,39 @@
-## Que sistema escolher?
+# Que sistema escolher?
 
-- [Empresário em Nome Individual](#empresario-em-nome-individual)
-
+- [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
+- [Trabalhador independente: recibo verde](#trabalhador-independente-recibo-verde)
+- [Empresário em nome individual](#empresário-em-nome-individual)
 - [Sociedade por quotas](#sociedade-por-quotas)
-
 - [Sociedade anónima](#sociedade-anónima)
 
-- [Trabalhador independente: recibo verde](#trabalhador-independente-recibo-verde)
-
-- [Trabalhador esporádico: ato isolado](#trabalhador-esporadico-ato-isolado)
 
 
 
-## Empresário em Nome Individual
+## Trabalhador independente: recibo verde
 
-Um empresário em nome individual é uma pessoa que se dedica ao comércio (genericamente falando). Para se tornar empresário em nome individual deverá, apenas,efetuar a matrícula no registo comercial. 
+O *recibo verde* é o documento fiscal electrónico passado pelo prestador de serviços no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens.
+A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
+
+- pagamento para a Segurança Social.
+- baixa médica após 30 dias.
+- 70% do rendimento colectável
+
+
+
+
+## Trabalhador esporádico: ato isolado
+
+O *ato isolado* é o documento fiscal electrónico passado pelo prestador de serviços no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de caráter não contínuo. Isto não significa que não possa ser utilizado mais de uma vez – quatro atos isolados num ano, passados a diferentes entidades, não o obrigam a inscrever-se como Trabalhador Independente. Todavia, se os atos e as entidades se repetirem ao longo dos anos – tornado assim o serviço previsível – o contribuinte será obrigado a coletar-se.
+
+- pagamento de IVA 23% obrigatório pago até ao final do mês seguinte.
+- isenção de Segurança Social
+
+
+
+
+## Empresário em nome individual
+
+Um empresário em nome individual é uma pessoa que se dedica ao comércio (genericamente falando). Para se tornar empresário em nome individual deverá, apenas, efetuar a matrícula no registo comercial. 
 
 #### Questões jurídicas e capital
 
@@ -40,61 +59,6 @@ O empresário em nome individual, caso não tenha tido no ano anterior um volume
 
 
 
-## IES
-
-A IES, ou Informação Empresarial Simplificada, representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística, que entrou em vigor em 2007 como parte integrante do programa SIMPLEX.
-Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes. No essencial, o cumprimento de cada uma destas obrigações implicava para as empresas a necessidade de transmitir informação substancialmente idêntica sobre as suas contas anuais a quatro entidades diferentes (conservatórias do registo comercial, Administração Fiscal, INE e Banco de Portugal) e através de vários meios diferentes. Com a criação da IES, toda a informação que as empresas têm de prestar relativamente às suas contas anuais passou a ser transmitida num único momento e por uma única via.
-Nos casos em que o ano económico das empresas coincide com o ano civil, a IES deve ser entregue até 15 de julho. Quando não haja essa coincidência, o prazo vai até ao 15º dia do 7º mês seguinte ao fim do exercício económico (ex: se o exercício terminou em abril, tem até 15 de novembro para o entregar).
-Como entregar a declaração do IVA
-Que declarações pode entregar?
-Podem ser entregues as declarações periódicas dentro ou fora do prazo legal estabelecido, as declarações recapitulativas para operações intracomunitárias (relativas a períodos posteriores a 2009) e as declarações de substituição para o ano corrente e para os quatro anteriores.
-Como preencher as Declarações?
-A Declaração Periódica disponibilizada pelo Portal das Finanças para preenchimento inclui, entre a página 3 e 14 um guia exaustivo de preenchimento da mesma. Todavia, devem ser considerados os seguintes pontos como cruciais no preenchimento das Declarações:
-- Selecionar “Empresas”, depois “Entregar”, depois “IVA” e por fim “Declaração Periódica/Recapitulativa”;
-- 1ª Página (quadro 01 a 05): devem ser preenchidas TODAS as informações que caracterizam o sujeito passivo e a declaração a entregar;
-- Se no quadro 04 da declaração foram assinalados os campos: 1 e/ou 2, e/ou 3, deverão também ser preenchidos os campos 65 e 66 e, eventualmente, 67 e 68 do quadro 06, bem como os respetivos anexos;
-- Se assinalou o campo 1 do quadro 4-A, deverá ser preenchido o campo 07 do quadro 06 da declaração periódica e ou do(s) anexo(s) acima referido(s).
-- No quadro 06, depois do preenchimento dos campos referentes às bases tributáveis (1, 5 e 3), deverão ser preenchidos os campos relativos ao "Imposto a favor do Estado" (2, 6 e 4);
-- O preenchimento do quadro 13 só é obrigatório para declarações submetidas para períodos anteriores a 2010.
-Como pagar?
-Depois de submeter a declaração, é criada e disponibilizada de imediato, uma referência numérica que deve ser utilizada para o pagamento do imposto, que pode ser efetuado através de multibanco, nas tesourarias das Finanças informatizadas, nos balcões dos CTT e através do serviço de “home banking”. Qualquer pagamento fora do prazo legal resultará no pagamento extra de uma coima.
-Quais são os prazos de entrega das Declarações?
-A Declaração Periódica do IVA pode ser entregue, pela internet até ao dia 10 do segundo mês seguinte àquele a que respeitam as operações, ou até ao dia 15 do segundo mês seguinte ao trimestre a que respeitam as operações.
-Todas as declarações entregues fora destes prazos continuarão a ser aceites através desta via, mas o sujeito será obrigado ao pagamento de uma coima.
-
-
-
-
-## IRS
-
-O IRS (Imposto sobre o Rendimento das Pessoas Singulares) é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
-São considerados, neste imposto, os rendimentos provenientes de:
-- Trabalho dependente – Categoria A;
-- Empresariais e profissionais – Categoria B;
-- Capitais – Categoria E;
-- Prediais – Categoria F;
-- Incrementos patrimoniais (mais -valias) – Categoria G;
-- Pensões – Categoria H.
-Deve, contudo, levar-se em conta que durante o ano são aplicados descontos noutras situações – retenções na fonte – e que acabam por funcionar como um pagamento adiantado que se processa no momento em que se obtém os rendimentos. Por outro lado, existem também algumas despesas que propiciam benefícios fiscais e que funcionam como deduções ao imposto (por exemplo, despesas de saúde ou educação).
-Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS; caso contrário, será necessário efetuar um pagamento.
-
-
-
-
-## Trabalhador independente: recibo verde
-
-Um recibo verde é um documento entregue pelo trabalhador independente à pessoa ou entidade para que presta serviços. Os trabalhadores independentes - aqueles que trabalham por conta própria - necessitam de preencher um recibo verde para efeitos fiscais declarativos, no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens. 
-A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
-Se tiver de passar um recibo verde a uma só empresa e não vai fazer da prestação de serviços uma atividade contínua ou permanente, o acto isolado será a opção ideal. 
-Desde Julho de 2011 que todas as pessoas que passam recibos verdes estão obrigadas a preencher o recibo de forma electrónica através do Portal das Finanças.
-
-
-
-
-## Trabalhador esporádico: ato isolado
-
-O ato isolado diz respeito a prestações de serviços ou vendas efetuadas de forma esporádica e de caráter não contínuo. É especialmente indicado para trabalhos pontuais e para quem não está coletado como trabalhador independente e não deseja abrir atividade nas Finanças. Não obstante o seu caráter não contínuo, isto não significa que não possa ser utilizado mais de uma vez – quatro atos isolados num ano, passados a diferentes entidades, não o obrigam a inscrever-se na categoria B. Todavia, se os atos e as entidades se repetirem ao longo dos anos – tornado assim o serviço previsível – o contribuinte será obrigado a coletar-se. Os rendimentos obtidos por ato isolado estão sujeitos à taxa de IVA de 23%, devendo o pagamento ser efetuado até ao final do mês seguinte da prestação do serviço. Estão isentas de pagamento as prestações de serviço designadas no artigo 9º do Código de IVA.
-
 ## Sociedade por Quotas
 
 Quem tencionar ter um negócio com outros sócios a opção mais comum é a sociedade por quotas. Há, obviamente, outras formas jurídicas possíveis, como as sociedades anónimas, à qual recorrem apenas empresas com uma estrutura, dimensão e orgânicas bastante elevadas. Até porque do ponto de vista legal e burocrático é uma figura jurídica muito mais exigente. 
@@ -106,6 +70,9 @@ Mas o é que o capital social?
 O capital social é simplesmente o dinheiro que os sócios da sociedade nela colocam, passando a ser capital da empresa. A contrapartida é que o sócio fica com uma quota da sociedade que, por um lado, poderá vender posteriormente (com a autorização dos outros sócios) e, por outro lado, lhe dá direito a uma parte dos lucros na medida da quota que dispõe. Financeiramente falando, o capital social tem como objetivo fazer face aos investimentos iniciais da empresa, ou como “almofada” financeira que permita que a sociedade funcione enquanto não existem os primeiros lucros. 
 Sociedade Unipessoal por Quotas 
 Se quiser ter uma sociedade mas não estiver interessado em ter sócios, a situação mais comum é que se opte pela sociedade unipessoal por quotas. Exige um maior investimento e tem mais burocracias que o empresário em nome individual ou um trabalhador independente, mas também fica mais protegido. A sociedade unipessoal por quotas é, para todos os efeitos, uma sociedade por quotas, pelo que tudo o que referimos aqui lhe é aplicável.
+
+
+
 
 ## Sociedade Anónima
 
@@ -127,6 +94,22 @@ O contrato social deve conter, pelo menos, os seguintes componentes:
 - O prazo para a realização do capital apenas subscrito; 
 - A eventual autorização para a emissão de obrigações;
 - A estrutura adotada para a administração e fiscalização da sociedade.
+
+
+
+
+## IRS
+
+O IRS (Imposto sobre o Rendimento das Pessoas Singulares) é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
+São considerados, neste imposto, os rendimentos provenientes de:
+- Trabalho dependente – Categoria A;
+- Empresariais e profissionais – Categoria B;
+- Capitais – Categoria E;
+- Prediais – Categoria F;
+- Incrementos patrimoniais (mais -valias) – Categoria G;
+- Pensões – Categoria H.
+Deve, contudo, levar-se em conta que durante o ano são aplicados descontos noutras situações – retenções na fonte – e que acabam por funcionar como um pagamento adiantado que se processa no momento em que se obtém os rendimentos. Por outro lado, existem também algumas despesas que propiciam benefícios fiscais e que funcionam como deduções ao imposto (por exemplo, despesas de saúde ou educação).
+Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS; caso contrário, será necessário efetuar um pagamento.
 
 ## IRC
 
@@ -193,6 +176,33 @@ Declaração de Remunerações
 A declaração de remunerações (DR) é um documento onde “constam todas as quantias pagas ao trabalhador que são objeto de descontos e respetivas taxas contributivas aplicadas”, segundo a Segurança Social.
 A entrega da DR é uma obrigação mensal das entidades empregadoras e desde 2013 que a entrega é feita através de um único canal de acesso, denominado Declaração Mensal de Remunerações (DMR), que permite às entidades empregadoras procederem, num mesmo momento, à entrega das Declarações de Remunerações à Segurança Social e da Declaração Mensal de Remunerações-AT à Autoridade Tributária e Aduaneira.
 Estas obrigações declarativas podem ser cumpridas online, quer através do portal das Finanças, quer através do portal da Segurança Social, devendo as entidades empregadoras efetuar a entrega das Declarações a cada uma das entidades. A entrega deve ser efetuada até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição dos rendimentos do trabalho dependente, e eventuais erros devem ser corrigidos no prazo de 30 dias.
+
+
+
+
+
+
+## IES
+
+A IES, ou Informação Empresarial Simplificada, representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística, que entrou em vigor em 2007 como parte integrante do programa SIMPLEX.
+Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes. No essencial, o cumprimento de cada uma destas obrigações implicava para as empresas a necessidade de transmitir informação substancialmente idêntica sobre as suas contas anuais a quatro entidades diferentes (conservatórias do registo comercial, Administração Fiscal, INE e Banco de Portugal) e através de vários meios diferentes. Com a criação da IES, toda a informação que as empresas têm de prestar relativamente às suas contas anuais passou a ser transmitida num único momento e por uma única via.
+Nos casos em que o ano económico das empresas coincide com o ano civil, a IES deve ser entregue até 15 de julho. Quando não haja essa coincidência, o prazo vai até ao 15º dia do 7º mês seguinte ao fim do exercício económico (ex: se o exercício terminou em abril, tem até 15 de novembro para o entregar).
+Como entregar a declaração do IVA
+Que declarações pode entregar?
+Podem ser entregues as declarações periódicas dentro ou fora do prazo legal estabelecido, as declarações recapitulativas para operações intracomunitárias (relativas a períodos posteriores a 2009) e as declarações de substituição para o ano corrente e para os quatro anteriores.
+Como preencher as Declarações?
+A Declaração Periódica disponibilizada pelo Portal das Finanças para preenchimento inclui, entre a página 3 e 14 um guia exaustivo de preenchimento da mesma. Todavia, devem ser considerados os seguintes pontos como cruciais no preenchimento das Declarações:
+- Selecionar “Empresas”, depois “Entregar”, depois “IVA” e por fim “Declaração Periódica/Recapitulativa”;
+- 1ª Página (quadro 01 a 05): devem ser preenchidas TODAS as informações que caracterizam o sujeito passivo e a declaração a entregar;
+- Se no quadro 04 da declaração foram assinalados os campos: 1 e/ou 2, e/ou 3, deverão também ser preenchidos os campos 65 e 66 e, eventualmente, 67 e 68 do quadro 06, bem como os respetivos anexos;
+- Se assinalou o campo 1 do quadro 4-A, deverá ser preenchido o campo 07 do quadro 06 da declaração periódica e ou do(s) anexo(s) acima referido(s).
+- No quadro 06, depois do preenchimento dos campos referentes às bases tributáveis (1, 5 e 3), deverão ser preenchidos os campos relativos ao "Imposto a favor do Estado" (2, 6 e 4);
+- O preenchimento do quadro 13 só é obrigatório para declarações submetidas para períodos anteriores a 2010.
+Como pagar?
+Depois de submeter a declaração, é criada e disponibilizada de imediato, uma referência numérica que deve ser utilizada para o pagamento do imposto, que pode ser efetuado através de multibanco, nas tesourarias das Finanças informatizadas, nos balcões dos CTT e através do serviço de “home banking”. Qualquer pagamento fora do prazo legal resultará no pagamento extra de uma coima.
+Quais são os prazos de entrega das Declarações?
+A Declaração Periódica do IVA pode ser entregue, pela internet até ao dia 10 do segundo mês seguinte àquele a que respeitam as operações, ou até ao dia 15 do segundo mês seguinte ao trimestre a que respeitam as operações.
+Todas as declarações entregues fora destes prazos continuarão a ser aceites através desta via, mas o sujeito será obrigado ao pagamento de uma coima.
 
 ## Contratação de Recursos Humanos
 
