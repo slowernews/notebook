@@ -1,5 +1,9 @@
 ### Sistemas fiscais em Portugal
 
+#### Dependente:
+
+- Trabalhador dependente: contrato de trabalho
+
 #### Independente
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
@@ -11,15 +15,11 @@
 - [Sociedade por quotas: LDA](#sociedade-por-quotas)
 - [Sociedade anónima: SA](#sociedade-anónima)
 
-#### Dependente:
-
-- Trabalhador dependente: contrato de trabalho
-
 ### Impostos directos em Portugal
 
-- [IRS](#irs)
-- [IRC](#irc)
-- [IVA](#)
+- [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs)
+- [IRC: Imposto sobre o Rendimento das Pessoas Colectivas](#irc)
+- [IVA: Imposto sobre o valor acrescentado](#)
 - [IMI](#imi)
 - [IMT](#imt)
 - [IUC](#iuc)
@@ -62,70 +62,55 @@ Um empresário em nome individual é uma pessoa que se dedica ao comércio (gene
 
 #### Caracteristicas:
 - Documento fiscal: fatura.
-- Património individual está totalmente afeto à sua atividade.
+- Responsabilidade sobre o património individual: total.
 - Sem capital inicial para constituição da empresa.
-- IRS: categoria B.
+- IRS: categoria B. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* do imposto (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
 	- Regime simplificado:
 		- volume de vendas inferior a €150K e prestações de serviços inferior a €100K. As Finanças assumem que a empresa tem uma margem de 20% de rendimento colectável sobre as *vendas* (e 70% sobre os *serviços*).  <!-- deducao especifica? -->
 		- TOC facultativo.
 	- Contabilidade organizada:
 		- caso seja ultrapassado algum dos limites acima referido ou por opção do empresário.
-		- TOC obrigatório. (Minimo mensal de 150€)
-		Independentemente do regime seguido, durante os três primeiros anos de atividade, o empresário não está sujeito ao pagamento por conta do imposto: trata-se de um pagamento antecipado a efetuar em julho, setembro e dezembro. A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
-- IVA: cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada. Devolução trimestral de IVA às Finanças (ou mensal, se superior a €500K) 
+		- TOC obrigatório. (Minimo mensal referência de 150€)
+		- A determinação do rendimento segue as regras do Código do IRC, embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. 
 
-
-Que regime contabilístico escolher? 
-- Regime simplificadoSe as margens e os lucros reais da empresa estiverem longe destes valores pré-definidos, poderá fazer sentido optar pelo regime de contabilidade organizada. É importante referir ainda que no regime simplificado não é preciso recorrer a um técnico oficial de contas, poupando esse valor nos custos fixos. 
-- Contabilidade organizada
-No regime de contabilidade organizada, a determinação do rendimento segue as regras do Código do IRC (Imposto sobre o rendimento das pessoas coletivas), embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. 
+- IVA: cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada. Devolução trimestral de IVA às Finanças (ou mensal, se superior a €500K)
 
 
 
 
 ## Sociedade por Quotas
 
-Quem tencionar ter um negócio com outros sócios a opção mais comum é a sociedade por quotas. 
-Responsabilidades Jurídicas 
-Ao criar uma sociedade por quotas passa a existir uma nova entidade jurídica, a qual estará sujeita de direitos e deveres, ficando os sócios, até certo ponto, seguros no seu património pessoal. 
-Capital Social
-Desde janeiro de 2011 que as empresas não necessitam de capital inicial para constituição. Mais informações sobre este tema em empresanahora.pt. 
-Mas o é que o capital social?
-O capital social é simplesmente o dinheiro que os sócios da sociedade nela colocam, passando a ser capital da empresa. A contrapartida é que o sócio fica com uma quota da sociedade que, por um lado, poderá vender posteriormente (com a autorização dos outros sócios) e, por outro lado, lhe dá direito a uma parte dos lucros na medida da quota que dispõe. Financeiramente falando, o capital social tem como objetivo fazer face aos investimentos iniciais da empresa, ou como “almofada” financeira que permita que a sociedade funcione enquanto não existem os primeiros lucros. 
-Sociedade Unipessoal por Quotas 
-Se quiser ter uma sociedade mas não estiver interessado em ter sócios, a situação mais comum é que se opte pela sociedade unipessoal por quotas. Exige um maior investimento e tem mais burocracias que o empresário em nome individual ou um trabalhador independente, mas também fica mais protegido. A sociedade unipessoal por quotas é, para todos os efeitos, uma sociedade por quotas, pelo que tudo o que referimos aqui lhe é aplicável.
+#### Caracteristicas:
+
+- Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica.
+- Responsabilidade sobre o património individual: limitada.
+- A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
+- Desde 2011 que não há capital inicial mínimo. O capital social é simplesmente o dinheiro que os sócios colocam, passando a ser capital inicial da empresa. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
+- TOC: obrigatório.
 
 
 
 
-## Sociedade Anónima
+## Sociedade Anónima:
 
-A sociedade anónima é uma forma jurídica de constituição de empresas indicada para empresas com volumes de negócios de considerável dimensão que necessitem de garantir financiamentos alguma envergadura para crescer. 
-Há, obviamente, outras formas jurídicas possíveis, como as sociedades anónimas, à qual recorrem apenas empresas com uma estrutura, dimensão e orgânicas bastante elevadas. Até porque do ponto de vista legal e burocrático é uma figura jurídica muito mais exigente. 
-Número de Sócios
-Este tipo de sociedade exige, pelo menos, a existência de cinco sócios. Todavia, a lei dispensa essa exigência possibilitando a constituição de uma sociedade anónima com um único sócio, desde que este seja uma sociedade. 
-Capital Social
-Pelo menos de 50 000 euros, divididos por ações de igual valor. 
-Responsabilidade (dos sócios)
-Limitada ao valor das ações que possui. 
-Atribuição de Nome
-A empresa pode tomar qualquer nome (incluindo nomes de sócios ou denominações particulares), sendo obrigatoriamente seguido do adiamento “Sociedade Anónima” ou “S.A.”. 
-Constituição da Sociedade
-Este tipo de sociedade pode ser constituído através do site da Empresa Online ou nos balcões da Empresa na Hora. 
-Contrato Social
-O contrato social deve conter, pelo menos, os seguintes componentes:
-- Categorias de ações criadas, bem como o seu número e direitos;
-- Tipos de ações (nominativas ou ao portador) e as regras para a sua eventual conversão;
-- O prazo para a realização do capital apenas subscrito; 
-- A eventual autorização para a emissão de obrigações;
-- A estrutura adotada para a administração e fiscalização da sociedade.
+#### Caracteristicas:
+
+- Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
+- Forma jurídica de constituição de empresas indicada para volumes de negócios de considerável dimensão que necessitem de garantir grandes financiamentos para crescer. Do ponto de vista legal e burocrático é uma figura jurídica exigente.
+- Exige, pelo menos, cinco sócios. Todavia, a lei dispensa essa exigência possibilitando a constituição de uma sociedade anónima com um único sócio, desde que este seja uma sociedade. O capital social: minimo de €50K divididos por ações de igual valor.
+- O contrato social deve conter, pelo menos, os seguintes componentes:
+	- Categorias de ações criadas, bem como o seu número e direitos;
+	- Tipos de ações (nominativas ou ao portador) e as regras para a sua eventual conversão;
+	- O prazo para a realização do capital apenas subscrito; 
+	- A eventual autorização para a emissão de obrigações;
+	- A estrutura adotada para a administração e fiscalização da sociedade.
 
 
 
 
 ## IRS
 
-O IRS (Imposto sobre o Rendimento das Pessoas Singulares) é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
+O IRS  é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
 São considerados, neste imposto, os rendimentos provenientes de:
 - Trabalho dependente – Categoria A;
 - Empresariais e profissionais – Categoria B;
