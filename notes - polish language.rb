@@ -1,21 +1,23 @@
-ja		ty		on - ona	my		wy		oni		
+ja		ty		on, ona		my		wy		oni		
 dla mnie	dla ciebie					dla państwa
 
 jestem		jesteś		jest 						są
 mam		masz		ma
 
 
-tu - tam	# aqui / ali
-ten - tamten	# este / aquele
+tu - tam	# aqui - ali
+ten - tamten	# este - aquele
+to		# ???
 
 czy		# ou
+w 		# na, em
 
 skąd?		skąd jesteś?		# de onde / de onde és?
-gdzie?		gdzie jest ..?		# onde / onde está ..?
-kiedy?		kiedy jest ..?		# quando / quando é ..?
+gdzie?		gdzie jest..?		# onde / onde está ..?
+kiedy?		kiedy jest..?		# quando / quando é ..?
 co?		co to jest?		# o que / o que é isto?
 jaki?					# quais?
-jak?		jak masz na imię?	# qual - como / como te chamas?
+jak?		jak masz na imię?	# qual, como / como te chamas?
 
 zero
 jeden		pierwszy	jede.nascie

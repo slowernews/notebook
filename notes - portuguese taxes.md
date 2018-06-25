@@ -1,7 +1,7 @@
 ### Sistemas fiscais em Portugal
 
-#### Sem sócios:
-- Trabalhador dependente: contrato de trabalho
+#### Independente
+
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente: recibo verde](#trabalhador-independente-recibo-verde)
 - [Empresário em nome individual](#empresário-em-nome-individual)
@@ -10,6 +10,10 @@
 #### Com sócios:
 - [Sociedade por quotas: LDA](#sociedade-por-quotas)
 - [Sociedade anónima: SA](#sociedade-anónima)
+
+#### Dependente:
+
+- Trabalhador dependente: contrato de trabalho
 
 ### Impostos directos em Portugal
 
@@ -25,7 +29,7 @@
 
 ## Trabalhador esporádico: ato isolado
 
-O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a coletar-se.
+O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
 
 #### Caracteristicas:
 - Documento fiscal: ato isolado.
@@ -39,7 +43,6 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 ## Trabalhador independente: recibo verde
 
 O *recibo verde* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens.
-A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
 
 #### Caracteristicas:
 - Documento fiscal: recibo verde.
@@ -63,7 +66,7 @@ Um empresário em nome individual é uma pessoa que se dedica ao comércio (gene
 - Sem capital inicial para constituição da empresa.
 - IRS: categoria B.
 	- Regime simplificado:
-		- volume de vendas inferior a €150K e prestações de serviços inferior a €100K. o Estado assume que a empresa tem uma margem de 20% de rendimento colectável sobre as *vendas* (e 70% sobre os *serviços*).  <!-- deducao especifica? -->
+		- volume de vendas inferior a €150K e prestações de serviços inferior a €100K. As Finanças assumem que a empresa tem uma margem de 20% de rendimento colectável sobre as *vendas* (e 70% sobre os *serviços*).  <!-- deducao especifica? -->
 		- TOC facultativo.
 	- Contabilidade organizada:
 		- caso seja ultrapassado algum dos limites acima referido ou por opção do empresário.
