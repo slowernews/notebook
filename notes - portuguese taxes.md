@@ -22,7 +22,7 @@
 - [IVA: Imposto sobre o Valor Acrescentado](#)
 - [IMI: Imposto Municipal](#imi-imposto-municipal)
 - [IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis](#imt-imposto-municipal-sobre-as-transmissões-onerosas-de-imóveis)
-- [IUC: Imposto Único de Circulação](#iuc-imposto-único-de-circulação)
+- [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
 
 
 
@@ -80,10 +80,11 @@ Um empresário em nome individual é uma pessoa que se dedica ao comércio (gene
 
 ## Sociedade por Quotas
 
+A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
+
 #### Caracteristicas:
 
 - Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica.
-- A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 - Responsabilidade sobre o património individual: limitada.
 - Desde 2011 que não há capital inicial mínimo. O capital social é simplesmente o dinheiro que os sócios colocam, passando a ser capital inicial da empresa. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - TOC: obrigatório.
@@ -135,21 +136,18 @@ Os benefícios fiscais dedutíveis estão ligados a encargos respeitantes à cri
 
 #### Derrama
 
-Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC à proporção do rendimento gerado pelas pessoas coletivas que tenham sede no município.
-- Facultativo variando ainda de município para município, sendo que o seu limite máximo é de 1,5% do lucro tributável. Anualmente é aprovada uma tabela onde são definidas as taxas em cada município. Taxas 2018 (http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
+Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC à proporção do rendimento gerado pelas pessoas coletivas que tenham sede no município. O múnicipio aprova anualmente a taxa até um máximo de 1.5% do lucro tributável. [Taxas de derrama 2018](http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
 
 
 
 
 ## IMI: Imposto Municipal
 
-Imposto municipal - cuja receita reverte para os respetivos municípios - que incide sobre o valor patrimonial tributário dos prédios (rústicos, urbanos ou mistos) situados em Portugal.
-O imposto é devido por proprietários, usufrutuários ou superficiários de um prédio, a 31 de dezembro do ano a que o mesmo respeitar.
-As taxas atualmente aplicáveis são as seguintes:
+Incide sobre o valor patrimonial tributário dos prédios (rústicos, urbanos ou mistos) situados em Portugal.
+O imposto é devido por proprietários, usufrutuários ou superficiários de um prédio, a 31 de dezembro do ano a que o mesmo respeitar e liquidado nos meses de fevereiro e março. As taxas atualmente aplicáveis são as seguintes:
 - Para prédios rústicos: 0,8;
 - Para prédios urbanos: 0,4% a 0,8%;
-- Para prédios urbanos avaliados, nos termos do código do IMI: 0,2% a 0,5%.
-- Liquidação anual nos meses de fevereiro e março.
+- Para prédios urbanos avaliados recentemente: 0,2% a 0,5%.
 
 
 
