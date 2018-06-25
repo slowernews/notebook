@@ -1,4 +1,4 @@
-## Sistemas fiscais em Portugal
+### Sistemas fiscais em Portugal
 
 #### Sem sócios:
 - Trabalhador dependente: contrato de trabalho
@@ -11,20 +11,19 @@
 - [Sociedade por quotas: LDA](#sociedade-por-quotas)
 - [Sociedade anónima: SA](#sociedade-anónima)
 
+### Impostos directos em Portugal
 
-
-
-## Impostos directos em Portugal
-
-- [IRS](#IRS)
-- [IRC](#IRS)
+- [IRS](#irs)
+- [IRC](#irc)
 - [IVA](#)
-- [IMI](#IMI)
-- [IMT](#)
-- [IUC](#)
+- [IMI](#imi)
+- [IMT](#imt)
+- [IUC](#iuc)
 
 
-### Trabalhador esporádico: ato isolado
+
+
+## Trabalhador esporádico: ato isolado
 
 O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a coletar-se.
 
@@ -37,7 +36,7 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 
 
-### Trabalhador independente: recibo verde
+## Trabalhador independente: recibo verde
 
 O *recibo verde* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens.
 A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
@@ -54,7 +53,7 @@ A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num 
 
 
 
-### Empresário em nome individual
+## Empresário em nome individual
 
 Um empresário em nome individual é uma pessoa que se dedica ao comércio (genericamente falando). Para se tornar empresário em nome individual deverá, apenas, efetuar a matrícula no registo comercial. 
 
@@ -121,7 +120,7 @@ O contrato social deve conter, pelo menos, os seguintes componentes:
 
 
 
-### IRS
+## IRS
 
 O IRS (Imposto sobre o Rendimento das Pessoas Singulares) é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
 São considerados, neste imposto, os rendimentos provenientes de:
@@ -137,7 +136,7 @@ Se no cálculo do imposto se constatar que foram efetuadas mais retenções do q
 
 
 
-### IRC
+## IRC
 
 O IRC (Imposto sobre o Rendimento das Pessoas Coletivas) é o imposto que tributa o valor anual dos rendimentos das empresas com sede ou direção efetiva em território português (totalidade dos rendimentos incluindo os obtidos fora do território português) e pessoas com sede e direção efetiva em território português com ou sem estabelecimento estável.
 No âmbito da incidência do IRC, este é aplicável a:
@@ -146,7 +145,7 @@ No âmbito da incidência do IRC, este é aplicável a:
 - Não residentes com ou sem personalidade jurídica, que não tenham sede nem direção efetiva em território português e cujos rendimentos obtidos estejam sujeitos a IRS. ???
 Os benefícios fiscais dedutíveis estão ligados a encargos respeitantes à criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
-##### Derrama
+#### Derrama
 
 A derrama é um imposto autárquico que consiste numa adição ao IRC, e que é cobrado pelos municípios portugueses – constituindo-se para estes como uma forma de financiamento próprio.
 O imposto corresponde à proporção do rendimento gerado pelas pessoas coletivas que exerçam atividade comercial, industrial ou agrícola no município. O seu lançamento é facultativo variando ainda de município para município, sendo que o seu limite máximo é de 1,5% do lucro tributável das empresas sujeitas e não isentas de IRC.
@@ -157,7 +156,7 @@ Colocando-o num exemplo prático, se o lucro tributável de IRC de uma empresa c
 
 
 
-### IMI
+## IMI
 
 O IMI é um imposto municipal - cuja receita reverte para os respetivos municípios - que incide sobre o valor patrimonial tributário dos prédios (rústicos, urbanos ou mistos) situados em Portugal.
 O imposto é devido por proprietários, usufrutuários ou superficiários de um prédio, a 31 de dezembro do ano a que o mesmo respeitar. No caso particular das heranças indivisas, o IMI é devido pela herança indivisa representada pelo cabeça de casal.
