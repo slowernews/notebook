@@ -17,12 +17,12 @@
 
 ### Impostos directos em Portugal
 
-- [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs)
-- [IRC: Imposto sobre o Rendimento das Pessoas Colectivas](#irc)
-- [IVA: Imposto sobre o valor acrescentado](#)
-- [IMI](#imi)
-- [IMT](#imt)
-- [IUC](#iuc)
+- [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
+- [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
+- [IVA: Imposto sobre o Valor Acrescentado](#)
+- [IMI: Imposto Municipal](#imi-imposto-municipal)
+- [IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis](#imt-imposto-municipal-sobre-as-transmissões-onerosas-de-imóveis)
+- [IUC: Imposto Único de Circulação](#iuc-imposto-único-de-circulação)
 
 
 
@@ -83,8 +83,8 @@ Um empresário em nome individual é uma pessoa que se dedica ao comércio (gene
 #### Caracteristicas:
 
 - Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica.
-- Responsabilidade sobre o património individual: limitada.
 - A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
+- Responsabilidade sobre o património individual: limitada.
 - Desde 2011 que não há capital inicial mínimo. O capital social é simplesmente o dinheiro que os sócios colocam, passando a ser capital inicial da empresa. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - TOC: obrigatório.
 
@@ -96,8 +96,8 @@ Um empresário em nome individual é uma pessoa que se dedica ao comércio (gene
 #### Caracteristicas:
 
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
-- Forma jurídica de constituição de empresas indicada para volumes de negócios de considerável dimensão que necessitem de garantir grandes financiamentos para crescer. Do ponto de vista legal e burocrático é uma figura jurídica exigente.
-- Exige, pelo menos, cinco sócios. Todavia, a lei dispensa essa exigência possibilitando a constituição de uma sociedade anónima com um único sócio, desde que este seja uma sociedade. O capital social: minimo de €50K divididos por ações de igual valor.
+- Forma jurídica legal e burocráticamnete exigente indicada para negócios de grande dimensão que necessitem de garantir financiamentos consideráveis.
+- Capital social minimo de €50K divididos por ações de igual valor. Mínimo cinco sócios. É possível a constituição de uma SA com um único sócio, se este for uma sociedade. 
 - O contrato social deve conter, pelo menos, os seguintes componentes:
 	- Categorias de ações criadas, bem como o seu número e direitos;
 	- Tipos de ações (nominativas ou ao portador) e as regras para a sua eventual conversão;
@@ -108,7 +108,7 @@ Um empresário em nome individual é uma pessoa que se dedica ao comércio (gene
 
 
 
-## IRS
+## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
 O IRS  é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
 São considerados, neste imposto, os rendimentos provenientes de:
@@ -124,55 +124,46 @@ Se no cálculo do imposto se constatar que foram efetuadas mais retenções do q
 
 
 
-## IRC
+## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-O IRC (Imposto sobre o Rendimento das Pessoas Coletivas) é o imposto que tributa o valor anual dos rendimentos das empresas com sede ou direção efetiva em território português (totalidade dos rendimentos incluindo os obtidos fora do território português) e pessoas com sede e direção efetiva em território português com ou sem estabelecimento estável.
+O IRC é o imposto que tributa o valor anual dos rendimentos das empresas com sede ou direção efetiva em território português (totalidade dos rendimentos incluindo os obtidos fora do território português) e pessoas com sede e direção efetiva em território português com ou sem estabelecimento estável.
 No âmbito da incidência do IRC, este é aplicável a:
 - Residentes com personalidade jurídica (sociedades comerciais, sociedades civis sob a forma comercial, cooperativas e outras pessoas coletivas de direito público ou privado);
 - Residentes sem personalidade jurídica (heranças jacentes, sociedades irregulares, associações e sociedades civis, fundos de investimento);
-- Não residentes com ou sem personalidade jurídica, que não tenham sede nem direção efetiva em território português e cujos rendimentos obtidos estejam sujeitos a IRS. ???
+- Não residentes com ou sem personalidade jurídica, que não tenham sede nem direção efetiva em território português e cujos rendimentos obtidos estejam sujeitos a IRS.
 Os benefícios fiscais dedutíveis estão ligados a encargos respeitantes à criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
 #### Derrama
 
-A derrama é um imposto autárquico que consiste numa adição ao IRC, e que é cobrado pelos municípios portugueses – constituindo-se para estes como uma forma de financiamento próprio.
-O imposto corresponde à proporção do rendimento gerado pelas pessoas coletivas que exerçam atividade comercial, industrial ou agrícola no município. O seu lançamento é facultativo variando ainda de município para município, sendo que o seu limite máximo é de 1,5% do lucro tributável das empresas sujeitas e não isentas de IRC.
-Todos os anos é aprovada uma tabela onde são definidas as taxas a aplicar por cada município. Está disponível online a tabela de taxas de derrama a aplicar em 2018 (http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
-A derrama é devida no município onde a empresa tem a sua sede ou direção efetiva. As regras e obrigações da sua liquidação são as previstas para o IRC, sendo o montante apurado pago juntamente com o referido imposto.
-Colocando-o num exemplo prático, se o lucro tributável de IRC de uma empresa corresponder a 650.000 euros e o município onde esta se encontra instalada cobrar a derrama de 1,35%, apura-se o valor a pagar através do seguinte cálculo: 650.000 x 0,0135. Assim, o valor total de derrama a pagar é de 8.775 euros.
+Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC à proporção do rendimento gerado pelas pessoas coletivas que tenham sede no município.
+- Facultativo variando ainda de município para município, sendo que o seu limite máximo é de 1,5% do lucro tributável. Anualmente é aprovada uma tabela onde são definidas as taxas em cada município. Taxas 2018 (http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
 
 
 
 
-## IMI
+## IMI: Imposto Municipal
 
-O IMI é um imposto municipal - cuja receita reverte para os respetivos municípios - que incide sobre o valor patrimonial tributário dos prédios (rústicos, urbanos ou mistos) situados em Portugal.
-O imposto é devido por proprietários, usufrutuários ou superficiários de um prédio, a 31 de dezembro do ano a que o mesmo respeitar. No caso particular das heranças indivisas, o IMI é devido pela herança indivisa representada pelo cabeça de casal.
+Imposto municipal - cuja receita reverte para os respetivos municípios - que incide sobre o valor patrimonial tributário dos prédios (rústicos, urbanos ou mistos) situados em Portugal.
+O imposto é devido por proprietários, usufrutuários ou superficiários de um prédio, a 31 de dezembro do ano a que o mesmo respeitar.
 As taxas atualmente aplicáveis são as seguintes:
 - Para prédios rústicos: 0,8;
 - Para prédios urbanos: 0,4% a 0,8%;
 - Para prédios urbanos avaliados, nos termos do código do IMI: 0,2% a 0,5%.
-O imposto é liquidado anualmente pelos serviços da Direção-Geral dos Impostos, nos meses de fevereiro e março.
-Mais informações sobre o imposto e as especificações dos tipos de prédios em portaldasfinancas.gov.pt.
+- Liquidação anual nos meses de fevereiro e março.
 
 
 
 
-## IMT
+## IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
-O Imposto Municipal sobre as Transmissões Onerosas de Imóveis é um imposto que incide sobre as transmissões onerosas do direito de propriedade ou de figuras parcelares desse direito sobre bens imóveis situado no território nacional.
-De um modo geral, o IMT é devido pela pessoa para quem se transmitem os bens, devendo este ser pago na Secção de Cobrança de qualquer Serviço de Finanças, nos CTT, no Multibanco e nas instituições bancárias que têm protocolo com a DGCI para o efeito.
-O IMT define-se em escalões, sendo estes tanto maiores quanto maior o valor de compra. O valor do IMT varia ainda de acordo com a sua finalidade (habitação própria e permanente ou não).
-As taxas aplicadas no âmbito do IMT podem ser consultadas no site oficial do Portal das Finanças.
+O IMT é devido pela pessoa para quem se transmitem os bens. Define-se em escalões, sendo estes tanto maiores quanto maior o valor de compra. O valor do IMT varia ainda de acordo com a sua finalidade (habitação própria e permanente ou não).
 
 
 
 
-## IUC - Imposto Único de Circulação
+## IUC: Imposto Único de Circulação
 
-O IUC (Imposto Único de Circulação) é um imposto anual que entrou em vigor em 2007 e que vem substituir o antigo selo do carro. Essencialmente, constitui-se como um imposto ambiental que responsabiliza cada condutor pelas emissões de CO2 que o seu carro emite para o ambiente – dependendo deste valor, do ano de matrícula do veículo e da cilindrada do mesmo.
-Este imposto incide sobre todos os veículos das categorias A a G, abrangendo todos os veículos motorizados terrestres, e deve ser pago até ao final do mês de aniversário da matrícula do veículo.
-O IUC pode ser pago através do site oficial das Finanças, e o seu não pagamento pode significar uma multa inicial de entre 15-30 euros, valor que deve aumentar se o tempo até ao pagamento se agravar.
+Imposto anual que entrou em vigor em 2007 e que vem substituir o antigo selo do carro. Essencialmente, constitui-se como um imposto ambiental que responsabiliza cada condutor pelas emissões de CO2 que o seu carro emite para o ambiente – dependendo deste valor, do ano de matrícula do veículo e da cilindrada do mesmo. Abrangendo todos os veículos motorizados terrestres e deve ser pago até ao final do mês de aniversário da matrícula do veículo.
 
 
 
