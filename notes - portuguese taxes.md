@@ -1,32 +1,40 @@
-# Que sistema escolher?
+# Sistemas fiscais Portugueses..
 
+#### Sem sócios:
+- Trabalhador dependente: contrato de trabalho
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente: recibo verde](#trabalhador-independente-recibo-verde)
 - [Empresário em nome individual](#empresário-em-nome-individual)
+- [Sociedade unipessoal](#sociedade-por-quotas)
+
+#### Com sócios:
 - [Sociedade por quotas](#sociedade-por-quotas)
 - [Sociedade anónima](#sociedade-anónima)
 
 
 
 
-## Trabalhador independente: recibo verde
-
-O *recibo verde* é o documento fiscal electrónico passado pelo prestador de serviços no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens.
-A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
-
-- pagamento para a Segurança Social.
-- baixa médica após 30 dias.
-- 70% do rendimento colectável
-
-
-
-
 ## Trabalhador esporádico: ato isolado
 
-O *ato isolado* é o documento fiscal electrónico passado pelo prestador de serviços no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de caráter não contínuo. Isto não significa que não possa ser utilizado mais de uma vez – quatro atos isolados num ano, passados a diferentes entidades, não o obrigam a inscrever-se como Trabalhador Independente. Todavia, se os atos e as entidades se repetirem ao longo dos anos – tornado assim o serviço previsível – o contribuinte será obrigado a coletar-se.
+O *ato isolado* é o documento fiscal electrónico passado pelo trabalhadorno ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a coletar-se.
 
-- pagamento de IVA 23% obrigatório pago até ao final do mês seguinte.
-- isenção de Segurança Social
+#### Caracteristicas:
+- IRS: ???
+- IVA: cobrança obrigatória e devolução às Finanças até ao final do mês seguinte.
+- Segurança social: pagamento mensal facultativo.
+
+
+
+
+## Trabalhador independente: recibo verde
+
+O *recibo verde* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens.
+A obtenção de uma caderneta de recibos verdes exige a prévia inscrição num serviço de finanças. Nesse momento, vai ter de optar entre o regime simplificado e a contabilidade organizada. 
+
+#### Caracteristicas:
+- IRS: categoria B. 70% do rendimento colectável sobre os *serviços* após a dedução especifica.
+- IVA: cobrança obrigatória e devolução às Finanças até ??? *se* tiver tido rendimentos superiores a €10K no ano anterior.
+- Segurança social: pagamento mensal obrigatório e baixa médica após 30 dias.
 
 
 
@@ -35,33 +43,27 @@ O *ato isolado* é o documento fiscal electrónico passado pelo prestador de ser
 
 Um empresário em nome individual é uma pessoa que se dedica ao comércio (genericamente falando). Para se tornar empresário em nome individual deverá, apenas, efetuar a matrícula no registo comercial. 
 
-#### Questões jurídicas e capital
+#### Caracteristicas:
+- Património individual está totalmente afeto à sua atividade.
+- Sem capital inicial para constituição da empresa.
+- IRS: categoria B.
+	- Regime simplificado, caso o volume de vendas seja inferior a €150K e prestações de serviços inferior a €100K. o Estado assume que a empresa tem uma margem de 20% de rendimento colectável sobre as *vendas* (e 70% sobre os *serviços*).
+	- Contabilidade organizada, caso seja ultrapassado algum dos limites acima referido ou por opção do empresário. 
+	Independentemente do regime seguido, durante os três primeiros anos de atividade, o empresário não está sujeito ao pagamento por conta do imposto: trata-se de um pagamento antecipado a efetuar em julho, setembro e dezembro. A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
+- IVA: cobrança obrigatória *se* tiver tido rendimentos superiores a 10K€ no ano anterior ou possuir contabilidade organizada. Devolução trimestral de IVA às Finanças (ou mensal, se superior a 500K€) 
 
-A mais relevante prende-se com o facto de o património do empresário em nome individual estar totalmente afeto à sua atividade, o que torna esta vertente arriscada no caso de haver problemas financeiros. Por não se tratar de uma sociedade, o empresário em nome individual não necessita de capital inicial para constituição de empresa.
-
-#### IRS
-
-Os rendimentos de um empresário em nome individual são tributados em sede de IRS (Imposto sobre o rendimento das pessoas singulares), através da categoria B - Rendimentos empresariais e profissionais.  A determinação desses rendimentos pode ser feita de duas formas:
-- Pelo regime simplificado, caso o volume de vendas seja inferior a € 149.739,37 e simultaneamente, os restantes rendimentos empresariais sejam inferiores a € 99.759,58.
-- Com base em contabilidade organizada, caso seja ultrapassado algum dos limites acima referido, ou mesmo no caso contrário, se for essa opção do empresário. 
-Independentemente do regime seguido, durante os três primeiros anos de atividade, o empresário não está sujeito ao pagamento por conta do imposto: trata-se de um pagamento antecipado a efetuar em julho, setembro e dezembro. A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS). 
 
 Que regime contabilístico escolher? 
-- Regime simplificado
-Significa que, para efeitos de pagamento de impostos, o Estado assume que a empresa tem “obrigatoriamente” uma margem de lucro de 20% nas vendas de produtos e de 70% nas outras atividades. Se as margens e os lucros reais da empresa estiverem longe destes valores pré-definidos, poderá fazer sentido optar pelo regime de contabilidade organizada. É importante referir ainda que no regime simplificado não é preciso recorrer a um técnico oficial de contas, poupando esse valor nos custos fixos. 
+- Regime simplificadoSe as margens e os lucros reais da empresa estiverem longe destes valores pré-definidos, poderá fazer sentido optar pelo regime de contabilidade organizada. É importante referir ainda que no regime simplificado não é preciso recorrer a um técnico oficial de contas, poupando esse valor nos custos fixos. 
 - Contabilidade organizada
 No regime de contabilidade organizada, a determinação do rendimento segue as regras do Código do IRC (Imposto sobre o rendimento das pessoas coletivas), embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. 
-
-#### IVA
-
-O empresário em nome individual, caso não tenha tido no ano anterior um volume de negócios superior a € 10.000 nem possuir contabilidade organizada, pode estar isento de IVA. Nessa situação, não terá de exigir o IVA aos seus clientes. Caso não haja isenção de IVA, e o volume de negócios seja inferior a € 498.797,90, este terá de ser entregue ao Estado trimestralmente.
 
 
 
 
 ## Sociedade por Quotas
 
-Quem tencionar ter um negócio com outros sócios a opção mais comum é a sociedade por quotas. Há, obviamente, outras formas jurídicas possíveis, como as sociedades anónimas, à qual recorrem apenas empresas com uma estrutura, dimensão e orgânicas bastante elevadas. Até porque do ponto de vista legal e burocrático é uma figura jurídica muito mais exigente. 
+Quem tencionar ter um negócio com outros sócios a opção mais comum é a sociedade por quotas. 
 Responsabilidades Jurídicas 
 Ao criar uma sociedade por quotas passa a existir uma nova entidade jurídica, a qual estará sujeita de direitos e deveres, ficando os sócios, até certo ponto, seguros no seu património pessoal. 
 Capital Social
@@ -77,6 +79,7 @@ Se quiser ter uma sociedade mas não estiver interessado em ter sócios, a situa
 ## Sociedade Anónima
 
 A sociedade anónima é uma forma jurídica de constituição de empresas indicada para empresas com volumes de negócios de considerável dimensão que necessitem de garantir financiamentos alguma envergadura para crescer. 
+Há, obviamente, outras formas jurídicas possíveis, como as sociedades anónimas, à qual recorrem apenas empresas com uma estrutura, dimensão e orgânicas bastante elevadas. Até porque do ponto de vista legal e burocrático é uma figura jurídica muito mais exigente. 
 Número de Sócios
 Este tipo de sociedade exige, pelo menos, a existência de cinco sócios. Todavia, a lei dispensa essa exigência possibilitando a constituição de uma sociedade anónima com um único sócio, desde que este seja uma sociedade. 
 Capital Social
@@ -111,6 +114,9 @@ São considerados, neste imposto, os rendimentos provenientes de:
 Deve, contudo, levar-se em conta que durante o ano são aplicados descontos noutras situações – retenções na fonte – e que acabam por funcionar como um pagamento adiantado que se processa no momento em que se obtém os rendimentos. Por outro lado, existem também algumas despesas que propiciam benefícios fiscais e que funcionam como deduções ao imposto (por exemplo, despesas de saúde ou educação).
 Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS; caso contrário, será necessário efetuar um pagamento.
 
+
+
+
 ## IRC
 
 O IRC (Imposto sobre o Rendimento das Pessoas Coletivas) é o imposto que tributa o valor anual dos rendimentos das empresas com sede ou direção efetiva em território português (totalidade dos rendimentos incluindo os obtidos fora do território português) e pessoas com sede e direção efetiva em território português com ou sem estabelecimento estável.
@@ -120,6 +126,9 @@ No âmbito da incidência do IRC, este é aplicável a:
 - Não residentes com ou sem personalidade jurídica, que não tenham sede nem direção efetiva em território português e cujos rendimentos obtidos estejam sujeitos a IRS. ???
 Os benefícios fiscais dedutíveis estão ligados a encargos respeitantes à criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
+
+
+
 ## Derrama
 
 A derrama é um imposto autárquico que consiste numa adição ao IRC, e que é cobrado pelos municípios portugueses – constituindo-se para estes como uma forma de financiamento próprio.
@@ -127,6 +136,9 @@ O imposto corresponde à proporção do rendimento gerado pelas pessoas coletiva
 Todos os anos é aprovada uma tabela onde são definidas as taxas a aplicar por cada município. Está disponível online a tabela de taxas de derrama a aplicar em 2018 (http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
 A derrama é devida no município onde a empresa tem a sua sede ou direção efetiva. As regras e obrigações da sua liquidação são as previstas para o IRC, sendo o montante apurado pago juntamente com o referido imposto.
 Colocando-o num exemplo prático, se o lucro tributável de IRC de uma empresa corresponder a 650.000 euros e o município onde esta se encontra instalada cobrar a derrama de 1,35%, apura-se o valor a pagar através do seguinte cálculo: 650.000 x 0,0135. Assim, o valor total de derrama a pagar é de 8.775 euros.
+
+
+
 
 ## IMI
 
@@ -139,6 +151,9 @@ As taxas atualmente aplicáveis são as seguintes:
 O imposto é liquidado anualmente pelos serviços da Direção-Geral dos Impostos, nos meses de fevereiro e março.
 Mais informações sobre o imposto e as especificações dos tipos de prédios em portaldasfinancas.gov.pt.
 
+
+
+
 ## IMT
 
 O Imposto Municipal sobre as Transmissões Onerosas de Imóveis é um imposto que incide sobre as transmissões onerosas do direito de propriedade ou de figuras parcelares desse direito sobre bens imóveis situado no território nacional.
@@ -146,11 +161,17 @@ De um modo geral, o IMT é devido pela pessoa para quem se transmitem os bens, d
 O IMT define-se em escalões, sendo estes tanto maiores quanto maior o valor de compra. O valor do IMT varia ainda de acordo com a sua finalidade (habitação própria e permanente ou não).
 As taxas aplicadas no âmbito do IMT podem ser consultadas no site oficial do Portal das Finanças.
 
+
+
+
 ## IUC - Imposto Único de Circulação
 
 O IUC (Imposto Único de Circulação) é um imposto anual que entrou em vigor em 2007 e que vem substituir o antigo selo do carro. Essencialmente, constitui-se como um imposto ambiental que responsabiliza cada condutor pelas emissões de CO2 que o seu carro emite para o ambiente – dependendo deste valor, do ano de matrícula do veículo e da cilindrada do mesmo.
 Este imposto incide sobre todos os veículos das categorias A a G, abrangendo todos os veículos motorizados terrestres, e deve ser pago até ao final do mês de aniversário da matrícula do veículo.
 O IUC pode ser pago através do site oficial das Finanças, e o seu não pagamento pode significar uma multa inicial de entre 15-30 euros, valor que deve aumentar se o tempo até ao pagamento se agravar.
+
+
+
 
 ## IVA de Caixa
 
@@ -168,6 +189,9 @@ Para aderir ao regime no ano de 2014 e seguintes, as empresas devem comunicar a 
 Faturas
 As faturas devem ser emitidas numa série especial e conter a menção “IVA – regime de caixa”.
 
+
+
+
 ## CAE
 
 A Classificação Portuguesa das Actividades Económicas (CAE)  corresponde ao sistema de classificação e organização de atividades económicas (de produção, emprego, energia, investimento, etc.) em unidades estatísticas de bens e serviços.
@@ -176,8 +200,6 @@ Declaração de Remunerações
 A declaração de remunerações (DR) é um documento onde “constam todas as quantias pagas ao trabalhador que são objeto de descontos e respetivas taxas contributivas aplicadas”, segundo a Segurança Social.
 A entrega da DR é uma obrigação mensal das entidades empregadoras e desde 2013 que a entrega é feita através de um único canal de acesso, denominado Declaração Mensal de Remunerações (DMR), que permite às entidades empregadoras procederem, num mesmo momento, à entrega das Declarações de Remunerações à Segurança Social e da Declaração Mensal de Remunerações-AT à Autoridade Tributária e Aduaneira.
 Estas obrigações declarativas podem ser cumpridas online, quer através do portal das Finanças, quer através do portal da Segurança Social, devendo as entidades empregadoras efetuar a entrega das Declarações a cada uma das entidades. A entrega deve ser efetuada até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição dos rendimentos do trabalho dependente, e eventuais erros devem ser corrigidos no prazo de 30 dias.
-
-
 
 
 
@@ -203,6 +225,9 @@ Depois de submeter a declaração, é criada e disponibilizada de imediato, uma 
 Quais são os prazos de entrega das Declarações?
 A Declaração Periódica do IVA pode ser entregue, pela internet até ao dia 10 do segundo mês seguinte àquele a que respeitam as operações, ou até ao dia 15 do segundo mês seguinte ao trimestre a que respeitam as operações.
 Todas as declarações entregues fora destes prazos continuarão a ser aceites através desta via, mas o sujeito será obrigado ao pagamento de uma coima.
+
+
+
 
 ## Contratação de Recursos Humanos
 
@@ -293,6 +318,9 @@ d) o local onde, por determinação da entidade empregadora, o trabalhador prest
 8. No local de pagamento da retribuição;
 9. No local onde deva ser prestada qualquer forma de assistência ou tratamento decorrente de acidente de trabalho.
 Um acidente de trabalho deve sempre ser comunicado à Autoridade para as Condições do Trabalho, no prazo de 24 horas após o acidente.
+
+
+
 
 ## Portugal 2020
 
