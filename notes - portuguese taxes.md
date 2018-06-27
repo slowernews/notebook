@@ -7,7 +7,7 @@
 ### Trabalhador Independente
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
-- [Trabalhador independente / empresário em nome individual](#trabalhador-independente-empresário-em-nome-individual)
+- [Trabalhador independente / empresário em nome individual](#trabalhador-independente--empresário-em-nome-individual)
 
 ### Sociedade
 
@@ -34,9 +34,7 @@
 
 
 
-## Trabalhador Independente:
-
-### Trabalhador esporádico: ato isolado
+## Trabalhador esporádico: ato isolado
 
 O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
 
@@ -49,7 +47,7 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 
 
-### Trabalhador independente / Empresário em nome individual
+## Trabalhador independente / Empresário em nome individual
 
 comentário
 
@@ -99,9 +97,7 @@ Caso não queira continuar no regime simplificado e pretenda mudar para o regime
 
 
 
-### Sociedade:
-
-### Sociedade por Quotas
+## Sociedade por Quotas
 
 A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
@@ -115,7 +111,7 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 
 
-## Sociedade Anónima:
+## Sociedade Anónima
 
 #### Caracteristicas:
 
