@@ -12,12 +12,13 @@ to		# ???
 czy		# ou
 w 		# na, em
 
-skąd?		skąd jesteś?		# de onde / de onde és?
-gdzie?		gdzie jest..?		# onde / onde está ..?
-kiedy?		kiedy jest..?		# quando / quando é ..?
-co?		co to jest?		# o que / o que é isto?
+skąd?		skąd jesteś?		# de onde? / de onde és?
+gdzie?		gdzie jest..?		# onde? / onde está ..?
+kiedy?		kiedy jest..?		# quando? / quando é ..?
+co?		co to jest?		# o que? / o que é isto?
 jaki?					# quais?
-jak?		jak masz na imię?	# qual, como / como te chamas?
+jak?		jak masz na imię?	# qual?, como? / como te chamas?
+ile?		ile to kostuje?		# quanto? / quanto custa?
 
 zero
 jeden		pierwszy	jede.nascie

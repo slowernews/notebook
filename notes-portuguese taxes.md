@@ -30,7 +30,7 @@
 - [Fatura](#fatura)
 - [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
-
+- [Quanto custa um TOC?](#quanto-custa-um-toc?)
 
 
 
@@ -74,7 +74,7 @@ Quando refiro "empresa", refiro-me a uma qualquer entidade que emita facturas.
 
 Assim, não tens como assinar e carimbar a mesma em pdf (pelo menos directamente do PE).
 
-Quando as facturas são emitidas em formato electrónico, devem ter um certificado seguro, de forma a garantir a autenticidade da mesma.
+
 
 
 Despesas aceites
@@ -130,7 +130,7 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-O IRS  é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
+O IRS é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
 São considerados, neste imposto, os rendimentos provenientes de:
 
 - Trabalho dependente – Categoria A;
@@ -164,35 +164,38 @@ Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC 
 
 ## IMI: Imposto Municipal sobre Imóveis
 
-Incide sobre o valor patrimonial tributário dos prédios (rústicos, urbanos ou mistos) situados em Portugal.
-O imposto é devido por proprietários, usufrutuários ou superficiários de um prédio, a 31 de dezembro do ano a que o mesmo respeitar e liquidado nos meses de fevereiro e março. As taxas atualmente aplicáveis são as seguintes:
-- Para prédios rústicos: 0,8;
-- Para prédios urbanos: 0,4% a 0,8%;
-- Para prédios urbanos avaliados recentemente: 0,2% a 0,5%.
+- Quem paga: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
+- Quanto:
+	- prédios rústicos: 0,8% sobre o valor patrimonial tributário;
+	- prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
+	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
+- Prazo: pagamento anual durante o mês de Abril ou duas tranches Abril e Novembro?.
 
 
 
 
 ## IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
-O IMT é devido pela pessoa para quem se transmitem os bens. Define-se em escalões, sendo estes tanto maiores quanto maior o valor de compra. O valor do IMT varia ainda de acordo com a sua finalidade (habitação própria e permanente ou não).
+- Quem paga: comprador do imóvel.
+- Valor a pagar: varia sugundo o valor de compra e a sua finalidade (habitação própria e permanente ou não).
 
 
 
 
 ## IUC: Imposto Único de Circulação
 
-Imposto anual que entrou em vigor em 2007 e substitui o antigo selo do carro. Constitui-se como um imposto ambiental que responsabiliza cada condutor pelas emissões de CO2 do seu veículos motorizados terrestre. O valor a pagar depende do ano de matrícula e da cilindrada do veículo.
+Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissões de CO2.
 
-- Prazo: efectuar o pagamento até ao final do mês de aniversário da matrícula do veículo.
+- Quem paga: proprietários de veículos motorizados terrestre.
+- Valor a pagar: varia segundo a cilindrada e ano de matrícula do veículo.
+- Prazo: pagamento anual até ao final do mês de aniversário da matrícula do veículo.
 
 
 
 
 ## CAE: Classificação Portuguesa das Actividades Económicas
 
-Sistema de classificação e organização de atividades económicas (de produção, emprego, energia, investimento, etc.) em unidades estatísticas de bens e serviços.
-O CAE representa assim um conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto. Por exemplo, o código 23311 corresponde à Fabricação de Azulejos.
+Conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto, para controle .
 
 
 
@@ -222,7 +225,7 @@ ENTREGA DE DECLARAÇÃO:
 
 ## Fatura
 
-- A factura deve ir assinada e carimbada pela "empresa" que a emite.
+- Quando são emitidas em formato electrónico, devem ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, a fatura deve ser enviada em papel, assinada e carimbada por quem a emite. 
 
 
 <!--
