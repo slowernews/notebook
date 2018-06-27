@@ -1,28 +1,35 @@
 ### Sistemas fiscais em Portugal
 
-#### Dependente:
+#### Trabalhador Dependente:
 
 - Trabalhador dependente: contrato de trabalho
 
-#### Independente
+#### Trabalhador Independente
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
-- [Trabalhador independente: recibo verde](#trabalhador-independente-recibo-verde)
-- [Empresário em nome individual](#empresário-em-nome-individual)
-- [Sociedade unipessoal: LDA](#sociedade-por-quotas)
+- [Trabalhador independente / empresário em nome individual](#trabalhador-independente-empresário-em-nome-individual)
 
-#### Com sócios:
+#### Sociedade:
+
+- [Sociedade unipessoal: Unipessoal, LDA](#sociedade-por-quotas)
 - [Sociedade por quotas: LDA](#sociedade-por-quotas)
+- [???: EIRL]()
 - [Sociedade anónima: SA](#sociedade-anónima)
 
 ### Impostos directos em Portugal
 
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
-- [IVA: Imposto sobre o Valor Acrescentado](#)
-- [IMI: Imposto Municipal](#imi-imposto-municipal)
+- [IVA: Imposto sobre o Valor Acrescentado](#iva-imposto-sobre-o-valor-acrescentado)
+- [IMI: Imposto Municipal sobre Imóveisl](#imi-imposto-municipal-sobre-imóveis)
 - [IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis](#imt-imposto-municipal-sobre-as-transmissões-onerosas-de-imóveis)
 - [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
+
+### FAQ
+
+- [Fatura]()
+- [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
+- [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
 
 
 
@@ -40,43 +47,52 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 
 
-## Trabalhador independente: recibo verde
+## Trabalhador independente e Empresário em nome individual
 
-O *recibo verde* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens.
-
-#### Caracteristicas:
-- Documento fiscal: recibo verde.
-- IRS: categoria B.
-	- Regime simplificado, caso o volume de vendas seja inferior a €150K e prestações de serviços inferior a €100K. o Estado assume que a empresa tem uma margem de 20% de rendimento colectável sobre as *vendas* (e 70% sobre os *serviços*).  <!-- deducao especifica? -->
-	- Contabilidade organizada, caso seja ultrapassado algum dos limites acima referido ou por opção do empresário. 
-	Independentemente do regime seguido, durante os três primeiros anos de atividade, o empresário não está sujeito ao pagamento por conta do imposto: trata-se de um pagamento antecipado a efetuar em julho, setembro e dezembro. A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
-- IVA: cobrança obrigatória e devolução às Finanças até ??? *se* tiver tido rendimentos superiores a €10K no ano anterior.
-- Segurança social: pagamento mensal obrigatório e baixa médica após 30 dias.
-
-
-
-
-## Empresário em nome individual
-
-Um empresário em nome individual é uma pessoa que se dedica ao comércio (genericamente falando). Para se tornar empresário em nome individual deverá, apenas, efetuar a matrícula no registo comercial. 
+comentário
 
 #### Caracteristicas:
-- Documento fiscal: fatura.
+- Documento fiscal: fatura ou recibo verde.
 - Responsabilidade sobre o património individual: total.
 - Sem capital inicial para constituição da empresa.
-- IRS: categoria B. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* do imposto (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
+- IRS: categoria B. Regime simplificado ou Contabilidade organizada. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* do imposto (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
 	- Regime simplificado:
-		- volume de vendas inferior a €150K e prestações de serviços inferior a €100K. As Finanças assumem que a empresa tem uma margem de 20% de rendimento colectável sobre as *vendas* (e 70% sobre os *serviços*).  <!-- deducao especifica? -->
-		- TOC facultativo.
+		- volume de vendas inferior a €200K. As Finanças assumem que a empresa tem uma margem de 15% de rendimento colectável sobre as *vendas* (e 75% sobre os *serviços*).  <!-- deducao especifica? -->
 	- Contabilidade organizada:
 		- caso seja ultrapassado algum dos limites acima referido ou por opção do empresário.
 		- TOC obrigatório. (Minimo mensal referência de 150€)
 		- A determinação do rendimento segue as regras do Código do IRC, embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. 
 
 - IVA: cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada. Devolução trimestral de IVA às Finanças (ou mensal, se superior a €500K)
+- Segurança Social: acesso a subsidio de desemprego após 2 anos. pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4??) e baixa médica após 30 dias.
+
+O regime simplificado é menos eficaz do ponto de vista fiscal. No regime simplificado as despesas não são consideradas, não existindo a possibilidade de fazer as deduções das despesas, ao contrário do que acontece com a contabilidade organizada.
+A escolha entre os dois regimes variará de caso para caso, consoante os rendimentos. Regra geral, quanto maior o negócio mais se recomenda a contabilidade organizada: sempre que os custos forem superiores a 25% dos rendimentos será mais proveitoso escolher a contabilidade organizada.
+
+Segundo os "nossos" amigos das finanças, 
+Quando refiro "empresa", refiro-me a uma qualquer entidade que emita facturas.
+
+Assim, não tens como assinar e carimbar a mesma em pdf (pelo menos directamente do PE).
+
+Quando as facturas são emitidas em formato electrónico, devem ter um certificado seguro, de forma a garantir a autenticidade da mesma.
 
 
+Despesas aceites
+No entanto, se a atividade for prestada no sector da hotelaria, restauração e bebidas e da venda de mercadorias, o Fisco tem em conta 15% dos montantes ganhos como rendimento sujeito a imposto (20% até 2013). Por não serem consideradas despesas, o contribuinte não precisa de guardar as faturas das despesas com a atividade, como faturas de almoços com clientes, combustível ou compra de computador.
 
+A coleta mínima, ou seja, o montante mínimo sobre o qual recai o imposto independentemente do valor recebido pelo trabalhador, deixou de existir em 2009.
+
+Confira como preencher o anexo B do IRS.
+
+Cessação
+O regime simplificado termina se ocorrer uma das seguintes situações:
+
+Obtiver um rendimento superior a 200.000€ durante dois períodos de tributação seguidos;
+Num só período, se este limite for ultrapassado em, pelo menos, 25% (250.000€); 
+Se o titular dos rendimentos optar pela contabilidade organizada.
+Assim, o regime da contabilidade organizada inicia-se automaticamente a partir do ano fiscal seguinte ao da verificação de uma destas situações.
+
+Caso não queira continuar no regime simplificado e pretenda mudar para o regime de contabilidade organizada, tem de entregar uma declaração de alterações até ao final de março do ano em que pretende usar a contabilidade organizada.
 
 ## Sociedade por Quotas
 
@@ -113,12 +129,14 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 O IRS  é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
 São considerados, neste imposto, os rendimentos provenientes de:
+
 - Trabalho dependente – Categoria A;
 - Empresariais e profissionais – Categoria B;
 - Capitais – Categoria E;
 - Prediais – Categoria F;
 - Incrementos patrimoniais (mais -valias) – Categoria G;
 - Pensões – Categoria H.
+
 Deve, contudo, levar-se em conta que durante o ano são aplicados descontos noutras situações – retenções na fonte – e que acabam por funcionar como um pagamento adiantado que se processa no momento em que se obtém os rendimentos. Por outro lado, existem também algumas despesas que propiciam benefícios fiscais e que funcionam como deduções ao imposto (por exemplo, despesas de saúde ou educação).
 Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS; caso contrário, será necessário efetuar um pagamento.
 
@@ -161,9 +179,50 @@ O IMT é devido pela pessoa para quem se transmitem os bens. Define-se em escal�
 
 ## IUC: Imposto Único de Circulação
 
-Imposto anual que entrou em vigor em 2007 e que vem substituir o antigo selo do carro. Essencialmente, constitui-se como um imposto ambiental que responsabiliza cada condutor pelas emissões de CO2 que o seu carro emite para o ambiente – dependendo deste valor, do ano de matrícula do veículo e da cilindrada do mesmo. Abrangendo todos os veículos motorizados terrestres e deve ser pago até ao final do mês de aniversário da matrícula do veículo.
+Imposto anual que entrou em vigor em 2007 e substitui o antigo selo do carro. Constitui-se como um imposto ambiental que responsabiliza cada condutor pelas emissões de CO2 do seu veículos motorizados terrestre. O valor a pagar depende do ano de matrícula e da cilindrada do veículo.
+
+- Prazo: efectuar o pagamento até ao final do mês de aniversário da matrícula do veículo.
 
 
+
+
+## CAE: Classificação Portuguesa das Actividades Económicas
+
+Sistema de classificação e organização de atividades económicas (de produção, emprego, energia, investimento, etc.) em unidades estatísticas de bens e serviços.
+O CAE representa assim um conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto. Por exemplo, o código 23311 corresponde à Fabricação de Azulejos.
+
+
+
+
+## IES: Informação Empresarial Simplificada
+
+Desde 2007 IES representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística.
+Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes.
+
+- Prazo: entregar no site das finanças até ao 15º dia do 7º mês seguinte ao fim do exercício económico. Regra geral, 15 de Julho. Pagar o valor do registo (85 euros) num prazo máximo de 5 dias úteis seguintes.
+
+- Dispensa de entrega: sujeitos passivos no regime simplificado (CIVA art.29, alínea 16).
+
+
+
+
+## IVA: Imposto sobre o Valor Acrescentado
+
+ENTREGA DE DECLARAÇÃO:
+
+- Regime mensal: até ao dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
+
+- Regime trimestral: até ao dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+
+
+
+
+## FATURA
+
+- A factura deve ir assinada e carimbada pela "empresa" que a emite.
+
+
+<!--
 
 
 ## IVA de Caixa
@@ -181,43 +240,6 @@ Como aderir ao sistema?
 Para aderir ao regime no ano de 2014 e seguintes, as empresas devem comunicar a decisão à Autoridade Tributária e Aduaneira (AT), por via eletrónica, no Portal das Finanças, até 31 de outubro de cada ano. As empresas aderentes terão de permanecer no novo regime por dois anos.
 Faturas
 As faturas devem ser emitidas numa série especial e conter a menção “IVA – regime de caixa”.
-
-
-
-
-## CAE
-
-A Classificação Portuguesa das Actividades Económicas (CAE)  corresponde ao sistema de classificação e organização de atividades económicas (de produção, emprego, energia, investimento, etc.) em unidades estatísticas de bens e serviços.
-Com aplicação de âmbito nacional, o CAE representa assim um conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto. Por exemplo, o código 23311 corresponde à Fabricação de Azulejos.
-Declaração de Remunerações
-A declaração de remunerações (DR) é um documento onde “constam todas as quantias pagas ao trabalhador que são objeto de descontos e respetivas taxas contributivas aplicadas”, segundo a Segurança Social.
-A entrega da DR é uma obrigação mensal das entidades empregadoras e desde 2013 que a entrega é feita através de um único canal de acesso, denominado Declaração Mensal de Remunerações (DMR), que permite às entidades empregadoras procederem, num mesmo momento, à entrega das Declarações de Remunerações à Segurança Social e da Declaração Mensal de Remunerações-AT à Autoridade Tributária e Aduaneira.
-Estas obrigações declarativas podem ser cumpridas online, quer através do portal das Finanças, quer através do portal da Segurança Social, devendo as entidades empregadoras efetuar a entrega das Declarações a cada uma das entidades. A entrega deve ser efetuada até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição dos rendimentos do trabalho dependente, e eventuais erros devem ser corrigidos no prazo de 30 dias.
-
-
-
-
-## IES
-
-A IES, ou Informação Empresarial Simplificada, representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística, que entrou em vigor em 2007 como parte integrante do programa SIMPLEX.
-Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes. No essencial, o cumprimento de cada uma destas obrigações implicava para as empresas a necessidade de transmitir informação substancialmente idêntica sobre as suas contas anuais a quatro entidades diferentes (conservatórias do registo comercial, Administração Fiscal, INE e Banco de Portugal) e através de vários meios diferentes. Com a criação da IES, toda a informação que as empresas têm de prestar relativamente às suas contas anuais passou a ser transmitida num único momento e por uma única via.
-Nos casos em que o ano económico das empresas coincide com o ano civil, a IES deve ser entregue até 15 de julho. Quando não haja essa coincidência, o prazo vai até ao 15º dia do 7º mês seguinte ao fim do exercício económico (ex: se o exercício terminou em abril, tem até 15 de novembro para o entregar).
-Como entregar a declaração do IVA
-Que declarações pode entregar?
-Podem ser entregues as declarações periódicas dentro ou fora do prazo legal estabelecido, as declarações recapitulativas para operações intracomunitárias (relativas a períodos posteriores a 2009) e as declarações de substituição para o ano corrente e para os quatro anteriores.
-Como preencher as Declarações?
-A Declaração Periódica disponibilizada pelo Portal das Finanças para preenchimento inclui, entre a página 3 e 14 um guia exaustivo de preenchimento da mesma. Todavia, devem ser considerados os seguintes pontos como cruciais no preenchimento das Declarações:
-- Selecionar “Empresas”, depois “Entregar”, depois “IVA” e por fim “Declaração Periódica/Recapitulativa”;
-- 1ª Página (quadro 01 a 05): devem ser preenchidas TODAS as informações que caracterizam o sujeito passivo e a declaração a entregar;
-- Se no quadro 04 da declaração foram assinalados os campos: 1 e/ou 2, e/ou 3, deverão também ser preenchidos os campos 65 e 66 e, eventualmente, 67 e 68 do quadro 06, bem como os respetivos anexos;
-- Se assinalou o campo 1 do quadro 4-A, deverá ser preenchido o campo 07 do quadro 06 da declaração periódica e ou do(s) anexo(s) acima referido(s).
-- No quadro 06, depois do preenchimento dos campos referentes às bases tributáveis (1, 5 e 3), deverão ser preenchidos os campos relativos ao "Imposto a favor do Estado" (2, 6 e 4);
-- O preenchimento do quadro 13 só é obrigatório para declarações submetidas para períodos anteriores a 2010.
-Como pagar?
-Depois de submeter a declaração, é criada e disponibilizada de imediato, uma referência numérica que deve ser utilizada para o pagamento do imposto, que pode ser efetuado através de multibanco, nas tesourarias das Finanças informatizadas, nos balcões dos CTT e através do serviço de “home banking”. Qualquer pagamento fora do prazo legal resultará no pagamento extra de uma coima.
-Quais são os prazos de entrega das Declarações?
-A Declaração Periódica do IVA pode ser entregue, pela internet até ao dia 10 do segundo mês seguinte àquele a que respeitam as operações, ou até ao dia 15 do segundo mês seguinte ao trimestre a que respeitam as operações.
-Todas as declarações entregues fora destes prazos continuarão a ser aceites através desta via, mas o sujeito será obrigado ao pagamento de uma coima.
 
 
 
@@ -313,9 +335,15 @@ d) o local onde, por determinação da entidade empregadora, o trabalhador prest
 Um acidente de trabalho deve sempre ser comunicado à Autoridade para as Condições do Trabalho, no prazo de 24 horas após o acidente.
 
 
+## Declaração de Remunerações
+
+A declaração de remunerações (DR) é um documento onde “constam todas as quantias pagas ao trabalhador que são objeto de descontos e respetivas taxas contributivas aplicadas”, segundo a Segurança Social.
+A entrega da DR é uma obrigação mensal das entidades empregadoras e desde 2013 que a entrega é feita através de um único canal de acesso, denominado Declaração Mensal de Remunerações (DMR), que permite às entidades empregadoras procederem, num mesmo momento, à entrega das Declarações de Remunerações à Segurança Social e da Declaração Mensal de Remunerações-AT à Autoridade Tributária e Aduaneira.
+Estas obrigações declarativas podem ser cumpridas online, quer através do portal das Finanças, quer através do portal da Segurança Social, devendo as entidades empregadoras efetuar a entrega das Declarações a cada uma das entidades. A entrega deve ser efetuada até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição dos rendimentos do trabalho dependente, e eventuais erros devem ser corrigidos no prazo de 30 dias.
 
 
 ## Portugal 2020
 
 Sucessor do Quadro de Referência Estratégica Nacional (QREN), o Portugal 2020 é um acordo entre Portugal e a Comissão Europeia que enquadrará os apoios estruturais da União Europeia para o desenvolvimento económico do nosso país entre 2014 e 2020, tendo como focos de atividade prioritária o setor privado e o emprego. Portugal vai receber 25 mil milhões € e definiu os Objetivos Temáticos para estimular o crescimento e a criação de Emprego, as intervenções necessárias para os concretizar e as realizações e os resultados esperados com estes financiamentos.
 Há 5 grandes prioridades: estimular a produção de bens e serviços transacionáveis, internacionalização da economia e a qualificação do perfil de especialização da economia portuguesa; reforçar o investimento na educação e em iniciativas dirigidas à empregabilidade; integração das pessoas em risco de pobreza e combate à exclusão social; promoção da coesão e competitividade territoriais; apoio ao programa da reforma do Estado contribuindo para a racionalização, modernização e capacitação institucional da Administração Pública.
+-->
