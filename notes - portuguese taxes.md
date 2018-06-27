@@ -1,15 +1,15 @@
-### Sistemas fiscais em Portugal
+# Portuguese tax system
 
-#### Trabalhador Dependente:
+### Trabalhador Dependente
 
 - Trabalhador dependente: contrato de trabalho
 
-#### Trabalhador Independente
+### Trabalhador Independente
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente / empresário em nome individual](#trabalhador-independente-empresário-em-nome-individual)
 
-#### Sociedade:
+### Sociedade
 
 - [Sociedade unipessoal: Unipessoal, LDA](#sociedade-por-quotas)
 - [Sociedade por quotas: LDA](#sociedade-por-quotas)
@@ -27,14 +27,16 @@
 
 ### FAQ
 
-- [Fatura]()
+- [Fatura](#fatura)
 - [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
 
 
 
 
-## Trabalhador esporádico: ato isolado
+## Trabalhador Independente:
+
+### Trabalhador esporádico: ato isolado
 
 O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
 
@@ -47,7 +49,7 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 
 
-## Trabalhador independente e Empresário em nome individual
+### Trabalhador independente / Empresário em nome individual
 
 comentário
 
@@ -94,7 +96,12 @@ Assim, o regime da contabilidade organizada inicia-se automaticamente a partir d
 
 Caso não queira continuar no regime simplificado e pretenda mudar para o regime de contabilidade organizada, tem de entregar uma declaração de alterações até ao final de março do ano em que pretende usar a contabilidade organizada.
 
-## Sociedade por Quotas
+
+
+
+### Sociedade:
+
+### Sociedade por Quotas
 
 A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
@@ -217,7 +224,7 @@ ENTREGA DE DECLARAÇÃO:
 
 
 
-## FATURA
+## Fatura
 
 - A factura deve ir assinada e carimbada pela "empresa" que a emite.
 
