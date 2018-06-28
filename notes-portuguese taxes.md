@@ -18,16 +18,16 @@
 
 ### Impostos directos em Portugal
 
-*rendimento*
+#### Sobre o rendimento
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
 - [SS: Segurança Social](#ss-segurança-social)
 
-*vendas*
+#### Sobre as vendas
 - [IVA: Imposto sobre o Valor Acrescentado](#iva-imposto-sobre-o-valor-acrescentado)
 - [IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis](#imt-imposto-municipal-sobre-as-transmissões-onerosas-de-imóveis)
 
-*propriedade*
+#### Sobre a propriedade
 - [IMI: Imposto Municipal sobre Imóveis](#imi-imposto-municipal-sobre-imóveis)
 - [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
 
@@ -62,33 +62,15 @@ ENI a quem tem uma actividade que está elencada no CAE e trabalhador independen
 - Documento fiscal: fatura ou recibo verde.
 - Responsabilidade sobre o património individual: total.
 - Sem capital inicial para constituição.
-- IRS: categoria B. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* de IRS (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (art.102 CIRS)
-	- Regime simplificado de IRS: se o volume de vendas for inferior a €200K.
-	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200K ou por opção do empresário.
-
-- IVA: cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada. Devolução trimestral de IVA às Finanças (ou mensal, se superior a €500K)
-- Segurança Social: acesso a subsidio de desemprego após 2 anos. pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4??) e baixa médica após 30 dias.
-
-
-
-
-
-Despesas aceites
-No entanto, se a atividade for prestada no sector da hotelaria, restauração e bebidas e da venda de mercadorias, o Fisco tem em conta 15% dos montantes ganhos como rendimento sujeito a imposto (20% até 2013). Por não serem consideradas despesas, o contribuinte não precisa de guardar as faturas das despesas com a atividade, como faturas de almoços com clientes, combustível ou compra de computador.
-
-A coleta mínima, ou seja, o montante mínimo sobre o qual recai o imposto independentemente do valor recebido pelo trabalhador, deixou de existir em 2009.
-
-Confira como preencher o anexo B do IRS.
-
-Cessação
-O regime simplificado termina se ocorrer uma das seguintes situações:
-
-Obtiver um rendimento superior a 200.000€ durante dois períodos de tributação seguidos;
-Num só período, se este limite for ultrapassado em, pelo menos, 25% (250.000€); 
-Se o titular dos rendimentos optar pela contabilidade organizada.
-Assim, o regime da contabilidade organizada inicia-se automaticamente a partir do ano fiscal seguinte ao da verificação de uma destas situações.
-
-Caso não queira continuar no regime simplificado e pretenda mudar para o regime de contabilidade organizada, tem de entregar uma declaração de alterações até ao final de março do ano em que pretende usar a contabilidade organizada.
+- IRS: categoria B. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* de IRS (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (CIRS, art.102)
+	- Regime simplificado de IRS: se o volume de vendas for inferior a €200k.
+	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200k ou por opção do empresário.
+- IVA:
+	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada.
+	- evolução trimestral de IVA às Finanças (ou mensal, se superior a €500K)
+- Segurança Social:
+	- pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4xx)
+	- acesso a subsidio de desemprego após 2 anos.   e baixa médica após 30 dias.
 
 
 
@@ -112,14 +94,8 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 #### Caracteristicas:
 
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
-- Forma jurídica legal e burocráticamnete exigente indicada para negócios de grande dimensão que necessitem de garantir financiamentos consideráveis.
-- Capital social minimo de €50K divididos por ações de igual valor. Mínimo cinco sócios. É possível a constituição de uma SA com um único sócio, se este for uma sociedade. 
-- O contrato social deve conter, pelo menos, os seguintes componentes:
-	- Categorias de ações criadas, bem como o seu número e direitos;
-	- Tipos de ações (nominativas ou ao portador) e as regras para a sua eventual conversão;
-	- O prazo para a realização do capital apenas subscrito; 
-	- A eventual autorização para a emissão de obrigações;
-	- A estrutura adotada para a administração e fiscalização da sociedade.
+- Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que necessitem de garantir financiamentos consideráveis.
+- Capital social minimo de €50K divididos por ações de igual valor. Mínimo cinco sócios. É possível a constituição de uma SA com um único sócio, se este for uma sociedade.
 
 
 
@@ -128,7 +104,7 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 Imposto progressivo que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes.
 
-- São considerados, neste imposto, os rendimentos provenientes de:
+- São considerados os rendimentos de:
 	- Categoria A: Trabalho dependente
 	- Categoria B: Empresariais e profissionais
 	- Categoria E: Capitais
@@ -137,10 +113,10 @@ Imposto progressivo que tributa o valor anual dos rendimentos de indivíduos res
 	- Categoria H: Pensões
 
 - Atenuantes: despesas de saúde ou educação.
-- Pagamento adiantado: as retenções na fonte, obrigatórias nalguns casos, acabam por funcionar como um pagamento adiantado no momento em que se obtém os rendimentos. Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS.
+- Pagamento adiantado: as *retenções na fonte* e *pagamentos por conta*, obrigatório nalguns casos, acabam por funcionar como um pagamento adiantado de IRS. Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS.
 
 - Regime simplificado:
-	- Para quem: ENIs / Trabalhadores independentes com volume de negócios anual inferior a €200K.
+	- Para quem: ENIs / Trabalhadores independentes com volume de negócios anual inferior a €200k.
 	- TOC facultativo.
 	- Dispensado de [IES](#ies-informação-empresarial-simplificada).
 	- Assume-se uma margem de 15% de rendimento colectável sobre as *vendas* e 75% sobre os *serviços*. No regime simplificado as despesas não são consideradas, não existindo a possibilidade de fazer as deduções das despesas, ao contrário do que acontece com a contabilidade organizada.
@@ -160,7 +136,7 @@ Imposto progressivo que tributa o valor anual dos rendimentos de indivíduos res
 - Quanto: 21%.
 	- Agravantes: A taxa de IRC é normalmente agravada pela Derrama (imposto cobrado pelos municípios portugueses) até um máximo de 1.5%. A Derrama é revista anualmente por cada municipio: [taxas de derrama 2018](http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
 	- Atenuantes:
-		- PMEs com atividade principal, comercial, industrial ou agrícola: €15K taxados a 17%.
+		- PMEs com atividade principal, comercial, industrial ou agrícola: €15k taxados a 17%.
 		- Empresas nos Açores: taxa de IRC de 16,8% e 13,6% respectivamente.
 		- Criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
@@ -176,10 +152,13 @@ Quais os escalões?
 
 ## IVA: Imposto sobre o Valor Acrescentado
 
-ENTREGA DE DECLARAÇÃO:
-
-- Regime mensal: até ao dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
-- Regime trimestral: até ao dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+- Quem paga:
+	- Sociedades e Trab. Esporádicos (Ato isolado).
+	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior ou no regime de contabilidade organizada.
+	- Isenções: algumas actividades estão isentas de IVA.
+- Quando:
+	- Regime trimestral: até ao dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+	- Regime mensal: até ao dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
 
 
 
