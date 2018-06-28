@@ -1,9 +1,11 @@
-ja		ty		on, ona		my		wy		oni		
-dla mnie	dla ciebie					dla państwa
+ja		ty		on, ona		my	wy		oni		
+dla mnie	dla ciebie				dla państwa
 
-jestem		jesteś		jest 						są
-mam		masz		ma
-
+# verbos no passado: e -> a , i -> y 
+jestem		jesteś		jest					są
+biłem		byłeś-byłaś	był-była				byli
+mam		masz		mas					mają
+miałem		miałeś-miałaś	miał-miała				mieli
 
 tu - tam	# aqui - ali
 ten - tamten	# este - aquele
@@ -22,12 +24,12 @@ ile?		ile to kostuje?		# quanto? / quanto custa?
 
 zero
 jeden		pierwszy	jede.nascie
-dwa		drugi		dwa.nascie
-trzy				trzy.nascie
-cztery				czter.nascie
-pięć				pięt.nascie
-sześć				szes.nascie
-siedem				siedem.nascie
-osien				osiem.nascie
-dziewięc			dziewięt.nascie
-dziesięc			dwa.dzieścia
+dwa		drugi		 dwa+nascie	     dwa+dzieścia	    dwieście *
+trzy				trzy+nascie	    trzy+dzieścia	    trzy+sta 
+cztery			       czter.nascie	   czter.dzieścia	  cztery+sta **
+pięć				pięt.nascie	    pięć+dziesiąt	    pięć+set *
+sześć				szes.nascie	   sześć+dziesiąt	    szećś.et ** 
+siedem			      siedem+nascie	  siedem+dziesiąt	  siedem+set
+osien			       osiem+nascie	   osiem+dziesiąt	   osiem+set
+dziewięc		    dziewięt.nascie	dziewięć+dziesiąt	dziewięć+set *
+dziesięc						      sto	      tysiąc

@@ -18,18 +18,22 @@
 
 ### Impostos directos em Portugal
 
+*rendimento*
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
+- [Segurança Social](#segurança-social)
+*vendas*
 - [IVA: Imposto sobre o Valor Acrescentado](#iva-imposto-sobre-o-valor-acrescentado)
-- [IMI: Imposto Municipal sobre Imóveis](#imi-imposto-municipal-sobre-imóveis)
 - [IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis](#imt-imposto-municipal-sobre-as-transmissões-onerosas-de-imóveis)
+*propriedade*
+- [IMI: Imposto Municipal sobre Imóveis](#imi-imposto-municipal-sobre-imóveis)
 - [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
 
 ### FAQ
 
 - [Fatura](#fatura)
-- [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
+- [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
 - [Quanto custa um TOC?](#quanto-custa-um-toc?)
 
 
@@ -49,30 +53,20 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 ## Trabalhador independente / Empresário em nome individual
 
-comentário
+Trabalhadores independentes e Empresários em nome individual são tributados da mesma forma em IRS e IVA. A diferença é chamar-se
+ENI a quem tem uma actividade que está elencada no CAE e trabalhador independente a quem presta serviços no âmbito da lista anexa ao CIRS no artigo 151º.
 
 #### Caracteristicas:
 - Documento fiscal: fatura ou recibo verde.
 - Responsabilidade sobre o património individual: total.
-- Sem capital inicial para constituição da empresa.
-- IRS: categoria B. Regime simplificado ou Contabilidade organizada. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* do imposto (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (descritas no artigo 102.º do Código do IRS).
-	- Regime simplificado:
-		- volume de vendas inferior a €200K. As Finanças assumem que a empresa tem uma margem de 15% de rendimento colectável sobre as *vendas* (e 75% sobre os *serviços*).  <!-- deducao especifica? -->
-	- Contabilidade organizada:
-		- caso seja ultrapassado algum dos limites acima referido ou por opção do empresário.
-		- TOC obrigatório. (Minimo mensal referência de 150€)
-		- A determinação do rendimento segue as regras do Código do IRC, embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. 
+- Sem capital inicial para constituição.
+- IRS: categoria B. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* de IRS (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (art.102 CIRS)
+	- Regime simplificado de IRS: se o volume de vendas for inferior a €200K.
+	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200K ou por opção do empresário.
 
 - IVA: cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada. Devolução trimestral de IVA às Finanças (ou mensal, se superior a €500K)
 - Segurança Social: acesso a subsidio de desemprego após 2 anos. pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4??) e baixa médica após 30 dias.
 
-O regime simplificado é menos eficaz do ponto de vista fiscal. No regime simplificado as despesas não são consideradas, não existindo a possibilidade de fazer as deduções das despesas, ao contrário do que acontece com a contabilidade organizada.
-A escolha entre os dois regimes variará de caso para caso, consoante os rendimentos. Regra geral, quanto maior o negócio mais se recomenda a contabilidade organizada: sempre que os custos forem superiores a 25% dos rendimentos será mais proveitoso escolher a contabilidade organizada.
-
-Segundo os "nossos" amigos das finanças, 
-Quando refiro "empresa", refiro-me a uma qualquer entidade que emita facturas.
-
-Assim, não tens como assinar e carimbar a mesma em pdf (pelo menos directamente do PE).
 
 
 
@@ -130,34 +124,66 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-O IRS é o imposto que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes. O IRS aplica-se aos rendimentos gerados ao longo do ano, sendo pago no ano seguinte, ou seja, o IRS de 2013 será devido em 2014. É um - Incrementos patrimoniais (mais imposto progressivo, já que é aplicado em função do nível de rendimento do sujeito – maior rendimento, maior taxa de imposto.
+Imposto progressivo que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes.
+
 São considerados, neste imposto, os rendimentos provenientes de:
+- Categoria A: Trabalho dependente
+- Categoria B: Empresariais e profissionais
+- Categoria E: Capitais
+- Categoria F: Prediais
+- Categoria G: Incrementos patrimoniais (mais-valias)
+- Categoria H: Pensões
 
-- Trabalho dependente – Categoria A;
-- Empresariais e profissionais – Categoria B;
-- Capitais – Categoria E;
-- Prediais – Categoria F;
-- Incrementos patrimoniais (mais -valias) – Categoria G;
-- Pensões – Categoria H.
+- Atenuantes: despesas de saúde ou educação.
+- Pagamento adiantado: as retenções na fonte, obrigatórias nalguns casos, acabam por funcionar como um pagamento adiantado no momento em que se obtém os rendimentos. Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS.
 
-Deve, contudo, levar-se em conta que durante o ano são aplicados descontos noutras situações – retenções na fonte – e que acabam por funcionar como um pagamento adiantado que se processa no momento em que se obtém os rendimentos. Por outro lado, existem também algumas despesas que propiciam benefícios fiscais e que funcionam como deduções ao imposto (por exemplo, despesas de saúde ou educação).
-Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS; caso contrário, será necessário efetuar um pagamento.
+- Regime simplificado:
+	- Para quem: ENIs / Trabalhadores independentes com volume de negócios anual inferior a €200K.
+	- TOC facultativo.
+	- Assume-se uma margem de 15% de rendimento colectável sobre as *vendas* e 75% sobre os *serviços*. No regime simplificado as despesas não são consideradas, não existindo a possibilidade de fazer as deduções das despesas, ao contrário do que acontece com a contabilidade organizada.
+- Contabilidade Organizada:
+	- Para quem: Sociedades e ENIs / Trabalhadores independentes com volume de negócios anual superior a €200K (ou por opção).
+	- [TOC obrigatório](#quanto-custa-um-toc).
+	- A determinação do rendimento segue as regras do Código do IRC, embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. Regra geral, quanto maior o negócio mais se recomenda a contabilidade organizada: sempre que os custos forem superiores a 25% dos rendimentos será mais proveitoso escolher a contabilidade organizada.
 
 
 
 
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-O IRC é o imposto que tributa o valor anual dos rendimentos das empresas com sede ou direção efetiva em território português (totalidade dos rendimentos incluindo os obtidos fora do território português) e pessoas com sede e direção efetiva em território português com ou sem estabelecimento estável.
-No âmbito da incidência do IRC, este é aplicável a:
-- Residentes com personalidade jurídica (sociedades comerciais, sociedades civis sob a forma comercial, cooperativas e outras pessoas coletivas de direito público ou privado);
-- Residentes sem personalidade jurídica (heranças jacentes, sociedades irregulares, associações e sociedades civis, fundos de investimento);
-- Não residentes com ou sem personalidade jurídica, que não tenham sede nem direção efetiva em território português e cujos rendimentos obtidos estejam sujeitos a IRS.
-Os benefícios fiscais dedutíveis estão ligados a encargos respeitantes à criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
+- Quem paga: empresas com sede ou direção efetiva em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do território português.
+- Quando: Anualmente.
+- Quanto: 21%.
+	- Agravantes: A taxa de IRC é normalmente agravada pela Derrama (imposto cobrado pelos municípios portugueses) até um máximo de 1.5%. A Derrama é revista anualmente por cada municipio: [taxas de derrama 2018](http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
+	- Atenuantes:
+		- PMEs com atividade principal, comercial, industrial ou agrícola: €15K taxados a 17%.
+		- Empresas nos Açores: taxa de IRC de 16,8% e 13,6% respectivamente.
+		- Criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
-#### Derrama
 
-Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC à proporção do rendimento gerado pelas pessoas coletivas que tenham sede no município. O múnicipio aprova anualmente a taxa até um máximo de 1.5% do lucro tributável. [Taxas de derrama 2018](http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
+
+
+## Segurança Social
+
+Quais os escalões?
+
+
+
+
+## IVA: Imposto sobre o Valor Acrescentado
+
+ENTREGA DE DECLARAÇÃO:
+
+- Regime mensal: até ao dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
+- Regime trimestral: até ao dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+
+
+
+
+## IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+
+- Quem paga: comprador do imóvel.
+- Quanto: varia sugundo o valor e finalidade da compra (habitação própria e permanente ou não).
 
 
 
@@ -169,15 +195,7 @@ Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC 
 	- prédios rústicos: 0,8% sobre o valor patrimonial tributário;
 	- prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
 	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
-- Prazo: pagamento anual durante o mês de Abril ou duas tranches Abril e Novembro?.
-
-
-
-
-## IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-
-- Quem paga: comprador do imóvel.
-- Valor a pagar: varia sugundo o valor de compra e a sua finalidade (habitação própria e permanente ou não).
+- Quando: pagamento anual durante o mês de Abril ou duas tranches Abril e Novembro?.
 
 
 
@@ -187,8 +205,15 @@ Imposto cobrado pelos municípios portugueses que consiste numa adição ao IRC 
 Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissões de CO2.
 
 - Quem paga: proprietários de veículos motorizados terrestre.
-- Valor a pagar: varia segundo a cilindrada e ano de matrícula do veículo.
-- Prazo: pagamento anual até ao final do mês de aniversário da matrícula do veículo.
+- Quanto: varia segundo a cilindrada e ano de matrícula do veículo.
+- Quando: pagamento anual até ao final do mês de aniversário da matrícula do veículo.
+
+
+
+
+## Fatura
+
+- Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
 
 
 
@@ -205,32 +230,10 @@ Conjunto de códigos de classificação específicos que abrange todas as empres
 Desde 2007 IES representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística.
 Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes.
 
-- Prazo: entregar no site das finanças até ao 15º dia do 7º mês seguinte ao fim do exercício económico. Regra geral, 15 de Julho. Pagar o valor do registo (85 euros) num prazo máximo de 5 dias úteis seguintes.
-
+- Quando: entregar no site das finanças até ao 15º dia do 7º mês seguinte ao fim do exercício económico. Regra geral, 15 de Julho. 
+- Quanto: €85 até 5 dias úteis após a entrega.
 - Dispensa de entrega: sujeitos passivos no regime simplificado (CIVA art.29, alínea 16).
-
-
-
-
-## IVA: Imposto sobre o Valor Acrescentado
-
-ENTREGA DE DECLARAÇÃO:
-
-- Regime mensal: até ao dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
-
-- Regime trimestral: até ao dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
-
-
-
-
-## Fatura
-
-- Quando são emitidas em formato electrónico, devem ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, a fatura deve ser enviada em papel, assinada e carimbada por quem a emite. 
-
-
 <!--
-
-
 ## IVA de Caixa
 
 Em 2014 chegou um novo regime de contabilidade opcional para as empresas portuguesas – o IVA de caixa. 
