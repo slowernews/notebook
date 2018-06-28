@@ -21,10 +21,12 @@
 *rendimento*
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
-- [Segurança Social](#segurança-social)
+- [SS: Segurança Social](#ss-segurança-social)
+
 *vendas*
 - [IVA: Imposto sobre o Valor Acrescentado](#iva-imposto-sobre-o-valor-acrescentado)
 - [IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis](#imt-imposto-municipal-sobre-as-transmissões-onerosas-de-imóveis)
+
 *propriedade*
 - [IMI: Imposto Municipal sobre Imóveis](#imi-imposto-municipal-sobre-imóveis)
 - [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
@@ -126,13 +128,13 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 Imposto progressivo que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes.
 
-São considerados, neste imposto, os rendimentos provenientes de:
-- Categoria A: Trabalho dependente
-- Categoria B: Empresariais e profissionais
-- Categoria E: Capitais
-- Categoria F: Prediais
-- Categoria G: Incrementos patrimoniais (mais-valias)
-- Categoria H: Pensões
+- São considerados, neste imposto, os rendimentos provenientes de:
+	- Categoria A: Trabalho dependente
+	- Categoria B: Empresariais e profissionais
+	- Categoria E: Capitais
+	- Categoria F: Prediais
+	- Categoria G: Incrementos patrimoniais (mais-valias)
+	- Categoria H: Pensões
 
 - Atenuantes: despesas de saúde ou educação.
 - Pagamento adiantado: as retenções na fonte, obrigatórias nalguns casos, acabam por funcionar como um pagamento adiantado no momento em que se obtém os rendimentos. Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS.
@@ -140,11 +142,13 @@ São considerados, neste imposto, os rendimentos provenientes de:
 - Regime simplificado:
 	- Para quem: ENIs / Trabalhadores independentes com volume de negócios anual inferior a €200K.
 	- TOC facultativo.
+	- Dispensado de [IES](#ies-informação-empresarial-simplificada).
 	- Assume-se uma margem de 15% de rendimento colectável sobre as *vendas* e 75% sobre os *serviços*. No regime simplificado as despesas não são consideradas, não existindo a possibilidade de fazer as deduções das despesas, ao contrário do que acontece com a contabilidade organizada.
 - Contabilidade Organizada:
 	- Para quem: Sociedades e ENIs / Trabalhadores independentes com volume de negócios anual superior a €200K (ou por opção).
 	- [TOC obrigatório](#quanto-custa-um-toc).
-	- A determinação do rendimento segue as regras do Código do IRC, embora com algumas diferenças, algumas das quais na limitação dos custos que se podem considerar em termos fiscais. Por isso, é importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. Regra geral, quanto maior o negócio mais se recomenda a contabilidade organizada: sempre que os custos forem superiores a 25% dos rendimentos será mais proveitoso escolher a contabilidade organizada.
+	- [IES obrigatória](#ies-informação-empresarial-simplificada).
+	- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar em termos fiscais. É importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será mais proveitoso escolher a contabilidade organizada.
 
 
 
@@ -163,7 +167,7 @@ São considerados, neste imposto, os rendimentos provenientes de:
 
 
 
-## Segurança Social
+## SS: Segurança Social
 
 Quais os escalões?
 
