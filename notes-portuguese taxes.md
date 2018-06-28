@@ -224,7 +224,7 @@ Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissõ
 
 ## CAE: Classificação Portuguesa das Actividades Económicas
 
-Conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto, para controle .
+Conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto, para controle estatistico e estatal.
 
 
 

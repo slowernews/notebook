@@ -1,67 +1,56 @@
 // Native methods to check if: (Boolean result)
 
-Array.isArray()			// It is an array
-jsArray.every()			// Every element in an array pass a test
-jsArray.some()			// Any of the elements in an array pass a test
-jsArrayOrString.includes()	// It contains the specified element or string/chars
-jsString.startsWith()		// It begins with specified chars
-jsString.endsWith()		// It ends with specified chars
+Array.isArray()							// It's an array
+jsArray.every()			jsArray.some()			// Every/any element in an array pass a test
+jsArrayOrString.includes()					// Contains the specified element or string/chars
+jsString.startsWith()		jsString.endsWith()		// Begins/ends with specified chars
 
 // Native methods to return the index of:
 
-jsArray.findIndex()		// First element in an array that pass a test
-jsArrayOrString.indexOf()	// First found occurrence of a specified value
-jsArrayOrString.lastIndexOf()	// Last found occurrence of a specified value
-jsString.search()		// A specified value or REGEX
+jsArrayOrString.indexOf()	jsArrayOrString.lastIndexOf()	// First/last found occurrence of a specified value
+jsArray.findIndex()						// First element in an array that pass a test
+jsString.search()						// A specified value or REGEX
 
 // Native methods to return values at a specified index:
 
-jsArrayOrString[]		// Char or element
-jsString.charAt()		// Char
-jsString.charCodeAt()		// Unicode of the char
+jsArrayOrString[]						// Char or element
+jsString.charAt()		jsString.charCodeAt()		// Char/Unicode of the char
 
 // Native methods to find and return:
 
-jsArray.find()			// The first element in an array that pass a test
-jsString.match()		// Matches against a REGEX
+jsArray.find()							// The first element in an array that pass a test
+jsString.match()						// Matches against a REGEX
 
 // Native methods to glue and keep the same datatype:
 
-jsArrayOrString.concat()	// Joins two or more strings/arrays and returns a new one
+jsArrayOrString.concat()					// Joins two or more strings/arrays and returns a new one
 
 // Native methods to convert datatypes:
 
-jsArray.join()			// Joins all elements into a string (you can define a separator)
-Array.from()			// Creates an array from an iterable object
-allJsDatatypes.toString()	// Converts to a string, and returns the result
-jsString.split()		// Splits a string into an array of substrings
-JSON.parse()			// Parses a JSON string into a JS value or object
-JSON.stringify()		// Converts a JS value or object into a JSON string
+jsArray.join()							// Joins all elements into a string (you can define a separator)
+allJsDatatypes.toString()					// Converts to a string and returns the result
+jsString.split()						// Splits a string into an array of substrings
+JSON.parse()			JSON.stringify()		// Parses a JSON string into a JS value or object and vice versa
+Array.from()							// Creates an array from an iterable object
 
-// Native methods to create a new array/string by transforming an existent one:
+// Native methods to create a new array/string based on an existent one:
 
-jsArray.filter()		// With every element in an array that pass a test
-jsArray.map()			// With the result of calling a function for each array element
-jsArrayOrString.slice()		// With a selected part of an array
-jsString.replace()		// With a specified value replacing a specified value or REGEX
-jsString.substr()		// Extracts the chars from a specified index and length
-jsString.substring()		// Extracts the chars between two specified indices
-jsString.trim()			// Removes whitespace from both ends of a string
-jsString.toLowerCase()		// With the string converted to lowercase letters
-jsString.toUpperCase()		// With the string converted to uppercase letters
+jsArray.filter()						// With every element in an array that pass a test
+jsArray.map()							// With the result of calling a function on each aelement
+jsArrayOrString.slice()						// With a selected part
+jsString.replace()						// With a specified value replacing a specified value or REGEX
+jsString.substr()		jsString.substring()		// Extracts chars from a specified index and length/two indexes
+jsString.toLowerCase()		jsString.toUpperCase()		// With the string converted to lowercase/uppercase letters
+jsString.trim()							// Removes whitespace from both ends of a string
 
 // Native methods to transform the array:
 
-jsArray.forEach()		// Calls a function for each array element
-jsArray.reduce()		// Reduce the values of an array to a single value (going left-to-right)
-jsArray.reduceRight()		// Reduce the values of an array to a single value (going right-to-left)
-
-jsArray.splice()		// Adds/Removes elements from an array
-jsArray.pop()			// Removes the last element and returns that element
-jsArray.shift()			// Removes the first element and returns that element
-jsArray.push()			// Adds new elements to the end of an array and returns the new length
-jsArray.unshift()		// Adds new elements to the beginning of an array and returns the new length
-jsArray.copyWithin()		// Copies array elements within the array, to and from specified positions
+jsArray.forEach()						// Calls a function for each array element
+jsArray.reduce()		jsArray.reduceRight()		// Reduce values to a single value (left-right/right-left)
+jsArray.shift()	  		jsArray.pop()			// Removes the first/last element and returns that element
+jsArray.unshift()		jsArray.push()			// Adds new elements to the begin/end and returns new length
+jsArray.splice()						// Adds/removes elements from an array
+jsArray.copyWithin()						// Copies elements to and from specified positions
 
 // Native methods to reorder the array:
 
@@ -135,23 +124,17 @@ x       			// ignore whitespace
 
 // JS Math object relevant methods and properties
 
-Math.E				// Returns Euler's number (approx. 2.718)
-Math.PI				// Returns PI (approx. 3.14)
-Math.SQRT2			// Returns the square root of 2 (approx. 1.414)
+Math.pow()	or: x ** y	// Returns the value of x to the power of y
+Math.sqrt()	Math.cbrt()	// Returns the square/cubic root of x
 
-Math.pow(x,y)	or: x ** y	// Returns the value of x to the power of y
-Math.sqrt(x)			// Returns the square root of x
-Math.cbrt(x)			// Returns the cubic root of x
-
-Math.floor(x)			// Returns x, rounded downwards to the nearest integer
-Math.ceil(x)			// Returns x, rounded upwards to the nearest integer
-Math.round(x)			// Rounds x to the nearest integer
-Math.trunc(x)			// Returns the integer part of a number x
+Math.round()			// Rounds to the nearest integer and returns it
+Math.floor()	Math.ceil()	// Rounds downwards/upwards the nearest integer and returns it
+Math.trunc()			// Returns the integer part of a number
+Math.abs()			// Returns the absolute value
+Math.max()	Math.min()	// Returns the number with the max/min value
 
 Math.random()			// Returns a random number between 0 and 1
-Math.max(x, y .. n)		// Returns the number with the highest value
-Math.min(x, y .. n)		// Returns the number with the lowest value
-Math.abs(x)			// Returns the absolute value of x
+Math.PI 	Math.SQRT2	// Returns PI/square root of 2
 
 // JS properties
 
