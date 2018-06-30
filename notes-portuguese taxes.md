@@ -55,8 +55,9 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 ## Trabalhador independente / Empresário em nome individual
 
-Trabalhadores independentes e Empresários em nome individual são tributados da mesma forma em IRS e IVA. A diferença é chamar-se
-ENI a quem tem uma actividade que está elencada no CAE e trabalhador independente a quem presta serviços no âmbito da lista anexa ao CIRS no artigo 151º.
+Trabalhadores independentes e Empresários em nome individual são tributados da mesma forma em IRS e IVA. Chama-se:
+- ENI a quem tem uma actividade que está elencada no CAE;
+- Trabalhador Independente a quem presta serviços no âmbito da lista anexa ao CIRS, art.151.
 
 #### Notas:
 - Documento fiscal: fatura ou recibo verde.
@@ -66,7 +67,7 @@ ENI a quem tem uma actividade que está elencada no CAE e trabalhador independen
 	- Regime simplificado de IRS: se o volume de vendas for inferior a €200k.
 	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200k ou por opção do empresário.
 - IVA:
-	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada.
+	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10k no ano anterior ou possuir contabilidade organizada.
 	- evolução trimestral de IVA às Fisco (ou mensal, se superior a €500k)
 - Segurança Social:
 	- pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4xx)
@@ -91,9 +92,10 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 ## Sociedade Anónima
 
+Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que necessitem de muito financiamento.
+
 #### Notas:
 
-- Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que necessitem de muito financiamento.
 - Capital social: min. €50k divididos por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
 
@@ -102,18 +104,18 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-Imposto progressivo que tributa o valor anual dos rendimentos de 
+#### Notas:
 
 - Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
 - Quanto? 7 escalões (2018). Valores aproximados:
 
-		ESCALÕES:				TAXA		TAXA MÉDIA
-		Até €7k:				14.5%
-		Entre  €7k e 10k:		23%			17.5%
+		ESCALÕES:			TAXA		TAXA MÉDIA
+		Até €7k:			14.5%
+		Entre  €7k e 10k:		23%		17.5%
 		Entre €10k e 20k:		28.5%		22.5%
-		Entre €20k e 25k:		35%			25%
-		Entre €25k e 37k:		37%			29%
-		Entre €37k e 80k:		45%			37.5%
+		Entre €20k e 25k:		35%		25%
+		Entre €25k e 37k:		37%		29%
+		Entre €37k e 80k:		45%		37.5%
 		Superior a 80k:			48%
 		
 		Sobre rendimentos das seguintes categorias:
@@ -124,12 +126,12 @@ Imposto progressivo que tributa o valor anual dos rendimentos de
 		G: Incrementos patrimoniais (mais-valias)
 		H: Pensões
 
-- Formas de cálculo IRS para ENIs / Trab.Independentes:
+- Formas de cálculo IRS para ENIs / Trabalhadores Independentes:
 	- Regime simplificado:
 		- Para quem: negócio anual inferior a €200k.
 		- TOC facultativo.
 		- Dispensado de [IES](#ies-informação-empresarial-simplificada).
-		- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (?) consideradas ao contrário do que acontece com a contabilidade organizada.
+		- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
 	- Contabilidade Organizada:
 		- Para quem: negócio anual superior a €200k (ou por opção).
 		- [TOC obrigatório](#quanto-custa-um-toc).
@@ -137,20 +139,21 @@ Imposto progressivo que tributa o valor anual dos rendimentos de
 		- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
 
 - Atenuantes fiscais: despesas de saúde ou educação.
-- Pagamento adiantado obrigatório (so houver retenção a mais, há lugar a reembolso):
+- Pagamento adiantado obrigatório (caso haja retenção excessiva, há reembolso):
 	- Retenções na fonte:
 		- Quem paga: quem recebe mais de €10k anuais.
-		- Inseridas automaticamente da declaração de IRS.
+		- Inseridas automaticamente na declaração IRS.
 	- Pagamentos por conta:
 		- Quem paga: determinado automaticamente pelo Fisco sobretudo a quem não efectua retenções na fonte.
 		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
-		- Inseridos *manualmente* da declaração de IRS. (Quadro6, anexo B)
-		obrigatório nalguns casos, funcionam como um pagamento adiantado de IRS. .
+		- Inseridos *manualmente* na declaração IRS! (Quadro 6, anexo B)
 
 
 
 
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
+
+#### Notas:
 
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quando: Anualmente.
@@ -159,9 +162,9 @@ Imposto progressivo que tributa o valor anual dos rendimentos de
 
 		Taxas IRC (2018):
 		21% - Continente e Madeira
-		17% (primeiros €15k) - PMEs c/ atividade principal, comercial, industrial ou agrícola no Continente e Madeira
+		17% (primeiros €15k) - PMEs no Continente e Madeira c/ ativ. principal, comercial, industrial ou agrícola 
 		16.8% - Açores
-		13.6% (primeiros €15k) - PMEs c/ atividade principal, comercial, industrial ou agrícola nos Açores
+		13.6% (primeiros €15k) - PMEs nos Açores c/ ativ. principal, comercial, industrial ou agrícola 
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
