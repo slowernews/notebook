@@ -1,4 +1,4 @@
-# Portuguese tax system
+# Portuguese tax system (2018)
 
 ### Trabalhador Dependente
 
@@ -44,10 +44,10 @@
 
 O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
 
-#### Caracteristicas:
+#### Notas:
 - Documento fiscal: ato isolado.
 - IRS: ???
-- IVA: cobrança obrigatória e devolução às Finanças até ao final do mês seguinte.
+- IVA: cobrança obrigatória e devolução às Fisco até ao final do mês seguinte.
 - Segurança social: pagamento mensal facultativo.
 
 
@@ -58,7 +58,7 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 Trabalhadores independentes e Empresários em nome individual são tributados da mesma forma em IRS e IVA. A diferença é chamar-se
 ENI a quem tem uma actividade que está elencada no CAE e trabalhador independente a quem presta serviços no âmbito da lista anexa ao CIRS no artigo 151º.
 
-#### Caracteristicas:
+#### Notas:
 - Documento fiscal: fatura ou recibo verde.
 - Responsabilidade sobre o património individual: total.
 - Sem capital inicial para constituição.
@@ -67,7 +67,7 @@ ENI a quem tem uma actividade que está elencada no CAE e trabalhador independen
 	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200k ou por opção do empresário.
 - IVA:
 	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10€ no ano anterior ou possuir contabilidade organizada.
-	- evolução trimestral de IVA às Finanças (ou mensal, se superior a €500K)
+	- evolução trimestral de IVA às Fisco (ou mensal, se superior a €500k)
 - Segurança Social:
 	- pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4xx)
 	- acesso a subsidio de desemprego após 2 anos.   e baixa médica após 30 dias.
@@ -79,7 +79,7 @@ ENI a quem tem uma actividade que está elencada no CAE e trabalhador independen
 
 A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
-#### Caracteristicas:
+#### Notas:
 
 - Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica.
 - Responsabilidade sobre o património individual: limitada.
@@ -91,54 +91,79 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 ## Sociedade Anónima
 
-#### Caracteristicas:
+#### Notas:
 
+- Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que necessitem de muito financiamento.
+- Capital social: min. €50k divididos por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
-- Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que necessitem de garantir financiamentos consideráveis.
-- Capital social minimo de €50K divididos por ações de igual valor. Mínimo cinco sócios. É possível a constituição de uma SA com um único sócio, se este for uma sociedade.
 
 
 
 
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-Imposto progressivo que tributa o valor anual dos rendimentos de indivíduos residentes em território nacional e dos rendimentos obtidos em Portugal por não residentes.
+Imposto progressivo que tributa o valor anual dos rendimentos de 
 
-- São considerados os rendimentos de:
-	- Categoria A: Trabalho dependente
-	- Categoria B: Empresariais e profissionais
-	- Categoria E: Capitais
-	- Categoria F: Prediais
-	- Categoria G: Incrementos patrimoniais (mais-valias)
-	- Categoria H: Pensões
+- Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
+- Quanto? 7 escalões (2018). Valores aproximados:
 
-- Atenuantes: despesas de saúde ou educação.
-- Pagamento adiantado: as *retenções na fonte* e *pagamentos por conta*, obrigatório nalguns casos, acabam por funcionar como um pagamento adiantado de IRS. Se no cálculo do imposto se constatar que foram efetuadas mais retenções do que as necessárias, há lugar a um reembolso do IRS.
+		ESCALÕES:				TAXA		TAXA MÉDIA
+		Até €7k:				14.5%
+		Entre  €7k e 10k:		23%			17.5%
+		Entre €10k e 20k:		28.5%		22.5%
+		Entre €20k e 25k:		35%			25%
+		Entre €25k e 37k:		37%			29%
+		Entre €37k e 80k:		45%			37.5%
+		Superior a 80k:			48%
+		
+		Sobre rendimentos das seguintes categorias:
+		A: Trabalho dependente
+		B: Empresariais e profissionais
+		E: Capitais
+		F: Prediais
+		G: Incrementos patrimoniais (mais-valias)
+		H: Pensões
 
-- Regime simplificado:
-	- Para quem: ENIs / Trabalhadores independentes com volume de negócios anual inferior a €200k.
-	- TOC facultativo.
-	- Dispensado de [IES](#ies-informação-empresarial-simplificada).
-	- Assume-se uma margem de 15% de rendimento colectável sobre as *vendas* e 75% sobre os *serviços*. No regime simplificado as despesas não são consideradas, não existindo a possibilidade de fazer as deduções das despesas, ao contrário do que acontece com a contabilidade organizada.
-- Contabilidade Organizada:
-	- Para quem: Sociedades e ENIs / Trabalhadores independentes com volume de negócios anual superior a €200K (ou por opção).
-	- [TOC obrigatório](#quanto-custa-um-toc).
-	- [IES obrigatória](#ies-informação-empresarial-simplificada).
-	- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar em termos fiscais. É importante perceber que quanto mais custos se puderem considerar melhor, uma vez que baixam o valor do imposto a pagar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será mais proveitoso escolher a contabilidade organizada.
+- Formas de cálculo IRS para ENIs / Trab.Independentes:
+	- Regime simplificado:
+		- Para quem: negócio anual inferior a €200k.
+		- TOC facultativo.
+		- Dispensado de [IES](#ies-informação-empresarial-simplificada).
+		- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (?) consideradas ao contrário do que acontece com a contabilidade organizada.
+	- Contabilidade Organizada:
+		- Para quem: negócio anual superior a €200k (ou por opção).
+		- [TOC obrigatório](#quanto-custa-um-toc).
+		- [IES obrigatória](#ies-informação-empresarial-simplificada).
+		- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
+
+- Atenuantes fiscais: despesas de saúde ou educação.
+- Pagamento adiantado obrigatório (so houver retenção a mais, há lugar a reembolso):
+	- Retenções na fonte:
+		- Quem paga: quem recebe mais de €10k anuais.
+		- Inseridas automaticamente da declaração de IRS.
+	- Pagamentos por conta:
+		- Quem paga: determinado automaticamente pelo Fisco sobretudo a quem não efectua retenções na fonte.
+		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
+		- Inseridos *manualmente* da declaração de IRS. (Quadro6, anexo B)
+		obrigatório nalguns casos, funcionam como um pagamento adiantado de IRS. .
 
 
 
 
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-- Quem paga: empresas com sede ou direção efetiva em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do território português.
+- Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quando: Anualmente.
-- Quanto: 21%.
-	- Agravantes: A taxa de IRC é normalmente agravada pela Derrama (imposto cobrado pelos municípios portugueses) até um máximo de 1.5%. A Derrama é revista anualmente por cada municipio: [taxas de derrama 2018](http://www.taxfile.pt/file_bank/news0918_5_1.pdf).
-	- Atenuantes:
-		- PMEs com atividade principal, comercial, industrial ou agrícola: €15k taxados a 17%.
-		- Empresas nos Açores: taxa de IRC de 16,8% e 13,6% respectivamente.
-		- Criação de emprego para jovens, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
+- Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/
+		news0918_5_1.pdf))
+
+		Taxas IRC (2018):
+		21% - Continente e Madeira
+		17% (primeiros €15k) - PMEs c/ atividade principal, comercial, industrial ou agrícola no Continente e Madeira
+		16.8% - Açores
+		13.6% (primeiros €15k) - PMEs c/ atividade principal, comercial, industrial ou agrícola nos Açores
+
+- Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 
 
 
@@ -178,7 +203,7 @@ Quais os escalões?
 	- prédios rústicos: 0,8% sobre o valor patrimonial tributário;
 	- prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
 	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
-- Quando: pagamento anual durante o mês de Abril ou duas tranches Abril e Novembro?.
+- Quando: anualmente durante o mês de Abril ou duas tranches Abril e Novembro?.
 
 
 
@@ -189,12 +214,14 @@ Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissõ
 
 - Quem paga: proprietários de veículos motorizados terrestre.
 - Quanto: varia segundo a cilindrada e ano de matrícula do veículo.
-- Quando: pagamento anual até ao final do mês de aniversário da matrícula do veículo.
+- Quando: anualmente até ao final do mês de aniversário da matrícula do veículo.
 
 
 
 
 ## Fatura
+
+#### Notas:
 
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
 
@@ -212,10 +239,10 @@ Conjunto de códigos de classificação específicos que abrange todas as empres
 
 Desde 2007 IES representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística.
 Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes.
-
 - Quando: entregar no site das finanças até ao 15º dia do 7º mês seguinte ao fim do exercício económico. Regra geral, 15 de Julho. 
 - Quanto: €85 até 5 dias úteis após a entrega.
 - Dispensa de entrega: sujeitos passivos no regime simplificado (CIVA art.29, alínea 16).
+
 <!--
 ## IVA de Caixa
 
