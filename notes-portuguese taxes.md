@@ -81,7 +81,6 @@ Trabalhadores independentes e Empresários em nome individual são tributados da
 A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 #### Notas:
-
 - Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica.
 - Responsabilidade sobre o património individual: limitada.
 - Desde 2011 que não há capital inicial mínimo. O capital social é simplesmente o dinheiro que os sócios colocam, passando a ser capital inicial da empresa. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
@@ -92,10 +91,9 @@ A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
 
 ## Sociedade Anónima
 
-Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que necessitem de muito financiamento.
+Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que requiram muito financiamento.
 
 #### Notas:
-
 - Capital social: min. €50k divididos por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
 
@@ -105,9 +103,8 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
 #### Notas:
-
 - Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
-- Quanto? 7 escalões (2018). Valores aproximados:
+- Quanto? 7 escalões. Valores aproximados (2018):
 
 		ESCALÕES:			TAXA		TAXA MÉDIA
 		Até €7k:			14.5%
@@ -116,7 +113,7 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 		Entre €20k e 25k:		35%		25%
 		Entre €25k e 37k:		37%		29%
 		Entre €37k e 80k:		45%		37.5%
-		Superior a 80k:			48%
+		Superior a 80k: 		48%
 		
 		Sobre rendimentos das seguintes categorias:
 		A: Trabalho dependente
@@ -137,7 +134,6 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 		- [TOC obrigatório](#quanto-custa-um-toc).
 		- [IES obrigatória](#ies-informação-empresarial-simplificada).
 		- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
-
 - Atenuantes fiscais: despesas de saúde ou educação.
 - Pagamento adiantado obrigatório (caso haja retenção excessiva, há reembolso):
 	- Retenções na fonte:
@@ -154,11 +150,8 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
 #### Notas:
-
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
-- Quando: Anualmente.
-- Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/
-		news0918_5_1.pdf))
+- Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
 
 		Taxas IRC (2018):
 		21% - Continente e Madeira
@@ -180,6 +173,7 @@ Quais os escalões?
 
 ## IVA: Imposto sobre o Valor Acrescentado
 
+#### Notas:
 - Quem paga:
 	- Sociedades e Trab. Esporádicos (Ato isolado).
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior ou no regime de contabilidade organizada.
@@ -225,7 +219,6 @@ Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissõ
 ## Fatura
 
 #### Notas:
-
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
 
 
