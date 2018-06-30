@@ -55,9 +55,9 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 ## Trabalhador independente / Empresário em nome individual
 
-Trabalhadores independentes e Empresários em nome individual são tributados da mesma forma em IRS e IVA. Chama-se:
-- ENI a quem tem uma actividade que está elencada no CAE;
-- Trabalhador Independente a quem presta serviços no âmbito da lista anexa ao CIRS, art.151.
+Ambos são tributados de igual forma pelo Fisco. A diferença é que:
+- O Empresário em nome individual tem uma actividade que está elencada no CAE;
+- O Trabalhador Independente presta serviços no âmbito da lista anexa ao CIRS, art.151.
 
 #### Notas:
 - Documento fiscal: fatura ou recibo verde.
@@ -104,7 +104,7 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 
 #### Notas:
 - Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
-- Quanto? 7 escalões. Valores aproximados (2018):
+- Quanto? valores aproximados para 2018.
 
 		ESCALÕES:			TAXA		TAXA MÉDIA
 		Até €7k:			14.5%
@@ -175,12 +175,12 @@ Quais os escalões?
 
 #### Notas:
 - Quem paga:
-	- Sociedades e Trab. Esporádicos (Ato isolado).
+	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior ou no regime de contabilidade organizada.
-	- Isenções: algumas actividades estão isentas de IVA.
+	- Isenções: algumas actividades estão isentas de IVA (quais?).
 - Quando:
-	- Regime trimestral: até ao dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
-	- Regime mensal: até ao dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
+	- Regime trimestral: até dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+	- Regime mensal: até dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
 
 
 
