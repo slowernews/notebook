@@ -115,7 +115,7 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 		Entre €37k e 80k:		45%		37.5%
 		Superior a 80k: 		48%
 		
-		Sobre rendimentos das seguintes categorias:
+		Sobre os rendimentos das seguintes categorias:
 		A: Trabalho dependente
 		B: Empresariais e profissionais
 		E: Capitais
@@ -123,17 +123,6 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 		G: Incrementos patrimoniais (mais-valias)
 		H: Pensões
 
-- Formas de cálculo IRS para ENIs / Trabalhadores Independentes:
-	- Regime simplificado:
-		- Para quem: negócio anual inferior a €200k.
-		- TOC facultativo.
-		- Dispensado de [IES](#ies-informação-empresarial-simplificada).
-		- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
-	- Contabilidade Organizada:
-		- Para quem: negócio anual superior a €200k (ou por opção).
-		- [TOC obrigatório](#quanto-custa-um-toc).
-		- [IES obrigatória](#ies-informação-empresarial-simplificada).
-		- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
 - Atenuantes fiscais: despesas de saúde ou educação.
 - Pagamento adiantado obrigatório (caso haja retenção excessiva, há reembolso):
 	- Retenções na fonte:
@@ -144,7 +133,15 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
 		- Inseridos *manualmente* na declaração IRS! (Quadro 6, anexo B)
 
-
+#### Cálculo IRS para ENIs / Trabalhadores Independentes:
+- Regime simplificado:
+	- TOC facultativo.
+	- Dispensado de [IES](#ies-informação-empresarial-simplificada).
+	- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
+- Contabilidade Organizada:
+	- [TOC obrigatório](#quanto-custa-um-toc).
+	- [IES obrigatória](#ies-informação-empresarial-simplificada).
+	- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
 
 
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
