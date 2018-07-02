@@ -1,26 +1,37 @@
-ja		ty		on, ona		my	wy		oni		
-dla mnie	dla ciebie				dla państwa
+ja		ty		on-ona		my	wy		oni		
+dla mnie	dla ciebie				dla państwa		# for me/you
+		u ciebie							# at you
+				jego # his
 
-# verbos no passado: e -> a , i -> y 
-jestem		jesteś		jest					są
-biłem		byłeś-byłaś	był-była				byli
-mam		masz		mas					mają
-miałem		miałeś-miałaś	miał-miała				mieli
+# masculino/feminino no passado: e -> a; i -> y; l -> ł
+jestem		jesteś		jest					są 	# być
+biłem		byłeś		był+a					byli
+mam		masz		mas					mają 	# mieć
+miałem		miałeś		miał+a					mieli
 
-tu - tam	# aqui - ali
-ten - tamten	# este - aquele
+tu - tam	# here - there
+ten - tamten	# this - that
 to		# ???
+i - lub, albo	# e - ou
+w, we 		# in
+z, ze 		# with
+o 		# about
+od - do		# from - to (de - à)
+przez		# by (através)
+przed - po	# before - after
+nad - pod	# above - under
 
-czy		# ou
-w 		# na, em
+czy 		# whether (no meio da frase)
 
-skąd?		skąd jesteś?		# de onde? / de onde és?
-gdzie?		gdzie jest..?		# onde? / onde está ..?
-kiedy?		kiedy jest..?		# quando? / quando é ..?
-co?		co to jest?		# o que? / o que é isto?
-jaki?					# quais?
-jak?		jak masz na imię?	# qual?, como? / como te chamas?
-ile?		ile to kostuje?		# quanto? / quanto custa?
+skąd?		skąd jesteś?			# de onde? / de onde és?
+gdzie?		gdzie jest..?			# onde? / onde está ..?
+kiedy?		kiedy jest..?			# when (quando / quando é ..)
+co?		co to jest?			# what (o que / o que é isto)
+jaki?						# what (qual)
+jak?		jak masz na imię?		# how (como / como te chamas)
+ile?		ile to kostuje?			# how much (quanto / quanto custa)
+dlaczego?, czemu				# why
+jeżeli, jeśli, gdyby				# if (inicio da frase)
 
 zero
 jeden		pierwszy	jede.nascie
@@ -33,3 +44,5 @@ siedem			      siedem+nascie	  siedem+dziesiąt	  siedem+set
 osien			       osiem+nascie	   osiem+dziesiąt	   osiem+set
 dziewięc		    dziewięt.nascie	dziewięć+dziesiąt	dziewięć+set *
 dziesięc						      sto	      tysiąc
+
+zależy		# depends

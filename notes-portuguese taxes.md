@@ -1,4 +1,4 @@
-# Portuguese tax system (2018)
+# Portuguese tax system for noobs (2018)
 
 ### Trabalhador Dependente
 
@@ -9,12 +9,11 @@
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente / empresário em nome individual](#trabalhador-independente--empresário-em-nome-individual)
 
-### Sociedade
+### Sociedades
 
-- [Sociedade unipessoal: Unipessoal, LDA](#sociedade-por-quotas)
-- [Sociedade por quotas: LDA](#sociedade-por-quotas)
-- [???: EIRL]()
-- [Sociedade anónima: SA](#sociedade-anónima)
+- [LDA: Sociedade por quotas](#lda-sociedade-por-quotas)
+- EIRL: Estabelecimento de Responsabilidade Limitada
+- [SA: Sociedade anónima](#sa-sociedade-anónima)
 
 ### Impostos directos em Portugal
 
@@ -22,6 +21,7 @@
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
 - [SS: Segurança Social](#ss-segurança-social)
+- TSU: Taxa Social Única
 
 #### Sobre as vendas
 - [IVA: Imposto sobre o Valor Acrescentado](#iva-imposto-sobre-o-valor-acrescentado)
@@ -36,17 +36,15 @@
 - [Fatura](#fatura)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
 - [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
+- [IAS: Indexante dos Apoios Sociais](#)
 - [Quanto custa um TOC?](#quanto-custa-um-toc?)
 
 
 
 ## Trabalhador esporádico: ato isolado
 
-O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no ato de recebimento de um montante pela prestação de serviços, venda e/ou produção de bens mas de *caráter não contínuo*. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
-
-#### Notas:
-- Documento fiscal: ato isolado.
-- IRS: ???
+- Documento fiscal: ato isolado. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
+- IRS: ?
 - IVA: cobrança obrigatória e devolução às Fisco até ao final do mês seguinte.
 - Segurança social: pagamento mensal facultativo.
 
@@ -55,46 +53,46 @@ O *ato isolado* é o documento fiscal electrónico passado pelo trabalhador no a
 
 ## Trabalhador independente / Empresário em nome individual
 
-Ambos são tributados de igual forma pelo Fisco. A diferença é que:
-- O Empresário em nome individual tem uma actividade que está elencada no CAE;
-- O Trabalhador Independente presta serviços no âmbito da lista anexa ao CIRS, art.151.
-
-#### Notas:
-- Documento fiscal: fatura ou recibo verde.
+- Quais as diferenças:
+	- O Empresário em nome individual tem uma actividade que está elencada no CAE;
+	- O Trabalhador Independente presta serviços no âmbito da lista anexa ao CIRS, art.151.
+	- Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
 - Sem capital inicial para constituição.
-- IRS: categoria B. Durante os três primeiros anos de atividade, não está sujeito ao *pagamento por conta* de IRS (pagamento antecipado a efetuar em julho, setembro e dezembro). A partir daí terá de fazer esse pagamento, caso se verifiquem as condições previstas (CIRS, art.102)
+- Documento fiscal: fatura ou recibo verde.
+- IRS: categoria B.
+	- Durante os três primeiros anos de atividade, isento de *pagamentos por conta*. Após esta data será notificado para pagamento, caso se verifiquem as condições previstas (CIRS, art.102).
 	- Regime simplificado de IRS: se o volume de vendas for inferior a €200k.
 	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200k ou por opção do empresário.
 - IVA:
 	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10k no ano anterior ou possuir contabilidade organizada.
 	- evolução trimestral de IVA às Fisco (ou mensal, se superior a €500k)
 - Segurança Social:
-	- pagamento mensal obrigatório (a nao ser que acumule atividade independente c/ trabalho dependente auperior a €4xx)
-	- acesso a subsidio de desemprego após 2 anos.   e baixa médica após 30 dias.
+	- pagamento mensal obrigatório (a nao ser que acumule c/ trabalho dependente superior a €4xx)
+	- Baixa médica após 30 dias.
+	- acesso a subsidio de desemprego após 2 anos se houver:
+		- cessação de atividade (só ENIs). (DL.12/2013)
+		- 80% da atividade numa só entidade (só Trab. Independentes).
 
 
 
 
-## Sociedade por Quotas
+## LDA: Sociedade por Quotas
 
-A sociedade por quotas pode ter uma unica quota: Sociedade unipessoal.
-
-#### Notas:
-- Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica.
+- Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
+	- *Unipessoal Lda* se houver só um sócio.
+	- *Lda* se houver vários sócios.
+- Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica. Capital inicial mínimo de 1€. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - Responsabilidade sobre o património individual: limitada.
-- Desde 2011 que não há capital inicial mínimo. O capital social é simplesmente o dinheiro que os sócios colocam, passando a ser capital inicial da empresa. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - TOC: obrigatório.
 
 
 
 
-## Sociedade Anónima
+## SA: Sociedade Anónima
 
-Forma jurídica legal e burocráticamente exigente indicada para negócios de grande dimensão que requiram muito financiamento.
-
-#### Notas:
-- Capital social: min. €50k divididos por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
+- Forma jurídica burocráticamente exigente para negócios de grande dimensão e que requiram muito financiamento.
+- Criação: capital social mínimo de €50k divididos por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
 
 
@@ -102,7 +100,6 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-#### Notas:
 - Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
 - Quanto? valores aproximados para 2018.
 
@@ -129,7 +126,7 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 		- Quem paga: quem recebe mais de €10k anuais.
 		- Inseridas automaticamente na declaração IRS.
 	- Pagamentos por conta:
-		- Quem paga: determinado automaticamente pelo Fisco sobretudo a quem não efectua retenções na fonte.
+		- Quem paga: sobretudo quem não efectua retenções na fonte determinado automaticamente pelo Fisco (CIRS, art.102).
 		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
 		- Inseridos *manualmente* na declaração IRS! (Quadro 6, anexo B)
 
@@ -144,9 +141,9 @@ Forma jurídica legal e burocráticamente exigente indicada para negócios de gr
 	- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
 
 
+
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-#### Notas:
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
 
@@ -170,7 +167,6 @@ Quais os escalões?
 
 ## IVA: Imposto sobre o Valor Acrescentado
 
-#### Notas:
 - Quem paga:
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior ou no regime de contabilidade organizada.
@@ -215,8 +211,15 @@ Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissõ
 
 ## Fatura
 
-#### Notas:
+- Facturas em papel deverão ser registradas no Fisco até dia 20?? do mes seguinte.
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
+
+
+
+
+## IAS: Indexante dos Apoios Sociais
+
+IAS 2018 = 428,90€
 
 
 
@@ -232,9 +235,9 @@ Conjunto de códigos de classificação específicos que abrange todas as empres
 
 Desde 2007 IES representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística.
 Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes.
-- Quando: entregar no site das finanças até ao 15º dia do 7º mês seguinte ao fim do exercício económico. Regra geral, 15 de Julho. 
+- Quem entrega: Sociedades, EIRLs e ENIs/Trab. Independentes com Contabilidade Organizada.
+- Quando: anualmente até 15 Julho. 
 - Quanto: €85 até 5 dias úteis após a entrega.
-- Dispensa de entrega: sujeitos passivos no regime simplificado (CIVA art.29, alínea 16).
 
 <!--
 ## IVA de Caixa
