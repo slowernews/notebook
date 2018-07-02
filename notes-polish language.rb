@@ -1,7 +1,7 @@
 ja		ty		on-ona		my	wy		oni		
 dla mnie	dla ciebie				dla państwa		# for me/you
-		u ciebie							# at you
-				jego # his
+u mnie		u ciebie	u niego - niej					# at you
+mój		twój		swój 						# mine / yours / his
 
 # masculino/feminino no passado: e -> a; i -> y; l -> ł
 jestem		jesteś		jest					są 	# być

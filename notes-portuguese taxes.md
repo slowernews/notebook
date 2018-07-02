@@ -8,11 +8,11 @@
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente / empresário em nome individual](#trabalhador-independente--empresário-em-nome-individual)
+- EIRL: Estabelecimento de Responsabilidade Limitada
 
 ### Sociedades
 
 - [LDA: Sociedade por quotas](#lda-sociedade-por-quotas)
-- EIRL: Estabelecimento de Responsabilidade Limitada
 - [SA: Sociedade anónima](#sa-sociedade-anónima)
 
 ### Impostos directos em Portugal
@@ -66,7 +66,7 @@
 	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200k ou por opção do empresário.
 - IVA:
 	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10k no ano anterior ou possuir contabilidade organizada.
-	- evolução trimestral de IVA às Fisco (ou mensal, se superior a €500k)
+	- Devolução trimestral de IVA às Fisco (ou mensal, se superior a €500k)
 - Segurança Social:
 	- pagamento mensal obrigatório (a nao ser que acumule c/ trabalho dependente superior a €4xx)
 	- Baixa médica após 30 dias.
@@ -101,8 +101,10 @@
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
 - Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
-- Quanto? valores aproximados para 2018.
+- Quanto?
 
+		VALORES (APROXIMADOS) PARA 2018:
+		
 		ESCALÕES:			TAXA		TAXA MÉDIA
 		Até €7k:			14.5%
 		Entre  €7k e 10k:		23%		17.5%
@@ -128,7 +130,7 @@
 	- Pagamentos por conta:
 		- Quem paga: sobretudo quem não efectua retenções na fonte determinado automaticamente pelo Fisco (CIRS, art.102).
 		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
-		- Inseridos *manualmente* na declaração IRS! (Quadro 6, anexo B)
+		- Inseridos *manualmente!* na declaração IRS. (Quadro 6, anexo B)
 
 #### Cálculo IRS para ENIs / Trabalhadores Independentes:
 - Regime simplificado:
