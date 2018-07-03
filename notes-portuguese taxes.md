@@ -68,12 +68,23 @@
 - IRS: categoria B.
 	- Regime de cálculo de IRS:
 		- Simplificado, se o volume de vendas for inferior a €200k.
+			- Dispensado de TOC e IES.
+			- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
 		- Contabilidade organizada, se o volume de vendas for superior a €200k ou por opção do empresário.
-	- Pagamentos por conta: isenção nos três primeiros anos de atividade. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102).
-	- Retenção na fonte: se tiver rendimentos superiores a €10k *e* se passar recibos a entidades com contabilidade organizada.
+			- Obrigatório TOC e IES.
+			- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher este regime.		
+	- Pagamentos por conta:
+		- Quem paga: isenção nos três primeiros anos de atividade. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102)
+		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
+		- Quanto: valor indicado na nota de liquidação do IRS do *penúltimo!* ano.
+		- Inseridos *manualmente!* na declaração IRS. (Quadro 6, anexo B)
+	- Retenções na fonte:
+		- Quem faz: quem recebe mais de €10k anuais e passe recibos a entidades com contabilidade organizada.
+		- Quanto: 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
+		- Inseridas automaticamente na declaração IRS.
 - IVA:
 	- cobrança obrigatória se tiver tido rendimentos superiores a €10k no ano anterior *ou* possuir contabilidade organizada.
-	- Devolução trimestral de IVA às Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
+	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
 	- pagamento mensal obrigatório (a nao ser que acumule c/ trabalho dependente superior a €4xx)
 	- Baixa médica após 30 dias.
@@ -89,10 +100,11 @@
 - Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
 	- *Unipessoal Lda* se houver só um sócio.
 	- *Lda* se houver vários sócios.
-- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - Responsabilidade sobre o património individual: limitada.
+- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - TOC: obrigatório.
 - Segurança Social: gerentes com acesso a subsidio de desemprego após 2 anos se houver cessação de atividade. (DL.12/2013)
+
 
 
 
@@ -132,26 +144,6 @@
 		H: Pensões
 
 - Atenuantes fiscais: despesas de saúde ou educação.
-- Pagamento adiantado obrigatório (caso haja retenção excessiva, há reembolso):
-	- Retenções na fonte:
-		- Quem paga: quem recebe mais de €10k anuais e passe recibos a entidades com contabilidade organizada.
-		- Quanto? 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
-		- Inseridas automaticamente na declaração IRS.
-	- Pagamentos por conta:
-		- Quem paga: sobretudo quem não efectua retenções na fonte. Notificado automaticamente pelo Fisco.
-		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
-		- Quanto: valor indicado na nota de liquidação do IRS do *penúltimo!* ano.
-		- Inseridos *manualmente!* na declaração IRS. (Quadro 6, anexo B)
-
-#### Formas de cálculo IRS para ENIs / Trabalhadores Independentes:
-- Regime simplificado:
-	- TOC facultativo.
-	- Dispensado de [IES](#ies-informação-empresarial-simplificada).
-	- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
-- Contabilidade Organizada:
-	- [TOC obrigatório](#quanto-custa-um-toc).
-	- [IES obrigatória](#ies-informação-empresarial-simplificada).
-	- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher a contabilidade organizada.
 
 
 
