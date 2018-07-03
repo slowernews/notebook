@@ -44,10 +44,8 @@
 
 ## Trabalhador esporádico: ato isolado
 
-- Documento fiscal: ato isolado.
-	- Pode ser utilizado mais de uma vez, todavia, se os atos e as entidades se repetirem ao longo dos anos (tornando o serviço previsível) *ou* se o valor do mesmo for superior a €25k, o contribuinte será obrigado a abrir actividade.
-	- (DL.12/2013)
-- Constituição: sem necessidade de abrir atividade nas finanças.
+- Constituição: não é necessário abrir atividade nas Finanças;
+- Documento fiscal: ato isolado. Pode ser utilizado mais de uma vez, mas se os atos e as entidades se repetirem ao longo dos anos (tornando o serviço previsível) *ou* se o valor do mesmo for superior a €25k, abrir atividade é obrigatório.
 - IRS: categoria B.
 - IVA: cobrança obrigatória e devolução às Fisco até ao final do mês seguinte.
 - Segurança social:
@@ -64,8 +62,9 @@
 	- O Trabalhador Independente presta serviços no âmbito da lista anexa ao CIRS, art.151.
 	- Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
-- Constituição: abertura de atividade nas finanças sem capital inicial.
+- Constituição: abertura de atividade nas Finanças sem capital inicial.
 - Documento fiscal: fatura ou recibo verde.
+- TOC: facultativo. Só é obrigatório se houver contabilidade organizada.
 - IRS: categoria B.
 	- Regime de cálculo de IRS:
 		- Simplificado, se o volume de vendas for inferior a €200k.
@@ -90,7 +89,7 @@
 - Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
 	- *Unipessoal Lda* se houver só um sócio.
 	- *Lda* se houver vários sócios.
-- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
+- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - Responsabilidade sobre o património individual: limitada.
 - TOC: obrigatório.
 - Segurança Social: gerentes com acesso a subsidio de desemprego após 2 anos se houver cessação de atividade. (DL.12/2013)
@@ -113,7 +112,7 @@
 	- rendimentos obtidos em Portugal por não residentes.
 - Quanto?
 
-		VALORES (APROXIMADOS) PARA 2018:
+		VALORES (ARREDONDADOS) PARA 2018:
 		
 		ESCALÕES:			TAXA		TAXA MÉDIA
 		Até €7k:			14.5%
