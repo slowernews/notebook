@@ -20,7 +20,7 @@
 #### Sobre o rendimento
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
-- [SS: Segurança Social](#ss-segurança-social)
+- SS: Segurança Social
 - TSU: Taxa Social Única
 
 #### Sobre as vendas
@@ -41,12 +41,18 @@
 
 
 
+
 ## Trabalhador esporádico: ato isolado
 
-- Documento fiscal: ato isolado. Pode ser utilizado mais de uma vez (ex: quatro atos isolados num ano, passados a diferentes entidades), todavia, se os atos e as entidades se repetirem ao longo dos anos – tornando o serviço previsível – o contribuinte será obrigado a abrir actividade.
-- IRS: ?
+- Documento fiscal: ato isolado.
+	- Pode ser utilizado mais de uma vez, todavia, se os atos e as entidades se repetirem ao longo dos anos (tornando o serviço previsível) *ou* se o valor do mesmo for superior a €25k, o contribuinte será obrigado a abrir actividade.
+	- (DL.12/2013)
+- Constituição: sem necessidade de abrir atividade nas finanças.
+- IRS: categoria B.
 - IVA: cobrança obrigatória e devolução às Fisco até ao final do mês seguinte.
-- Segurança social: pagamento mensal facultativo.
+- Segurança social:
+	- Pagamento mensal facultativo;
+	- O trabalhador ao emitir um ato isolado não perde o direito ao subsídio de desemprego. Suspende-o temporariamente (pelo mesmo valor recebido) e não o cancela definitivamente.
 
 
 
@@ -54,19 +60,21 @@
 ## Trabalhador independente / Empresário em nome individual
 
 - Quais as diferenças:
-	- O Empresário em nome individual tem uma actividade que está elencada no CAE;
+	- O Empresário em Nome Individual tem uma actividade que está elencada no CAE;
 	- O Trabalhador Independente presta serviços no âmbito da lista anexa ao CIRS, art.151.
 	- Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
-- Sem capital inicial para constituição.
+- Constituição: abertura de atividade nas finanças sem capital inicial.
 - Documento fiscal: fatura ou recibo verde.
 - IRS: categoria B.
-	- Durante os três primeiros anos de atividade, isento de *pagamentos por conta*. Após esta data será notificado para pagamento, caso se verifiquem as condições previstas (CIRS, art.102).
-	- Regime simplificado de IRS: se o volume de vendas for inferior a €200k.
-	- Contabilidade organizada de IRS: se o volume de vendas for superior a €200k ou por opção do empresário.
+	- Regime de cálculo de IRS:
+		- Simplificado, se o volume de vendas for inferior a €200k.
+		- Contabilidade organizada, se o volume de vendas for superior a €200k ou por opção do empresário.
+	- Pagamentos por conta: isenção nos três primeiros anos de atividade. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102).
+	- Retenção na fonte: se tiver rendimentos superiores a €10k *e* se passar recibos a entidades com contabilidade organizada.
 - IVA:
-	- cobrança obrigatória *se* tiver tido rendimentos superiores a €10k no ano anterior ou possuir contabilidade organizada.
-	- Devolução trimestral de IVA às Fisco (ou mensal, se superior a €500k)
+	- cobrança obrigatória se tiver tido rendimentos superiores a €10k no ano anterior *ou* possuir contabilidade organizada.
+	- Devolução trimestral de IVA às Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
 	- pagamento mensal obrigatório (a nao ser que acumule c/ trabalho dependente superior a €4xx)
 	- Baixa médica após 30 dias.
@@ -82,17 +90,17 @@
 - Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
 	- *Unipessoal Lda* se houver só um sócio.
 	- *Lda* se houver vários sócios.
-- Criação: Empresa na hora. As sociedades criam uma nova entidade jurídica. Capital inicial mínimo de 1€. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
+- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. O sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
 - Responsabilidade sobre o património individual: limitada.
 - TOC: obrigatório.
-
+- Segurança Social: gerentes com acesso a subsidio de desemprego após 2 anos se houver cessação de atividade. (DL.12/2013)
 
 
 
 ## SA: Sociedade Anónima
 
 - Forma jurídica burocráticamente exigente para negócios de grande dimensão e que requiram muito financiamento.
-- Criação: capital social mínimo de €50k divididos por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
+- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de €50k dividido por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
 
 
@@ -100,7 +108,9 @@
 
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem paga? residentes em território português ou rendimentos obtidos em Portugal por não residentes.
+- Quem paga?
+	- residentes em território português;
+	- rendimentos obtidos em Portugal por não residentes.
 - Quanto?
 
 		VALORES (APROXIMADOS) PARA 2018:
@@ -125,14 +135,16 @@
 - Atenuantes fiscais: despesas de saúde ou educação.
 - Pagamento adiantado obrigatório (caso haja retenção excessiva, há reembolso):
 	- Retenções na fonte:
-		- Quem paga: quem recebe mais de €10k anuais.
+		- Quem paga: quem recebe mais de €10k anuais e passe recibos a entidades com contabilidade organizada.
+		- Quanto? 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
 		- Inseridas automaticamente na declaração IRS.
 	- Pagamentos por conta:
-		- Quem paga: sobretudo quem não efectua retenções na fonte determinado automaticamente pelo Fisco (CIRS, art.102).
+		- Quem paga: sobretudo quem não efectua retenções na fonte. Notificado automaticamente pelo Fisco.
 		- Quando: 3 pagamentos anuais - Julho, Setembro e Dezembro.
+		- Quanto: valor indicado na nota de liquidação do IRS do *penúltimo!* ano.
 		- Inseridos *manualmente!* na declaração IRS. (Quadro 6, anexo B)
 
-#### Cálculo IRS para ENIs / Trabalhadores Independentes:
+#### Formas de cálculo IRS para ENIs / Trabalhadores Independentes:
 - Regime simplificado:
 	- TOC facultativo.
 	- Dispensado de [IES](#ies-informação-empresarial-simplificada).
@@ -144,25 +156,23 @@
 
 
 
+
 ## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
 
 		Taxas IRC (2018):
+
 		21% - Continente e Madeira
 		17% (primeiros €15k) - PMEs no Continente e Madeira c/ ativ. principal, comercial, industrial ou agrícola 
 		16.8% - Açores
 		13.6% (primeiros €15k) - PMEs nos Açores c/ ativ. principal, comercial, industrial ou agrícola 
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
-
-
-
-
-## SS: Segurança Social
-
-Quais os escalões?
+- Formas de cálculo:
+	- Regime geral.
+	- Regime simplificado, por opção *e* volume de negócios inferior a €200k anuais.
 
 
 
@@ -171,11 +181,11 @@ Quais os escalões?
 
 - Quem paga:
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
-	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior ou no regime de contabilidade organizada.
-	- Isenções: algumas actividades estão isentas de IVA (quais?).
+	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* no regime de contabilidade organizada.
+	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
 - Quando:
 	- Regime trimestral: até dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
-	- Regime mensal: até dia 10 do segundo mês seguinte àquele a que dizem respeito os serviços.
+	- Regime mensal: até dia 10 do segundo mês seguinte ao mês a que dizem respeito os serviços.
 
 
 
@@ -183,7 +193,7 @@ Quais os escalões?
 ## IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
 - Quem paga: comprador do imóvel.
-- Quanto: varia sugundo o valor e finalidade da compra (habitação própria e permanente ou não).
+- Quanto: depende do valor e finalidade da compra (habitação permanente ou não).
 
 
 
@@ -202,8 +212,6 @@ Quais os escalões?
 
 ## IUC: Imposto Único de Circulação
 
-Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissões de CO2.
-
 - Quem paga: proprietários de veículos motorizados terrestre.
 - Quanto: varia segundo a cilindrada e ano de matrícula do veículo.
 - Quando: anualmente até ao final do mês de aniversário da matrícula do veículo.
@@ -213,7 +221,7 @@ Imposto ambiental, que substitui o selo do carro, e responsabiliza pelas emissõ
 
 ## Fatura
 
-- Facturas em papel deverão ser registradas no Fisco até dia 20?? do mes seguinte.
+- Facturas deverão ser registradas no Fisco até dia 15 do mês seguinte.
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
 
 
@@ -235,9 +243,9 @@ Conjunto de códigos de classificação específicos que abrange todas as empres
 
 ## IES: Informação Empresarial Simplificada
 
-Desde 2007 IES representa uma nova forma de entrega, por via eletrónica, de obrigações declarativas de natureza contabilística, fiscal e estatística.
-Até à entrada em funcionamento da IES, as empresas estavam obrigadas a prestar a mesma informação sobre as suas contas anuais a diversas entidades públicas, através de meios diferentes.
-- Quem entrega: Sociedades, EIRLs e ENIs/Trab. Independentes com Contabilidade Organizada.
+- Quem entrega:
+	- Sociedades, EIRLs;
+	- ENIs/Trab. Independentes com Contabilidade Organizada.
 - Quando: anualmente até 15 Julho. 
 - Quanto: €85 até 5 dias úteis após a entrega.
 
