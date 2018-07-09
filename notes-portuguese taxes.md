@@ -36,8 +36,9 @@
 - [Fatura](#fatura)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
 - [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
-- [IAS: Indexante dos Apoios Sociais](#)
-- [Quanto custa um TOC?](#quanto-custa-um-toc?)
+- [IAS: Indexante dos Apoios Sociais](#ias-indexante-dos-apoios-sociais)
+- [SMN: Salário Mínimo Nacional](#smn-salário-mínimo-nacional)
+- [Quanto custa um TOC?](#quanto-custa-um-toc)
 
 
 
@@ -221,6 +222,13 @@
 ## IAS: Indexante dos Apoios Sociais
 
 IAS 2018 = 428,90€
+
+
+
+
+## SMN: salário Mínimo Nacional
+
+SMN 2018 = 580€ x 14
 
 
 
