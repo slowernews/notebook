@@ -213,7 +213,7 @@
 
 ## Fatura
 
-- Facturas deverão ser registradas no Fisco até dia 15 do mês seguinte.
+- O comerciante deverá registrar as faturas na AT até dia 20 do mês seguinte.
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
 
 
@@ -226,7 +226,7 @@ IAS 2018 = 428,90€
 
 
 
-## SMN: salário Mínimo Nacional
+## SMN: Salário Mínimo Nacional
 
 SMN 2018 = 580€ x 14
 

@@ -14,27 +14,41 @@ chodzić [chodzę..chodziłem]									# ir non-specific
 idziesz do szkoły? / chodzisz do szkoły?  	# are you going to school? / do you go to school?
 chodź tu! / idź!				# come here! / go! (imperativo)
 
-wyjść [wyjdę..wyszedłem]	# sair
-robić [robię....robiłem]	# fazer
-móc    [mogę.....mogłem]	# poder
-znać				# saber
-używać				# usar
-poznać 				# conhecer
-spotkać				# reunir
-kupić				# comprar
+wyjść [wyjdę..wyszedłem]			# sair
+robić [robię....robiłem]			# fazer
+móc    [mogę.....mogłem]			# poder
+używać						# usar
+poznać 						# te conhecer
+wiedzieć, znać					# saber
+spotkać						# reunir
+kupić						# comprar
+chcieć						# querer
 
-tu - tam	# here - there
-ten - tamten	# this - that
-to		# ???
-i - lub, albo	# e - ou
-w, we 		# in (na)
-z, ze 		# from (da)
-o 		# about
-od - do		# from - to
-przez		# by (através)
-przed - po	# before - after
-nad - pod	# above - under
+tu, tutaj, oto - tam				# here - there
+ten - tamten					# this - that
+to						# ???
+i - lub, albo, czy				# e - ou
+w, we 						# in (na)
+z, ze 						# from (da)
+a 						# ???
+o 						# about
 
+od - do						# from - to
+przez						# by (através)
+przed - po					# before - after
+nad - pod					# above - under
+około						# around (cerca)
+
+już						# already (já)
+wczoraj - dzisiaj - jutro			# ontem - hoje - amanha
+
+zaledwie, ledwo					# barely (mal...)
+prawie, niemal					# almost (quase)
+kilka, niektóre					# some, few (alguns)
+
+może						# maybe
+zależy						# depends
+ale, jednak					# but
 
 skąd?		skąd jesteś?			# de onde? / de onde és?
 dokąd?						# para onde?
@@ -44,15 +58,14 @@ co?		co to jest?			# what (o que / o que é isto)
 jaki?						# what (qual)
 jak?		jak masz na imię?		# how (como / como te chamas)
 dlaczego?, czemu?				# why
-jeżeli?, jeśli?, gdyby?				# if (inicio da frase)
-
 ile?		ile to kostuje?			# how much (quanto / quanto custa)
 tanie - droższe					# barato - caro
+jeżeli, jeśli, gdyby				# if (inicio da frase)
 
-# expressões
-..czy.. 					# whether (no meio da frase)
-jeśli chodzi o 					# regarding
-zależy						# depends
+# formação de palavras
+związkowiec - związek				# sindicalista - sindicATO
+rolnik - rolnic+two				# agricultor - agricultURA
+wart - wartość					# valoroso - valor
 
 zero
 jeden		pierwszy	jede.nascie
