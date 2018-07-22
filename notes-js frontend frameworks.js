@@ -1,48 +1,30 @@
 /*   BASIC COUNTER:   */
 
 
+// vanilla JS //                                            // historic jquery: imperative - no build step //
 
-// vanilla JS ////////////////////////////////////
+<script>                                                    //  <script>
+var counter = 0;                                            //  $(document).ready(function() {
+function increment(){                                       //      var counter = 0;
+    counter++;                                              //      $('#app').html(counter)  //show initial value of counter
+    document.getElementById("app").innerHTML = counter;     //      $('#increment').click(function() {
+}                                                           //          counter++;
+function decrement(){                                       //          $('#app').html(counter)
+    counter--;                                              //      });
+    document.getElementById("app").innerHTML = counter;     //      $('#decrement').click(function() {
+}                                                           //          counter--;
+                                                            //          $('#app').html(counter)
+                                                            //      })
+                                                            //  })
+</script>                                                   </script>
 
-<script>
-	var counter = 0;
-	function increment(){
-	    counter++;
-	    document.getElementById("app").innerHTML = counter;
-	}
-	function decrement(){
-	    counter--;
-	    document.getElementById("app").innerHTML = counter;
-	}
-</script>
-
-<h1 id="app">0</h1>
-<button onClick="increment()">+</button>
-<button onClick="decrement()">-</button>
-
-
-// jquery: imperative code - no build step ///////
-<script>
-    $(document).ready(function() {
-        var counter = 0
-        $('#app').html(counter)                 //show initial value of counter
-        $('#increment').click(function() {
-            counter++
-            $('#app').html(counter)
-        });
-        $('#decrement').click(function() {
-            counter--
-            $('#app').html(counter)
-        })
-    })
-</script>
-
-<h1 id="app"></h1>
-<button id="increment">+</button>
-<button id="decrement">-</button>
+<h1 id="app">0</h1>                                         <h1 id="app"></h1>
+<button onClick="increment()">+</button>                    <button id="increment">+</button>
+<button onClick="decrement()">-</button>                    <button id="decrement">-</button>
 
 
-// vue: declarative code - no build step /////////
+// vue: declarative code - no build step //
+
 <script>
     new Vue({
         el: '#app',
@@ -58,8 +40,8 @@
 
 <div id="app">
     <h1>{{ counter }}</h1>
-    <button @click="increment">+</button>       //instead of calling a method we could simply say: 
-    <button @click="decrement">-</button>       //counter++ or counter--     
+    <button @click="increment">+</button>       // instead of calling a method we could simply say: 
+    <button @click="decrement">-</button>       // counter++ or counter--     
 </div>
 
 
