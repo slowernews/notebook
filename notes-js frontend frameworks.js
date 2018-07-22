@@ -3,22 +3,23 @@
 
 // vanilla JS //                                            // historic jquery: imperative - no build step //
 
-<script>                                                    //  <script>
-var counter = 0;                                            //  $(document).ready(function() {
-function increment(){                                       //      var counter = 0;
-    counter++;                                              //      $('#app').html(counter)  //show initial value of counter
-    document.getElementById("app").innerHTML = counter;     //      $('#increment').click(function() {
-}                                                           //          counter++;
-function decrement(){                                       //          $('#app').html(counter)
-    counter--;                                              //      });
-    document.getElementById("app").innerHTML = counter;     //      $('#decrement').click(function() {
-}                                                           //          counter--;
-                                                            //          $('#app').html(counter)
-                                                            //      })
-                                                            //  })
+<script>                                                    <script>
+                                                            $(document).ready(function() {
+var counter = 0;                                                var counter = 0;
+document.getElementById("app").innerHTML = counter;             $('#app').html(counter)  //show initial value of counter     
+function increment(){                                           $('#increment').click(function() {      
+    counter++;                                                      counter++;     
+    document.getElementById("app").innerHTML = counter;             $('#app').html(counter)
+}                                                               });
+function decrement(){                                           $('#decrement').click(function() {
+    counter--;                                                      counter--;
+    document.getElementById("app").innerHTML = counter;             $('#app').html(counter)
+}                                                               })
+                                                            })
+
 </script>                                                   </script>
 
-<h1 id="app">0</h1>                                         <h1 id="app"></h1>
+<h1 id="app"></h1>                                          <h1 id="app"></h1>
 <button onClick="increment()">+</button>                    <button id="increment">+</button>
 <button onClick="decrement()">-</button>                    <button id="decrement">-</button>
 
