@@ -116,20 +116,20 @@ x       			// ignore whitespace
 
 // JS Math object relevant methods and properties
 
-Math.pow()			or: x ** y	// Returns the value of x to the power of y
-Math.sqrt()			Math.cbrt()	// Returns the square|cubic root of x
+Math.pow()	or: x ** y	// Returns the value of x to the power of y
+Math.sqrt()	Math.cbrt()	// Returns the square|cubic root of x
 
-Math.max()			Math.min()	// Returns the number with the max/min value
-Math.floor()			Math.ceil()	// Rounds downwards|upwards the nearest integer and returns it
-Math.round()					// Rounds to the nearest integer and returns it
-Math.trunc()					// Returns the integer part of a number
-Math.abs()					// Returns the absolute value
+Math.max()	Math.min()	// Returns the number with the max/min value
+Math.floor()	Math.ceil()	// Rounds downwards|upwards the nearest integer and returns it
+Math.round()			// Rounds to the nearest integer and returns it
+Math.trunc()			// Returns the integer part of a number
+Math.abs()			// Returns the absolute value
 
-Math.random()					// Returns a random number between 0 and 1
-Math.PI 			Math.SQRT2	// Returns PI|square root of 2
+Math.random()			// Returns a random number between 0 and 1
+Math.PI 	Math.SQRT2	// Returns PI|square root of 2
 
 // JS properties
 
-jsArrayOrString.constructor			// Returns the function that created the datatype object's prototype
-jsArrayOrString.length				// Sets or returns the number of elements in a datatype
-jsArrayOrString.prototype			// To add properties and methods to a datatype
+jsArrayOrString.constructor	// Returns the function that created the datatype object's prototype
+jsArrayOrString.length		// Sets or returns the number of elements in a datatype
+jsArrayOrString.prototype	// To add properties and methods to a datatype
