@@ -24,6 +24,11 @@ spotkać						# reunir
 kupić						# comprar
 chcieć						# querer
 
+Polish verbs are either perfective (imply completion) or imperfective (imply ongoing action with no sense of completion).
+Perfective verbs are normally created by adding a prefix (do-, na-, od-, po-, prze-, przy-, s-, u-, wy-, z-, za-) to an imperfective verb,
+but not always - the prefix might also change the meaning slightly (e.g., "pisać" means "to write" and "napisać" "to have written",
+but "przepisać" means "to rewrite" or "to copy the writing")
+
 tu, tutaj, oto - tam				# aqui - ali
 ten - tamten					# isto - aquilo
 to						# ???
@@ -37,12 +42,14 @@ od - do						# from - to
 przez						# by (através)
 przed - po					# before - after
 nad - pod					# above - under
-około						# around (cerca)
+około						# aproximadamente
+blisko - daleko					# perto - longe
 
 już						# already (já)
 teraz						# agora
 wkrótce						# em breve
 wczoraj - dzisiaj - jutro			# ontem - hoje - amanha
+zawsze - nigdy                                  # sempre - nunca
 
 wszystko - nic 					# tudo - nada
 zaledwie, ledwo					# barely (mal...)
@@ -54,6 +61,7 @@ więcej niż
 może						# maybe
 zależy						# depends
 ale, jednak					# but
+bo, dlatego                                     # porque
 
 skąd?                   skąd jesteś?		# de onde? / de onde és?
 dokąd?						# para onde?
@@ -83,3 +91,11 @@ siedem			      siedem+nascie	  siedem+dziesiąt	  siedem+set
 osien			       osiem+nascie	   osiem+dziesiąt	   osiem+set
 dziewięc		    dziewięt.nascie	dziewięć+dziesiąt	dziewięć+set *
 dziesięc						      sto	      tysiąc
+
+poniedziałek			   stycz.eń		  lipi.ec
+wtorek				       luty		sierpi.eń
+środa				    marz.ec		wrzesi.eń
+czwartek			  kwieci.eń	      październik
+piątek					maj		 listopad
+sobota				  czerwi.ec		grudzi.eń
+niedziela

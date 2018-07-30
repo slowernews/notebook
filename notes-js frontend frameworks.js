@@ -14,7 +14,7 @@ function increment(){                                           $('#increment').
 function decrement(){                                           $('#decrement').click(function() {
     counter--;                                                      counter--;
     document.getElementById("app").innerHTML = counter;             $('#app').html(counter)
-}                                                               })
+}                                                               });
                                                             })
 
 </script>                                                   </script>
