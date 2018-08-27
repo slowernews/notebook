@@ -8,7 +8,7 @@
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente / empresário em nome individual](#trabalhador-independente--empresário-em-nome-individual)
-- EIRL: Estabelecimento de Responsabilidade Limitada
+- EIRL: Estabelecimento Individual de Responsabilidade Limitada
 
 ### Sociedades
 
@@ -36,9 +36,11 @@
 - [Fatura](#fatura)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
 - [IES: Informação Empresarial Simplificada](#ies-informação-empresarial-simplificada)
-- [IAS: Indexante dos Apoios Sociais](#ias-indexante-dos-apoios-sociais)
-- [SMN: Salário Mínimo Nacional](#smn-salário-mínimo-nacional)
+- [IAS: Indexante dos Apoios Sociais](#valores-indexantes)
+- [SMN: Salário Mínimo Nacional](#valores-indexantes)
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
+- [Como declarar rendimentos de fundos de investimento no IRS?](#Como-declarar-rendimentos-de-fundos-de-investimento-no-IRS)
+- [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
 
 
 
@@ -59,13 +61,13 @@
 ## Trabalhador independente / Empresário em nome individual
 
 - Quais as diferenças:
-	- O Empresário em Nome Individual tem uma actividade que está elencada no CAE;
-	- O Trabalhador Independente presta serviços no âmbito da lista anexa ao CIRS, art.151.
+	- TIs prestam serviços no âmbito da lista anexa ao CIRS, art.151.
+	- ENIs tem uma actividade que está elencada no CAE;
 	- Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
 - Constituição: abertura de atividade nas Finanças sem capital inicial.
 - Documento fiscal: fatura ou recibo verde.
-- TOC: facultativo. Só é obrigatório se houver contabilidade organizada.
+- TOC: só é obrigatório se houver contabilidade organizada.
 - IRS: categoria B.
 	- Regime de cálculo de IRS:
 		- Simplificado, se o volume de vendas for inferior a €200k.
@@ -87,7 +89,7 @@
 	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* possuir contabilidade organizada.
 	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
-	- Pagamento mensal obrigatório (a nao ser que acumule c/ trabalho dependente superior a €4xx)
+	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [SMN](#valores-indexantes))
 	- Baixa médica após 30 dias.
 	- Acesso a subsidio de desemprego após 2 anos se houver:
 		- cessação de atividade (só ENIs). (DL.12/2013)
@@ -144,7 +146,8 @@
 		G: Incrementos patrimoniais (mais-valias)
 		H: Pensões
 
-- Atenuantes fiscais: despesas de saúde ou educação.
+- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira manualmente na AT em caso de falha do comerciante.
+- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações.
 
 
 
@@ -156,10 +159,8 @@
 
 		Taxas IRC (2018):
 
-		21% - Continente e Madeira
-		17% (primeiros €15k) - PMEs no Continente e Madeira c/ ativ. principal, comercial, industrial ou agrícola 
-		16.8% - Açores
-		13.6% (primeiros €15k) - PMEs nos Açores c/ ativ. principal, comercial, industrial ou agrícola 
+		21% - Continente e Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
+		16.8% - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 - Formas de cálculo:
@@ -219,23 +220,9 @@
 
 
 
-## IAS: Indexante dos Apoios Sociais
-
-IAS 2018 = 428,90€
-
-
-
-
-## SMN: Salário Mínimo Nacional
-
-SMN 2018 = 580€ x 14
-
-
-
-
 ## CAE: Classificação Portuguesa das Actividades Económicas
 
-Conjunto de códigos de classificação específicos que abrange todas as empresas, dependendo do seu ramo de atividade ou objeto, para controle estatistico e estatal.
+Códigos de classificação específicos de empresas, segundo o ramo de atividade, para controle fiscal e estatistico.
 
 
 
@@ -247,6 +234,46 @@ Conjunto de códigos de classificação específicos que abrange todas as empres
 	- ENIs/Trab. Independentes com Contabilidade Organizada.
 - Quando: anualmente até 15 Julho. 
 - Quanto: €85 até 5 dias úteis após a entrega.
+
+
+
+
+## Valores indexantes
+
+- IAS (Indexante dos Apoios Sociais) 2018 = 428,90€
+- SMN (Salário Mínimo Nacional) 2018 = 580€ x 14 meses
+
+
+
+
+## Quanto custa um TOC
+
+Valores referência para a contabilidade:
+- ENI no regime simplificado com pouca faturação: 200€/trimestre.
+- Sociedade Unipessoal com pouca faturação: 150€/mês.
+
+
+
+
+## Como declarar rendimentos de fundos de investimento no IRS?
+
+- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos de fundos nacionais. Assim não é necessário declarara não ser que opte pelo englobamento.
+- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO.
+
+[Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
+
+
+
+
+## Quanto tempo guardar as declarações de impostos?
+
+- IRS:
+	- 4 anos. (CIRS, art.128)
+	- Se possuir contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
+- IRC: 12 anos?
+- IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
+
+
 
 <!--
 ## IVA de Caixa
