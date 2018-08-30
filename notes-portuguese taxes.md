@@ -41,6 +41,7 @@
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
 - [Como declarar rendimentos de fundos de investimento no IRS?](#Como-declarar-rendimentos-de-fundos-de-investimento-no-IRS)
 - [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
+- [Como proceder para receber uma herança em Portugal?](como-proceder-para-uma-herança-em-portugal)
 
 
 
@@ -274,6 +275,18 @@ Valores referência para a contabilidade:
 - IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
 
 
+
+## Como processam heranças em Portugal?
+
+Resumindo, em portugal:
+
+1 - Registo do óbito: efectuado, normalmente pela funerária, numa conservatória do registo civil (prazo 48h), 
+2 - Habilitação de herdeiros:
+	- entrega de uma declaração pelo cabeça de casal que identifica os herdeiros (nome completo, o estado civil, a naturalidade e a última residência habitual do autor da herança (falecido) e dos habilitados, assim como a referência se algum destes é menor) no IRN (instituto dos Registos e do Notariado).
+	- cada herdeiro terá de assinar uma procuração para poder ser representado pelo cabeça de casal.
+	- cada herdeiro terá de entregar uma certidão de nascimento e casamento (o balcão das heranças trata disso).
+2 - Fisco: Entrega de certidão de óbito nas finanças e fotócopia de cartões de cidadão(CC) dos herdeiros.
+3 - Relação de bens:
 
 <!--
 ## IVA de Caixa
