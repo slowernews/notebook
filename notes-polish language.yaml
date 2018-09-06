@@ -45,8 +45,7 @@ około                                           # about (aproximadamente)
 blisko - daleko                                 # near - far
 
 już                                             # already (já)
-teraz                                           # now (agora)
-wkrótce                                         # soon (em breve)
+teraz - wkrótce                                 # now - soon (agora - em breve)
 wczoraj - dzisiaj - jutro                       # yesterday - today - tomorrow
 zawsze - nigdy                                  # always - never
 
@@ -54,8 +53,7 @@ wszystko - nic                                  # everything - nothing
 zaledwie, ledwo                                 # barely (mal...)
 prawie, niemal                                  # almost (quase)
 kilka, niektóre, trochę                         # some, few (alguns)
-bardziej niż - mniej niż                        # more than - less than
-więcej niż
+bardziej/więcej niż - mniej niż                 # more than - less than
 trudny - łatwy                                  # hard - easy
 
 może                                            # maybe
@@ -93,10 +91,10 @@ osien                          osiem+nascie        osiem+dziesiąt          osie
 dziewięc                    dziewięt.nascie     dziewięć+dziesiąt       dziewięć+set *
 dziesięc                                                      sto             tysiąc
 
-poniedziałek                       stycz.eń               lipi.ec
-wtorek                                 luty             sierpi.eń
-środa                               marz.ec             wrzesi.eń
-czwartek                          kwieci.eń           październik
+poniedziałek                       stycz.eń               lipi.ec             wiosna
+wtorek                                 luty             sierpi.eń               lato
+środa                               marz.ec             wrzesi.eń             jesień
+czwartek                          kwieci.eń           październik               zima
 piątek                                  maj              listopad
 sobota                            czerwi.ec             grudzi.eń
 niedziela

@@ -28,7 +28,7 @@ Em resumo:
 	- modelo 1 do Imposto de Selo com uma relação de bens.
 - *Habilitação de herdeiros.* Entrega no IRN (instituto dos Registos e do Notariado) de:
 	- declaração pelo cabeça de casal que identifica os herdeiros e o falecido (nome completo, o estado civil, a naturalidade e residência, assim como a referência se algum destes é menor).
-	- certidão de casamento do falecido.
+	- certidão de óbito e casamento do falecido (o balcão das heranças trata disso).
 	- cada herdeiro tem apresentar uma certidão de nascimento (o balcão das heranças trata disso).
 	- cada herdeiro tem ainda de assinar uma procuração para poder ser representado pelo cabeça de casal.
 
@@ -37,4 +37,6 @@ Em resumo:
 
 ## E se houver só um herdeiro?
 
-Em teoria é igual. Na prática, a habilitação de herdeiros é desnecessária, pois como só há um herdeiro a herança é sempre sua. Isto é, pode deixar os imóveis em nome do falecido, usufruir igualmente dos mesmos e poupar significativamente em Imposto de Selo e burocracias (0,8% sobre o valor dos imóveis + 500€).
+Em teoria é igual.
+
+Na prática, a habilitação de herdeiros é desnecessária, pois como só há um herdeiro a herança é sempre sua. Isto é, pode deixar os imóveis em nome do falecido, usufruir igualmente dos mesmos e poupar significativamente em Imposto de Selo e burocracias (0,8% sobre o valor dos imóveis + 500€).
