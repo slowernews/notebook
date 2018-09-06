@@ -31,6 +31,10 @@
 - [IMI: Imposto Municipal sobre Imóveis](#imi-imposto-municipal-sobre-imóveis)
 - [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
 
+#### Sobre heranças
+
+- [Imposto de selo](#imposto-de-selo)
+
 ### FAQ
 
 - [Fatura](#fatura)
@@ -41,7 +45,6 @@
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
 - [Como declarar rendimentos de fundos de investimento no IRS?](#Como-declarar-rendimentos-de-fundos-de-investimento-no-IRS)
 - [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
-- [Como proceder para receber uma herança em Portugal?](como-proceder-para-uma-herança-em-portugal)
 
 
 
@@ -213,6 +216,17 @@
 
 
 
+## Imposto de selo
+
+Taxa sobre as transmissões (heranças e doações). Regra geral:
+
+- (Desde 2009) Isenção para conjuges, ascendentes e descendentes. Mantem-se a obrigação de declarar os bens ao fisco através do Modelo 1 do Imposto de Selo).
+- 10% para todos os outros herdeiros.
+- Nos bens imóveis, acresce uma taxa de 0,8%, que tem de ser liquidada inclusivamente pelos contribuintes que são considerados isentos.
+
+
+
+
 ## Fatura
 
 - O comerciante deverá registrar as faturas na AT até dia 20 do mês seguinte.
@@ -276,17 +290,6 @@ Valores referência para a contabilidade:
 
 
 
-## Como processam heranças em Portugal?
-
-Resumindo, em portugal:
-
-1 - Registo do óbito: efectuado, normalmente pela funerária, numa conservatória do registo civil (prazo 48h), 
-2 - Habilitação de herdeiros:
-	- entrega de uma declaração pelo cabeça de casal que identifica os herdeiros (nome completo, o estado civil, a naturalidade e a última residência habitual do autor da herança (falecido) e dos habilitados, assim como a referência se algum destes é menor) no IRN (instituto dos Registos e do Notariado).
-	- cada herdeiro terá de assinar uma procuração para poder ser representado pelo cabeça de casal.
-	- cada herdeiro terá de entregar uma certidão de nascimento e casamento (o balcão das heranças trata disso).
-2 - Fisco: Entrega de certidão de óbito nas finanças e fotócopia de cartões de cidadão(CC) dos herdeiros.
-3 - Relação de bens:
 
 <!--
 ## IVA de Caixa
