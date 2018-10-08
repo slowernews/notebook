@@ -90,7 +90,7 @@
 		- Quanto: 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
 		- Inseridas automaticamente na declaração IRS.
 - IVA:
-	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* possuir contabilidade organizada.
+	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* por opção *ou* possuir contabilidade organizada.
 	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
 	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [SMN](#valores-indexantes))
@@ -178,7 +178,7 @@
 
 - Quem paga:
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
-	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* no regime de contabilidade organizada.
+	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
 	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
 - Quando:
 	- Regime trimestral: até dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
@@ -220,17 +220,17 @@
 
 Taxa sobre as transmissões (heranças e doações). Regra geral:
 
-- (Desde 2009) Isenção para conjuges, ascendentes e descendentes. Mantem-se a obrigação de declarar os bens ao fisco através do Modelo 1 do Imposto de Selo).
-- 10% para todos os outros herdeiros.
-- Nos bens imóveis, acresce uma taxa de 0,8%, que tem de ser liquidada inclusivamente pelos contribuintes que são considerados isentos.
+- Isenção para conjuges, ascendentes e descendentes apesar da obrigação de declarar os bens ao fisco (Modelo 1 do Imposto de Selo).
+- 10% para outros herdeiros.
+- Nos imóveis, acresce uma taxa de 0,8%, liquidada inclusivamente pelos herdeiros considerados isentos(?).
 
 
 
 
 ## Fatura
 
-- O comerciante deverá registrar as faturas na AT até dia 20 do mês seguinte.
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
+- O comerciante deverá registrar as faturas na AT até dia 20 do mês seguinte.
 
 
 
@@ -263,7 +263,7 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 ## Quanto custa um TOC
 
-Valores referência para a contabilidade:
+Valores *referência* para a contabilidade:
 - ENI no regime simplificado com pouca faturação: 200€/trimestre.
 - Sociedade Unipessoal com pouca faturação: 150€/mês.
 
@@ -272,7 +272,7 @@ Valores referência para a contabilidade:
 
 ## Como declarar rendimentos de fundos de investimento no IRS?
 
-- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos de fundos nacionais. Assim não é necessário declarara não ser que opte pelo englobamento.
+- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 - Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO.
 
 [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
@@ -284,10 +284,9 @@ Valores referência para a contabilidade:
 
 - IRS:
 	- 4 anos. (CIRS, art.128)
-	- Se possuir contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
-- IRC: 12 anos?
+	- Com contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
+- IRC: 12 anos.
 - IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
-
 
 
 
@@ -307,9 +306,6 @@ Como aderir ao sistema?
 Para aderir ao regime no ano de 2014 e seguintes, as empresas devem comunicar a decisão à Autoridade Tributária e Aduaneira (AT), por via eletrónica, no Portal das Finanças, até 31 de outubro de cada ano. As empresas aderentes terão de permanecer no novo regime por dois anos.
 Faturas
 As faturas devem ser emitidas numa série especial e conter a menção “IVA – regime de caixa”.
-
-
-
 
 ## Contratação de Recursos Humanos
 

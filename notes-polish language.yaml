@@ -1,9 +1,9 @@
 ja              ty              on-ona          my              wy              oni             
 dla mnie        dla ciebie                                      dla państwa                     # for me/you
 u mnie          u ciebie        u niego - niej                                                  # at you
-mój             twój            jego - jej      nasz            wasz            ich             # mine / yours / his
+mój             twój            jego - jej      nasz            wasz            ich             # mine / yours / his ()
 
-swój                                            # my, your, his own (sounds more polish)
+swój            # my, your, his own (sounds more polish)
 
 # masculine/feminine on past tense formation: e -> a; i -> y; l -> ł
 jestem..byłem   jesteś..byłeś   jest...był+a                                    są.....byli     # być (be)
@@ -16,7 +16,7 @@ chodź tu! / idź!                                # come here! / go! (imperativo
 
 wyjść [wyjdę..wyszedłem]                        # exit (sair)
 robić [robię....robiłem]                        # do
-móc    [mogę.....mogłem]                        # can
+móc   [ mogę.....mogłem]                        # can
 używać                                          # use
 poznać                                          # get to know you
 wiedzieć, znać                                  # know
@@ -25,8 +25,8 @@ kupić                                           # buy
 chcieć                                          # want
 
 Polish verbs are either perfective (imply completion) or imperfective (imply ongoing action with no sense of completion).
-Perfective verbs are normally created by adding a prefix (do-, na-, od-, po-, prze-, przy-, s-, u-, wy-, z-, za-) to an imperfective verb,
-but not always - the prefix might also change the meaning slightly (e.g., "pisać" means "to write" and "napisać" "to have written",
+Perfective verbs are normally created by adding a prefix (do, na, od, po, prze, przy, s, u, wy, z, za) to an imperfective verb,
+but not always - the prefix might also change the meaning slightly (e.g. "pisać" means "to write" and "napisać" "to have written",
 but "przepisać" means "to rewrite" or "to copy the writing")
 
 tu, tutaj, oto - tam                            # here - there
@@ -74,11 +74,6 @@ ile?                    ile to kostuje?         # how much (quanto / quanto cust
 tanie - droższe                                 # cheap - expensive
 jeżeli, jeśli, gdyby                            # if (inicio da frase)
 
-# word formation
-związkowiec - związek                           # syndicalist - syndicAT
-rolnik - rolnic+two                             # agricultor - agricultURE
-wart - wartość                                  # value - valueNESS
-
 zero
 jeden           pierwszy        jede.nascie
 dwa             drugi            dwa+nascie          dwa+dzieścia           dwieście *
@@ -98,3 +93,22 @@ czwartek                          kwieci.eń           październik             
 piątek                                  maj              listopad
 sobota                            czerwi.ec             grudzi.eń
 niedziela
+
+# word formation (empiric..)
+związkowiec - związek                           # syndicalist - syndicAT
+rolnik - rolnic+two                             # agricultor - agricultURE
+wart - wartość                                  # value - valueNESS
+
+# substantives
+ending with consonant (dead) or A (alive)       # masculine: nóż / kolega
+ending with A                                   # feminine: łyżka
+ending with O                                   # neutral: oko
+
+# 7 declinations
+nominative                                      # neutral
+genitive                                        # possession
+vocative
+acusative
+instrumental
+dative
+locative

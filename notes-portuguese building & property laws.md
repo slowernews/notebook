@@ -7,13 +7,27 @@
 
 ### Direito da propriedade de imóveis
 
-- Cadernetas prediais
-- Cadastro predial
+- Cadastro predial: cadernetas prediais urbanas e rural
+- [Destaque de parcela](#destaque-de-parcela)
 
 ### Direito das heranças
 
 - [Um parente próximo faleceu, como proceder?](#um-parente-próximo-faleceu-como-proceder)
 - [E se houver só um herdeiro?](#e-se-houver-só-um-herdeiro)
+
+
+
+
+## Destaque de parcela
+
+- Não é permitido efectuar, na área correspondente ao prédio originário, novo destaque nos 10 anos contados da data do destaque anterior.
+- Isenção de licença ou autorização se cumprir ambas as condições:
+	- Destaque de parcela dentro de perimetro urbano:
+		1. As parcelas resultantes do destaque confrontem com arruamentos públicos.
+	- Destaque de parcela fora de perimetro urbano:
+		1. Na parcela destacada só seja construído edifício que se destine exclusivamente a fins habitacionais e que não tenha mais de dois fogos;
+		2. Na parcela restante se respeite a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando aquele não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
+- Para destacar outra parcela ou fazer novo destaque nos seguintes 10 anos só através de loteamento. 
 
 
 
@@ -39,4 +53,7 @@ Em resumo:
 
 Em teoria é igual.
 
-Na prática, a habilitação de herdeiros é desnecessária, pois como só há um herdeiro a herança é sempre sua. Isto é, pode deixar os imóveis em nome do falecido, usufruir igualmente dos mesmos e poupar significativamente em Imposto de Selo e burocracias (0,8% sobre o valor dos imóveis + 500€).
+Na prática, a habilitação de herdeiros é desnecessária, pois como só há um herdeiro a herança é sempre sua. Isto é, deixando os imóveis registrados em nome da herança indivisa do falecido, usufrui igualmente dos mesmos e poupa significativamente em Imposto de Selo e burocracias (0,8% sobre o valor dos imóveis + ~500€).
+
+- Posso vender sem chegar a ter o imóvel em meu nome? Sim.
+- Como obter uma caderneta predial do imóvel (ex. alteração contratos de electricidade/água)? À herança indivisa é atribuido um NIF, para o qual pode pedir uma password de acesso nas Finanças, e consequentemente imprimir a caderneta predial gratuitamente.
