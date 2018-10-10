@@ -54,10 +54,10 @@
 - Constituição: não é necessário abrir atividade nas Finanças;
 - Documento fiscal: ato isolado. Pode ser utilizado mais de uma vez, mas se os atos e as entidades se repetirem ao longo dos anos (tornando o serviço previsível) *ou* se o valor do mesmo for superior a €25k, abrir atividade é obrigatório.
 - IRS: categoria B.
-- IVA: cobrança obrigatória e devolução às Fisco até ao final do mês seguinte.
+- IVA: cobrança obrigatória e devolução ao Fisco até ao final do mês seguinte.
 - Segurança social:
-	- Pagamento mensal facultativo;
-	- O trabalhador ao emitir um ato isolado não perde o direito ao subsídio de desemprego. Suspende-o temporariamente (pelo mesmo valor recebido) e não o cancela definitivamente.
+        - Pagamento mensal facultativo;
+        - O trabalhador ao emitir um ato isolado não perde o direito ao subsídio de desemprego. Suspende-o temporariamente (pelo mesmo valor recebido) e não o cancela definitivamente.
 
 
 
@@ -65,39 +65,40 @@
 ## Trabalhador independente / Empresário em nome individual
 
 - Quais as diferenças:
-	- TIs prestam serviços no âmbito da lista anexa ao CIRS, art.151.
-	- ENIs tem uma actividade que está elencada no CAE;
-	- Alguns detalhes no acesso à Segurança Social.
+        - TIs prestam serviços no âmbito da lista anexa ao CIRS, art.151.
+        - ENIs tem uma actividade que está elencada no CAE;
+        - Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
 - Constituição: abertura de atividade nas Finanças sem capital inicial.
 - Documento fiscal: fatura ou recibo verde.
 - TOC: só é obrigatório se houver contabilidade organizada.
 - IRS: categoria B.
-	- Regime de cálculo de IRS:
-		- Simplificado, se o volume de vendas for inferior a €200k.
-			- Dispensado de TOC e IES.
-			- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
-		- Contabilidade organizada, se o volume de vendas for superior a €200k *ou* por opção do empresário.
-			- Obrigatório TOC e IES.
-			- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher este regime.		
-	- Pagamentos por conta:
-		- Quem paga: isento nos três primeiros anos. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102)
-		- Quando: 3 pagamentos anuais (Julho, Setembro e Dezembro).
-		- Quanto: valor indicado na nota de liquidação do IRS do *penúltimo!* ano.
-		- Inseridos *manualmente!* na declaração IRS. (Quadro 6, anexo B)
-	- Retenções na fonte:
-		- Quem faz: quem recebe mais de €10k anuais e passe recibos a entidades com contabilidade organizada.
-		- Quanto: 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
-		- Inseridas automaticamente na declaração IRS.
+        - Regime de cálculo de IRS:
+                - Simplificado, se o volume de vendas for inferior a €200k.
+                        - Dispensado de TOC e IES.
+                        - Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
+                - Contabilidade organizada, se o volume de vendas for superior a €200k *ou* por opção do empresário.
+                        - Obrigatório TOC e IES.
+                        - O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher este regime.
+        - Pagamento adiantado de IRS:
+                - Retenções na fonte:
+                        - Quem faz: quem recebe mais de €10k anuais e passe recibos a entidades com contabilidade organizada.
+                        - Quanto: 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
+                        - Inseridas automaticamente na declaração IRS.
+                - Pagamentos por conta:
+                        - Quem paga: isento nos três primeiros anos. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102)
+                        - Quando: 3 pagamentos anuais (Julho, Setembro e Dezembro).
+                        - Quanto: valor indicado na nota de liquidação do IRS do *penúltimo* ano.
+                        - Inseridos *manualmente* na declaração IRS. (Quadro 6, anexo B)
 - IVA:
-	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* por opção *ou* possuir contabilidade organizada.
-	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
+        - Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* por opção *ou* possuir contabilidade organizada.
+        - Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
-	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [SMN](#valores-indexantes))
-	- Baixa médica após 30 dias.
-	- Acesso a subsidio de desemprego após 2 anos se houver:
-		- cessação de atividade (só ENIs). (DL.12/2013)
-		- 80% da atividade numa só entidade (só Trab. Independentes).
+        - Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [SMN](#valores-indexantes))
+        - Baixa médica após 30 dias.
+        - Acesso a subsidio de desemprego após 2 anos se houver:
+                - cessação de atividade (só ENIs). (DL.12/2013)
+                - 80% da atividade numa só entidade (só Trab. Independentes).
 
 
 
@@ -105,10 +106,10 @@
 ## LDA: Sociedade por Quotas
 
 - Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
-	- *Unipessoal Lda* se houver só um sócio.
-	- *Lda* se houver vários sócios.
+        - *Unipessoal Lda* se houver só um sócio.
+        - *Lda* se houver vários sócios.
 - Responsabilidade sobre o património individual: limitada.
-- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota (proporcional) da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com a autorização dos outros sócios).
+- Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com os outros sócios a terem o direito de preferencia).
 - TOC: obrigatório.
 - Segurança Social: gerentes com acesso a subsidio de desemprego após 2 anos se houver cessação de atividade. (DL.12/2013)
 
@@ -127,30 +128,36 @@
 ## IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
 - Quem paga?
-	- residentes em território português;
-	- rendimentos obtidos em Portugal por não residentes.
+        - residentes em território português;
+        - rendimentos obtidos em território português por não residentes.
 - Quanto?
+        - residentes habituais em território português.
 
-		VALORES (ARREDONDADOS) PARA 2018:
-		
-		ESCALÕES:			TAXA		TAXA MÉDIA
-		Até €7k:			14.5%
-		Entre  €7k e 10k:		23%		17.5%
-		Entre €10k e 20k:		28.5%		22.5%
-		Entre €20k e 25k:		35%		25%
-		Entre €25k e 37k:		37%		29%
-		Entre €37k e 80k:		45%		37.5%
-		Superior a 80k: 		48%
-		
-		Sobre os rendimentos das seguintes categorias:
-		A: Trabalho dependente
-		B: Empresariais e profissionais
-		E: Capitais
-		F: Prediais
-		G: Incrementos patrimoniais (mais-valias)
-		H: Pensões
+                VALORES (ARREDONDADOS) PARA 2018:
+                
+                ESCALÕES:                       TAXA            TAXA MÉDIA
+                Até €7k:                        14.5%
+                Entre  €7k e 10k:               23%             17.5%
+                Entre €10k e 20k:               28.5%           22.5%
+                Entre €20k e 25k:               35%             25%
+                Entre €25k e 37k:               37%             29%
+                Entre €37k e 80k:               45%             37.5%
+                Superior a 80k:                 48%
+                
+                Sobre os rendimentos das seguintes categorias:
+                A: Trabalho dependente
+                B: Empresariais e profissionais
+                E: Capitais
+                F: Prediais
+                G: Incrementos patrimoniais (mais-valias)
+                H: Pensões
 
-- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira manualmente na AT em caso de falha do comerciante.
+        - residentes não-habituais no últimos 5 anos (durante 10 anos).
+
+                rendimentos obtidos em Portugal: 20% (apenas rendimentos da categoria A ou B?)
+                rendimentos provenientes de outros paises: 0%
+
+- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
 - A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações.
 
 
@@ -161,15 +168,15 @@
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
 
-		Taxas IRC (2018):
+                Taxas IRC (2018):
 
-		21% - Continente e Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
-		16.8% - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
+                21% - Continente e Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
+                16.8% - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 - Formas de cálculo:
-	- Regime geral.
-	- Regime simplificado, por opção *e* volume de negócios inferior a €200k anuais.
+        - Regime geral.
+        - Regime simplificado, por opção *e* volume de negócios inferior a €200k anuais.
 
 
 
@@ -177,12 +184,12 @@
 ## IVA: Imposto sobre o Valor Acrescentado
 
 - Quem paga:
-	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
-	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
-	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
+        - Sociedades e Trabalhadores Esporádicos (Ato isolado).
+        - ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
+        - Nota: algumas actividades estão isentas de IVA (ver CIVA).
 - Quando:
-	- Regime trimestral: até dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
-	- Regime mensal: até dia 10 do segundo mês seguinte ao mês a que dizem respeito os serviços.
+        - Regime trimestral: até dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+        - Regime mensal: até dia 10 do segundo mês seguinte ao mês a que dizem respeito os serviços.
 
 
 
@@ -199,9 +206,9 @@
 
 - Quem paga: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
 - Quanto:
-	- prédios rústicos: 0,8% sobre o valor patrimonial tributário;
-	- prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
-	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
+        - prédios rústicos: 0,8% sobre o valor patrimonial tributário;
+        - prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
+        - prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
 - Quando: anualmente durante o mês de Abril ou duas tranches Abril e Novembro?.
 
 
@@ -245,8 +252,8 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 ## IES: Informação Empresarial Simplificada
 
 - Quem entrega:
-	- Sociedades, EIRLs;
-	- ENIs/Trab. Independentes com Contabilidade Organizada.
+        - Sociedades, EIRLs;
+        - ENIs/Trab. Independentes com Contabilidade Organizada.
 - Quando: anualmente até 15 Julho. 
 - Quanto: €85 até 5 dias úteis após a entrega.
 
@@ -283,8 +290,8 @@ Valores *referência* para a contabilidade:
 ## Quanto tempo guardar as declarações de impostos?
 
 - IRS:
-	- 4 anos. (CIRS, art.128)
-	- Com contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
+        - 4 anos. (CIRS, art.128)
+        - Com contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
 - IRC: 12 anos.
 - IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
 

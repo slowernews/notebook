@@ -1,7 +1,7 @@
 /*   BASIC COUNTER:   */
 
 
-// vanilla JS //                                            // historic jquery: imperative - no build step //
+// vanilla JS //                                            // jquery: imperative - no build step //
 
 <script>                                                    <script>
                                                             $(document).ready(function() {
