@@ -26,12 +26,13 @@
 
 ## Destaque de parcela
 
-- Isenção de licença ou autorização se cumprir ambas as condições:
-	- Destaque de parcela dentro de perimetro urbano se as parcelas resultantes do destaque confrontarem com arruamentos públicos.
-	- Destaque de parcela fora de perimetro urbano:
-		1. Na parcela destacada só seja construído edifício que se destine exclusivamente a fins habitacionais e que não tenha mais de dois fogos;
-		2. Na parcela restante se respeite a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando aquele não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
-- Para destacar outra parcela, na área correspondente ao prédio originário, nos seguintes 10 anos só através de loteamento.
+- Isenção de licença ou autorização se cumprir as condições:
+	- dentro de perimetro urbano:
+		- Se as parcelas resultantes do destaque confrontarem com arruamentos públicos.
+	- fora de perimetro urbano:
+		- Se na parcela destacada só seja construído edifício que se destine exclusivamente a fins habitacionais e que não tenha mais de dois fogos;
+		- Se a parcela restante respeitar a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando este não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
+- Para destacar outra parcela, na área correspondente ao prédio originário, nos 10 anos seguintes, só através de loteamento.
 
 
 
