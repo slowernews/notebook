@@ -94,8 +94,8 @@
 	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* por opção *ou* possuir contabilidade organizada.
 	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
-	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [IAS](#valores-indexantes) e não tenha uma rendimento da categoria B superior a 4 IAS)
-	- A partir de 2019, em Janeiro, Abril, Julho e Outubro deverão ser declarados à SS os rendimentos obtidos no trimestre anterior para apurar a prestação a pagar no trimestre seguinte. [Exemplo](https://www.dropbox.com/s/23thixqodz9fsao/V%C3%ADdeo%20-%20Exemplo%20TI%201.pdf?dl=0)
+	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [IAS](#valores-indexantes) e não tenha rendimento da categoria B superior a 4 IAS)
+	- A partir de 2019, em Janeiro, Abril, Julho e Outubro deverão ser declarados à SS os rendimentos obtidos no trimestre anterior para apurar a prestação a pagar no trimestre seguinte. [Exemplo](https://www.dropbox.com/s/23thixqodz9fsao/V%C3%ADdeo%20-%20Exemplo%20TI%201.pdf?dl=0).
 	- Baixa médica após 30 dias.
 	- Acesso a subsidio de desemprego após 2 anos se houver:
 		- cessação de atividade (só ENIs). (DL.12/2013)
@@ -134,24 +134,24 @@
 - Quanto?
 	- residentes habituais em território português.
 
-		VALORES (ARREDONDADOS) PARA 2018:
-		
-		ESCALÕES:                       TAXA            TAXA MÉDIA
-		Até €7k:                        14.5%
-		Entre  €7k e 10k:               23%             17.5%
-		Entre €10k e 20k:               28.5%           22.5%
-		Entre €20k e 25k:               35%             25%
-		Entre €25k e 37k:               37%             29%
-		Entre €37k e 80k:               45%             37.5%
-		Superior a 80k:                 48%
-		
-		Sobre os rendimentos das seguintes categorias:
-		A: Trabalho dependente
-		B: Empresariais e profissionais
-		E: Capitais
-		F: Prediais
-		G: Incrementos patrimoniais (mais-valias)
-		H: Pensões
+			VALORES (ARREDONDADOS) PARA 2018:
+			
+			ESCALÕES:                       TAXA            TAXA MÉDIA
+			Até €7k:                        14.5%
+			Entre  €7k e 10k:               23%             17.5%
+			Entre €10k e 20k:               28.5%           22.5%
+			Entre €20k e 25k:               35%             25%
+			Entre €25k e 37k:               37%             29%
+			Entre €37k e 80k:               45%             37.5%
+			Superior a 80k:                 48%
+			
+			Sobre os rendimentos das seguintes categorias:
+			A: Trabalho dependente
+			B: Empresariais e profissionais
+			E: Capitais
+			F: Prediais
+			G: Incrementos patrimoniais (mais-valias)
+			H: Pensões
 
 	- residentes não-habituais no últimos 5 anos (durante 10 anos).
 
