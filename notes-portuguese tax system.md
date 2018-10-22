@@ -76,7 +76,7 @@
 	- Regime de cálculo de IRS:
 		- Simplificado, se o volume de vendas for inferior a €200k.
 			- Dispensado de TOC e IES.
-			- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
+			- Assume-se uma margem de 70% de rendimento colectável sobre os *serviços* e 20% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
 		- Contabilidade organizada, se o volume de vendas for superior a €200k *ou* por opção do empresário.
 			- Obrigatório TOC e IES.
 			- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher este regime.
@@ -94,7 +94,8 @@
 	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* por opção *ou* possuir contabilidade organizada.
 	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
-	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [SMN](#valores-indexantes))
+	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [IAS](#valores-indexantes) e não tenha uma rendimento da categoria B superior a 4 IAS)
+	- A partir de 2019, em Janeiro, Abril, Julho e Outubro deverão ser declarados à SS os rendimentos obtidos no trimestre anterior para apurar a prestação a pagar no trimestre seguinte. [Exemplo](https://www.dropbox.com/s/23thixqodz9fsao/V%C3%ADdeo%20-%20Exemplo%20TI%201.pdf?dl=0)
 	- Baixa médica após 30 dias.
 	- Acesso a subsidio de desemprego após 2 anos se houver:
 		- cessação de atividade (só ENIs). (DL.12/2013)
