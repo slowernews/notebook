@@ -1,5 +1,5 @@
 # HOW TO KNOW RUBY VERSION ON MY SKETCHUP:
-# constant inspectable on sketchup console
+# constant inspectable on any ruby console
 # RUBY_VERSION # -> 2.2.4 (on sketchup 2017)
 
 # HOW TO LOAD A SKETCHUP EXTENSION:

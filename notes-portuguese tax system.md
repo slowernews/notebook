@@ -95,7 +95,7 @@
 	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
 - Segurança Social:
 	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [IAS](#valores-indexantes) e não tenha rendimento da categoria B superior a 4 IAS)
-	- A partir de 2019, em Janeiro, Abril, Julho e Outubro deverão ser declarados à SS os rendimentos obtidos no trimestre anterior para apurar a prestação a pagar no trimestre seguinte. [Exemplo](https://www.dropbox.com/s/23thixqodz9fsao/V%C3%ADdeo%20-%20Exemplo%20TI%201.pdf?dl=0).
+	- Quem possui contabilidade organizada(?), a partir de 2019, em Janeiro, Abril, Julho e Outubro deverá declarar à SS os rendimentos obtidos no trimestre anterior para apuramento da prestação a pagar no trimestre seguinte. [Exemplo](https://www.dropbox.com/s/23thixqodz9fsao/V%C3%ADdeo%20-%20Exemplo%20TI%201.pdf?dl=0).
 	- Baixa médica após 30 dias.
 	- Acesso a subsidio de desemprego após 2 anos se houver:
 		- cessação de atividade (só ENIs). (DL.12/2013)
@@ -153,10 +153,10 @@
 			G: Incrementos patrimoniais (mais-valias)
 			H: Pensões
 
-	- residentes não-habituais no últimos 5 anos (durante 10 anos).
+	- residentes não-habituais no últimos 5 anos (nos 10 seguintes).
 
-		rendimentos obtidos em Portugal: 20% (apenas rendimentos da categoria A ou B?)
-		rendimentos provenientes de outros paises: 0%
+			Rendimentos obtidos em Portugal: 20%
+			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
 	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
 -Quando?
@@ -212,7 +212,7 @@
 	- prédios rústicos: 0,8% sobre o valor patrimonial tributário;
 	- prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
 	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
-- Quando: anualmente durante o mês de Abril ou duas tranches Abril e Novembro?.
+- Quando: anualmente durante o mês de Abril ou tranches ao longo do ano para valores mais elevados.
 
 
 
