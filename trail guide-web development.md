@@ -69,7 +69,7 @@ After rambling with several languages <sup id="refnote1">[1](#footnote1)</sup>, 
   - great *glue* to automate tasks <sup id="refnote2">[2](#footnote2)</sup>. Even on [Sketchup](http://ruby.sketchup.com/) ..
 
 - Cons:
-  - slow (but now there is [MRuby](https://mruby.org/), [Crystal](https://crystal-lang.org/) + [Kemal](http://kemalcr.com/) and someday [Ruby 3](http://engineering.appfolio.com/appfolio-engineering/2015/11/18/ruby-3x3)).
+  - slow (but now there is [MRuby](https://mruby.org/), [Crystal](https://crystal-lang.org/) and someday [Ruby 3](http://engineering.appfolio.com/appfolio-engineering/2015/11/18/ruby-3x3)).
   - dying (or being re-invented?).
 
 

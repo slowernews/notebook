@@ -171,10 +171,12 @@
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
 
-		Taxas IRC (2018):
+		Taxas IRC (2019):
 
-		21% - Continente e Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
+		21% - Continente (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
+		20% - Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13% primeiros €15k)
 		16.8% - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
+		5% - Offshore da Madeira (até 2027)
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 - Formas de cálculo:
@@ -265,8 +267,8 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 ## Valores indexantes
 
-- IAS (Indexante dos Apoios Sociais) 2018 = 428,90€
-- SMN (Salário Mínimo Nacional) 2018 = 580€ x 14 meses
+- IAS (Indexante dos Apoios Sociais) 2019 = 435,76€
+- SMN (Salário Mínimo Nacional) 2019 = 600€ x 14 meses
 
 
 
