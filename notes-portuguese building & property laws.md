@@ -1,6 +1,6 @@
 # Portuguese building & property law (2018)
 
-### Direito da edificação(#direito-da-edificação)
+### [Direito da edificação](#direito-da-edificação)
 
 ### Direito da propriedade de imóveis
 
@@ -23,8 +23,8 @@
 
 ## Direito da edificação
 
-- RJUE: Regime Jurídico da urbanização e Edificação (DL 555/99, [sucessivamente actualizado](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis))
-- RGEU: Regulamento Geral de Edificações Urbanas (DL 38382/51, [sucessivamente actualizado](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1217&tabela=leis))
+- RJUE: Regime Jurídico da urbanização e Edificação ([DL555/99](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis)).
+- RGEU: Regulamento Geral de Edificações Urbanas ([DL38382/51](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1217&tabela=leis)).
 
 
 
