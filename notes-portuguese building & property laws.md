@@ -1,27 +1,26 @@
 # Portuguese building & property law (2018)
 
-### [Direito da edificação](#direito-da-edificação)
+### Direito da edificação
+
+- [Legislação base](#legislação-base)
+- [Destaque de parcela](#destaque-de-parcela)
+- Terrenos em Avos
 
 ### Direito da propriedade de imóveis
 
 - Cadastro predial: cadernetas prediais urbanas e rural
-- [Destaque de parcela](#destaque-de-parcela)
+- Compra de casa
+- Venda de casa: mais valias
 
 ### Direito das transmissões (heranças)
 
 - [Um parente próximo faleceu, como proceder?](#um-parente-próximo-faleceu-como-proceder)
 - [E se houver só um herdeiro?](#e-se-houver-só-um-herdeiro)
 
-### FAQ
-
-- Terrenos em Avos
-- Compra de casa
-- Venda de casa: mais valias
 
 
 
-
-## Direito da edificação
+## Legislação base
 
 - RJUE: Regime Jurídico da urbanização e Edificação ([DL555/99](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis)).
 - RGEU: Regulamento Geral de Edificações Urbanas ([DL38382/51](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1217&tabela=leis)).
