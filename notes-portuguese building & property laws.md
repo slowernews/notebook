@@ -1,9 +1,6 @@
 # Portuguese building & property law (2018)
 
-### Direito da edificação
-
-- RJUE: Regime Jurídico da urbanização e Edificação
-- RGEU: Regulamento Geral de Edificações Urbanas
+### Direito da edificação(#direito-da-edificação)
 
 ### Direito da propriedade de imóveis
 
@@ -20,6 +17,14 @@
 - Terrenos em Avos
 - Compra de casa
 - Venda de casa: mais valias
+
+
+
+
+## Direito da edificação
+
+- RJUE: Regime Jurídico da urbanização e Edificação (DL 555/99, [sucessivamente actualizado](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis))
+- RGEU: Regulamento Geral de Edificações Urbanas (DL 38382/51, [sucessivamente actualizado](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1217&tabela=leis))
 
 
 
