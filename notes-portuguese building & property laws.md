@@ -20,7 +20,7 @@
 
 
 
-## Direito da edificação
+## Direito da edificação:
 
 ### Legislação base
 
@@ -41,16 +41,16 @@
 
 
 
-## Direito da propriedade de imóveis
+## Direito da propriedade de imóveis:
 
 ### Cadastro predial
 
-Consulta de [cadastro predial rural](www.dgterritorio.pt/cadastro/cadastro_geometrico_da_propriedade_rustica__cgpr_/consultar_seccoes_cadastrais/)
+Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastro_geometrico_da_propriedade_rustica__cgpr_/consultar_seccoes_cadastrais/).
 
 
 
 
-## Direito das transmissões (heranças)
+## Direito das transmissões (heranças):
 
 ### Um parente próximo faleceu, como proceder?
 
@@ -74,4 +74,4 @@ Em teoria é igual. Na prática, a habilitação de herdeiros é desnecessária.
 Como há apenas um herdeiro a herança é sempre sua. Isto é, deixando os imóveis em nome da herança indivisa do falecido, usufrui igualmente dos mesmos e poupa significativamente em Imposto de Selo (0,8% sobre o valor dos imóveis) e novas escrituras (~ 500€).
 
 - Posso vender sem chegar a ter o imóvel em meu nome? Sim.
-- Como obter uma caderneta predial do imóvel (ex. alteração contratos de electricidade/água)? À herança indivisa é atribuido um NIF. Basta pedir uma password de acesso ao site das Finanças e imprimir a caderneta predial.
+- Como obter uma caderneta predial do imóvel (ex. alteração contratos de electricidade/água)? À herança indivisa foi atribuido um NIF. Basta pedir uma password de acesso ao site das Finanças e imprimir a caderneta predial.
