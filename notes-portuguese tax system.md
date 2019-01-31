@@ -1,21 +1,24 @@
-# Portuguese tax system for noobs (2018)
+# Portuguese tax system for noobs (2019)
 
-### Trabalhador Dependente
+### Como trabalhar em Portugal:
+
+#### Trabalho Dependente
 
 - Trabalhador dependente: contrato de trabalho
 
-### Trabalhador Independente
+#### Trabalho Independente
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
 - [Trabalhador independente / empresário em nome individual](#trabalhador-independente--empresário-em-nome-individual)
 - EIRL: Estabelecimento Individual de Responsabilidade Limitada
 
-### Sociedades
+#### Sociedade
 
 - [LDA: Sociedade por quotas](#lda-sociedade-por-quotas)
 - [SA: Sociedade anónima](#sa-sociedade-anónima)
 
-### Impostos directos em Portugal
+
+### Impostos directos em Portugal:
 
 #### Sobre o rendimento
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
@@ -31,11 +34,12 @@
 - [IMI: Imposto Municipal sobre Imóveis](#imi-imposto-municipal-sobre-imóveis)
 - [IUC: Imposto Único de Circulação](#iuc-imposto-Único-de-circulação)
 
-#### Sobre heranças
+#### Sobre as transmissões (heranças)
 
 - [Imposto de selo](#imposto-de-selo)
 
-### FAQ
+
+### FAQ:
 
 - [Fatura](#fatura)
 - [CAE: Classificação Portuguesa das Actividades Económicas](#cae-classificação-portuguesa-das-actividades-económicas)
@@ -49,7 +53,9 @@
 
 
 
-## Trabalhador esporádico: ato isolado
+## Formas de trabalho em Portugal:
+
+### Trabalhador esporádico: ato isolado
 
 - Constituição: não é necessário abrir atividade nas Finanças;
 - Documento fiscal: ato isolado. Pode ser utilizado mais de uma vez, mas se os atos e as entidades se repetirem ao longo dos anos (tornando o serviço previsível) *ou* se o valor do mesmo for superior a €25k, abrir atividade é obrigatório.
@@ -62,7 +68,7 @@
 
 
 
-## Trabalhador independente / Empresário em nome individual
+### Trabalhador independente / Empresário em nome individual
 
 - Quais as diferenças:
 	- TIs prestam serviços no âmbito da lista anexa ao CIRS, art.151.
@@ -104,7 +110,7 @@
 
 
 
-## LDA: Sociedade por Quotas
+### LDA: Sociedade por Quotas
 
 - Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
 	- *Unipessoal Lda* se houver só um sócio.
@@ -117,7 +123,7 @@
 
 
 
-## SA: Sociedade Anónima
+### SA: Sociedade Anónima
 
 - Forma jurídica burocráticamente exigente para negócios de grande dimensão e que requiram muito financiamento.
 - Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de €50k dividido por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
@@ -125,8 +131,9 @@
 
 
 
+## Impostos directos em Portugal:
 
-## IRS: Imposto sobre o Rendimento das Pessoas Singulares
+### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
 - Quem paga?
 	- residentes em território português;
@@ -166,7 +173,7 @@
 
 
 
-## IRC: Imposto sobre o Rendimento das Pessoas Coletivas
+### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
@@ -186,7 +193,7 @@
 
 
 
-## IVA: Imposto sobre o Valor Acrescentado
+### IVA: Imposto sobre o Valor Acrescentado
 
 - Quem paga:
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
@@ -199,7 +206,7 @@
 
 
 
-## IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+### IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
 - Quem paga: comprador do imóvel.
 - Quanto: depende do valor e finalidade da compra (habitação permanente ou não).
@@ -207,7 +214,7 @@
 
 
 
-## IMI: Imposto Municipal sobre Imóveis
+### IMI: Imposto Municipal sobre Imóveis
 
 - Quem paga: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
 - Quanto:
@@ -219,7 +226,7 @@
 
 
 
-## IUC: Imposto Único de Circulação
+### IUC: Imposto Único de Circulação
 
 - Quem paga: proprietários de veículos motorizados terrestre.
 - Quanto: varia segundo a cilindrada e ano de matrícula do veículo.
@@ -228,7 +235,7 @@
 
 
 
-## Imposto de selo
+### Imposto de selo
 
 Taxa sobre as transmissões (heranças e doações). Regra geral:
 
@@ -238,8 +245,9 @@ Taxa sobre as transmissões (heranças e doações). Regra geral:
 
 
 
+## FAQ:
 
-## Fatura
+### Fatura
 
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
 - O comerciante deverá registrar as faturas na AT até dia 20 do mês seguinte.
@@ -247,14 +255,14 @@ Taxa sobre as transmissões (heranças e doações). Regra geral:
 
 
 
-## CAE: Classificação Portuguesa das Actividades Económicas
+### CAE: Classificação Portuguesa das Actividades Económicas
 
 Códigos de classificação específicos de empresas, segundo o ramo de atividade, para controle fiscal e estatistico.
 
 
 
 
-## IES: Informação Empresarial Simplificada
+### IES: Informação Empresarial Simplificada
 
 - Quem entrega:
 	- Sociedades, EIRLs;
@@ -265,7 +273,7 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 
 
-## Valores indexantes
+### Valores indexantes
 
 - IAS (Indexante dos Apoios Sociais) 2019 = 435,76€
 - SMN (Salário Mínimo Nacional) 2019 = 600€ x 14 meses
@@ -273,7 +281,7 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 
 
-## Quanto custa um TOC
+### Quanto custa um TOC
 
 Valores *referência* para a contabilidade:
 - ENI no regime simplificado com pouca faturação: 200€/trimestre.
@@ -282,7 +290,7 @@ Valores *referência* para a contabilidade:
 
 
 
-## Como declarar rendimentos de fundos de investimento no IRS?
+### Como declarar rendimentos de fundos de investimento no IRS?
 
 - Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 - Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO.
@@ -292,7 +300,7 @@ Valores *referência* para a contabilidade:
 
 
 
-## Quanto tempo guardar as declarações de impostos?
+### Quanto tempo guardar as declarações de impostos?
 
 - IRS:
 	- 4 anos. (CIRS, art.128)
