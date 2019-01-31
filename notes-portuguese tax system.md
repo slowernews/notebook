@@ -1,5 +1,8 @@
 # Portuguese tax system for noobs (2019)
 
+
+
+
 ### Como trabalhar em Portugal:
 
 #### Trabalho Dependente
@@ -18,13 +21,14 @@
 - [SA: Sociedade anónima](#sa-sociedade-anónima)
 
 
+
+
 ### Impostos directos em Portugal:
 
 #### Sobre o rendimento
 - [IRS: Imposto sobre o Rendimento das Pessoas Singulares](#irs-imposto-sobre-o-rendimento-das-pessoas-singulares)
 - [IRC: Imposto sobre o Rendimento das Pessoas Coletivas](#irc-imposto-sobre-o-rendimento-das-pessoas-coletivas)
 - SS: Segurança Social
-- TSU: Taxa Social Única
 
 #### Sobre as vendas
 - [IVA: Imposto sobre o Valor Acrescentado](#iva-imposto-sobre-o-valor-acrescentado)
@@ -37,6 +41,8 @@
 #### Sobre as transmissões (heranças)
 
 - [Imposto de selo](#imposto-de-selo)
+
+
 
 
 ### FAQ:
@@ -118,6 +124,7 @@
 - Responsabilidade sobre o património individual: limitada.
 - Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com os outros sócios a terem o direito de preferencia).
 - TOC: obrigatório.
+- IRC.
 - Segurança Social: gerentes com acesso a subsidio de desemprego após 2 anos se houver cessação de atividade. (DL.12/2013)
 
 
@@ -128,6 +135,8 @@
 - Forma jurídica burocráticamente exigente para negócios de grande dimensão e que requiram muito financiamento.
 - Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de €50k dividido por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
+- IRC.
+
 
 
 
@@ -160,13 +169,13 @@
 			G: Incrementos patrimoniais (mais-valias)
 			H: Pensões
 
-	- residentes não-habituais no últimos 5 anos (nos 10 seguintes).
+	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).
 
 			Rendimentos obtidos em Portugal: 20%
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
 	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
--Quando?
+- Quando?
 	- De 1 de abril a 30 de junho de 2019 (IRS 2019).
 	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações.
 
