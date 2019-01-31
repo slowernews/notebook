@@ -1,14 +1,14 @@
-# Portuguese building & property law (2018)
+# Portuguese building & property Law (2019)
 
 ### Direito da edificação
 
 - [Legislação base](#legislação-base)
 - [Destaque de parcela](#destaque-de-parcela)
-- Terrenos em Avos
+- Terrenos em avos
 
 ### Direito da propriedade de imóveis
 
-- Cadastro predial: cadernetas prediais urbanas e rural
+- [Cadastro predial: cadernetas predial urbana ou rural](#cadastro-predial)
 - Compra de casa
 - Venda de casa: mais valias
 
@@ -20,15 +20,15 @@
 
 
 
-## Legislação base
+## Direito da edificação
+
+### Legislação base
 
 - RJUE: Regime Jurídico da urbanização e Edificação ([DL555/99](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis)).
 - RGEU: Regulamento Geral de Edificações Urbanas ([DL38382/51](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1217&tabela=leis)).
 
 
-
-
-## Destaque de parcela
+### Destaque de parcela
 
 - Isenção de licença ou autorização se cumprir as condições:
 	- dentro de perimetro urbano:
@@ -41,7 +41,18 @@
 
 
 
-## Um parente próximo faleceu, como proceder?
+## Direito da propriedade de imóveis
+
+### Cadastro predial
+
+Consulta de [cadastro predial rural](www.dgterritorio.pt/cadastro/cadastro_geometrico_da_propriedade_rustica__cgpr_/consultar_seccoes_cadastrais/)
+
+
+
+
+## Direito das transmissões (heranças)
+
+### Um parente próximo faleceu, como proceder?
 
 Em resumo:
 
@@ -56,9 +67,7 @@ Em resumo:
 	- cada herdeiro tem ainda de assinar uma procuração para poder ser representado pelo cabeça de casal.
 
 
-
-
-## E se houver só um herdeiro?
+### E se houver só um herdeiro?
 
 Em teoria é igual. Na prática, a habilitação de herdeiros é desnecessária.
 
