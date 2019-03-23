@@ -12,7 +12,7 @@
 #### Trabalho Independente
 
 - [Trabalhador esporádico: ato isolado](#trabalhador-esporádico-ato-isolado)
-- [Trabalhador independente / empresário em nome individual](#trabalhador-independente--empresário-em-nome-individual)
+- [Trabalhador independente / empresário em nome individual](#trabalhador-independente-empresário-em-nome-individual)
 - EIRL: Estabelecimento Individual de Responsabilidade Limitada
 
 #### Sociedade
@@ -55,7 +55,7 @@
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
 - [Como declarar rendimentos de fundos de investimento no IRS?](#Como-declarar-rendimentos-de-fundos-de-investimento-no-IRS)
 - [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
-
+- [Como cessar trabalho independente?](#como-cessar-atividade)
 
 
 
@@ -82,6 +82,7 @@
 	- Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
 - Constituição: abertura de atividade nas Finanças sem capital inicial.
+- Encerramento: presencialmente ou através do site da AT. 
 - Documento fiscal: fatura ou recibo verde.
 - TOC: só é obrigatório se houver contabilidade organizada.
 - IRS: categoria B.
@@ -125,6 +126,7 @@
 - Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de 1€. Cada sócio fica com uma quota da sociedade que lhe confere o direito a uma parte dos lucros e que poderá vender posteriormente (com os outros sócios a terem o direito de preferencia).
 - TOC: obrigatório.
 - IRC.
+- RCBE (Registro Central do Beneficiário Efectivo)
 - Segurança Social: gerentes com acesso a subsidio de desemprego após 2 anos se houver cessação de atividade. (DL.12/2013)
 
 
@@ -135,6 +137,7 @@
 - Forma jurídica burocráticamente exigente para negócios de grande dimensão e que requiram muito financiamento.
 - Constituição: nova entidade jurídica criada na Empresa na Hora. Capital social mínimo de €50k dividido por ações de igual valor. Mínimo 5 sócios (ou um único sócio, se este for uma sociedade).
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
+- TOC: obrigatório.
 - IRC.
 
 
@@ -161,7 +164,7 @@
 			Entre €37k e 80k:               45%             37.5%
 			Superior a 80k:                 48%
 			
-			Sobre os rendimentos das seguintes categorias:
+			Sobre os rendimentos das categorias:
 			A: Trabalho dependente
 			B: Empresariais e profissionais
 			E: Capitais
