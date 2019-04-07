@@ -1,34 +1,34 @@
-// Native methods that check if... 								// boolean result
+// Native methods to check if... 								// boolean result
 
 jsDatatype.isArray()                                            // it's an array
 jsArray.every()                 jsArray.some()                  // every|any element in an array pass a test
 jsArrayOrString.includes()                                      // contains the specified element or string/chars
 jsString.startsWith()           jsString.endsWith()             // begins|ends with specified chars
 
-// Native methods that return the index of...
+// Native methods to return the index of...
 
 jsArrayOrString.indexOf()       jsArrayOrString.lastIndexOf()   // first|last found occurrence of a specified value
 jsArray.findIndex()                                             // first element in an array that pass a test
 jsString.search()                                               // a specified value or REGEX
 
-// Native methods that return...
+// Native methods to return...
 
-jsArrayOrString[]                                               // char or element at a specified index
-jsString.charAt()               jsString.charCodeAt()           // char|unicode of the char at a specified index
+jsArrayOrString[]                                               // the char or element at a specified index
+jsString.charAt()               jsString.charCodeAt()           // the char|unicode of the char at a specified index
 jsArray.find()                                                  // the first array element that passes a test
 jsString.match()                                                // matches against a REGEX
 
-// Native methods that mutate the array by...
+// Native methods to mutate the array by...
 
 jsArray.shift()                 jsArray.pop()                   // removing the first/last element and returns that element
 jsArray.unshift()               jsArray.push()                  // adding new elements to the begin|end and returns new length
 jsArray.splice()                                                // adding|removing elements from an array
 jsArray.copyWithin()                                            // copying elements to and from specified positions
-jsArray.reverse()               								// reversing the order of the elements in an array
-jsArray.sort()                  								// sorting the elements of an array
+jsArray.reverse()                                               // reversing the order of the elements in an array
+jsArray.sort()                                                  // sorting the elements of an array
 jsArray.fill()                                                  // filling the elements from a start index to an end index with a static value
 
-// Native methods to create a new array/string based on an existent one...
+// Native methods to create a new array/string...
 
 jsArrayOrString.concat()                                        // by joining two or more strings/arrays
 jsArray.map()                                                   // with the result of calling a function on each element
@@ -41,17 +41,14 @@ jsString.substr()               jsString.substring()            // extracts char
 jsString.toLowerCase()          jsString.toUpperCase()          // with the string converted to lowercase|uppercase letters
 jsString.trim()                                                 // removes whitespace from both ends of a string
 jsArray.entries()                                               // with the key/value pairs for each index in the array
-jsArray.keys()                                                  // the keys for each index in the array
-
-// Native methods to create a new datatype based on an existent one by...
-
+jsArray.keys()                  jsArray.values()                // with the keys|values as an array iterator
 jsArray.join()                                                  // joining all elements into a string (you can define a separator)
 jsDatatype.toString()                                           // converting to a string and returns the result
 jsString.split()                                                // spliting a string into an array of substrings
-JSON.parse()                    JSON.stringify()                // parsing a JSON string into a JS value or object and vice versa
 jsDate.parse()                                                  // parsing a jsDate string and returns millisecs since Jan 1, 1970
 jsDate.toDateString()                                           // converting the jsDate portion of a Date object into a string
 jsIterableObject.from()                                         // creating an array from an iterable object
+JSON.parse()                    JSON.stringify()                // parsing a JSON string into a JS value or object and vice versa
 
 // Native jsDate methods to...
 
@@ -65,7 +62,7 @@ jsDate.getMilliseconds()        jsDate.setMilliseconds()        // get|set milli
 jsDate.getTime()                jsDate.setTime()                // get|set time (milliseconds since January 1, 1970)
 jsDate.getDay()                                                 // get weekday as a number (0-6)
 
-jsDate.now()                                                    // Returns milliseconds since midnight Jan 1, 1970
+jsDate.now()                                                    // returns milliseconds since midnight Jan 1, 1970
 
 // JS regular expressions
 // syntax: /pattern/modifiers; 
