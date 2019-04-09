@@ -13,10 +13,12 @@ jsString.search()                                               // a specified v
 
 // Native methods to return...
 
-jsArrayOrString[]                                               // the char or element at a specified index
-jsString.charAt()               jsString.charCodeAt()           // the char|unicode of the char at a specified index
-jsArray.find()                                                  // the first array element that passes a test
 jsString.match()                                                // matches against a REGEX
+jsString.charAt()               jsString.charCodeAt()           // the char|unicode of the char at a specified index
+jsArrayOrString[]                                               // the char or element at a specified index
+jsArray.reduce()                jsArray.reduceRight()           // a single value by reducing (left-right|right-left)
+jsArray.find()                                                  // the first array element that passes a test
+jsArray.entries()     jsArray.keys()       jsArray.values()     // iterator with key-value pairs|keys|values for each index
 
 // Native methods to mutate the array by...
 
@@ -32,7 +34,6 @@ jsArray.forEach()                                               // calling a fun
 
 jsArray.filter()                                                // with every element that pass a test
 jsArray.map()                                                   // with the result of calling a function on each element
-jsArray.reduce()                jsArray.reduceRight()           // reducing values to a single value (left-right|right-left)
 jsIterableObject.from()                                         // from an iterable object
 jsString.split()                                                // with substrings of a string
 
@@ -50,11 +51,7 @@ jsString.trim()                                                 // removing whit
 jsArray.join()                                                  // by joining all elements (you can define a separator)
 jsDatatype.toString()                                           // by convertion and returns the result
 jsDate.toDateString()                                           // converting the readable part of a date
-
-// Native methods to create an...
-
-JSON.parse()        JSON.stringify()                            // object from a JSON string|JSON string from an object
-jsArray.entries()   jsArray.keys()       jsArray.values()       // iterator with key-value pairs|keys|values for each index
+JSON.stringify()                JSON.parse()                    // from an object|object from a JSON string
 
 // Native jsDate methods to...
 
