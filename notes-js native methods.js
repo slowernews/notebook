@@ -1,4 +1,4 @@
-// Native methods to get a boolean by checking if...
+// Native methods that return a boolean by checking if...
 
 jsDatatype.isArray()                                            // it's an array
 jsArray.every()                 jsArray.some()                  // every|any element in an array pass a test
@@ -26,14 +26,15 @@ jsArray.splice()                                                // adding|removi
 jsArray.copyWithin()                                            // copying elements to and from specified positions
 jsArray.fill()                                                  // filling from a start index to an end index with a static value
 jsArray.reverse()               jsArray.sort()                  // reversing the order|sorting the elements
+jsArray.forEach()                                               // calling a function for each array element
 
 // Native methods to create a new array...
 
 jsArray.filter()                                                // with every element that pass a test
 jsArray.map()                                                   // with the result of calling a function on each element
 jsArray.reduce()                jsArray.reduceRight()           // reducing values to a single value (left-right|right-left)
-jsArray.forEach()                                               // calling a function for each array element
 jsIterableObject.from()                                         // from an iterable object
+jsString.split()                                                // with substrings of a string
 
 // Native methods to create a new string/array...
 
@@ -44,17 +45,16 @@ jsArrayOrString.slice()                                         // with a select
 
 jsString.replace()                                              // with a specified value replacing a specified value or REGEX
 jsString.substr()               jsString.substring()            // extracts chars from a specified index and length|two indexes
-jsString.toLowerCase()          jsString.toUpperCase()          // with the string converted to lowercase|uppercase letters
-jsString.trim()                                                 // removes whitespace from both ends of a string
-jsString.split()                                                // spliting a string into an array of substrings
+jsString.toLowerCase()          jsString.toUpperCase()          // with the string converted to lowercase|uppercase
+jsString.trim()                                                 // removing whitespace from both ends
 jsArray.join()                                                  // by joining all elements (you can define a separator)
-jsDatatype.toString()                                           // converting to a string and returns the result
-jsDate.toDateString()                                           // converting the readable part of a Date object
+jsDatatype.toString()                                           // by convertion and returns the result
+jsDate.toDateString()                                           // converting the readable part of a date
 
 // Native methods to create an...
 
-JSON.parse()            JSON.stringify()                        // object from a JSON string|JSON string from an object
-jsArray.entries()       jsArray.keys()       jsArray.values()   // iterator with key-value pairs|keys|values for each index
+JSON.parse()        JSON.stringify()                            // object from a JSON string|JSON string from an object
+jsArray.entries()   jsArray.keys()       jsArray.values()       // iterator with key-value pairs|keys|values for each index
 
 // Native jsDate methods to...
 
@@ -67,9 +67,7 @@ jsDate.getSeconds()             jsDate.setSeconds()             // get|set secon
 jsDate.getMilliseconds()        jsDate.setMilliseconds()        // get|set millisecond (0-999)
 jsDate.getTime()                jsDate.setTime()                // get|set time (milliseconds since January 1, 1970)
 jsDate.getDay()                                                 // get weekday as a number (0-6)
-
-jsDate.now()                                                    // returns milliseconds since midnight Jan 1, 1970
-jsDate.parse()                                                  // returns milliseconds since midnight Jan 1, 1970 until the date
+jsDate.now()                    jsDate.parse()                  // return millisecs since 01-01-1970 until now|provided date
 
 // JS regular expressions
 // syntax: /pattern/modifiers; 
@@ -114,17 +112,16 @@ x                               // ignore whitespace
 
 // JS Math object relevant methods and properties that return...
 
-Math.pow()      or: x ** y                          // the value of x to the power of y
-Math.sqrt()     Math.cbrt()                         // the square|cubic root of x
-Math.random()                                       // a random number between 0 and 1
-Math.PI         Math.SQRT2                          // PI|square root of 2
-
-Math.max()      Math.min()                          // the number with the max|min value
-Math.floor()    Math.ceil()     Math.round()        // rounds downwards|upwards|to the nearest integer
-Math.trunc()    Math.abs()                          // the integer part|the absolute value of a number
+Math.pow()          or: x ** y                                  // the value of x to the power of y
+Math.sqrt()         Math.cbrt()                                 // the square|cubic root of x
+Math.random()                                                   // a random number between 0 and 1
+Math.PI             Math.SQRT2                                  // PI|square root of 2
+Math.max()          Math.min()                                  // the number with the max|min value
+Math.floor()        Math.ceil()         Math.round()            // rounds downwards|upwards|to the nearest integer
+Math.trunc()        Math.abs()                                  // the integer part|the absolute value of a number
 
 // JS properties
 
 jsArrayOrString.constructor     // returns the function that created the datatype object's prototype
-jsArrayOrString.length          // gets or returns the number of elements in a datatype
+jsArrayOrString.length          // returns the number of elements
 jsDatatype.prototype            // to add properties and methods to a datatype
