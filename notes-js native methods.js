@@ -27,30 +27,34 @@ jsArray.copyWithin()                                            // copying eleme
 jsArray.fill()                                                  // filling from a start index to an end index with a static value
 jsArray.reverse()               jsArray.sort()                  // reversing the order|sorting the elements
 
-// Native methods to create a new array/string...
+// Native methods to create a new array...
 
 jsArray.filter()                                                // with every element that pass a test
 jsArray.map()                                                   // with the result of calling a function on each element
 jsArray.reduce()                jsArray.reduceRight()           // reducing values to a single value (left-right|right-left)
 jsArray.forEach()                                               // calling a function for each array element
+jsIterableObject.from()                                         // from an iterable object
 
-jsArray.join()                                                  // joining all elements into a string (you can define a separator)
+// Native methods to create a new string/array...
+
 jsArrayOrString.concat()                                        // joining two or more strings/arrays
 jsArrayOrString.slice()                                         // with a selected part
+
+// Native methods to create a new string...
+
 jsString.replace()                                              // with a specified value replacing a specified value or REGEX
 jsString.substr()               jsString.substring()            // extracts chars from a specified index and length|two indexes
 jsString.toLowerCase()          jsString.toUpperCase()          // with the string converted to lowercase|uppercase letters
 jsString.trim()                                                 // removes whitespace from both ends of a string
 jsString.split()                                                // spliting a string into an array of substrings
+jsArray.join()                                                  // by joining all elements (you can define a separator)
 jsDatatype.toString()                                           // converting to a string and returns the result
+jsDate.toDateString()                                           // converting the readable part of a Date object
 
-jsArray.entries()                                               // with the key/value pairs for each index in the array
-jsArray.keys()                  jsArray.values()                // with the keys|values as an array iterator
-jsIterableObject.from()                                         // creating an array from an iterable object
+// Native methods to create an...
 
-JSON.parse()                    JSON.stringify()                // parsing a JSON string into a JS value or object and vice versa
-jsDate.parse()                                                  // parsing a jsDate string and returns millisecs since Jan 1, 1970
-jsDate.toDateString()                                           // converting the jsDate portion of a Date object into a string
+JSON.parse()            JSON.stringify()                        // object from a JSON string|JSON string from an object
+jsArray.entries()       jsArray.keys()       jsArray.values()   // array iterator with the key-value pairs|keys|values for each index
 
 // Native jsDate methods to...
 
@@ -65,6 +69,7 @@ jsDate.getTime()                jsDate.setTime()                // get|set time 
 jsDate.getDay()                                                 // get weekday as a number (0-6)
 
 jsDate.now()                                                    // returns milliseconds since midnight Jan 1, 1970
+jsDate.parse()                                                  // returns milliseconds since midnight Jan 1, 1970 until the date
 
 // JS regular expressions
 // syntax: /pattern/modifiers; 
