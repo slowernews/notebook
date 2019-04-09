@@ -1,4 +1,4 @@
-// Native methods to check if... 								// boolean result
+// Native methods to get a boolean by checking if...
 
 jsDatatype.isArray()                                            // it's an array
 jsArray.every()                 jsArray.some()                  // every|any element in an array pass a test
@@ -54,7 +54,7 @@ jsDate.toDateString()                                           // converting th
 // Native methods to create an...
 
 JSON.parse()            JSON.stringify()                        // object from a JSON string|JSON string from an object
-jsArray.entries()       jsArray.keys()       jsArray.values()   // array iterator with the key-value pairs|keys|values for each index
+jsArray.entries()       jsArray.keys()       jsArray.values()   // iterator with key-value pairs|keys|values for each index
 
 // Native jsDate methods to...
 
@@ -108,23 +108,20 @@ n{X,}                           // any string that contains a sequence of at lea
 // regExp modifiers to...
 
 i                               // case-insensitive matching
-g                               // global match (find all matches rather than stopping after first match)
+g                               // global match (all matches rather than stopping after first match)
 m                               // multiline matching
 x                               // ignore whitespace
 
 // JS Math object relevant methods and properties that return...
 
-Math.pow()      or: x ** y      // the value of x to the power of y
-Math.sqrt()     Math.cbrt()     // the square|cubic root of x
+Math.pow()      or: x ** y                          // the value of x to the power of y
+Math.sqrt()     Math.cbrt()                         // the square|cubic root of x
+Math.random()                                       // a random number between 0 and 1
+Math.PI         Math.SQRT2                          // PI|square root of 2
 
-Math.max()      Math.min()      // the number with the max/min value
-Math.floor()    Math.ceil()     // rounds downwards|upwards the nearest integer
-Math.round()                    // rounds to the nearest integer
-Math.trunc()                    // the integer part of a number
-Math.abs()                      // the absolute value
-
-Math.random()                   // a random number between 0 and 1
-Math.PI         Math.SQRT2      // PI|square root of 2
+Math.max()      Math.min()                          // the number with the max|min value
+Math.floor()    Math.ceil()     Math.round()        // rounds downwards|upwards|to the nearest integer
+Math.trunc()    Math.abs()                          // the integer part|the absolute value of a number
 
 // JS properties
 
