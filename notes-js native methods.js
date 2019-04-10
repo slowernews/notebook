@@ -2,7 +2,7 @@
 
 jsDatatype.isArray()                                            // it's an array
 jsArray.every()                 jsArray.some()                  // every|any element in an array pass a test
-jsArrayOrString.includes()                                      // contains the specified element or string/chars
+jsArrayOrString.includes()                                      // contains the specified element/chars
 jsString.startsWith()           jsString.endsWith()             // begins|ends with specified chars
 
 // Native methods to return the index of...
@@ -11,14 +11,12 @@ jsArrayOrString.indexOf()       jsArrayOrString.lastIndexOf()   // first|last fo
 jsArray.findIndex()                                             // first element in an array that pass a test
 jsString.search()                                               // a specified value or REGEX
 
-// Native methods to return...
+// Native methods to acess and return...
 
 jsString.match()                                                // matches against a REGEX
 jsString.charAt()               jsString.charCodeAt()           // the char|unicode of the char at a specified index
 jsArrayOrString[]                                               // the char or element at a specified index
-jsArray.reduce()                jsArray.reduceRight()           // a single value by reducing (left-right|right-left)
 jsArray.find()                                                  // the first array element that passes a test
-jsArray.entries()     jsArray.keys()       jsArray.values()     // iterator with key-value pairs|keys|values for each index
 
 // Native methods to mutate the array by...
 
@@ -37,6 +35,11 @@ jsArray.map()                                                   // with the resu
 jsIterableObject.from()                                         // from an iterable object
 jsString.split()                                                // with substrings of a string
 
+// Native methods to return...
+
+jsArray.reduce()                jsArray.reduceRight()           // a single value by reducing (left-right|right-left)
+jsArray.entries()     jsArray.keys()       jsArray.values()     // an iterator with key-value pairs|keys|values for each index
+
 // Native methods to create a new string/array...
 
 jsArrayOrString.concat()                                        // joining two or more strings/arrays
@@ -44,10 +47,10 @@ jsArrayOrString.slice()                                         // with a select
 
 // Native methods to create a new string...
 
+jsString.trim()    jsString.trimStart()    jsString.trimEnd()   // removing whitespace from both ends|left|right
 jsString.replace()                                              // with a specified value replacing a specified value or REGEX
 jsString.substr()               jsString.substring()            // extracts chars from a specified index and length|two indexes
 jsString.toLowerCase()          jsString.toUpperCase()          // with the string converted to lowercase|uppercase
-jsString.trim()                                                 // removing whitespace from both ends
 jsArray.join()                                                  // by joining all elements (you can define a separator)
 jsDatatype.toString()                                           // by convertion and returns the result
 jsDate.toDateString()                                           // converting the readable part of a date
@@ -117,8 +120,8 @@ Math.max()          Math.min()                                  // the number wi
 Math.floor()        Math.ceil()         Math.round()            // rounds downwards|upwards|to the nearest integer
 Math.trunc()        Math.abs()                                  // the integer part|the absolute value of a number
 
-// JS properties
+// JS properties to...
 
-jsArrayOrString.constructor     // returns the function that created the datatype object's prototype
-jsArrayOrString.length          // returns the number of elements
-jsDatatype.prototype            // to add properties and methods to a datatype
+jsArrayOrString.constructor     // return the function that created the datatype object's prototype
+jsArrayOrString.length          // return the number of elements
+jsDatatype.prototype            // add properties and methods to a datatype
