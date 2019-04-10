@@ -1,14 +1,14 @@
 // Native methods that return a boolean by checking if...
 
 jsDatatype.isArray()                                            // it's an array
-jsArray.every()                 jsArray.some()                  // every|any element in an array pass a test
+jsArray.every()                 jsArray.some()                  // every|any element pass a test
 jsArrayOrString.includes()                                      // contains the specified element/chars
 jsString.startsWith()           jsString.endsWith()             // begins|ends with specified chars
 
-// Native methods to return the index of...
+// Native methods to acess and return the index of...
 
-jsArrayOrString.indexOf()       jsArrayOrString.lastIndexOf()   // first|last found occurrence of a specified value
-jsArray.findIndex()                                             // first element in an array that pass a test
+jsArrayOrString.indexOf()       jsArrayOrString.lastIndexOf()   // the first|last found occurrence of a specified value
+jsArray.findIndex()                                             // the first element that pass a test
 jsString.search()                                               // a specified value or REGEX
 
 // Native methods to acess and return...
@@ -16,24 +16,24 @@ jsString.search()                                               // a specified v
 jsString.match()                                                // matches against a REGEX
 jsString.charAt()               jsString.charCodeAt()           // the char|unicode of the char at a specified index
 jsArrayOrString[]                                               // the char or element at a specified index
-jsArray.find()                                                  // the first array element that passes a test
+jsArray.find()                                                  // the first element that passes a test
 
 // Native methods to mutate the array by...
 
-jsArray.shift()                 jsArray.pop()                   // removing the first/last element and returns that element
-jsArray.unshift()               jsArray.push()                  // adding new elements to the begin|end and returns new length
-jsArray.splice()                                                // adding|removing elements from an array
+jsArray.shift()                 jsArray.pop()                   // removing the first/last element. Returns that element
+jsArray.unshift()               jsArray.push()                  // adding new elements to the begin|end. Returns new length
+jsArray.splice()                                                // adding|removing elements
 jsArray.copyWithin()                                            // copying elements to and from specified positions
 jsArray.fill()                                                  // filling from a start index to an end index with a static value
 jsArray.reverse()               jsArray.sort()                  // reversing the order|sorting the elements
-jsArray.forEach()                                               // calling a function for each array element
+jsArray.forEach()                                               // calling a function on each element
 
 // Native methods to create a new array...
 
 jsArray.filter()                                                // with every element that pass a test
 jsArray.map()                                                   // with the result of calling a function on each element
 jsIterableObject.from()                                         // from an iterable object
-jsString.split()                                                // with substrings of a string
+jsString.split()                                                // with substrings
 
 // Native methods to return...
 
@@ -49,7 +49,7 @@ jsArrayOrString.slice()                                         // with a select
 
 jsString.trim()    jsString.trimStart()    jsString.trimEnd()   // removing whitespace from both ends|left|right
 jsString.replace()                                              // with a specified value replacing a specified value or REGEX
-jsString.substr()               jsString.substring()            // extracts chars from a specified index and length|two indexes
+jsString.substr()               jsString.substring()            // extracting chars from a specified index and length|two indexes
 jsString.toLowerCase()          jsString.toUpperCase()          // with the string converted to lowercase|uppercase
 jsArray.join()                                                  // by joining all elements (you can define a separator)
 jsDatatype.toString()                                           // by convertion and returns the result
