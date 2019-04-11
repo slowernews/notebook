@@ -1,7 +1,7 @@
 /* Native methods that return a boolean by inspecting if... */
 
 jsArray.every()                 | .some()               // every|any element pass a test
- //rubyArray                    | .any? {}
+ //rubyArray.all? {}            | .any? {}
 jsArrayOrString.includes()                              // contains the specified element/chars
  //rubyArrayOrString.include?() | .empty?               ##                                     |length = 0
 jsString.startsWith()           | .endsWith()           // begins|ends with specified chars
@@ -10,19 +10,20 @@ Array.isArray(jsDatatype)                               // it's an array
 
 /* Native methods to acess and return the index of... */
 
-jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
- //rubyArrayOrString.index()    | .rindex()
 jsArray.findIndex()                                     // the first element that pass a test
-jsString.search()                                       // the first ocurrence of a specified value or REGEX
+jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
+ //rubyArray.index()            | .rindex()
+jsString.search()                                       // the first ocurrence of a substring or REGEX
+ //rubyString.index()           | .rindex()
 
 /* Native methods to acess and return... */
 
 jsString.match()                                        // matches against a REGEX
+ //rubyString.match() or rubyString[regex]
 jsString.charAt()               | .charCodeAt()         // the char|unicode of the char at a specified index
 jsArrayOrString[index]                                  // the char or element at a specified index
- //rubyArrayOrString[index|index,lenght|range]
- //rubyString[regex]
- //rubyArray.fetch()									## similar but throws error if index out of bounds
+ //rubyArrayOrString[index|index,length|range]
+ //rubyArray.fetch()                                    ## similar but throws error if index out of bounds
  //rubyArray.first     | .last  | .sample(n)            ## first|last element|random n element(s)
  //rubyArray.take(n)            | .drop(n)              ## first n elements | elements but the first n
 jsArray.find()                                          // the first element that passes a test
