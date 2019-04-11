@@ -1,16 +1,16 @@
-// Native methods that return a boolean by checking if...
+// Native methods that return a boolean by inspecting if...
 
 jsArray.every()                 | .some()               // every|any element pass a test
 jsArrayOrString.includes()                              // contains the specified element/chars
-// rubyString.include?()
+ //rubyArrayOrString.include?()
 jsString.startsWith()           | .endsWith()           // begins|ends with specified chars
-// rubyString.start_with?()     | .end_with?()
+ //rubyString.start_with?()     | .end_with?()
 Array.isArray(jsDatatype)                               // it's an array
 
 // Native methods to acess and return the index of...
 
 jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
-// rubyString.index()           | .rindex()
+ // rubyString.index()          | .rindex()
 jsArray.findIndex()                                     // the first element that pass a test
 jsString.search()                                       // the first ocurrence of a specified value or REGEX
 
@@ -19,9 +19,10 @@ jsString.search()                                       // the first ocurrence o
 jsString.match()                                        // matches against a REGEX
 jsString.charAt()               | .charCodeAt()         // the char|unicode of the char at a specified index
 jsArrayOrString[]                                       // the char or element at a specified index
+  // rubyArrayOrString[]
 jsArray.find()                                          // the first element that passes a test
 
-// Native methods to mutate the array by...
+// Native methods to mutate by...
 
 jsArray.shift()                 | .pop()                // removing the first/last element. Returns that element
 jsArray.unshift()               | .push()               // adding new elements to the begin|end. Returns new length
@@ -29,6 +30,7 @@ jsArray.splice()                                        // adding|removing eleme
 jsArray.copyWithin()                                    // copying elements to and from specified positions
 jsArray.fill()                                          // filling from a start index to an end index with a static value
 jsArray.reverse()               | .sort()               // reversing the order|sorting the elements
+ // rubyString.reverse!
 jsArray.forEach()                                       // calling a function on each element
 
 // Native methods to create a new array...
