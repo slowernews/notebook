@@ -11,10 +11,11 @@ Array.isArray(jsDatatype)                               // it's an array
 /* Native methods to acess and return the index of... */
 
 jsArray.findIndex()                                     // the first element that pass a test
-jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
+ //rubyArray.index()            | .rindex()             ## the first|last element that pass a test
+jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last match of a specified value
  //rubyArray.index()            | .rindex()
-jsString.search()                                       // the first ocurrence of a substring or REGEX
- //rubyString.index()           | .rindex()
+jsString.search()                                       // the first match of a substring or REGEX
+ //rubyString.index()           | .rindex()             ## the first|last match of a substring or REGEX  
 
 /* Native methods to acess and return... */
 
@@ -27,6 +28,7 @@ jsArrayOrString[index]                                  // the char or element a
  //rubyArray.first     | .last  | .sample(n)            ## first|last element|random n element(s)
  //rubyArray.take(n)            | .drop(n)              ## first n elements | elements but the first n
 jsArray.find()                                          // the first element that passes a test
+ //rubyArray.bsearch {}
 
 /* Native methods to mutate the array by... */
 
