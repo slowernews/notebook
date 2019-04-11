@@ -2,12 +2,15 @@
 
 jsArray.every()                 | .some()               // every|any element pass a test
 jsArrayOrString.includes()                              // contains the specified element/chars
+// rubyString.include?()
 jsString.startsWith()           | .endsWith()           // begins|ends with specified chars
+// rubyString.start_with?()     | .end_with?()
 Array.isArray(jsDatatype)                               // it's an array
 
 // Native methods to acess and return the index of...
 
 jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
+// rubyString.index()           | .rindex()
 jsArray.findIndex()                                     // the first element that pass a test
 jsString.search()                                       // the first ocurrence of a specified value or REGEX
 
@@ -47,15 +50,16 @@ jsArrayOrString.slice()                                 // with a selected part
 
 // Native methods to create a new string...
 
-jsString.trim()  | .trimStart() | .trimEnd()                        // removing whitespace from both ends|left|right
-jsString.replace()                                                  // with a specified value replacing a specified value or REGEX
-jsString.substr()               | .substring()                      // extracting chars from a specified index and length|two indexes
-jsString.toLowerCase()          | .toUpperCase()                    // with the string converted to lowercase|uppercase
-// rubyString.downcase          | .upcase | .capitalize | .swapcase
-jsArray.join()                                                      // by joining all elements (you can define a separator)
-jsDatatype.toString()                                               // by convertion and returns the result
-jsDate.toDateString()                                               // converting the readable part of a date
-JSON.stringify()                | .parse()                          // from an object|object from a JSON string
+jsString.trim()  | .trimStart() | .trimEnd()                        	// removing whitespace from both ends|left|right
+jsString.replace()                                                  	// with a specified value replacing a specified value or REGEX
+jsString.substr()               | .substring()                      	// extracting chars from a specified index and length|two indexes
+jsString.toLowerCase()          | .toUpperCase()                    	// converted to lowercase|uppercase
+// rubyString.downcase          | .upcase  | .capitalize  | .swapcase
+// rubyString.downcase!         | .upcase! | .capitalize! | .swapcase!  ## mutates string
+jsArray.join()                                                      	// by joining all elements (you can define a separator)
+jsDatatype.toString()                                               	// by convertion and returns the result
+jsDate.toDateString()                                               	// converting the readable part of a date
+JSON.stringify()                | .parse()                          	// from an object|object from a JSON string
 
 // Native jsDate methods to...
 
