@@ -1,20 +1,20 @@
 // Native methods that return a boolean by checking if...
 
-jsDatatype.isArray()                                    // it's an array
 jsArray.every()                 | .some()               // every|any element pass a test
 jsArrayOrString.includes()                              // contains the specified element/chars
 jsString.startsWith()           | .endsWith()           // begins|ends with specified chars
+Array.isArray(jsDatatype)                               // it's an array
 
 // Native methods to acess and return the index of...
 
 jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
 jsArray.findIndex()                                     // the first element that pass a test
-jsString.search()                                       // a specified value or REGEX
+jsString.search()                                       // the first ocurrence of a specified value or REGEX
 
 // Native methods to acess and return...
 
 jsString.match()                                        // matches against a REGEX
-jsString.charAt()               | charCodeAt()          // the char|unicode of the char at a specified index
+jsString.charAt()               | .charCodeAt()         // the char|unicode of the char at a specified index
 jsArrayOrString[]                                       // the char or element at a specified index
 jsArray.find()                                          // the first element that passes a test
 
@@ -32,8 +32,8 @@ jsArray.forEach()                                       // calling a function on
 
 jsArray.filter()                                        // with every element that pass a test
 jsArray.map()                                           // with the result of calling a function on each element
-jsIterableObject.from()                                 // from an iterable object
 jsString.split()                                        // with substrings
+Array.from(jsIterableObject)                            // from an iterable object
 
 // Native methods to return...
 
@@ -50,7 +50,8 @@ jsArrayOrString.slice()                                 // with a selected part
 jsString.trim()  | .trimStart() | .trimEnd()            // removing whitespace from both ends|left|right
 jsString.replace()                                      // with a specified value replacing a specified value or REGEX
 jsString.substr()               | .substring()          // extracting chars from a specified index and length|two indexes
-jsString.toLowerCase()          | .toUpperCase()        // with the string converted to lowercase|uppercase
+jsString.toLowerCase()          | .toUpperCase()        /* with the string converted to lowercase|uppercase
+rubyString.downcase             | .upcase | .capitalize | .swapcase                                                    */
 jsArray.join()                                          // by joining all elements (you can define a separator)
 jsDatatype.toString()                                   // by convertion and returns the result
 jsDate.toDateString()                                   // converting the readable part of a date
@@ -122,6 +123,6 @@ Math.trunc()        | .abs()                  // the integer part|the absolute v
 
 // JS properties to...
 
-jsDatatype.constructor          // return the function that created the datatype object's prototype
 jsArrayOrString.length          // return the number of elements
+jsDatatype.constructor          // return the function that created the datatype object's prototype
 jsDatatype.prototype            // add properties and methods to a datatype
