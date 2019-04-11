@@ -10,7 +10,7 @@ Array.isArray(jsDatatype)                               // it's an array
 // Native methods to acess and return the index of...
 
 jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last found occurrence of a specified value
- // rubyString.index()          | .rindex()
+ //rubyString.index()           | .rindex()
 jsArray.findIndex()                                     // the first element that pass a test
 jsString.search()                                       // the first ocurrence of a specified value or REGEX
 
@@ -19,7 +19,8 @@ jsString.search()                                       // the first ocurrence o
 jsString.match()                                        // matches against a REGEX
 jsString.charAt()               | .charCodeAt()         // the char|unicode of the char at a specified index
 jsArrayOrString[]                                       // the char or element at a specified index
-  // rubyArrayOrString[]
+  //rubyArrayOrString[]
+  //rubyArray.first             | .last                 ## first|last element
 jsArray.find()                                          // the first element that passes a test
 
 // Native methods to mutate by...
@@ -30,8 +31,10 @@ jsArray.splice()                                        // adding|removing eleme
 jsArray.copyWithin()                                    // copying elements to and from specified positions
 jsArray.fill()                                          // filling from a start index to an end index with a static value
 jsArray.reverse()               | .sort()               // reversing the order|sorting the elements
- // rubyString.reverse!
+ //rubyArrayOrString.reverse!
 jsArray.forEach()                                       // calling a function on each element
+  //rubyArray.each {}
+  //rubyArray.reverse_each {} | .each_index {}          ## on reverse order|with the index as the argument 
 
 // Native methods to create a new array...
 
@@ -56,8 +59,8 @@ jsString.trim()  | .trimStart() | .trimEnd()                        	// removing
 jsString.replace()                                                  	// with a specified value replacing a specified value or REGEX
 jsString.substr()               | .substring()                      	// extracting chars from a specified index and length|two indexes
 jsString.toLowerCase()          | .toUpperCase()                    	// converted to lowercase|uppercase
-// rubyString.downcase          | .upcase  | .capitalize  | .swapcase
-// rubyString.downcase!         | .upcase! | .capitalize! | .swapcase!  ## mutates string
+ //rubyString.downcase          | .upcase  | .capitalize  | .swapcase
+ //rubyString.downcase!         | .upcase! | .capitalize! | .swapcase!  ## mutates string
 jsArray.join()                                                      	// by joining all elements (you can define a separator)
 jsDatatype.toString()                                               	// by convertion and returns the result
 jsDate.toDateString()                                               	// converting the readable part of a date
