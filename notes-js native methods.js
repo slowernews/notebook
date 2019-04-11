@@ -19,8 +19,8 @@ jsString.search()                                       // the first ocurrence o
 jsString.match()                                        // matches against a REGEX
 jsString.charAt()               | .charCodeAt()         // the char|unicode of the char at a specified index
 jsArrayOrString[]                                       // the char or element at a specified index
-  //rubyArrayOrString[]
-  //rubyArray.first             | .last                 ## first|last element
+ //rubyArrayOrString[]
+ //rubyArray.first              | .last                 ## first|last element
 jsArray.find()                                          // the first element that passes a test
 
 // Native methods to mutate by...
@@ -33,13 +33,14 @@ jsArray.fill()                                          // filling from a start 
 jsArray.reverse()               | .sort()               // reversing the order|sorting the elements
  //rubyArrayOrString.reverse!
 jsArray.forEach()                                       // calling a function on each element
-  //rubyArray.each {}
-  //rubyArray.reverse_each {} | .each_index {}          ## on reverse order|with the index as the argument 
+ //rubyArray.each {}
+ //rubyArray.reverse_each {}    | .each_index {}        ## on reverse order|with the index as the argument 
 
 // Native methods to create a new array...
 
 jsArray.filter()                                        // with every element that pass a test
 jsArray.map()                                           // with the result of calling a function on each element
+ //rubyArray.map {}
 jsString.split()                                        // with substrings
 Array.from(jsIterableObject)                            // from an iterable object
 
@@ -56,8 +57,8 @@ jsArrayOrString.slice()                                 // with a selected part
 // Native methods to create a new string...
 
 jsString.trim()  | .trimStart() | .trimEnd()                        	// removing whitespace from both ends|left|right
-jsString.replace()                                                  	// with a specified value replacing a specified value or REGEX
-jsString.substr()               | .substring()                      	// extracting chars from a specified index and length|two indexes
+jsString.replace()                                                  	// with a value replacing another value or REGEX
+jsString.substr()               | .substring()                      	// with chars from an index and length|two indexes
 jsString.toLowerCase()          | .toUpperCase()                    	// converted to lowercase|uppercase
  //rubyString.downcase          | .upcase  | .capitalize  | .swapcase
  //rubyString.downcase!         | .upcase! | .capitalize! | .swapcase!  ## mutates string
