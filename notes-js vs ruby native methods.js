@@ -39,7 +39,7 @@ jsArray.splice()                                                // adding/removi
  //rubyArray.unshift()          | .push()                       ## adding element to the start|end of the array
 jsArray.copyWithin()                                            // copying elements to and from specified positions
 jsArray.fill()                                                  // filling from a start to an end index with a static value
- //rubyArray.fill()             | .clear | .compact!
+ //rubyArray.fill()             | .clear | .compact!            ## the same | clear all elements | delete 'nil' elements
 jsArray.reverse()               | .sort()                       // reversing the order|sorting the elements
  //rubyArray.reverse!           | .sort! | .shuffle!
  //rubyString.reverse!                                          ## rubyStrings can mutate also
@@ -47,7 +47,7 @@ jsArray.reverse()               | .sort()                       // reversing the
 jsArray.forEach()                                               // calling a function on each element
  //rubyArray.each {}            | .cycle(n) {}                  ## calling a function on each element|n times
  //rubyArray.reverse_each {}    | .each_index {}                ## on reverse order|with the index as the argument 
- //rubyArray.reject! {}         | .select!                      ## with every element that pass a test|fail a test
+ //rubyArray.reject! {}         | .select!                      ## keeping every element that pass a test|fail a test
  //rubyArray.delete_if {}       | .keep_if {}                   ## the same
  //rubyArray.drop_while {}                                      ## delete elements while they pass a test and stops when don't
 
@@ -74,6 +74,7 @@ jsArrayOrString.slice()                                         // with a select
 /* Native methods to create a new string... */
 
 jsString.trim()  | .trimStart() | .trimEnd()                    // removing whitespace from both ends|left|right
+jsString.replace()                                              // with a value replacing another value or REGEX
 jsString.substr()               | .substring()                  // with chars from an index and length|two indexes
 jsString.toLowerCase()          | .toUpperCase()                // converted to lowercase|uppercase
  //rubyString.downcase |.upcase | .capitalize  | .swapcase

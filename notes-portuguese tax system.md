@@ -53,9 +53,9 @@
 - [IAS: Indexante dos Apoios Sociais](#valores-indexantes)
 - [SMN: Salário Mínimo Nacional](#valores-indexantes)
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
-- [Como declarar rendimentos de fundos de investimento no IRS?](#Como-declarar-rendimentos-de-fundos-de-investimento-no-IRS)
-- [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
 - [Como cessar trabalho independente?](#como-cessar-atividade)
+- [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
+- [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
 
 
 
@@ -68,7 +68,7 @@
 - IRS: categoria B.
 - IVA: cobrança obrigatória e devolução ao Fisco até ao final do mês seguinte.
 - Segurança social:
-	- Pagamento mensal facultativo;
+	- Pagamento mensal facultativo.
 	- O trabalhador ao emitir um ato isolado não perde o direito ao subsídio de desemprego. Suspende-o temporariamente (pelo mesmo valor recebido) e não o cancela definitivamente.
 
 
@@ -180,7 +180,7 @@
 	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
 - Quando?
 	- De 1 de abril a 30 de junho de 2019 (IRS 2019).
-	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações.
+	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações. [Algumas notas sobre o seu preenchimento](#como-preencher-a-declaração-do-IRS)
 
 
 
@@ -257,6 +257,7 @@ Taxa sobre as transmissões (heranças e doações). Regra geral:
 
 
 
+
 ## FAQ:
 
 ### Fatura
@@ -293,7 +294,7 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 
 
-### Quanto custa um TOC
+### Quanto custa um TOC?
 
 Valores *referência* para a contabilidade:
 - ENI no regime simplificado com pouca faturação: 200€/trimestre.
@@ -302,12 +303,15 @@ Valores *referência* para a contabilidade:
 
 
 
-### Como declarar rendimentos de fundos de investimento no IRS?
+### Notas sobre o preenchimento da declaração do IRS
 
-- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
-- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO.
-
-[Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
+- Anexo A: rendimentos de trabalho dependente/reformas.
+- Anexo B: rendimentos de trabalho independente.
+- Anexo SS: *regra geral* é obrigatório para quem tem rendimentos da categoria B. Excepção para quem só passou atos isolados.
+- Anexo H: para apresentar valores de faturas divergentes do fornecido pelo fisco.
+- Como declarar rendimentos de fundos de investimento no IRS?
+	- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
+	- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO. [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
 
 
 
@@ -319,6 +323,7 @@ Valores *referência* para a contabilidade:
 	- Com contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
 - IRC: 12 anos.
 - IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
+
 
 
 
