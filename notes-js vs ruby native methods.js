@@ -73,15 +73,14 @@ jsArrayOrString.slice()                                         // with a select
 
 /* Native methods to create a new string... */
 
-jsString.trim()  | .trimStart() | .trimEnd()                        	// removing whitespace from both ends|left|right
-jsString.replace()                                                  	// with a value replacing another value or REGEX
-jsString.substr()               | .substring()                      	// with chars from an index and length|two indexes
-jsString.toLowerCase()          | .toUpperCase()                    	// converted to lowercase|uppercase
- //rubyString.downcase          | .upcase  | .capitalize  | .swapcase
-jsArray.join()                                                      	// by joining all elements (can define a separator)
-jsDatatype.toString()                                               	// by convertion and returns the result
-jsDate.toDateString()                                               	// converting the readable part of a date
-JSON.stringify()                | .parse()                          	// from an object|object from a JSON string
+jsString.trim()  | .trimStart() | .trimEnd()                    // removing whitespace from both ends|left|right
+jsString.substr()               | .substring()                  // with chars from an index and length|two indexes
+jsString.toLowerCase()          | .toUpperCase()                // converted to lowercase|uppercase
+ //rubyString.downcase |.upcase | .capitalize  | .swapcase
+jsArray.join()                                                  // by joining all elements (can define a separator)
+jsDatatype.toString()                                           // by convertion and returns the result
+jsDate.toDateString()                                           // converting the readable part of a date
+JSON.stringify()                | .parse()                      // from an object|object from a JSON string
 
 /* Native jsDate methods to... */
 
@@ -139,13 +138,13 @@ x                               // ignore whitespace
 
 /* JS Math object relevant methods and properties that return... */
 
-Math.pow()          | x ** y                    // the value of x to the power of y
-Math.sqrt()         | .cbrt()                   // the square|cubic root of x
-Math.random()                                   // a random number between 0 and 1
-Math.PI             | .SQRT2                    // PI|square root of 2
-Math.max()          | .min()                    // the number with the max|min value
-Math.floor()        | .ceil()   | round()       // rounds downwards|upwards|to the nearest integer
-Math.trunc()        | .abs()                    // the integer part|the absolute value of a number
+Math.pow()                      | x ** y                        // the value of x to the power of y
+Math.sqrt()                     | .cbrt()                       // the square|cubic root of x
+Math.random()                                                   // a random number between 0 and 1
+Math.PI                         | .SQRT2                        // PI|square root of 2
+Math.max()                      | .min()                        // the number with the max|min value
+Math.floor()                    | .ceil()       | round()       // rounds downwards|upwards|to the nearest integer
+Math.trunc()                    | .abs()                        // the integer part|the absolute value of a number
 
 /* JS properties to... */
 
