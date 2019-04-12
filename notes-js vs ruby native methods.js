@@ -1,3 +1,6 @@
+/* JS native methods vs. Ruby native methods
+   ========================================= */
+
 /* Native methods that return a boolean by inspecting if... */
 
 jsArray.every()                 | .some()                       // every|any element pass a test
