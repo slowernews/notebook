@@ -1,65 +1,75 @@
 /* Native methods that return a boolean by inspecting if... */
 
-jsArray.every()                 | .some()               // every|any element pass a test
+jsArray.every()                 | .some()                       // every|any element pass a test
  //rubyArray.all? {}            | .any? {}
-jsArrayOrString.includes()                              // contains the specified element/chars
- //rubyArrayOrString.include?() | .empty?               ##                                     |length = 0
-jsString.startsWith()           | .endsWith()           // begins|ends with specified chars
+jsArrayOrString.includes()                                      // contains the specified element/chars
+ //rubyArrayOrString.include?() | .empty?                       ## contains the specified element/chars|length = 0
+jsString.startsWith()           | .endsWith()                   // begins|ends with specified chars
  //rubyString.start_with?()     | .end_with?()
-Array.isArray(jsDatatype)                               // it's an array
+Array.isArray(jsDatatype)                                       // it's an array
 
 /* Native methods to acess and return the index of... */
 
-jsArray.findIndex()                                     // the first element that pass a test
- //rubyArray.index()            | .rindex()             ## the first|last element that pass a test
-jsArrayOrString.indexOf()       | .lastIndexOf()        // the first|last match of a specified value
+jsArray.findIndex()                                             // the first element that pass a test
+ //rubyArray.index()            | .rindex()                     ## the first|last element that pass a test
+jsArrayOrString.indexOf()       | .lastIndexOf()                // the first|last match of a specified value
  //rubyArray.index()            | .rindex()
-jsString.search()                                       // the first match of a substring or REGEX
- //rubyString.index()           | .rindex()             ## the first|last match of a substring or REGEX  
+jsString.search()                                               // the first match of a substring or REGEX
+ //rubyString.index()           | .rindex()                     ## the first|last match of a substring or REGEX  
 
 /* Native methods to acess and return... */
 
-jsString.match()                                        // matches against a REGEX
+jsString.match()                                                // matches against a REGEX
  //rubyString.match() or rubyString[regex]
-jsString.charAt()               | .charCodeAt()         // the char|unicode of the char at a specified index
-jsArrayOrString[index]                                  // the char or element at a specified index
+jsString.charAt()               | .charCodeAt()                 // the char|unicode of the char at a specified index
+jsArrayOrString[index]                                          // the char or element at a specified index
  //rubyArrayOrString[index|index,length|range]
- //rubyArray.fetch()                                    ## similar but throws error if index out of bounds
- //rubyArray.first     | .last  | .sample(n)            ## first|last element|random n element(s)
- //rubyArray.take(n)            | .drop(n)              ## first n elements | elements but the first n
-jsArray.find()                                          // the first element that passes a test
+ //rubyArray.fetch()                                            ## similar but throws error if index out of bounds
+ //rubyArray.first     | .last  | .sample(n)                    ## first|last element|random n element(s)
+ //rubyArray.take(n)            | .drop(n)                      ## first n elements | elements but the first n
+jsArray.find()                                                  // the first element that passes a test
  //rubyArray.bsearch {}
 
-/* Native methods to mutate the array by... */
+/* Native methods to mutate by... */
 
-jsArray.shift()                 | .pop()                // removing first|last element. Returns that element
- //rubyArray.shift  | .shift(n) | .pop  | .pop(n)       ## removing first|first n|last|last n element(s). Returns them
-jsArray.splice()                                        // adding/removing elements
-jsArray.copyWithin()                                    // copying elements to and from specified positions
-jsArray.fill()                                          // filling from a start index to an end index with a static value
-jsArray.reverse()               | .sort()               // reversing the order|sorting the elements
+jsArray.shift()                 | .pop()                        // removing first|last element. Returns that element
+ //rubyArray.shift  | .shift(n) | .pop  | .pop(n)               ## removing first|first n|last|last n element(s). Returns them
+jsArray.splice()                                                // adding/removing elements
+ //rubyArray.insert()
+ //rubyArray.unshift()          | .push()                       ## adding element to the start|end of the array
+jsArray.copyWithin()                                            // copying elements to and from specified positions
+jsArray.fill()                                                  // filling from a start to an end index with a static value
+ //rubyArray.fill()             | .clear | .compact!
+jsArray.reverse()               | .sort()                       // reversing the order|sorting the elements
  //rubyArray.reverse!           | .sort! | .shuffle!
-jsArray.forEach()                                       // calling a function on each element
- //rubyArray.each {}            | .cycle(n) {}          ##                                   |n times
- //rubyArray.reverse_each {}    | .each_index {}        ## on reverse order|with the index as the argument 
+ //rubyString.reverse!                                          ## rubyStrings can mutate also
+ //rubyString.downcase! | .upcase! | .capitalize! | .swapcase!
+jsArray.forEach()                                               // calling a function on each element
+ //rubyArray.each {}            | .cycle(n) {}                  ## calling a function on each element|n times
+ //rubyArray.reverse_each {}    | .each_index {}                ## on reverse order|with the index as the argument 
+ //rubyArray.reject! {}         | .select!                      ## with every element that pass a test|fail a test
+ //rubyArray.delete_if {}       | .keep_if {}                   ## the same
+ //rubyArray.drop_while {}                                      ## delete elements while they pass a test and stops when don't
 
 /* Native methods to create a new array... */
 
-jsArray.filter()                                        // with every element that pass a test
-jsArray.map()                                           // with the result of calling a function on each element
+jsArray.filter()                                                // with every element that pass a test
+ //rubyArray.select {}          | .reject {}                    ## with every element that pass a test|fail a test
+jsArray.map()                                                   // with the result of calling a function on each element
  //rubyArray.map {}
-jsString.split()                                        // with substrings
-Array.from(jsIterableObject)                            // from an iterable object
+jsString.split()                                                // with substrings
+Array.from(jsIterableObject)                                    // from an iterable object
 
 /* Native methods to return... */
 
-jsArray.reduce()                | .reduceRight()        // a single value by reducing (left-right|right-left)
-jsArray.entries()  | .keys()    | .values()             // an iterator with key-value pairs|keys|values for each index
+jsArray.reduce()                | .reduceRight()                // a single value by reducing (left-right|right-left)
+jsArray.entries()  | .keys()    | .values()                     // an iterator with key-value pairs|keys|values for each index
 
 /* Native methods to create a new string/array... */
 
-jsArrayOrString.concat()                                // joining two or more strings/arrays
-jsArrayOrString.slice()                                 // with a selected part
+jsArrayOrString.concat()                                        // joining two or more strings/arrays
+ //rubyArray.concat()                                           ## rubyArray.concat() mutates it!
+jsArrayOrString.slice()                                         // with a selected part
 
 /* Native methods to create a new string... */
 
@@ -68,8 +78,6 @@ jsString.replace()                                                  	// with a v
 jsString.substr()               | .substring()                      	// with chars from an index and length|two indexes
 jsString.toLowerCase()          | .toUpperCase()                    	// converted to lowercase|uppercase
  //rubyString.downcase          | .upcase  | .capitalize  | .swapcase
- //rubyString.downcase!         | .upcase! | .capitalize! | .swapcase!  ## mutates string
- //rubyString.reverse!                                                  ## mutates string
 jsArray.join()                                                      	// by joining all elements (can define a separator)
 jsDatatype.toString()                                               	// by convertion and returns the result
 jsDate.toDateString()                                               	// converting the readable part of a date
@@ -77,16 +85,16 @@ JSON.stringify()                | .parse()                          	// from an 
 
 /* Native jsDate methods to... */
 
-jsDate.getFullYear()            | .setFullYear()        // get|set year as a four digit number (yyyy)
-jsDate.getMonth()               | .setMonth()           // get|set month as a number (0-11)
-jsDate.getDate()                | .setDate()            // get|set day as a number (1-31)
-jsDate.getHours()               | .setHours()           // get|set hour (0-23)
-jsDate.getMinutes()             | .setMinutes()         // get|set minute (0-59)
-jsDate.getSeconds()             | .setSeconds()         // get|set second (0-59)
-jsDate.getMilliseconds()        | .setMilliseconds()    // get|set millisecond (0-999)
-jsDate.getTime()                | .setTime()            // get|set time (milliseconds since January 1, 1970)
-jsDate.getDay()                                         // get weekday as a number (0-6)
-jsDate.now()                    | .parse()              // return millisecs since 01-01-1970 until now|provided date
+jsDate.getFullYear()            | .setFullYear()                // get|set year as a four digit number (yyyy)
+jsDate.getMonth()               | .setMonth()                   // get|set month as a number (0-11)
+jsDate.getDate()                | .setDate()                    // get|set day as a number (1-31)
+jsDate.getHours()               | .setHours()                   // get|set hour (0-23)
+jsDate.getMinutes()             | .setMinutes()                 // get|set minute (0-59)
+jsDate.getSeconds()             | .setSeconds()                 // get|set second (0-59)
+jsDate.getMilliseconds()        | .setMilliseconds()            // get|set millisecond (0-999)
+jsDate.getTime()                | .setTime()                    // get|set time (milliseconds since January 1, 1970)
+jsDate.getDay()                                                 // get weekday as a number (0-6)
+jsDate.now()                    | .parse()                      // return millisecs since 01-01-1970 until now|provided date
 
 /* JS regular expressions */
 /* syntax: /pattern/modifiers; */
@@ -131,13 +139,13 @@ x                               // ignore whitespace
 
 /* JS Math object relevant methods and properties that return... */
 
-Math.pow()          | x ** y                  // the value of x to the power of y
-Math.sqrt()         | .cbrt()                 // the square|cubic root of x
-Math.random()                                 // a random number between 0 and 1
-Math.PI             | .SQRT2                  // PI|square root of 2
-Math.max()          | .min()                  // the number with the max|min value
-Math.floor()        | .ceil()   | round()     // rounds downwards|upwards|to the nearest integer
-Math.trunc()        | .abs()                  // the integer part|the absolute value of a number
+Math.pow()          | x ** y                    // the value of x to the power of y
+Math.sqrt()         | .cbrt()                   // the square|cubic root of x
+Math.random()                                   // a random number between 0 and 1
+Math.PI             | .SQRT2                    // PI|square root of 2
+Math.max()          | .min()                    // the number with the max|min value
+Math.floor()        | .ceil()   | round()       // rounds downwards|upwards|to the nearest integer
+Math.trunc()        | .abs()                    // the integer part|the absolute value of a number
 
 /* JS properties to... */
 
