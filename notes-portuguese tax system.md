@@ -59,6 +59,7 @@
 
 
 
+
 ## Formas de trabalho em Portugal:
 
 ### Trabalhador esporádico: ato isolado
@@ -89,7 +90,7 @@
 	- Regime de cálculo de IRS:
 		- Simplificado, se o volume de vendas for inferior a €200k.
 			- Dispensado de TOC e IES.
-			- Assume-se uma margem de 70% de rendimento colectável sobre os *serviços* e 20% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
+			- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
 		- Contabilidade organizada, se o volume de vendas for superior a €200k *ou* por opção do empresário.
 			- Obrigatório TOC e IES.
 			- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher este regime.
@@ -180,7 +181,7 @@
 	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
 - Quando?
 	- De 1 de abril a 30 de junho de 2019 (IRS 2019).
-	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações. [Algumas notas sobre o seu preenchimento](#como-preencher-a-declaração-do-IRS)
+	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações. [Algumas notas sobre o seu preenchimento](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
 
 
 
@@ -306,7 +307,7 @@ Valores *referência* para a contabilidade:
 ### Notas sobre o preenchimento da declaração do IRS
 
 - Anexo A: rendimentos de trabalho dependente/reformas.
-- Anexo B: rendimentos de trabalho independente.
+- Anexo B: rendimentos brutos de trabalho independente sem IVA. Os possíveis pagamentos por conta não estão pré-preenchidos!
 - Anexo SS: *regra geral* é obrigatório para quem tem rendimentos da categoria B. Excepção para quem só passou atos isolados.
 - Anexo H: para apresentar valores de faturas divergentes do fornecido pelo fisco.
 - Como declarar rendimentos de fundos de investimento no IRS?

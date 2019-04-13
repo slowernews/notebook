@@ -1,5 +1,5 @@
-/* JS native methods vs. Ruby native methods
-   ========================================= */
+/* JS native methods vs. Ruby native methods (not exaustive)
+   ========================================================= */
 
 /* Native methods that return a boolean by inspecting if... */
 
@@ -9,6 +9,7 @@ jsArrayOrString.includes()                                      // contains the 
  //rubyArrayOrString.include?() | .empty?                       ## contains the specified element/chars|length = 0
 jsString.startsWith()           | .endsWith()                   // begins|ends with specified chars
  //rubyString.start_with?()     | .end_with?()
+ //rubystring.ascii_only?
 Array.isArray(jsDatatype)                                       // it's an array
 
 /* Native methods to acess and return the index of... */
@@ -61,6 +62,7 @@ jsArray.filter()                                                // with every el
 jsArray.map()                                                   // with the result of calling a function on each element
  //rubyArray.map {}
 jsString.split()                                                // with substrings
+ //rubyString.chars
 Array.from(jsIterableObject)                                    // from an iterable object
 
 /* Native methods to return... */
@@ -73,16 +75,22 @@ jsArray.entries()  | .keys()    | .values()                     // an iterator w
 jsArrayOrString.concat()                                        // joining two or more strings/arrays
  //rubyArray.concat()                                           ## rubyArray.concat() mutates it!
 jsArrayOrString.slice()                                         // with a selected part
+ //rubyArrayOrString.slice() 
 
 /* Native methods to create a new string... */
 
 jsString.trim()  | .trimStart() | .trimEnd()                    // removing whitespace from both ends|left|right
-jsString.replace()                                              // with a value replacing another value or REGEX
+ //rubystring.strip | .lstrip   | .rstrip
+jsString.replace()                                              // with a value or REGEX replacing another value
+ //rubyString.tr()                                              ## with a value replacing another value
+ //rubyString.gsub()            | .sub()                        ## with a REGEX|first REGEX ocurrence replacing another value
 jsString.substr()               | .substring()                  // with chars from an index and length|two indexes
 jsString.toLowerCase()          | .toUpperCase()                // converted to lowercase|uppercase
  //rubyString.downcase |.upcase | .capitalize  | .swapcase
 jsArray.join()                                                  // by joining all elements (can define a separator)
+ //rubyString.join()
 jsDatatype.toString()                                           // by convertion and returns the result
+ //rubyDatatype.to_s
 jsDate.toDateString()                                           // converting the readable part of a date
 JSON.stringify()                | .parse()                      // from an object|object from a JSON string
 
@@ -147,6 +155,7 @@ Math.sqrt()                     | .cbrt()                       // the square|cu
 Math.random()                                                   // a random number between 0 and 1
 Math.PI                         | .SQRT2                        // PI|square root of 2
 Math.max()                      | .min()                        // the number with the max|min value
+ //rubyArray.max                | .min
 Math.floor()                    | .ceil()       | round()       // rounds downwards|upwards|to the nearest integer
 Math.trunc()                    | .abs()                        // the integer part|the absolute value of a number
 
