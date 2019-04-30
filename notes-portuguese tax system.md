@@ -307,12 +307,14 @@ Valores *referência* para a contabilidade:
 ### Notas sobre o preenchimento da declaração do IRS
 
 - Anexo A: rendimentos de trabalho dependente/reformas.
-- Anexo B: rendimentos brutos de trabalho independente sem IVA. Os possíveis pagamentos por conta não estão pré-preenchidos!
+- Anexo B: rendimentos brutos de trabalho independente sem IVA. Os possíveis pagamentos por conta não estão pré-preenchidos.
 - Anexo SS: *regra geral* é obrigatório para quem tem rendimentos da categoria B. Excepção para quem só passou atos isolados.
 - Anexo H: para apresentar valores de faturas divergentes do fornecido pelo fisco.
 - Como declarar rendimentos de fundos de investimento no IRS?
 	- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 	- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO. [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
+- Deduções especificas (4104€) para categoria A/H e B (por opção e >80% à mesma entidade. Favorável para rendimentos até 10K anuais)
+- Mínimo de existência para categoria A/H e B (excepto comerciantes e agricultores)
 
 
 

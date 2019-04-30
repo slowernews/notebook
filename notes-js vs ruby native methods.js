@@ -156,7 +156,7 @@ Math.random()                                                   // a random numb
 Math.PI                         | .SQRT2                        // PI|square root of 2
 Math.max()                      | .min()                        // the number with the max|min value
  //rubyArray.max                | .min
-Math.floor()                    | .ceil()       | round()       // rounds downwards|upwards|to the nearest integer
+Math.floor()                    | .ceil()       | .round()      // rounds downwards|upwards|to the nearest integer
 Math.trunc()                    | .abs()                        // the integer part|the absolute value of a number
 
 /* JS properties to... */
