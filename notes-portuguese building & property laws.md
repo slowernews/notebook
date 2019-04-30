@@ -58,12 +58,14 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 - Onde calcular? Calculadora de mais valias [Doutor Finanças](https://www.doutorfinancas.pt/calculadora-de-mais-valias-imoveis/) ou [Deco](https://www.deco.proteste.pt/casa/comprar-vender-casa/simule-e-poupe/quanto-pago-ao-fisco-pela-venda-da-minha-casa).
 - Em que situaçoes estou isento?
 	- Imóveis comprados antes de 1989.
-	- Se o total da venda do imóvel for usado na compra de outro imóvel para habitação própria e permanente (HPP).
-	- Se utilizar as mais valias para liquidar o empréstimo (nos 5 anos seguintes).
+	- Se reinvestir os recursos próprios (preçoVenda – amortizaçãoEmpréstimoImóvelVendido) na compra de outro imóvel para habitação própria e permanente (HPP).
+	- Se utilizar as mais valias para liquidar o empréstimo (nos 5 anos seguintes?).
 - Onde declarar no IRS? Anexo G. Notas:
-	- A mais-valia fica suspensa durante 36 meses caso seja a habitação seja uma HPP e assinalar a intenção de reinvestir os recursos próprios (preçoVenda – amortizaçãoEmpréstimoImóvelVendido) noutra HPP.
-	- Se tiver comprado antes de vender, tem 24 meses para vender a antiga.
+	- A mais-valia pode ficar suspensa até 36 meses caso a habitação que vendeu seja uma HPP e assinalar a intenção de comprar outra HPP.
+	- Se tiver comprado antes de vender, tem 24 meses para vender a antiga e calcular a mais-valia.
 	- Apenas se considera 50% da mais-valia para efeitos de tributação de residentes fiscais.
+
+[Alguns exemplos práticos.](https://www.doutorfinancas.pt/irs/irs-mais-valias-em-imoveis-e-exclusao-de-tributacao/)
 
 
 
