@@ -30,13 +30,12 @@
 
 ### Destaque de parcela
 
-- Isenção de licença ou autorização se cumprir as condições:
-	- dentro de perimetro urbano:
-		- Se as parcelas resultantes do destaque confrontarem com arruamentos públicos.
+- Isenção de licença ou autorização cumprindo as condições:
+	- dentro de perimetro urbano: se as parcelas resultantes do destaque confrontarem com arruamentos públicos.
 	- fora de perimetro urbano:
-		- Se na parcela destacada só seja construído edifício que se destine exclusivamente a fins habitacionais e que não tenha mais de dois fogos;
-		- Se a parcela restante respeitar a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando este não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
-- Para destacar outra parcela, na área correspondente ao prédio originário, nos 10 anos seguintes, só através de loteamento.
+		- Se na parcela destacada só for construído um edifício exclusivamente habitacional até 2 fogos;
+		- e a parcela restante respeitar a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando este não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
+- Nos 10 anos seguintes, só é possível destacar outra parcela na área correspondente ao prédio originário através de loteamento.
 
 
 
@@ -53,12 +52,12 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 - Como calcular:
 	- *maisValias = preçoVenda - (preçoCompra x coeficienteInflação) - despesasTransmissão – despesasValorização*
 	- Despesas de transmissão: IMT, escrituras, certificado energético e comissões e faturadas ao proprietário.
-	- Despesas de valorização do imóvel: obras efetuadas nos últimos 12 anos e faturadas ao proprietário.
-	- Se o preço de venda for inferior ao valor patrimonial terá de se comprovar no Fisco ou este não será considerado para o cálculo de mais valias.
-	- Se tiver herdado o imóvel considera-se o valor patrimonial à data da transmissão.
-- Onde calcular? Calculadora de mais valias [Doutor Finanças](https://www.doutorfinancas.pt/calculadora-de-mais-valias-imoveis/) ou [Deco](https://www.deco.proteste.pt/casa/comprar-vender-casa/simule-e-poupe/quanto-pago-ao-fisco-pela-venda-da-minha-casa). [Alguns exemplos práticos](https://www.doutorfinancas.pt/irs/irs-mais-valias-em-imoveis-e-exclusao-de-tributacao/).
+	- Despesas de valorização: obras efetuadas nos últimos 12 anos e faturadas ao proprietário.
+	- Se o preço de venda for inferior ao valor patrimonial terá de se comprovar no Fisco ou este não será considerado para o cálculo de mais-valias.
+	- Se tiver herdado o imóvel considera-se o valor patrimonial na data da transmissão.
+- Onde calcular? Com o simulador [Dr.Finanças](https://www.doutorfinancas.pt/calculadora-de-mais-valias-imoveis/) ou [Deco](https://www.deco.proteste.pt/casa/comprar-vender-casa/simule-e-poupe/quanto-pago-ao-fisco-pela-venda-da-minha-casa). [Alguns exemplos práticos](https://www.doutorfinancas.pt/irs/irs-mais-valias-em-imoveis-e-exclusao-de-tributacao/).
 - Em que situações estou isento?
-	- Imóveis comprados antes de 1989.
+	- Habitações e terrenos rústicos comprados antes de 1989.
 	- Se reinvestir os recursos próprios (*preçoVenda – amortizaçãoEmpréstimoImóvelVendido*) na compra de outro imóvel para habitação própria e permanente (HPP).
 - Onde declarar no IRS? Anexo G. Notas:
 	- A mais-valia pode ficar suspensa até 36 meses caso a habitação que vendeu seja uma HPP e assinalar a intenção de comprar outra HPP.
