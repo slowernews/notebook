@@ -50,22 +50,22 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 
 ### Venda de casa: mais-valias
 
-- Como calcular? *maisValias = preçoVenda - (preçoCompra x coefDesvalorizaçãoMoeda) - despesasCompraVenda – despesasValorização*
-- Notas sobre o cálculo de mais-valias de imóveis:
-	- Despesas de compra e venda: IMT, escrituras, certificado energético ou comissões de venda faturadas em nome do proprietário.
-	- Despesas de valorização do imóvel: obras efetuadas nos últimos 12 anos faturadas em nome do proprietário.
-	- Se o preço de venda for inferior ao valor patrimonial comprar junto ao fisco ou este será considerado para o cálculo de mais valias.
-	- Se tiver herdado o imóvel considera-se o valor patrimonial à data da transmissão.
+- Como calcular:
+	- *maisValias = preçoVenda - (preçoCompra x coefDesvalorizaçãoMoeda) - despesasCompraVenda – despesasValorização*
+	- Notas:
+		- Despesas de compra e venda: IMT, escrituras, certificado energético e comissões faturadas ao proprietário.
+		- Despesas de valorização do imóvel: obras efetuadas nos últimos 12 anos faturadas ao proprietário.
+		- Se o preço de venda for inferior ao valor patrimonial terá de se comprovar no Fiscoou este será considerado para o cálculo de mais valias.
+		- Se tiver herdado o imóvel considera-se o valor patrimonial à data da transmissão.
 - Onde calcular? Calculadora de mais valias [Doutor Finanças](https://www.doutorfinancas.pt/calculadora-de-mais-valias-imoveis/) ou [Deco](https://www.deco.proteste.pt/casa/comprar-vender-casa/simule-e-poupe/quanto-pago-ao-fisco-pela-venda-da-minha-casa).
 - Em que situaçoes estou isento?
-	- Imóveis comprados antes de 1989;
-	- Se o total da venda do imóvel for usado na compra de outro imóvel para habitação própria e permanente (HPP);
+	- Imóveis comprados antes de 1989.
+	- Se o total da venda do imóvel for usado na compra de outro imóvel para habitação própria e permanente (HPP).
 	- Se utilizar as mais valias para liquidar o empréstimo (nos 5 anos seguintes).
-- Onde declarar no IRS? Anexo G (quadro 4 e 5). Algumas notas:
+- Onde declarar no IRS? Anexo G. Notas:
 	- A mais-valia fica suspensa durante 36 meses caso seja a habitação seja uma HPP e assinalar a intenção de reinvestir os recursos próprios (preçoVenda – amortizaçãoEmpréstimoImóvelVendido) noutra HPP.
-	- Caso tenha comprado antes de vender, tem 24 meses para vender a antiga.
-	- Caso reinvista num terreno para construção ou ampliação de uma casa o prazo é alargado (5 anos?).
-	- Só se considera 50% da mais-valia para efeitos de tributação em residentes fiscais em Portugal.
+	- Se tiver comprado antes de vender, tem 24 meses para vender a antiga.
+	- Apenas se considera 50% da mais-valia para efeitos de tributação de residentes fiscais.
 
 
 
