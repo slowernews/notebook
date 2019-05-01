@@ -21,7 +21,8 @@ jsArrayOrString.indexOf()       | .lastIndexOf()                // the first|las
  //pyArray.index()
 jsString.search()                                               // the first match of a substring or REGEX
  //rubyString.index()           | .rindex()                     ## the first|last match of a substring or REGEX
- //pyString.index()             | .rindex() 
+ //pyString.index()             | .rindex()                     ## the first match of a substring or error if not found
+ //pyString.find()                                              ## the first match of a substring
 
 /* Native methods to acess and return... */
 
@@ -45,6 +46,7 @@ jsArray.splice()                                                // adding/removi
  //rubyArray.insert()
  //rubyArray.unshift()          | .push()                       ## adding element to the start|end of the array
  //pyArray.append()             | .extend()                     ## adding element|elements to the end of the array
+ //pyArray.insert()                                             ## adding elements at a given index
 jsArray.copyWithin()                                            // copying elements to and from specified positions
 jsArray.fill()                                                  // filling from a start to an end index with a static value
  //rubyArray.fill()             | .clear | .compact!            ## the same | clear all elements | delete 'nil' elements
@@ -89,8 +91,8 @@ jsArrayOrString.slice()                                         // with a select
 /* Native methods to create a new string... */
 
 jsString.trim()  | .trimStart() | .trimEnd()                    // removing whitespace from both ends|left|right
- //rubyString.strip  | .lstrip  | .rstrip
- //pyString.strip()  |.lstrip() | .rstrip()
+ //rubyString.strip | .lstrip   | .rstrip
+ //pyString.strip() | .lstrip() | .rstrip()
 jsString.replace()                                              // with a value or REGEX replacing another value
  //rubyString.tr()                                              ## with a value replacing another value
  //rubyString.gsub()            | .sub()                        ## with a REGEX|first REGEX ocurrence replacing another value
