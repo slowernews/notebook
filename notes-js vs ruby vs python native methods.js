@@ -19,10 +19,10 @@ jsArray.findIndex()                                             // the first ele
 jsArrayOrString.indexOf()       | .lastIndexOf()                // the first|last match of a specified value
  //rubyArray.index()            | .rindex()
  //pyArray.index()
-jsString.search()                                               // the first match of a substring or REGEX
- //rubyString.index()           | .rindex()                     ## the first|last match of a substring or REGEX
- //pyString.index()             | .rindex()                     ## the first match of a substring or error if not found
- //pyString.find()                                              ## the first match of a substring
+jsString.search()                                               // the first substring or REGEX match
+ //rubyString.index()           | .rindex()                     ## the first|last substring or REGEX match
+ //pyString.index()             | .rindex()                     ## the first|last substring match or error if not found
+ //pyString.find()                                              ## the first substring match
 
 /* Native methods to acess and return... */
 
