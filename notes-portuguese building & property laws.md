@@ -9,8 +9,8 @@
 ### Direito da propriedade de imóveis
 
 - [Cadastro predial: cadernetas predial urbana ou rural](#cadastro-predial)
-- Compra de casa
-- [Venda de casa: mais valias](#venda-de-casa-mais-valias)
+- [Compra de casa](#compra-de-casa)
+- [Venda de casa](#venda-de-casa)
 
 ### Direito das transmissões (heranças)
 
@@ -47,22 +47,39 @@
 Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastro_geometrico_da_propriedade_rustica__cgpr_/consultar_seccoes_cadastrais/).
 
 
-### Venda de casa: mais-valias
+### Compra de casa
 
-- Como calcular:
-	- *maisValias = preçoVenda - (preçoCompra x coeficienteInflação) - despesasTransmissão – despesasValorização*
-	- Despesas de transmissão: IMT, escrituras, certificado energético e comissões e faturadas ao proprietário.
-	- Despesas de valorização: obras efetuadas nos últimos 12 anos e faturadas ao proprietário.
-	- Se o preço de venda for inferior ao valor patrimonial terá de se comprovar no Fisco ou este não será considerado para o cálculo de mais-valias.
-	- Se tiver herdado o imóvel considera-se o valor patrimonial na data da transmissão.
-- Onde calcular? Com o simulador [Dr.Finanças](https://www.doutorfinancas.pt/calculadora-de-mais-valias-imoveis/) ou [Deco](https://www.deco.proteste.pt/casa/comprar-vender-casa/simule-e-poupe/quanto-pago-ao-fisco-pela-venda-da-minha-casa). [Alguns exemplos práticos](https://www.doutorfinancas.pt/irs/irs-mais-valias-em-imoveis-e-exclusao-de-tributacao/).
-- Em que situações estou isento?
-	- Habitações e terrenos rústicos comprados antes de 1989.
-	- Se reinvestir os recursos próprios (*preçoVenda – amortizaçãoEmpréstimoImóvelVendido*) na compra de outro imóvel para habitação própria e permanente (HPP).
-- Onde declarar no IRS? Anexo G. Notas:
-	- A mais-valia pode ficar suspensa até 36 meses caso a habitação que vendeu seja uma HPP e assinalar a intenção de comprar outra HPP.
-	- Se tiver comprado outra HPP antes de vender a antiga, tem 24 meses o fazer e calcular a mais-valia.
-	- Apenas se considera 50% da mais-valia para efeitos de tributação em residentes fiscais.
+- Custos:
+	- Escritura de imóvel através da [Casa Pronta do Ministério da Justiça](https://www.casapronta.pt/CasaPronta/conteudos/postos_atendimento.jsp) (250 a 700€) ou notários.
+	- IMT: Simulador [Apemip](http://apemip.info/info/IMT.cfm). Em resumo: HPPs e/ou imóveis mais baratos pagam menos.
+		- Isenção para HPPs com preço de venda e valor patrimonial até 92K€ no continente e 115K€ na Madeira e Açores.
+		- IMT é pago antes da escritura!
+	- Imposto de Selo: 0,8% sobre o valor da venda ou valor patrimonial.
+	- Custos bancários (no caso de crédito à habitação): variável. (~ 500€)
+
+
+
+
+### Venda de casa
+
+- Custos:
+	- Licença de habitabilidade: ~40€ na Camara Municipal.
+	- Ficha técnica de habitação: ~100€ na Camara Municipal.
+	- Certificado energético: ~200€.
+	- Mais-valias: Como calcular:
+		- *maisValias = preçoVenda - (preçoCompra x coeficienteInflação) - despesasTransmissão – despesasValorização*
+		- Despesas de transmissão: IMT, escrituras, certificado energético e comissões e faturadas ao proprietário.
+		- Despesas de valorização: obras efetuadas nos últimos 12 anos e faturadas ao proprietário.
+		- Se o preço de venda for inferior ao valor patrimonial terá de se comprovar no Fisco ou este não será considerado para o cálculo de mais-valias.
+		- Se tiver herdado o imóvel considera-se o valor patrimonial na data da transmissão.
+		- Onde calcular? Com o simulador [Dr.Finanças](https://www.doutorfinancas.pt/calculadora-de-mais-valias-imoveis/) ou [Deco](https://www.deco.proteste.pt/casa/comprar-vender-casa/simule-e-poupe/quanto-pago-ao-fisco-pela-venda-da-minha-casa). [Alguns exemplos práticos](https://www.doutorfinancas.pt/irs/irs-mais-valias-em-imoveis-e-exclusao-de-tributacao/).
+		- Em que situações estou isento?
+			- Habitações e terrenos rústicos comprados antes de 1989.
+			- Se reinvestir os recursos próprios (*preçoVenda – amortizaçãoEmpréstimoImóvelVendido*) na compra de outro imóvel para habitação própria e permanente (HPP).
+		- Onde declarar no IRS? Anexo G. Notas:
+			- A mais-valia pode ficar suspensa até 36 meses caso tenha vendido uma HPP e assinalar a intenção de comprar outra HPP.
+			- Se tiver comprado outra HPP antes de vender a antiga, tem 24 meses o fazer e calcular a mais-valia.
+			- Apenas se considera 50% da mais-valia para efeitos de tributação em residentes fiscais.
 
 
 

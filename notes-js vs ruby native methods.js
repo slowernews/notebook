@@ -37,9 +37,10 @@ jsArray.find()                                                  // the first ele
 
 jsArray.shift()                 | .pop()                        // removing first|last element. Returns that element
  //rubyArray.shift  | .shift(n) | .pop  | .pop(n)               ## removing first|first n|last|last n element(s). Returns them
+ //rubyArray.delete_at()                                        ## removing the element at a given index. Returns that element
 jsArray.splice()                                                // adding/removing elements
  //rubyArray.insert()
- //rubyArray.unshift()          | .push()                       ## adding element to the start|end of the array
+ //rubyArray.unshift()          | .push() or <<                 ## adding element to the start|end of the array
 jsArray.copyWithin()                                            // copying elements to and from specified positions
 jsArray.fill()                                                  // filling from a start to an end index with a static value
  //rubyArray.fill()             | .clear | .compact!            ## the same | clear all elements | delete 'nil' elements
@@ -60,6 +61,7 @@ jsArray.filter()                                                // with every el
  //rubyArray.select {}          | .reject {}                    ## with every element that pass a test|fail a test
 jsArray.map()                                                   // with the result of calling a function on each element
  //rubyArray.map {}
+ //rubyArray.flatten | .shuffle | .uniq | .sort | . reversed    ## with one dimension|shuffled|unique|sorted|reversed elements
 jsString.split()                                                // with substrings
  //rubyString.chars
 Array.from(jsIterableObject)                                    // from an iterable object
