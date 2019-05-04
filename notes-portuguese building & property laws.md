@@ -50,22 +50,20 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 ### Compra de casa
 
 - Custos:
-	- Escritura de imóvel através da [Casa Pronta do Ministério da Justiça](https://www.casapronta.pt/CasaPronta/conteudos/postos_atendimento.jsp) (250 a 700€) ou notários.
+	- Escritura de imóvel através da [Casa Pronta do Ministério da Justiça](https://www.casapronta.pt/CasaPronta/conteudos/postos_atendimento.jsp) (250 a 700€) ou notário.
 	- IMT: Simulador [Apemip](http://apemip.info/info/IMT.cfm). Em resumo: HPPs e/ou imóveis mais baratos pagam menos.
-		- Isenção para HPPs com preço de venda e valor patrimonial até 92K€ no continente e 115K€ na Madeira e Açores.
+		- Isenção para HPPs com preço de venda e valor patrimonial até 92K€ (115K€ na Madeira e Açores).
 		- IMT é pago antes da escritura!
-	- Imposto de Selo: 0,8% sobre o valor da venda ou valor patrimonial.
-	- Custos bancários (no caso de crédito à habitação): variável. (~ 500€)
-
-
+	- Imposto de Selo: 0,8% sobre o valor da venda (ou valor patrimonial se este for mais alto).
+	- Custos bancários (no caso de crédito à habitação): ~ 500€
 
 
 ### Venda de casa
 
 - Custos:
-	- Licença de habitabilidade: ~40€ na Camara Municipal.
-	- Ficha técnica de habitação: ~100€ na Camara Municipal.
-	- Certificado energético: ~200€.
+	- Licença de habitabilidade: ~ 40€ na Camara Municipal.
+	- Ficha técnica de habitação: ~ 100€ na Camara Municipal.
+	- Certificado energético: ~ 200€.
 	- Mais-valias: Como calcular:
 		- *maisValias = preçoVenda - (preçoCompra x coeficienteInflação) - despesasTransmissão – despesasValorização*
 		- Despesas de transmissão: IMT, escrituras, certificado energético e comissões e faturadas ao proprietário.
