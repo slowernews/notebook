@@ -9,8 +9,8 @@
 ### Direito da propriedade de imóveis
 
 - [Cadastro predial: cadernetas predial urbana ou rural](#cadastro-predial)
-- [Custos na compra de imóveis](#custos-na-compra-de-imoveis)
-- [Custos na venda de imóveis](#custos-na-venda-de-imoveis)
+- [Custos na compra de imóveis](#custos-na-compra-de-imóveis)
+- [Custos na venda de imóveis](#custos-na-venda-de-imóveis)
 
 ### Direito das transmissões (heranças)
 
@@ -50,20 +50,22 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 ### Custos na compra de imóveis
 
 
-- Escritura de imóvel através da [Casa Pronta do Ministério da Justiça](https://www.casapronta.pt/CasaPronta/conteudos/postos_atendimento.jsp) (250 a 700€) ou notário.
+- Escritura de imóvel através da [Balcão Casa Pronta](https://www.casapronta.pt/CasaPronta/conteudos/postos_atendimento.jsp) (375€ sem hipoteca a 700€ com hipoteca) ou notário (~ 400€ sem hipoteca a 800€ com hipoteca).
 - IMT: Simulador [Apemip](http://apemip.info/info/IMT.cfm). Em resumo: HPPs e/ou imóveis mais baratos pagam menos.
 	- Isenção para HPPs com preço de venda e valor patrimonial até 92K€ (115K€ na Madeira e Açores).
 	- O IMT é pago antes da escritura!
 - Imposto de Selo: 0,8% sobre o valor da venda (ou valor patrimonial se este for mais alto).
-- Custos bancários (no caso de crédito à habitação): ~ 500€
+- Custos bancários e registo provisório: ~ 250 a 500€ (no caso de crédito à habitação).
 
 
 ### Custos na venda de imóveis
 
 
-- Licença de habitabilidade: ~ 40€ na Camara Municipal.
-- Ficha técnica de habitação: ~ 100€ na Camara Municipal.
-- Certificado energético: ~ 200€.
+- 2º via licença utilização: ~ 40€ na Camara Municipal.
+- 2º via ficha técnica habitação: ~ 100€ na Camara Municipal.
+- Certificado energético: ~ 180€ (aumenta consoante a área do imóvel).
+- Certidão predial permanente: 15€ por cada fração (válida por 6 meses)
+- Direitos de preferência: 15€ por anúncio (válido por 6 meses).
 - Mais-valias. Como calcular:
 	- *maisValias = preçoVenda - (preçoCompra x coeficienteInflação) - despesasTransmissão – despesasValorização*
 	- Despesas de transmissão: IMT, escrituras, certificado energético e comissões e faturadas ao proprietário.
@@ -78,6 +80,9 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 		- A mais-valia pode ficar suspensa até 36 meses caso tenha vendido uma HPP e assinalar a intenção de comprar outra HPP.
 		- Se tiver comprado outra HPP antes de vender a antiga, tem 24 meses o fazer e calcular a mais-valia.
 		- Apenas se considera 50% da mais-valia para efeitos de tributação em residentes fiscais.
+- Outros custos possíveis:
+	- Comissões imobiliárias: 2% a 6% do valor de venda.
+	- Cancelamento de hipoteca: 50€ na Conservatória do Registo Predial.
 
 
 
