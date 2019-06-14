@@ -84,7 +84,9 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 	- Comissões imobiliárias: 2% a 6% do valor de venda.
 	- Cancelamento de hipoteca: 50€ na Conservatória do Registo Predial.
 
-
+<!--
+isenção justificada por um artigo do Código do IMT que prevê que a aquisição de imóveis para revenda no prazo máximo de três anos não está sujeita a este imposto. Mas o Código do IMT também prevê que, para que fiquem isentas deste imposto, as entidades beneficiárias devem exercer “normal e habitualmente” a atividade de revenda, o que deve ser comprovado com as contas do ano anterior ao das operações em causa.
+-->
 
 
 ## Direito das transmissões (heranças):

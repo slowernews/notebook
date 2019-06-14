@@ -231,10 +231,13 @@
 
 - Quem paga: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
 - Quanto:
-	- prédios rústicos: 0,8% sobre o valor patrimonial tributário;
-	- prédios urbanos: 0,4% a 0,8% sobre o valor patrimonial tributário;
-	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o valor patrimonial tributário.
-- Quando: anualmente durante o mês de Abril ou tranches ao longo do ano para valores mais elevados.
+	- prédios rústicos: 0,8% sobre o valor patrimonial tributário (VPT);
+	- prédios urbanos: 0,4% a 0,8% sobre o VPT;
+	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o VPT.
+- Quando: anualmente durante o mês de Maio ou tranches ao longo do ano para valores elevados.
+- Isenção de IMI:
+	- devido a baixos rendimentos e VPT.
+	- após a compra das primeiras duas HPPs (habitação própria e permanente) e solicitada nos 60 dias seguintes.
 
 
 
