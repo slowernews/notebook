@@ -55,7 +55,7 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 	- Isenção para HPPs com preço de venda e valor patrimonial até 92K€ (115K€ na Madeira e Açores).
 	- O IMT é pago antes da escritura!
 - Imposto de Selo: 0,8% sobre o valor da venda (ou valor patrimonial se este for mais alto).
-- Custos bancários e registo provisório: ~ 250 a 500€ (no caso de crédito à habitação).
+- Custos bancários e registo provisório: ~ 250€ (~ 500€ no caso de crédito à habitação).
 
 
 ### Custos na venda de imóveis
@@ -63,10 +63,10 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 
 - 2º via licença utilização: ~ 40€ na Camara Municipal.
 - 2º via ficha técnica habitação: ~ 100€ na Camara Municipal.
-- Certificado energético: ~ 180€ (aumenta consoante a área do imóvel).
+- Certificado energético: ~ 200€ (aumenta consoante a área do imóvel).
 - Certidão predial permanente: 15€ por cada fração (válida por 6 meses)
 - Direitos de preferência: 15€ por anúncio (válido por 6 meses).
-- Mais-valias. Como calcular:
+- Mais-valias:
 	- *maisValias = preçoVenda - (preçoCompra x coeficienteInflação) - despesasTransmissão – despesasValorização*
 	- Despesas de transmissão: IMT, escrituras, certificado energético e comissões e faturadas ao proprietário.
 	- Despesas de valorização: obras efetuadas nos últimos 12 anos e faturadas ao proprietário.
@@ -76,7 +76,7 @@ Consulta de [cadastro predial rural](http://www.dgterritorio.pt/cadastro/cadastr
 	- Em que situações estou isento?
 		- Habitações e terrenos rústicos comprados antes de 1989.
 		- Se reinvestir os recursos próprios (*preçoVenda – amortizaçãoEmpréstimoImóvelVendido*) na compra de outro imóvel para habitação própria e permanente (HPP).
-	- Onde declarar no IRS? Anexo G. Notas:
+	- Onde declarar no IRS? Anexo G.
 		- A mais-valia pode ficar suspensa até 36 meses caso tenha vendido uma HPP e assinalar a intenção de comprar outra HPP.
 		- Se tiver comprado outra HPP antes de vender a antiga, tem 24 meses o fazer e calcular a mais-valia.
 		- Apenas se considera 50% da mais-valia para efeitos de tributação em residentes fiscais.

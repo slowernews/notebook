@@ -175,7 +175,7 @@
 
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).
 
-			Rendimentos obtidos em Portugal: 20%
+			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
 	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
