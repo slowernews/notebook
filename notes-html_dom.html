@@ -1,0 +1,89 @@
+<script>
+
+	// DOCUMENT OBJECT MODEL + BROWSER OBJECT MODEL
+
+	window.								// global environment
+		open()							// open a new browser tab
+		onload;							// property holding the function to call when the page is fully loaded
+										// alternative:	if(document.readyState == 'complete') { // stuff here }	
+
+		document.title;					// change title: document.title = "new title"
+		document.referrer;				// referrer to actual page, empty string if none
+		document.charset;
+		document.activeElement;			// HTMLElement node currently in focus. Defaults: null while loading, body when fully loaded
+		document.readyState;			// returns 'loading' or 'complete'
+
+		document.write("string")		// displays it in right where the <script> tag is located
+										// should called inline, not in footer or window.onload or will overwrite all page
+
+		document.url;					// full URL
+		document.domain;				// domain of the server
+		location.href;					// full URL
+		location.hostname;				// domain of the server
+		location.pathname;				// current filename or directory part of the URL
+		location.search;				// query part from the URL: "?..."
+		location.protocol;				// "http" ou "https"
+
+		location.reload();				// refresh page
+		location.replace();				// change location. Not possible to use back button
+
+
+		screen.width;					// max screen size possible
+		screen.height;
+		screen.availWidth;				// max screen size inside browser
+		screen.availHeight;
+
+
+		history.back();					// go back one page
+		history.go(-1);					// go back one page
+
+
+		alert();
+		confirm();						// alert with ok and cancel
+
+
+		function init() {// stuff here}
+		window.onload = init;
+
+		document.head;
+		document.body;
+
+		HTMLElement;					// h1, p, a, div, etc
+		nodeType == 1;					// element
+		nodeType == 2;					// attribute		
+		nodeType == 3;					// text
+		document.nodeType == 9;			// if (someNode.nodeType == 3) { // stuff here }
+
+
+		document.createElement('li');
+		document.getElementById('dude');			// case sensitive!
+		document.getElementById('footer').scrollIntoView();
+		document.getElementsbyTagName('img');
+		document.getElementsByClassName();
+		document.querySelectorAll('p strong');
+		document.querySelector('li.important'); 	// returns an HTMLElement, or null if none matching	
+
+
+</script>
+
+<html> <head> <meta> <title> <body>
+
+<header> <nav> <main> <section> <article> <footer>
+
+<div>
+<p> <h1> <h2> <h3> <h4> <h5> <h6>
+<br> <span> <hr>
+<b> <i> <em>
+
+<a href="">
+<figure> <picture> <img src="">
+
+<ul> <ol> <dl> <li>					<!-- Ordered list | unordered list | detailed list -->
+<table> <td> <th> <tr>
+
+<button> <input type="" name=""> <textarea>
+<canvas> <video> <audio>
+
+<style>
+
+<noscript>
