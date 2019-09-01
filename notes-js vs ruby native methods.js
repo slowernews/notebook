@@ -153,12 +153,18 @@ x                               // ignore whitespace
 
 Math.pow()                      | x ** y                        // the value of x to the power of y
 Math.sqrt()                     | .cbrt()                       // the square|cubic root of x
-Math.random()                                                   // a random number between 0 and 1
+Math.random()                   | .floor(Math.random() * 27)    // a random number between 0 and 1 | 0 and 27
 Math.PI                         | .SQRT2                        // PI|square root of 2
 Math.max()                      | .min()                        // the number with the max|min value
  //rubyArray.max                | .min
 Math.floor()                    | .ceil()       | .round()      // rounds downwards|upwards|to the nearest integer
 Math.trunc()                    | .abs()                        // the integer part|the absolute value of a number
+
+jsNumber.toString(8)            | .toString(16)                 // Convert to string with octal|hexadecimal number
+
+/* JS properties to... */
+
+jsObject.isPrototypeOf(anotherJsObject)
 
 /* JS properties to... */
 
