@@ -38,7 +38,7 @@ jsArray.find()                                                  // the first ele
 jsArray.shift()                 | .pop()                        // removing first|last element. Returns that element
  //rubyArray.shift  | .shift(n) | .pop  | .pop(n)               ## removing first|first n|last|last n element(s). Returns them
  //rubyArray.delete_at()                                        ## removing the element at a given index. Returns that element
-jsArray.splice()                                                // adding/removing elements
+jsArray.splice()                | .length = n                   // adding/removing elements
  //rubyArray.insert()
  //rubyArray.unshift()          | .push() or <<                 ## adding element to the start|end of the array
 jsArray.copyWithin()                                            // copying elements to and from specified positions
@@ -53,7 +53,8 @@ jsArray.forEach()                                               // calling a fun
  //rubyArray.reverse_each {}    | .each_index {}                ## on reverse order|with the index as the argument 
  //rubyArray.reject! {}         | .select!                      ## keeping every element that pass a test|fail a test
  //rubyArray.delete_if {}       | .keep_if {}                   ## the same
- //rubyArray.drop_while {}                                      ## delete elements while they pass a test and stops when don't
+ //rubyArray.drop_while {}                                      ## deleting elements while they pass a test and stops when don't
+delete jsObject.property										// deleting properties of an object 
 
 /* Native methods to create a new array... */
 
