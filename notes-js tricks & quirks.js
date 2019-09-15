@@ -33,19 +33,15 @@ i++			// "prefix" increment, changing the value before continuing evaluation.
 do {statement} while (expression)			// it executes at least once
 while (expression) {statement}				// it might not execute
 
-if (true) {} else {}	// The Boolean() function is automatically performed, converting the input to either true or false.
+if (expression) {statement} else {statement}	// The Boolean() function is performed, converting to either true or false.
 
-/* 
-Boolean("hi") is true. Boolean("") is false.
-Boolean(9) is true. Boolean(0) is false.
-Boolean(anyObject) is true. Boolean(null) is false.
-*/
+// Boolean("hi") is true. Boolean("") is false.
+// Boolean(9) is true. Boolean(0) is false.
+// Boolean(anyObject) is true. Boolean(null) is false.*/
 
 for(var i=0; i < 10; i++) {statement}
 for(;;) {statement}										// infinite loop	
 for(var propName in jsObject) {document.write("key: " + propName + " value: " + person[prop])}	// loop on an object
-
-
 
 switch(animal){
 	case 'cow': giveHay(); break;
@@ -76,8 +72,8 @@ new Array('x')			// New array with x as an element
 new Array(3)			// New empty array with length 3
 
 var propName = 'age';
-person.age			// What is the main reason to use bracket-notation (person['name']) instead of dot-notation (person.name) for property access?
-person[propName]		// ame as person.age. Bracket notation allows variables as property names.
+person[propName]		// Same as person.age. Bracket notation allows variables as property names.
+person.age
 
 
 

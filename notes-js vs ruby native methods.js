@@ -98,12 +98,12 @@ JSON.stringify()                | .parse()                      // from an objec
 
 /* Get a new date */
 
-new Date 														// returns a date object with actual 'now' time and date
-new Date(2011, 9, 22)											// October(!) 22, 2011. January as 0-month!  Timezone = LOCAL
+new Date 							// returns a date object with actual 'now' time and date
+new Date(2011, 9, 22)						// October(!) 22, 2011. January as 0-month!  Timezone = LOCAL
 new Date('January 12, 2012')
  //Date.new()
- //Date.parse('')				| Time.parse('')				## convert a string into a date|time
- //Date.today					| Time.now
+ //Date.parse('')		| Time.parse('')		## convert a string into a date|time
+ //Date.today			| Time.now
 Date.now()                    	| .parse()                  	// return millisecs since 01-01-1970 until now|provided date
 
 /* Native jsDate methods to... */
@@ -125,7 +125,7 @@ var regex = /w3schools/i;       // e.g. w3schools is a pattern, i is a modifier
 
 jsRegex.test(string)            // search a string for a pattern and returns true or false
 jsRegex.exec(string)            // search a string for a pattern and returns the found text or null
- // rubyString.scan(regex)		## search a string for a pattern and returns an array with all matches
+ // rubyString.scan(regex)	## search a string for a pattern and returns an array with all matches
 
 /* REGEX patterns to match... */
 
@@ -172,22 +172,22 @@ Math.floor()                    | .ceil()       | .round()      // rounds downwa
 Math.trunc()                    | .abs()                        // the integer part|the absolute value of a number
 
 isFinite()
-parseFloat('070.53.76')			// 70.53 - leading zero ignored, one decimal point allowed, 2nd one is stopping point
-parseInt('', radix)				// radix is optional
+parseFloat('070.53.76')		// 70.53 - leading zero ignored, one decimal point allowed, 2nd one is stopping point
+parseInt('', radix)		// radix is optional
 
 jsNumber.toString(8)            | .toString(16)                 // Convert to string with octal|hexadecimal number
 
-0x2c							// 44 - starting with '0x' means hex number (2×16 + 12(c) = 44)
-023								// 19 - starting with '0' means octal number (2×8 + 3 = 19)
-5e-6							// 0.000005 - "e-notation"
+0x2c				// 44 - starting with '0x' means hex number (2×16 + 12(c) = 44)
+023				// 19 - starting with '0' means octal number (2×8 + 3 = 19)
+5e-6				// 0.000005 - "e-notation"
 
 /* JS properties to... */
 
 jsObject.isPrototypeOf(anotherJsObject)
 jsObject.hasOwnProperty('')
 jsObject.propertyIsEnumerable('')	// tell if a property is enumerable (if for-in will work)
-jsObject.valueOf();					// return string, number, or boolean representation of object (usually string)
- //rubyObject.invert				## get a new object where the keys are now the values and viceversa
+jsObject.valueOf();			// return string, number, or boolean representation of object (usually string)
+ //rubyObject.invert			## get a new object where the keys are now the values and viceversa
 
 /* JS properties to... */
 
@@ -198,5 +198,5 @@ jsDatatype.prototype            	// add properties and methods to a datatype
 
 /* JS operators to tell... */
 
-typeof something					// its primitive type ('string', 'number', 'boolean', 'object', 'undefined')
+typeof something			// its primitive type ('string', 'number', 'boolean', 'object', 'undefined')
 something instanceof anotherthing	// its reference type (RegExp, Array, etc.)
