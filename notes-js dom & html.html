@@ -40,7 +40,8 @@ window.					// global environment
 	nodeType == 1			// element
 	nodeType == 2			// attribute		
 	nodeType == 3			// text
-	document.nodeType == 9		// if (someNode.nodeType == 3) { // stuff here }
+	document.nodeType == 9			// true. if (someNode.nodeType == 3) { // stuff here }
+	document.nodeName === '#document'	// true
 
 	document.head
 	document.body
@@ -58,29 +59,40 @@ window.					// global environment
 		.getAttribute('')
 		.value			// the value inserted on input tag	
 
-	someNode
+	anyNode
+		.innerHTML
 		.nodeName		| .tagName
 		.nodeValue
-		.childNode
+		.ownerdocument		// its document node
 		.parentNode
-		.innerHTML
-		.deleteData(2, 5) 	// (offset, chars)
+		.previousSibling	| .nextSibling
+		.previousElementSibling	| .nextElementSibling
+		.firstElementChild	| .lastElementChild
+		.childElementCount
+		.firstChild		| .lastChild
+		.childNodes		// contains a nodeList - an ordered list of nodes
+		.childNodes[0]		| .childNodes[someNode.childNodes.length - 1]
+		.hasChildNodes()	| .childNodes.length === 0
 		.appendChild()
 		.insertBefore()
-		.firstChild		| .lastChild
-		.childNodes[0]		| .childNodes[someNode.childNodes.length - 1]
-		.previousSibling
 		.hasFocus()
-		.hasChildNodes()	| .childNodes.length === 0
 
-		.childElementCount
-		.firstElementChild	| .lastElementChild
-		.previousElementSibling	| .nextElementSibling
+		.appendData()		// to the end
+		.deleteData(2, 5) 	// (offset, chars)
+		.replaceData(3, 3, '')	// (offset, chars, data added)
+		.insertData(4, '')	// (offset, data added)	
 
 // Practical examples
 
 	function init() { // stuff here }
 	window.onload = init
+
+	// <div id="welcome">hello</div>
+	document.getElementById('welcome').innerHTML = 'goodbye'
+	document.getElementById('welcome').firstChild.nodeValue = 'goodbye'	// the same
+	document.getElementById('welcome').firstChild.appendData(' <"me & he">')
+	document.getElementById('welcome').firstChild.deleteData(2, 3)		// (offset, chars)
+	document.getElementById('welcome').firstChild.appendData(' John')
 
 </script>
 
