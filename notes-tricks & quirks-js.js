@@ -8,9 +8,9 @@ Number(null)		// 0
 
 
 
-// VARIABLES
+/* VARIABLES
 
-// There isn't block-level scope, only function level scope. So variables inside blocks (for, if) are global.
+There isn't block-level scope, only function level scope. So variables inside blocks (for, if) are global. */
 
 var whatever;		// Sets variable whatever to value "undefined", a JavaScript type.
 globalVar = null;	// Deference a global variable I'm not using anymore
@@ -28,16 +28,17 @@ i++			// "prefix" increment, changing the value before continuing evaluation.
 
 
 
-// LOOPS
+/* LOOPS
+
+The Boolean() function is performed, converting to either true or false.
+Boolean(9) is true. Boolean(0) is false.
+Boolean("hi") is true. Boolean("") is false.
+Boolean(anyObject) is true. Boolean(null) is false. */
+
+if (expression) {statement} else {statement}	
 
 do {statement} while (expression)			// it executes at least once
 while (expression) {statement}				// it might not execute
-
-if (expression) {statement} else {statement}	// The Boolean() function is performed, converting to either true or false.
-
-// Boolean("hi") is true. Boolean("") is false.
-// Boolean(9) is true. Boolean(0) is false.
-// Boolean(anyObject) is true. Boolean(null) is false.*/
 
 for(var i=0; i < 10; i++) {statement}
 for(;;) {statement}										// infinite loop	

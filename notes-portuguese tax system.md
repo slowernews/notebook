@@ -213,8 +213,8 @@
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
 	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
 - Quando:
-	- Regime trimestral: até dia 15 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
-	- Regime mensal: até dia 10 do segundo mês seguinte ao mês a que dizem respeito os serviços.
+	- Regime trimestral: até dia 20 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+	- Regime mensal: até dia 15 do segundo mês seguinte ao mês a que dizem respeito os serviços.
 
 
 
@@ -267,7 +267,7 @@ Taxa sobre as transmissões (heranças e doações). Regra geral:
 ### Fatura
 
 - Quando emitida em formato electrónico, deve ter um certificado seguro, de forma a garantir a autenticidade. Se não for possível, deve ser enviada em papel, assinada e carimbada.
-- O comerciante deverá registrar as faturas na AT até dia 20 do mês seguinte.
+- O comerciante deverá registrar as faturas na AT até dia 12 do mês seguinte.
 
 
 

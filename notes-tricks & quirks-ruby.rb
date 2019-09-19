@@ -17,7 +17,7 @@ when 'y', 'yes'						# y or yes
 when 'no'
   puts 'Oh.'
 else
-  put '?'
+  puts '?'
 end
 
 
