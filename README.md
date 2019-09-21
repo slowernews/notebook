@@ -1,6 +1,6 @@
 # Learning notes
 
-My learning notes on [JS](notes-native%20methods%20tricks%20and%20%26%20quirks-js.js), [Ruby](notes-native%20methods%20tricks%20and%20%26%20quirks-ruby.rb), [HTML and Dom](notes-js%20dom%20%26%20html.js) [Frontend](notes-js%20frontend%20frameworks.js), [Chrome extensions](notes-chrome%20extensions.js) and [Sketchup extensions](notes-sketchup%20extensions.rb) (WIP)
+My learning notes on [JS](notes-native%20methods%2C%20tricks%20%26%20quirks.js), [Ruby](notes-native%20methods%2C%20tricks%20%26%20quirks.rb), [HTML and Dom](notes-js%20dom%20%26%20html.html) [Frontend](notes-js%20frontend%20frameworks.js), [Chrome extensions](notes-chrome%20extensions.js) and [Sketchup extensions](notes-sketchup%20extensions.rb) (WIP)
 
 Bonus:
 

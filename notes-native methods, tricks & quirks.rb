@@ -83,7 +83,7 @@ Date.today | Time.now
 JSON.stringify() | .parse()					# from an object|object from a JSON string
 
 # Ruby regular expressions
-rubyString.scan(regex)						# search a string for a pattern and returns an array with all matches
+rubyString.scan(regex)						# search for a pattern and returns an array with all matches
 
 # Ruby Math object relevant methods and properties that return...
 rubyArray.max | .min						# the number with the max|min value
