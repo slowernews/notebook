@@ -1,7 +1,5 @@
-/* JS native methods (not exaustive)
+/* JS NATIVE METHODS (NOT EXAUSTIVE)
    ================================= */
-
-
 
 
 // ARRAY NATIVE METHODS
@@ -75,8 +73,6 @@ jsString[index]    | .charAt()	| .charCodeAt()		// the char|unicode of the char 
 
 delete jsObject.property				// deleting properties of an object 
 jsObject.entries()    | .keys()	| .values()		// an iterator with key-value pairs|keys|values for each index
-
-// JS properties to...
 jsObject.isPrototypeOf(anotherJsObject)
 jsObject.hasOwnProperty('')
 jsObject.propertyIsEnumerable('')			// tell if a property is enumerable (if for-in will work)
@@ -106,16 +102,16 @@ jsDate.toDateString()					// converting the readable part of a date
 
 
 
-// JS REGULAR EXPRESSIONS
-// syntax: /pattern/modifiers;
 
+// JS REGULAR EXPRESSIONS
+
+// syntax: /pattern/modifiers;
 var regex = /w3schools/i;	// e.g. w3schools is a pattern, i is a modifier 
 
 jsRegex.test(string)		// search a string for a pattern and returns true or false
 jsRegex.exec(string)		// search a string for a pattern and returns the found text or null
 
-// REGEX patterns to match...
-
+// Patterns to match...
 [abc]	[^abc]			// any of the characters between|not between the brackets range
 [0-9]	[^0-9]			// any of the digits between|NOT between the brackets range
 (x|y)				// any of the alternatives separated with |
@@ -140,15 +136,18 @@ n{X,}				// any string that contains a sequence of at least X n's
 ^n 	n$			// any string with n at the beginning/end of it
 ?=n	?!n			// any string that is followed|not followed by a specific string n
 
-// REGEX modifiers to...
-
+// Modifiers to...
 i				// case-insensitive matching
 g				// global match (all matches rather than stopping after first match)
 m				// multiline matching
 x				// ignore whitespace
 
-// JS Math object relevant methods and properties that return...
 
+
+
+// JS MATH NATIVE METHODS AND PROPERTIES 
+
+// To return...
 Math.pow()	| x ** y			// the value of x to the power of y
 Math.sqrt()	| .cbrt()			// the square|cubic root of x
 Math.random()	| .floor(Math.random() * 27)	// a random number between 0 and 1 | 0 and 27
@@ -169,12 +168,132 @@ jsNumber.toString(8)	| .toString(16)		// Convert to string with octal|hexadecima
 jsDatatype.toString()				// by convertion and returns the result
 
 
+
+
+// JS PROPERTIES AND OPERATORS
+
+// Properties that...
 jsArrayOrString.length				// return the number of elements
 jsDatatype.constructor				// return the function that created the datatype object's prototype
 jsDatatype.prototype  				// add properties and methods to a datatype
 JSON.stringify()	| .parse()		// from an object|object from a JSON string
 
-// JS operators to tell...
-
+// Operators that return...
 typeof something				// its primitive type ('string', 'number', 'boolean', 'object', 'undefined')
 something instanceof anotherthing		// its reference type (RegExp, Array, etc.)
+
+
+
+
+/* JS TRICKS & QUIRKS (NOT EXAUSTIVE)
+   ================================= */
+
+'a' < 3			// False. JS tries to convert 'a' into a number but becomes NaN. Anything compared with NaN is false
+'Boy' > 'ant'		// False, upper-case letters ASCII value is smaller than on lower-case.
+5 + '5'			// '55'. if either is a string, the other is converted and concatenated
+null == undefined	// true
+Number(null)		// 0
+
+
+
+
+/* VARIABLES
+
+There isn't block-level scope, only function level scope. So variables inside blocks (for, if) are global. */
+
+var whatever;		// Sets variable whatever to value "undefined", a JavaScript type.
+globalVar = null;	// Deference a global variable I'm not using anymore
+
+var a = 5, b = a; 	// a = 6; b = 5! The b = a assignment copied the primitive 5 into both
+a += 1;			// primitive types pass value, not reference.
+
+var a = {}, b = a;	// Both are references to the object that now has a property,
+a.name = 'Dog'		// it's only one object, the assignment copied the reference, so b.name = 'dog '
+			// but if now say a = null, b is still a reference to the object!
+
+i++			// "prefix" increment, changing the value before continuing evaluation.
+++i			// "postfix" increment, changing the value after the containing statement has been evaluated.
+			// If alone, no difference. If part of another statement (age++ / 2) big difference!
+
+
+
+
+/* LOOPS
+
+The Boolean() function is performed, converting to either true or false.
+Boolean(9) is true. Boolean(0) is false.
+Boolean("hi") is true. Boolean("") is false.
+Boolean(anyObject) is true. Boolean(null) is false. */
+
+if (expression) {statement} else {statement}	
+
+do {statement} while (expression)			// it executes at least once
+while (expression) {statement}				// it might not execute
+
+for(var i=0; i < 10; i++) {statement}
+for(;;) {statement}										// infinite loop	
+for(var propName in jsObject) {document.write("key: " + propName + " value: " + person[prop])}	// loop on an object
+
+switch(animal){
+	case 'cow': giveHay(); break;
+	case 'rabbit': giveCarrots(); break;
+	default: rest(); break;
+}
+
+
+
+
+/* FUNCTIONS
+
+- You define a function with parameters. You call a function with arguments.
+- Closures are functions that have access to variables from another function's scope.
+  You do it by creating a function inside a function. */
+
+function sum (x, y) {return x + y}		// Function declarations are executed before any other code.
+var sum = function (x, y) {return x + y}	// Function expressions are executed in order, like any variable assignment.
+
+function() {go()}()		// Wrong. Function declarations can't be immediately followed by parens.
+(function() {go()})()		// But function expressions can. Surrounding parens turn function declaration into expression.
+
+
+
+
+// ARRAYS
+
+new Array('x')			// New array with x as an element
+new Array(3)			// New empty array with length 3
+
+var propName = 'age';
+person[propName]		// Same as person.age. Bracket notation allows variables as property names.
+person.age
+
+
+
+
+// PRACTICAL TRICKS
+
+// Getting a random element from any array.
+randomIndex = Math.floor(Math.random() * arr.length)
+randomElement = arr[randomIndex]
+
+// If y is not null or false, it uses y and never evaluates z. Otherwise it uses z.
+var x = y || z;  		
+
+// Function that sums all arguments provided
+function sum() {
+	for(var i=0; i < arguments.length; i++) {total += arguments[i]};
+	return total
+}
+
+// Alert in 4 seconds. Then clear a setTimeout
+setTimeout(function() {alert('Boo!')}, 4000)		
+clearTimeout()
+
+// Alert 5 times then stop
+var num = 0;
+function alertOrStop() {
+	num += 0;
+	if (num <= 5) {alert('Alert ' + num); setTimeout(alertOrStop, 2000)}
+	else {alert('OK, done.')}
+}
+alertOrStop()
