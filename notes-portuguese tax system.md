@@ -154,15 +154,15 @@
 - Quanto?
 	- residentes habituais em território português.
 
-			VALORES (ARREDONDADOS) PARA 2018:
+			VALORES (ARREDONDADOS) PARA 2019:
 			
 			ESCALÕES:                       TAXA            TAXA MÉDIA
 			Até €7k:                        14.5%
-			Entre  €7k e 10k:               23%             17.5%
-			Entre €10k e 20k:               28.5%           22.5%
+			Entre  €7k e 10k:               23%             17.4%
+			Entre €10k e 20k:               28.5%           22.6%
 			Entre €20k e 25k:               35%             25%
-			Entre €25k e 37k:               37%             29%
-			Entre €37k e 80k:               45%             37.5%
+			Entre €25k e 37k:               37%             28.8%
+			Entre €37k e 80k:               45%             37.6%
 			Superior a 80k:                 48%
 			
 			Sobre os rendimentos das categorias:
@@ -213,7 +213,7 @@
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
 	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
 - Quando:
-	- Regime trimestral: até dia 20 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
+	- Regime trimestral: declaração até dia 15 e pagamento até dia 20 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
 	- Regime mensal: até dia 15 do segundo mês seguinte ao mês a que dizem respeito os serviços.
 
 

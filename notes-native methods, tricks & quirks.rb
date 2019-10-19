@@ -53,7 +53,7 @@ rubyString.downcase!| .upcase! | .capitalize! | .swapcase!
 # To create a new string...
 rubyString.slice()						# with a selected part
 rubyString.concat()						# joining two or more strings
-rubyString.tr()			| .gsub() | .sub()		# with a value|REGEX|first REGEX ocurrence replacing another value              
+rubyString.tr()			| .gsub() | .sub()		# with a value|REGEX|first REGEX ocurrence replacing a value              
 rubyString.strip 		| .lstrip | .rstrip		# removing whitespace from both ends|left|right
 rubyString.downcase   | .upcase | .capitalize | .swapcase	# converted to lowercase|uppercase
 rubyString.concat()						# joining two or more strings
@@ -92,7 +92,7 @@ rubyArray.max | .min						# the number with the max|min value
 5e-6								# 0.000005 - "e-notation"
 
 # Ruby properties to...
-rubyObject.invert						# get a new object where the keys are now the values and viceversa
+rubyObject.invert						# get a new object with keys as values and viceversa
 rubyArrayOrStringorObject.length or .size
 
 
