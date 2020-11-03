@@ -37,4 +37,4 @@ Why?
 ---
 ## Choosing a self publisher
 
-According forums, [Createspace](https://www.createspace.com/) (Amazon company) is still better than main [Amazon](https://kdp.amazon.com/) to self publish paperbacks.
+[Amazon](https://kdp.amazon.com/) to self publish paperbacks is the obvious choice.

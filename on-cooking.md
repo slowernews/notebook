@@ -22,3 +22,21 @@
 - 100ml of water.  
 - full coffee spoon of salt.  
 - 5 grams of live ferment.
+
+<!--
+## Appendix: my receipts
+
+- Carbonara pasta
+- Tuna pasta
+- Home made pizza
+
+- [Bacalhau à brás]()
+- Grilled salmon with black beans
+- [Panados]()
+- Salada de grão
+
+- Portuguese style snails
+
+- [Pastel de nata]() tart
+- Orange cake
+-->
