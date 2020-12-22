@@ -9,6 +9,7 @@ You should definitely pick these brains (alphabetic order):
 - Naval Ravikant
 - Paul Graham
 - Paulo Coelho
+- Rich Hickey
 - Robert Glover
 - Rollo Tomassi
 - Sam Harris
