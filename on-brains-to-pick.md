@@ -9,7 +9,7 @@ You should definitely pick these brains (alphabetic order):
 - Eric Weinstein
 - Evan Czaplicki
 - Jeff Bezos
-- Jordan Peterson
+- Jordan Peterson | [Interview](https://www.youtube.com/watch?v=yZYQpge1W5s)
 - Milton Friedman
 - Naval Ravikant
 - Paul Graham
@@ -21,4 +21,11 @@ You should definitely pick these brains (alphabetic order):
 - Sam Harris
 - Stephen Kotkin
 - Stephen Wolfram
+- Tim Urban
 - Warren Buffett
+
+<!--
+- Mark Manson
+- Tim Ferriss
+any females?
+-->
