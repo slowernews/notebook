@@ -6,37 +6,27 @@
 
 - Pasta is one of easiest plates you can cook. Small mistakes will not make a big change on results.
 
-
-
-
-
 ## Advanced level
 
 ### Baking
 
-- Whether we bake cakes or home made pizza, mistakes are less forgiving.
+- Mistakes are less forgiving in baking.
 
 #### Home oven pizza recipe
 
 - 250ml (yes ml) of flour (type 55 or 65) without self raising.  
-- 100ml of water.  
+- 100ml of tepid water.  
 - full coffee spoon of salt.  
 - 5 grams of live ferment.
 
 <!--
 ## Appendix: my receipts
 
-- Carbonara pasta
-- Tuna pasta
-- Home made pizza
+- esparguete c molho abacate e iogurte grego | salmao com feijão preto e variações | bacalhau bras | pizza
+- mousse - salame chocolate e variações | bolo laranja - tatin e variaçoes | tarte pastel nata
+- portuguese style snails
+- mae: frango c arroz, bolachas gengibre
+- piquenique: panados, salada grao, chouriço assado, couve + molho iogurte / sobremesa: crepes c doce, salame choc
 
-- [Bacalhau à brás]()
-- Grilled salmon with black beans
-- [Panados]()
-- Salada de grão
-
-- Portuguese style snails
-
-- [Pastel de nata]() tart
-- Orange cake
+- Basics: Carbonara pasta | Tuna pasta
 -->

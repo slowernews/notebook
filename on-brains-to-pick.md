@@ -14,7 +14,7 @@ You should definitely pick these brains (alphabetic order):
 - Naval Ravikant
 - Paul Graham
 - Paulo Coelho
-- Rich Hickey
+- Rich Hickey | [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
 - Richard Feynman 
 - Robert Glover
 - Rollo Tomassi
@@ -27,5 +27,5 @@ You should definitely pick these brains (alphabetic order):
 <!--
 - Mark Manson
 - Tim Ferriss
-any females?
+any females? Any non american?
 -->
