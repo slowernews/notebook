@@ -33,8 +33,8 @@ any females? Any non american?
 # Relevant sources
 
 - [Economist](https://economist.com)
-- [Visual Capitalist](https://www.visualcapitalist.com/) | [Five Thirty Eight](https://fivethirtyeight.com)
+- [Five Thirty Eight](https://fivethirtyeight.com) | [Visual Capitalist](https://www.visualcapitalist.com/)
+- [The Atlantic](https://www.theatlantic.com) | [Aeon](https://aeon.co) | [Tortoise](https://www.tortoisemedia.com) 
 - [Goodreads](https://www.goodreads.com) | [Aldaily](https://www.aldaily.com) | [Wikiart](https://www.wikiart.org)
 - [Less Wrong](https://www.lesswrong.com)
-- [Aeon](https://aeon.co) | [The Atlantic](https://www.theatlantic.com) | [Tortoise](https://www.tortoisemedia.com) 
-- [Calvert Journal](https://calvertjournal.com) | [Notes from Poland](https://notesfrompoland.com) | [Rusue](https://rusue.com)
+- [Calvert Journal](https://calvertjournal.com) | [Notes from Poland](https://notesfrompoland.com)
