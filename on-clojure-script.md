@@ -13,3 +13,16 @@ I've tried most avaliable solutions but I didn't choose yet:
 - IntelliJ + Cursive: Simple solution but it feels heavy for a drifter.
 
 - Sublime + SublimeRepl: Basic support.
+
+## Relevant links
+
+- Tooling: [Cursive](https://cursive-ide.com) | [Lumo.cljs](https://github.com/anmonteiro/lumo) | [Clojure docs](https://clojuredocs.org/quickref) | [Planet Clojure](http://planet.clojure.in)
+- Books: [Brave Clojure](https://www.braveclojure.com/) | [Elements of Clojure](https://leanpub.com/elementsofclojure/read_sample)
+- Books CLJS: [Clojurescript unraveled](https://funcool.github.io/clojurescript-unraveled) | [Transforming Data with ClojureScript](http://langintro.com/cljsbook)
+- Meta: [Clojure Koans](http://clojurescriptkoans.com/)
+
+<!--
+www.learn-clojurescript.com
+http://mishadoff.com/blog/clojure-design-patterns
+https://kimh.github.io/clojure-by-example
+-->
