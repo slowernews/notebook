@@ -4,11 +4,16 @@
 
 - [Functional programming](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 
+## REGEX
+
+- Playgrounds: [Regex 101](https://regex101.com) | [Regexr](https://regexr.com/) | [Rubular](https://rubular.com/) | [Regex crosswords](http://regexcrossword.com)
+- Books: [Learn Regex](https://github.com/ziishaned/learn-regex) | [Regular expressions for regular folk](https://refrf.shreyasminocha.me/)
+- Beyond Regex: [verbal expressions](https://github.com/VerbalExpressions) | [Nevod](https://nevod.nezaboodka.com/playground)
+
 ## Cheatsheets
 
 - [Learn X in Y minutes](https://learnxinyminutes.com)
-- [Hyperpolyglot](http://hyperpolyglot.org) | [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
-- [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code) | [rosetta.alhur.es](https://rosetta.alhur.es) | [RPN calculator implementations](http://www.math.bas.bg/bantchev/place/rpn/rpn.impl.html)
+- [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code) - [rosetta.alhur.es](https://rosetta.alhur.es) | [Hyperpolyglot](http://hyperpolyglot.org) - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
 
 ## Benchmarks
 
