@@ -11,5 +11,4 @@
 
 ## Real estate
 
-- Idealista: [PT](https://www.idealista.pt/) | [ES](https://www.idealista.com/) | [IT](https://www.idealista.it/)
-- PL: [otodom](https://www.otodom.pl/) - [gratka](https://gratka.pl/) - [partnerzy](https://www.partnerzy.pl/) | [LT](https://www.remax.lt/) | [RU](https://www.cian.ru/) | [NL](https://www.funda.nl/) | [UK](https://www.rightmove.co.uk/) | [DE](https://www.immobilienscout24.de/) | [FR](https://www.seloger.com/) | [GR](https://en.spitogatos.gr/) | FI: [etuovi](https://www.etuovi.com/) - [oikotie](https://asunnot.oikotie.fi/myytavat-asunnot) - [tori](https://www.tori.fi/koko_suomi/asunnot)
+- [AU](https://www.realestate.com.au/buy) | [BR](https://www.zapimoveis.com.br/) | [CZ](https://www.sreality.cz/) | [DE](https://www.immobilienscout24.de/) | [ES](https://www.idealista.com/) | FI: [etuovi](https://www.etuovi.com/) - [oikotie](https://asunnot.oikotie.fi/myytavat-asunnot) | [GR](https://en.spitogatos.gr/) | [IT](https://www.idealista.it/) | [LT](https://www.remax.lt/) | [Other countries](https://www.similarweb.com/pt/top-websites/category/business-and-consumer-services/real-estate/) | PL: [otodom](https://www.otodom.pl/) - [gratka](https://gratka.pl/nieruchomosci) | [PT](https://www.idealista.pt/) | [RU](https://www.cian.ru/) | [SE](https://www.hemnet.se/) | [UK](https://www.rightmove.co.uk/)
