@@ -69,7 +69,7 @@ After rambling with several languages <sup id="refnote1">[1](#footnote1)</sup>, 
   - great *glue* to automate tasks <sup id="refnote2">[2](#footnote2)</sup>. Even on [Sketchup](http://ruby.sketchup.com/) ..
 
 - Cons:
-  - slow (but now there is [MRuby](https://mruby.org/), [Crystal](https://crystal-lang.org/) and someday [Ruby 3](http://engineering.appfolio.com/appfolio-engineering/2015/11/18/ruby-3x3)).
+  - slowish (but there is [MRuby](https://mruby.org/) and [Crystal](https://crystal-lang.org/).
   - dying (or being re-invented?).
 
 
@@ -157,6 +157,9 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 
 		# Now you can evaluate a ruby file directly. Just type:
 		> ruby exp_file.rb
+
+- Books: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) | [Poignant guide](http://poignant.guide)
+- Advanced: [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 
 
 

@@ -21,20 +21,21 @@ You should definitely pick these brains (alphabetic order):
 - Sam Harris
 - Stephen Kotkin
 - Stephen Wolfram
+- Tim Ferriss
 - Tim Urban
 - Warren Buffett
 
 <!--
 - Mark Manson
-- Tim Ferriss
 any females? Any non american?
 -->
 
 # Relevant sources
 
+- [Hacker News](https://news.ycombinator.com/) | [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com)
 - [Five Thirty Eight](https://fivethirtyeight.com) | [Visual Capitalist](https://www.visualcapitalist.com/)
 - [The Atlantic](https://www.theatlantic.com) | [Aeon](https://aeon.co) | [Tortoise](https://www.tortoisemedia.com) 
-- [Goodreads](https://www.goodreads.com) | [Aldaily](https://www.aldaily.com) | [Wikiart](https://www.wikiart.org)
-- [Less Wrong](https://www.lesswrong.com)
+- [Less Wrong](https://www.lesswrong.com) |  [Aldaily](https://www.aldaily.com)
+- [Goodreads](https://www.goodreads.com) | [Wikiart](https://www.wikiart.org)
 - [Calvert Journal](https://calvertjournal.com) | [Notes from Poland](https://notesfrompoland.com)

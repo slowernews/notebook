@@ -1,4 +1,4 @@
-# Notes on Haskell, Elm and Purescript
+# Notes on Haskell and Elm
 
 ```haskell
 -- HASKELL
@@ -24,4 +24,4 @@ functionPatternMatching x = "out of range"
 ## Relevant links
 
 - Books: [Official Elm Guide](https://guide.elm-lang.org) | [Learn you a Haskell](http://learnyouahaskell.com)
-- [Elm news aggregator](https://elm-news.com/)
+- Meta: [Elm news aggregator](https://elm-news.com/)
