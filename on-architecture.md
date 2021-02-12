@@ -12,4 +12,4 @@
 ## Real estate
 
 - Idealista: [PT](https://www.idealista.pt/) | [ES](https://www.idealista.com/) | [IT](https://www.idealista.it/)
-- PL: [otodom](https://www.otodom.pl/) | [gratka](https://gratka.pl/) | [partnerzy](https://www.partnerzy.pl/) | [LT](https://www.remax.lt/) | [RU](https://www.cian.ru/) | [NL](https://www.funda.nl/) | [UK](https://www.rightmove.co.uk/) | [DE](https://www.immobilienscout24.de/) | [FR](https://www.seloger.com/) | [GR](https://en.spitogatos.gr/) | FI: [etuovi](https://www.etuovi.com/) | [oikotie](https://asunnot.oikotie.fi/myytavat-asunnot) | [tori](https://www.tori.fi/koko_suomi/asunnot)
+- PL: [otodom](https://www.otodom.pl/) - [gratka](https://gratka.pl/) - [partnerzy](https://www.partnerzy.pl/) | [LT](https://www.remax.lt/) | [RU](https://www.cian.ru/) | [NL](https://www.funda.nl/) | [UK](https://www.rightmove.co.uk/) | [DE](https://www.immobilienscout24.de/) | [FR](https://www.seloger.com/) | [GR](https://en.spitogatos.gr/) | FI: [etuovi](https://www.etuovi.com/) - [oikotie](https://asunnot.oikotie.fi/myytavat-asunnot) - [tori](https://www.tori.fi/koko_suomi/asunnot)
