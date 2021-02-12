@@ -1,4 +1,7 @@
--- HASKELL NOTES
+# Notes on Haskell, Elm and Purescript
+
+```haskell
+-- HASKELL
 
 -- common typeclasses
 Num; Floating, Integral				-- Int, Float / Integer, Double
@@ -16,3 +19,9 @@ functionPatternMatching 1 = "one"		-- pattern matching works also with tuples
 functionPatternMatching 2 = "two"
 functionPatternMatching 3 = "three"
 functionPatternMatching x = "out of range"
+```
+
+## Relevant links
+
+- Books: [Official Elm Guide](https://guide.elm-lang.org) | [Learn you a Haskell](http://learnyouahaskell.com)
+- [Elm news aggregator](https://elm-news.com/)
