@@ -1,6 +1,6 @@
 # Learning notes (WIP)
 
-My learning notes on [JS](on-native-methods-tricks-quirks.js), [Ruby](on-native-methods-tricks-quirks.rb), [HTML and Dom](on-js-dom-html-css.html) [Frontend](on-js-frontend-frameworks.js) and [Chrome extensions](on-extensions-chrome.js).
+My learning notes on [JS](on-native-methods-tricks-quirks.js), [Ruby](on-native-methods-tricks-quirks.md), [HTML and Dom](on-js-dom-html-css.html) [Frontend](on-js-frontend-frameworks.js) and [Chrome extensions](on-extensions-chrome.js).
 
 Bonus:
 

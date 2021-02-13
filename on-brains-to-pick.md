@@ -10,14 +10,12 @@ You should definitely pick these brains (alphabetic order):
 - Evan Czaplicki
 - Jeff Bezos
 - Jordan Peterson | [Interview](https://www.youtube.com/watch?v=yZYQpge1W5s)
-- Milton Friedman
 - Naval Ravikant
 - Paul Graham
 - Paulo Coelho
 - Rich Hickey | [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
 - Richard Feynman 
 - Robert Glover
-- Rollo Tomassi
 - Sam Harris
 - Stephen Kotkin
 - Stephen Wolfram
@@ -26,7 +24,10 @@ You should definitely pick these brains (alphabetic order):
 - Warren Buffett
 
 <!--
+- Rollo Tomassi
+- Milton Friedman
 - Mark Manson
+- Abbas (iran - photojournalist)
 any females? Any non american?
 -->
 

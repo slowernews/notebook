@@ -1,6 +1,7 @@
-# Polish Language
+# Polish Language - basics
 
-- [Clozemaster](https://www.clozemaster.com/l/pol-eng) | [Wikibook](https://en.wikibooks.org/wiki/Polish) | [Pronunciation](https://pt.forvo.com/languages-pronunciations/pl)
+- [Clozemaster](https://www.clozemaster.com/l/pol-eng) | [Wikibook](https://en.wikibooks.org/wiki/Polish)
+- [Youglish](https://youglish.com/polish) | [Forvo](https://forvo.com/languages-pronunciations/pl/) 
 
 ```yaml
 ja              ty              on-ona          my              wy              oni             
