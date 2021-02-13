@@ -1,15 +1,18 @@
-# Basics of computer science for noobs
-
-## Programming paradigms
+# Really basics of computer science for noobs
 
 - [Functional programming](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 - [The Elm Architecture (TEA)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
+- [SQLite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
+- [Regex](https://www.janmeppe.com/blog/regex-for-noobs/)
 
-## REGEX
+### Playgrounds
 
-- Playgrounds: [Regex 101](https://regex101.com) | [Regexr](https://regexr.com/) | [Rubular](https://rubular.com/) | [Regex crosswords](http://regexcrossword.com)
-- Books: [Learn Regex](https://github.com/ziishaned/learn-regex) | [Regular expressions for regular folk](https://refrf.shreyasminocha.me/)
-- [Beyond Regex](https://github.com/VerbalExpressions)
+- Regex: [Regex 101](https://regex101.com) | [Regexr](https://regexr.com/) | [Rubular](https://rubular.com/) | [Regex crosswords](http://regexcrossword.com)
+- SQL: [SQLPD](https://sqlpd.com/)
+
+### Level up
+
+- Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) | [Regular expressions for regular folk](https://refrf.shreyasminocha.me/) | [Beyond Regex](https://github.com/VerbalExpressions)
 
 ## Cheatsheets
 

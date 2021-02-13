@@ -158,7 +158,7 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 		# Now you can evaluate a ruby file directly. Just type:
 		> ruby exp_file.rb
 
-- Still here? [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) | [Poignant guide](http://poignant.guide) | [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
+- Some references: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) | [Poignant guide](http://poignant.guide) | [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 
 
 
