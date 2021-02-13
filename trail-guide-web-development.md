@@ -123,14 +123,16 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 ### Learning Javascript
 
 - Take a look on [Javascript (Learn X in Y minutes)](https://learnxinyminutes.com/docs/javascript/) to get an overview of the language.
-- Great learning resources around the web as [Xahlee JS course](http://xahlee.info/js/js.html) and [Eloquent Javascript](http://eloquentjavascript.net/)
+- [Style guide](https://github.com/airbnb/javascript) and [Xahlee JS course](http://xahlee.info/js/js.html). 
 - To easily evaluate scripts, do it inside the same directory you keep them.
 
-		// On command line navigate to your script's folder. e.g:
-		> cd desktop/scripts
+```
+// On command line navigate to your script's folder. e.g:
+> cd desktop/scripts
 
-		// Now you can evaluate a JS file directly (you can omit the extension). Just type:
-		> node expFile
+// Now you can evaluate a JS file directly (you can omit the extension). Just type:
+> node expFile
+```
 
 
 
@@ -151,14 +153,13 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 - Take a look on [Ruby (Learn X in Y minutes)](https://learnxinyminutes.com/docs/ruby/) to get an overview of the language.
 - Ruby looks good, isn't it? Use this [style guide](https://github.com/bbatsov/ruby-style-guide) as role model.
 - To easily evaluate scripts, do it inside the same directory you keep them.
+```
+# On command line navigate to your script's folder. e.g:
+> cd desktop/scripts
 
-		# On command line navigate to your script's folder. e.g:
-		> cd desktop/scripts
-
-		# Now you can evaluate a ruby file directly. Just type:
-		> ruby exp_file.rb
-
-- Some references: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) | [Poignant guide](http://poignant.guide) | [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
+# Now you can evaluate a ruby file directly. Just type:
+> ruby exp_file.rb
+```
 
 
 
