@@ -148,8 +148,8 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 ---
 ### Learning Ruby
 
-- Take a look on [Ruby (Learn X in Y minutes)](https://learnxinyminutes.com/docs/ruby/) to get an overview of the language.  
-- Ruby looks good, isn't it? Use this [style guide](https://github.com/bbatsov/ruby-style-guide) as role model.  
+- Take a look on [Ruby (Learn X in Y minutes)](https://learnxinyminutes.com/docs/ruby/) to get an overview of the language.
+- Ruby looks good, isn't it? Use this [style guide](https://github.com/bbatsov/ruby-style-guide) as role model.
 - To easily evaluate scripts, do it inside the same directory you keep them.
 
 		# On command line navigate to your script's folder. e.g:
@@ -158,7 +158,7 @@ There are several valid options <sup id="refnote3">[3](#footnote3)</sup> but for
 		# Now you can evaluate a ruby file directly. Just type:
 		> ruby exp_file.rb
 
-Bibliography: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) | [Poignant guide](http://poignant.guide) | [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
+- Still here? [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) | [Poignant guide](http://poignant.guide) | [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 
 
 
