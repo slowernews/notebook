@@ -12,11 +12,13 @@
 
 ### Level up
 
+- [FreeCodeCamp](https://www.freecodecamp.org/) - [Exercism](https://exercism.io/) - [Codewars](https://www.codewars.com/)
 - Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) - [Regular expressions for regular folk](https://refrf.shreyasminocha.me/) - [Beyond Regex](https://github.com/VerbalExpressions)
 - JS: [Exploring JS](https://exploringjs.com/) - [The JS way](https://github.com/thejsway/thejsway) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - [JS info](https://javascript.info/) - [Eloquent JS](https://eloquentjavascript.net/) - [JS allonge](https://leanpub.com/javascriptallongesix/read) - [Modern JS cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - [Human JS](https://read.humanjavascript.com/)
 - Data viz: [Data viz with JS](https://jsdatav.is/intro.html) - [ThreeJS fundamentals](https://threejsfundamentals.org/)
 - Ruby: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [Poignant guide](http://poignant.guide) - [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
-- Other: [FreeCodeCamp](https://www.freecodecamp.org/) - [Exercism](https://exercism.io/) - [Codewars](https://www.codewars.com/) - [Dev.to](https://dev.to) - [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) 
+- Python: 
+- Other: [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) 
 
 ---
 
@@ -24,8 +26,6 @@
 
 - [MDN web docs](https://developer.mozilla.org/en-US/)
 - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
-
-## Python community
 
 ---
 
