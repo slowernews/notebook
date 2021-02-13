@@ -1,3 +1,8 @@
+# Polish Language
+
+- [Clozemaster](https://www.clozemaster.com/l/pol-eng) | [Wikibook](https://en.wikibooks.org/wiki/Polish) | [Pronunciation](https://pt.forvo.com/languages-pronunciations/pl)
+
+```yaml
 ja              ty              on-ona          my              wy              oni             
 dla mnie        dla ciebie                                      dla państwa                     # for me/you
 u mnie          u ciebie        u niego - niej                                                  # at you
@@ -113,3 +118,4 @@ acusative
 instrumental
 dative
 locative
+```
