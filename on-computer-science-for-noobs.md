@@ -1,4 +1,4 @@
-# Basics of computer science
+# Computer science for noobs
 
 - [Functional programming](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 - [The Elm Architecture (TEA)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
@@ -8,17 +8,18 @@
 
 ### Playgrounds
 
-- Javascript: [RunJS](https://runjs.app/)
+- [FreeCodeCamp](https://www.freecodecamp.org/) - [Exercism](https://exercism.io/) - [Codewars](https://www.codewars.com/)
+- Javascript: [RunJS](https://runjs.app/) - [JS questions](https://github.com/lydiahallie/javascript-questions)
 - Python: [Thonny](https://thonny.org/) - [Snakify](https://snakify.org/pt/)
 - Regex: [Regex 101](https://regex101.com) - [Regexr](https://regexr.com/) - [Rubular](https://rubular.com/) - [Regex crosswords](http://regexcrossword.com)
 - SQL: [SQLPD](https://sqlpd.com/)
 
 ### Level up
 
-- [FreeCodeCamp](https://www.freecodecamp.org/) - [Exercism](https://exercism.io/) - [Codewars](https://www.codewars.com/)
 - Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) - [Regular expressions for regular folk](https://refrf.shreyasminocha.me/) - [Beyond Regex](https://github.com/VerbalExpressions)
-- JS: [Exploring JS](https://exploringjs.com/) - [The JS way](https://github.com/thejsway/thejsway) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - [JS info](https://javascript.info/) - [Eloquent JS](https://eloquentjavascript.net/) - [JS allonge](https://leanpub.com/javascriptallongesix/read) - [Modern JS cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - [Human JS](https://read.humanjavascript.com/)
-- Data viz: [Data viz with JS](https://jsdatav.is/intro.html) - [ThreeJS fundamentals](https://threejsfundamentals.org/)
+- JS: [Exploring JS](https://exploringjs.com/) - [The JS way](https://github.com/thejsway/thejsway) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - [JS info](https://javascript.info/) - [Eloquent JS](https://eloquentjavascript.net/) - [Modern JS cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - [Human JS](https://read.humanjavascript.com/)
+	- Functional programming: [Functional programming for JS people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - [Functional programming jargon](https://github.com/hemanth/functional-programming-jargon) - [Functional Light JS](https://github.com/getify/Functional-Light-JS) - [JS allonge](https://leanpub.com/javascriptallongesix/read)
+	- Data viz: [Data viz with JS](https://jsdatav.is/intro.html) - [ThreeJS fundamentals](https://threejsfundamentals.org/)
 - Ruby: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [Poignant guide](http://poignant.guide) - [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 - Other: [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [MDN web docs](https://developer.mozilla.org/en-US/) - [Automate boring stuff with Python](https://automatetheboringstuff.com)
 
