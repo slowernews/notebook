@@ -9,4 +9,4 @@ Bonus:
 - note on [basics of computer science](on-computer-science-for-noobs.md)
 - trail guide to [self learn web development](trail-guide-web-development.md).
 - trail guide on [self-publishing](trail-guide-self-publishing.md).
-- half-baked: [haskell & elm](on-haskell-elm.md) | [lisps](on-lisps.md) | [sketchup extensions](on-extensions-sketchup.md) | [domains](on-domains.md) | [architecture](on-architecture.md) | [cooking](on-cooking.md) | [trades](on-trades.md) | [brains to pick..](on-brains-to-pick.md)
+- half-baked: [haskell & elm](on-haskell-elm.md) | [lisps](on-lisps.md) | [sketchup extensions](on-extensions-sketchup.md) | [architecture](on-architecture.md) | [cooking](on-cooking.md) | [trades](on-trades.md) | [brains to pick..](on-brains-to-pick.md)
