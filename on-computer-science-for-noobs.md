@@ -17,16 +17,17 @@
 
 ### Level up
 
-- Javascript: [Exploring JS](https://exploringjs.com/) - [JS way](https://github.com/thejsway/thejsway) - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - [JS info](https://javascript.info/) - [Eloquent JS](https://eloquentjavascript.net/) - [Modern JS](https://mbeaudru.github.io/modern-js-cheatsheet/) - [Human JS](https://read.humanjavascript.com/)
+- Javascript: [Exploring JS](https://exploringjs.com/) - [JS way](https://github.com/thejsway/thejsway) - [YDKJS](https://github.com/getify/You-Dont-Know-JS) - [JS info](https://javascript.info/) - [Eloquent JS](https://eloquentjavascript.net/) - [Modern JS](https://mbeaudru.github.io/modern-js-cheatsheet/) - [Human JS](https://read.humanjavascript.com/)
 	- Functional programming: [FP for JS people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - [FP jargon](https://github.com/hemanth/functional-programming-jargon) - [Functional Light JS](https://github.com/getify/Functional-Light-JS) - [JS allonge](https://leanpub.com/javascriptallongesix/read)
 	- Basic apps: [Spreadsheet](https://jsfiddle.net/ondras/o3tzx1px) - [Data table](https://github.com/piecioshka/simple-data-table) - [Notes](https://github.com/tmm/notational) - [Calculator](https://insect.sh/) - [Chrome extension](https://github.com/abhiomkar/good-quotes)
-	- Games: [JS1K](https://js1k.com) - [JS13K](https://js13kgames.com) - [Traffic simulation](https://traffic-simulation.de) - [Minesweeper](http://xem.github.io/MiniSweeper/) - [Tetris](http://binaryify.github.io/vue-tetris) - [Rogue](https://nluqo.github.io/broughlike-tutorial) - [Maze](https://observablehq.com/@mbostock/best-first-search) - [Doom](https://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+	- Games: [JS1K](https://js1k.com) - [JS13K](https://js13kgames.com) - [Traffic simulation](https://traffic-simulation.de) - [Minesweeper](http://xem.github.io/MiniSweeper/) - [Tetris](http://binaryify.github.io/vue-tetris) - [Rogue](https://nluqo.github.io/broughlike-tutorial) - [Maze](https://observablehq.com/@mbostock/best-first-search) - [Path finding](http://qiao.github.io/PathFinding.js/visual) - [Doom](https://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 	- Data viz: [Data viz with JS](https://jsdatav.is/intro.html) - [ThreeJS fundamentals](https://threejsfundamentals.org/)
-	- Graphics & WebGL: [raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [Water](http://madebyevan.com/webgl-water/) - [Waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [Fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [Particles](https://minimal.be/lab/fluGL/) - [Inspirograph](https://nathanfriend.io/inspirograph/)
-
+	- Graphics & WebGL: [Raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [Water](http://madebyevan.com/webgl-water/) - [Waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [Fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [Cloths](https://aatishb.com/drape/) - [Particles](https://minimal.be/lab/fluGL/) - [Generative](http://weavesilk.com/?ika/) - [Inspirograph](https://nathanfriend.io/inspirograph/) - [Gears](https://brm.io/gears/)
+- Classless CSS frameworks: [Example 1](https://dohliam.github.io/dropin-minimal-css) - [Example 2](https://andybrewer.github.io/mvp/) - [Example 3](https://watercss.kognise.dev/)- [Tufte CSS](https://edwardtufte.github.io/tufte-css)
+- Typography: [Practical typography](https://practicaltypography.com) - [Web fonts](https://beautifulwebtype.com)
 - Ruby: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [Poignant guide](http://poignant.guide) - [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 - Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) - [Regex for regular folk](https://refrf.shreyasminocha.me/) - [Beyond Regex](https://github.com/VerbalExpressions)
-- Other: [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [MDN web docs](https://developer.mozilla.org/en-US/) - [Automate boring stuff with Python](https://automatetheboringstuff.com) - [Autolisp](http://www.lee-mac.com/programs.html)
+- Other: [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [Automate boring stuff with Python](https://automatetheboringstuff.com) - [Sicp v1](https://github.com/sarabander/sicp) - [Sicp v2](https://github.com/ldct/isicp)
 
 ---
 
@@ -34,6 +35,7 @@
 
 - [Learn X in Y minutes](https://learnxinyminutes.com)
 - [Rosetta code](http://rosettacode.org/wiki/Rosetta_Code) - [Rosetta.alhur.es](https://rosetta.alhur.es) - [Hyperpolyglot](http://hyperpolyglot.org) - [Syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
+- [MDN web docs](https://developer.mozilla.org/en-US/)
 
 ## Benchmarks
 
