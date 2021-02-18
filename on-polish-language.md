@@ -2,6 +2,7 @@
 
 - [Clozemaster](https://www.clozemaster.com/l/pol-eng) | [Wikibook](https://en.wikibooks.org/wiki/Polish)
 - Pronunciation: [Youglish](https://youglish.com/polish) | [Forvo](https://forvo.com/languages-pronunciations/pl/) 
+- Methodology: [Tim Ferriss 1](https://tim.blog/2009/01/20/learning-language/) - [Tim Ferriss 2](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - [Learn these words first](https://learnthesewordsfirst.com/) - [Basic English](http://ogden.basic-english.org)
 
 ```yaml
 ja              ty              on-ona          my              wy              oni             

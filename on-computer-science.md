@@ -11,6 +11,7 @@
 ### Playgrounds
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) - [Exercism](https://exercism.io/) - [Codewars](https://www.codewars.com/)
+- Fonts, icons & vectors: [Web fonts](https://beautifulwebtype.com) - [Nerdfonts](https://www.nerdfonts.com/) - [The noun project](https://thenounproject.com/) - [Vectors](https://www.humaaans.com/)
 - Javascript: [RunJS](https://runjs.app/) - [JS questions](https://github.com/lydiahallie/javascript-questions) - [1LOC](https://1loc.dev/)
 - Python: [Thonny](https://thonny.org/) - [Snakify](https://snakify.org/pt/)
 - Regex: [Regex 101](https://regex101.com) - [Regexr](https://regexr.com/) - [Rubular](https://rubular.com/) - [Regex crosswords](http://regexcrossword.com)
@@ -25,7 +26,6 @@
 	- Data viz: [Data viz with JS](https://jsdatav.is/intro.html) - [ThreeJS fundamentals](https://threejsfundamentals.org/)
 	- Graphics & WebGL: [Raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [Water](http://madebyevan.com/webgl-water/) - [Waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [Fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [Cloths](https://aatishb.com/drape/) - [Particles](https://minimal.be/lab/fluGL/) - [Generative](http://weavesilk.com/?ika/) - [Inspirograph](https://nathanfriend.io/inspirograph/) - [Gears](https://brm.io/gears/)
 - Classless CSS frameworks: [Example 1](https://dohliam.github.io/dropin-minimal-css) - [Example 2](https://andybrewer.github.io/mvp/) - [Example 3](https://watercss.kognise.dev/)- [Tufte CSS](https://edwardtufte.github.io/tufte-css)
-- Fonts, icons & vectors: [Web fonts](https://beautifulwebtype.com) - [Nerdfonts](https://www.nerdfonts.com/) - [The noun project](https://thenounproject.com/) - [Vectors](https://www.humaaans.com/)
 - Themes: [Tumblr](https://www.tumblr.com/themes)
 - Ruby: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [Poignant guide](http://poignant.guide) - [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 - Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) - [Regex for regular folk](https://refrf.shreyasminocha.me/) - [Beyond Regex](https://github.com/VerbalExpressions)
