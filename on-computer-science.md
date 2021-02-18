@@ -3,6 +3,7 @@
 - [Functional programming](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 - [The Elm Architecture (TEA)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
 - [React](https://learnreact.design/posts/what-is-react)
+- [Modern CSS](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 - [Regex](https://www.janmeppe.com/blog/regex-for-noobs/)
 - [SQLite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
 - [Emacs](https://learnxinyminutes.com/docs/emacs/)
@@ -24,10 +25,12 @@
 	- Data viz: [Data viz with JS](https://jsdatav.is/intro.html) - [ThreeJS fundamentals](https://threejsfundamentals.org/)
 	- Graphics & WebGL: [Raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [Water](http://madebyevan.com/webgl-water/) - [Waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [Fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [Cloths](https://aatishb.com/drape/) - [Particles](https://minimal.be/lab/fluGL/) - [Generative](http://weavesilk.com/?ika/) - [Inspirograph](https://nathanfriend.io/inspirograph/) - [Gears](https://brm.io/gears/)
 - Classless CSS frameworks: [Example 1](https://dohliam.github.io/dropin-minimal-css) - [Example 2](https://andybrewer.github.io/mvp/) - [Example 3](https://watercss.kognise.dev/)- [Tufte CSS](https://edwardtufte.github.io/tufte-css)
-- Typography: [Practical typography](https://practicaltypography.com) - [Web fonts](https://beautifulwebtype.com)
+- Fonts, icons & vectors: [Web fonts](https://beautifulwebtype.com) - [Nerdfonts](https://www.nerdfonts.com/) - [The noun project](https://thenounproject.com/) - [Vectors](https://www.humaaans.com/)
+- Themes: [Tumblr](https://www.tumblr.com/themes)
 - Ruby: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [Poignant guide](http://poignant.guide) - [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 - Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) - [Regex for regular folk](https://refrf.shreyasminocha.me/) - [Beyond Regex](https://github.com/VerbalExpressions)
-- Other: [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [Automate boring stuff with Python](https://automatetheboringstuff.com) - [Sicp v1](https://github.com/sarabander/sicp) - [Sicp v2](https://github.com/ldct/isicp)
+- Maths: [Functors, applicatives and monads in pictures](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - [Calculus with derivatives](https://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html) - [Relearning matrices as linear functions](https://www.dhruvonmath.com/2018/12/31/matrices/) - [Modes, medians and means: a unifying perspective](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/) - [hexagonal grids](https://www.redblobgames.com/grids/hexagons/)
+- Other: [Practical typography](https://practicaltypography.com) - [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [Automate boring stuff with Python](https://automatetheboringstuff.com) - [Sicp v1](https://github.com/sarabander/sicp) - [Sicp v2](https://github.com/ldct/isicp)
 
 ---
 
