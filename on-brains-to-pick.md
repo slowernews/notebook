@@ -35,6 +35,6 @@ any females? Any non american?
 
 - [Hacker News](https://news.ycombinator.com/) | [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com) | [Allsides](https://www.allsides.com/) | [The Atlantic](https://www.theatlantic.com) | [Aeon](https://aeon.co) | [Tortoise](https://www.tortoisemedia.com) 
-- [Less Wrong](https://www.lesswrong.com) |  [Aldaily](https://www.aldaily.com)
 - [Goodreads](https://www.goodreads.com) | [Wikiart](https://www.wikiart.org)
-- [Calvert Journal](https://calvertjournal.com) | [Notes from Poland](https://notesfrompoland.com)
+- [Less Wrong](https://www.lesswrong.com)
+- [Calvert Journal](https://calvertjournal.com)
