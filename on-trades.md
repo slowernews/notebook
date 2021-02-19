@@ -1,11 +1,5 @@
 # Trades
 
-### AVAC
-
-### Solar energy
-
-### Plumbing
-
 ### Electricity
 
 - 1.15 KVA ~ 5 Amps (small apartment in PT during the 70s)

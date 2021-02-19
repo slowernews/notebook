@@ -14,18 +14,21 @@
 
 - [YC jobs](www.ycombinator.com/companies)
 
-## Business models examples
+## Business models - examples
 
-- Tourism experiences: [the worst tours](https://theworsttours.weebly.com/) - [rent adventurers club](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant + stay](https://www.brushlandeatinghouse.com/) - [workaway](https://www.workaway.info/) - [rent cabins](https://www.cabinscape.com/) - [rent houses](https://www.silentliving.pt/)- [Guided trips](https://andrewskurka.com/)
-- Lifestyle business: [wild foods](https://alexandermcnaughton.com/) - [nomadicmatt](https://www.nomadicmatt.com/) - [other example](https://sofianaaustralia.com/) - [craigmod](https://craigmod.com/)
-- Selling research: [dense discovery](https://www.densediscovery.com/) - [cheap old houses](https://www.instagram.com/cheapoldhouses/), [it really works](https://www.instagram.com/cheapirishhouses/) - [Modern houses](https://www.wowhaus.co.uk/) - 
-- Real estate: [exclusive houses with good photos](https://www.fantasticfrank.de/) - [private islands](http://www.vladi-private-islands.de/) - [real estate](https://www.zeonamcintyre.com/)
-- Building kits: [farm from a box](https://farmfromabox.com/) - [A-frame](https://avrame.com/) - [cabin](https://buildcover.com/)
-- Accomodation: [long term](https://www.uniplaces.com/) - [student](https://www.studentville.pt/en)
-- Selling marketing packages: [brand + logo + domain package](https://www.brandbucket.com/) - [$495 logos](https://logo.pizza/)
-- Graphics crowdsource: [example 1](https://www.crowdspring.com/) - [example 2](https://draftss.com/) - [example 3](https://www.manypixels.co/)
-- Trades: [cleaning](https://www.maidsinblack.com/)
+Selling:
+
+- experiences: [the worst tours](https://theworsttours.weebly.com/) - [rent adventurers club](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant + stay](https://www.brushlandeatinghouse.com/) - [workaway](https://www.workaway.info/) - [rent cabins](https://www.cabinscape.com/) - [rent houses](https://www.silentliving.pt/)- [Guided trips](https://andrewskurka.com/) - [wild foods](https://alexandermcnaughton.com/)
+- dreams (lifestyle): [nomadicmatt](https://www.nomadicmatt.com/) - [other example](https://sofianaaustralia.com/) - [craigmod](https://craigmod.com/)
+- research: [dense discovery](https://www.densediscovery.com/) - [cheap old houses](https://www.instagram.com/cheapoldhouses/), [other example](https://www.instagram.com/cheapirishhouses/) - [modern houses](https://www.wowhaus.co.uk/)
+- real estate: [exclusive houses with good photos](https://www.fantasticfrank.de/) - [private islands](http://www.vladi-private-islands.de/) - [real estate](https://www.zeonamcintyre.com/)
+- kits: [farm from a box](https://farmfromabox.com/) - [A-frame](https://avrame.com/) - [cabin](https://buildcover.com/)
+- marketing packages: [brand + logo + domain package](https://www.brandbucket.com/) - [$495 logos](https://logo.pizza/)
+- crowdsource graphics: [example 1](https://www.crowdspring.com/) - [example 2](https://draftss.com/) - [example 3](https://www.manypixels.co/)
+- services: [cleaning](https://www.maidsinblack.com/)
+- accomodation renting: [long term](https://www.uniplaces.com/) - [student](https://www.studentville.pt/en)
+- jobs: [example](https://empregopelomundo.com/)
+- capital: [example 1](https://shl.vc/) - [example 2](https://www.generalcatalyst.com/) - [example 3](https://www.tinycapital.com/)
+- consulting: [example 1](https://hashref.com/) - [example 2](https://roybarber.com/) - [example 3](https://consulting.joreteg.com/)
 - Mailbox money: [printable place cards](https://www.placecard.me/)
-- Human resources: [example](https://empregopelomundo.com/)
-- Capital: [example 1](https://shl.vc/) - [example 2](https://www.generalcatalyst.com/) - [example 3](https://www.tinycapital.com/)
 - Other: [mini materials](https://www.minimaterials.com/)

@@ -53,9 +53,9 @@
 - [IAS: Indexante dos Apoios Sociais](#valores-indexantes)
 - [SMN: Salário Mínimo Nacional](#valores-indexantes)
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
-- [Como cessar trabalho independente?](#como-cessar-atividade)
 - [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
 - [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
+- [Links relevantes](#links-uteis)
 
 
 
@@ -332,6 +332,11 @@ Valores *referência* para a contabilidade:
 
 
 
+
+### Links relevantes
+
+- Sistema de intercâmbio de informações sobre o IVA: [VIES](https://ec.europa.eu/taxation_customs/vies/vatRequest.html?locale=pt)
+- Tax regime for non residents: [here](https://www.newco.pro/en/blog/portugal-or-spain-two-tax-regimes-for-non-habitual-residents-to-consider-in-the-eu) and [here](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/)
 
 <!--
 ## IVA de Caixa
