@@ -1,4 +1,4 @@
-# Notes on architecture and real estate
+# Bookmarks on architecture and real estate
 
 ## Architecture & design
 
