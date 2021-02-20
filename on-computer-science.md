@@ -30,7 +30,7 @@
 - Ruby: [Ruby for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [Poignant guide](http://poignant.guide) - [Shell scripting with Ruby](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) 
 - Regex: [Learn Regex](https://github.com/ziishaned/learn-regex) - [Regex for regular folk](https://refrf.shreyasminocha.me/) - [Beyond Regex](https://github.com/VerbalExpressions)
 - Maths: [Functors, applicatives and monads](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - [Calculus with derivatives](https://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html) - [Matrices as linear functions](https://www.dhruvonmath.com/2018/12/31/matrices/) - [Modes, medians and means unified](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/) - [hexagonal grids](https://www.redblobgames.com/grids/hexagons/)
-- Other: [Practical typography](https://practicaltypography.com) - [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [Automate boring stuff with Python](https://automatetheboringstuff.com) - [Sicp v1](https://github.com/sarabander/sicp) - [Sicp v2](https://github.com/ldct/isicp)
+- Other: [Practical typography](https://practicaltypography.com) - [Xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [Automate boring stuff with Python](https://automatetheboringstuff.com) - [Sicp v1](https://github.com/sarabander/sicp) - [Sicp v2](https://github.com/ldct/isicp) - [Economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 
 ---
 

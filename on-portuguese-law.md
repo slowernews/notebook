@@ -1,4 +1,4 @@
-# Portuguese building & property Law (2019)
+# Portuguese Law
 
 ### Direito da edificação
 
@@ -17,6 +17,11 @@
 - [Um parente próximo faleceu, como proceder?](#um-parente-próximo-faleceu-como-proceder)
 - [E se houver só um herdeiro?](#e-se-houver-só-um-herdeiro)
 
+### Como funciona na Europa?
+
+- [Succession law in Europe](http://www.successions-europe.eu/)
+- [Buying home in Europe](http://www.buyingmyhome.eu/)
+- [Couples in Europe](http://www.coupleseurope.eu/)
 
 
 
@@ -36,6 +41,8 @@
 		- Se na parcela destacada só for construído um edifício exclusivamente habitacional até 2 fogos;
 		- e a parcela restante respeitar a área mínima fixada no projecto de intervenção em espaço rural em vigor ou, quando este não exista, a área de unidade de cultura fixada nos termos da lei geral para a região respectiva.
 - Nos 10 anos seguintes, só é possível destacar outra parcela na área correspondente ao prédio originário através de loteamento.
+
+[Fonte](www.arquitectura.pt/forum/forums/topic/10215-destaque-de-parcela)
 
 
 
