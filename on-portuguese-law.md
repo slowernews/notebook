@@ -19,9 +19,7 @@
 
 ### Como funciona na Europa?
 
-- [Succession law in Europe](http://www.successions-europe.eu/)
-- [Buying home in Europe](http://www.buyingmyhome.eu/)
-- [Couples in Europe](http://www.coupleseurope.eu/)
+[Succession law in Europe](http://www.successions-europe.eu/) - [Buying home in Europe](http://www.buyingmyhome.eu/) - [Couples in Europe](http://www.coupleseurope.eu/)
 
 
 
