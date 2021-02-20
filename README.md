@@ -7,9 +7,16 @@ My half-baked notes on:
 - [haskell & elm](on-haskell-elm.md) and [lisps](on-lisps.md).
 - portuguese [taxes](on-portuguese-tax-system.md) and [law](on-portuguese-law.md).
 - [polish language](on-polish-language.md) and learning methodology.
-- some [brains to pick](on-brains-to-pick.md)
+- some [brains to pick](on-brains-to-pick.md).
 - [cooking](on-cooking.md) and [trades](on-trades.md).
 
-Trail guides on [self learn web development](trail-guide-web-development.md) and [self-publishing](trail-guide-self-publishing.md).
+Trail guides on:
 
-Bookmarks on: [basics of computer science](on-computer-science.md), [architecture & real estate](on-architecture-real-estate.md) and [career & business models](on-business.md).
+- [self learn web development](trail-guide-web-development.md).
+- [self-publishing](trail-guide-self-publishing.md).
+
+Bookmarks on:
+
+- [basics of computer science](on-computer-science.md).
+- [architecture & real estate](on-architecture-real-estate.md).
+- [career & business models](on-business.md).
