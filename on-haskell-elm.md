@@ -23,4 +23,4 @@ functionPatternMatching x = "out of range"
 
 ## Relevant links
 
-- [Elm news aggregator](https://elm-news.com/) | [Learn you a Haskell](http://learnyouahaskell.com)
+- [Elm news aggregator](https://elm-news.com/) - [Learn you a Haskell](http://learnyouahaskell.com)

@@ -7,6 +7,7 @@
 - [Regex](https://www.janmeppe.com/blog/regex-for-noobs/)
 - [SQLite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
 - [Emacs](https://learnxinyminutes.com/docs/emacs/)
+- [Naming stuff](https://leanpub.com/elementsofclojure/read_sample)
 
 ### Playgrounds
 
@@ -50,4 +51,4 @@
 - Computer languages popularity: [Redmonk](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/) - [Githut](https://madnight.github.io/githut) - [Github trends](https://insights.stackoverflow.com/trends) - [Quantity of modules](http://www.modulecounts.com/)
 - NPM modules popularity: [NPM trends](https://www.npmtrends.com/) - [Moiva](https://moiva.io) - [Best of JS](https://bestofjs.org) - [Awesome JS](https://github.com/sorrycc/awesome-javascript)
 - [Github Dev community trends](https://octoverse.github.com)
-- [Hacker News Trends](https://toddwschneider.com/dashboards/hacker-news-trends)
+- Hacker News: [Posting trends](https://toddwschneider.com/dashboards/hacker-news-trends) - [Hiring trends](https://www.hntrends.com/)

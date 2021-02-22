@@ -18,4 +18,4 @@
 ## Hobby horses
 
 - [Numismatic](https://www.fleur-de-coin.com/eurocoins/euro-coin-mintage)
-- [Camara comércio Polónia - Portugal](http://ppcc.pl)
+- [Estatisticas INE](https://www.ine.pt/) - [Trading economics](https://tradingeconomics.com/)
