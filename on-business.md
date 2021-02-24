@@ -4,7 +4,7 @@
 
 - Job boards: [nocsok](https://nocsok.com/) - [YC jobs](www.ycombinator.com/companies) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) 
 - Head hunting: [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
-- Poland: [Camara comércio Polónia - Portugal](http://ppcc.pl) - [Wroclaw](https://www.monterail.com/careers) - [wroclaw 2](https://10clouds.com/careers)
+- Poland: [Camara comércio PT/PL](http://ppcc.pl) - [wroclaw](https://www.monterail.com/careers) - [wroclaw 2](https://10clouds.com/careers)
 
 ## Business models - examples
 
