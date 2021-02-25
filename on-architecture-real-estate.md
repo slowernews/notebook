@@ -14,5 +14,5 @@
 
 ## Hobby horses
 
-- [Numismatic](https://www.fleur-de-coin.com/eurocoins/euro-coin-mintage)
+- [Numismatic](https://en.ucoin.net/)
 - [Estatisticas INE](https://www.ine.pt/)

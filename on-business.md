@@ -23,4 +23,4 @@ Selling:
 - consulting: [example one](https://hashref.com/), [two](https://roybarber.com/), [three](https://consulting.joreteg.com/) and [four](www.desktopneo.com) - [real estate](https://www.zeonamcintyre.com/)
 - mailbox money: [printable place cards](https://www.placecard.me/)
 - geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
-- other: [mini materials](https://www.minimaterials.com/) - [wild foods](https://alexandermcnaughton.com/)
+- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com/) - [wild foods](https://alexandermcnaughton.com/)
