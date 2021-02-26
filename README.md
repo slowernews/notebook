@@ -17,5 +17,6 @@ Trail guides on:
 Bookmarks on:
 
 - [basics of computer science](on-computer-science.md).
-- [career & business models](on-business.md).
+- [career & business](on-business-career.md).
 - [architecture & real estate](on-architecture-real-estate.md).
+- [hobby horses..](on-hobby-horses.md)
