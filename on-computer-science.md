@@ -12,6 +12,7 @@
 ### Playgrounds
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) - [Exercism](https://exercism.io/) - [Codewars](https://www.codewars.com/)
+- CSS: [grid](https://grid.layoutit.com/) and [masonry generator](https://w3bits.com/tools/masonry-generator/)
 - Javascript: [runJS](https://runjs.app/) - [questions](https://github.com/lydiahallie/javascript-questions) - [1LOC](https://1loc.dev/)
 - Python: [rhonny](https://thonny.org/) - [snakify](https://snakify.org/pt/)
 - Regex: [101](https://regex101.com) - [regexr](https://regexr.com/) - [rubular](https://rubular.com/) - [crosswords](http://regexcrossword.com)
