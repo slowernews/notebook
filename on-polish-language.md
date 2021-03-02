@@ -1,8 +1,8 @@
-# Polish Language - basics
+# Polish language - basics
 
 - [clozemaster](https://www.clozemaster.com/l/pol-eng) -[wikibook](https://en.wikibooks.org/wiki/Polish)
 - pronunciation: [youglish](https://youglish.com/polish) - [forvo](https://forvo.com/languages-pronunciations/pl/) 
-- methodology: [tim Ferriss one](https://tim.blog/2009/01/20/learning-language/) and [two](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - [learn these words first](https://learnthesewordsfirst.com/) - [basic English](http://ogden.basic-english.org)
+- methodology: [tim Ferriss one](https://tim.blog/2009/01/20/learning-language/) and [two](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - [learn these words first](https://learnthesewordsfirst.com/) - [basic english](http://ogden.basic-english.org)
 - level up: [learning polish from the streets](https://www.youtube.com/playlist?list=PLA5UIoabheFN7GIhcfUGQT2S5_U5sWnhK)
 
 ```yaml
