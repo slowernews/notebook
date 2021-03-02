@@ -11,6 +11,7 @@
 - [Cadastro predial: cadernetas predial urbana ou rural](#cadastro-predial)
 - [Custos na compra de imóveis](#custos-na-compra-de-imóveis)
 - [Custos na venda de imóveis](#custos-na-venda-de-imóveis)
+- [contrato compra venda](https://www.idealista.pt/news/imobiliario/habitacao/2019/06/04/39857-contrato-de-compra-e-venda-a-arma-que-protege-compradores-e-vendedores-de-imoveis#O%20que%20acontece%20em%20caso%20de%20incumprimento)
 
 ### Direito das transmissões (heranças)
 

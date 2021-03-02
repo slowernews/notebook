@@ -19,12 +19,16 @@
 - full coffee spoon of salt.  
 - 5 grams of live ferment.
 
-## Nerd level
+## Level up
+
+- [Italian Food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
+
+### Nerd level
 
 - [Some theory on pizza...](http://www.varasanos.com/PizzaRecipe.htm)
 - [Nutrients on ingredients](https://ryanatkn.github.io/nutrients-per-calorie/#/compare)
-- [Cooking for engineers](http://www.cookingforengineers.com) | [Grim grains](https://grimgrains.com)
-- [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) | [Optimized cooking](https://web.archive.org/web/20170420110020/http://www.matthewwettergreen.com/2010/01/05/how-to-cook-like-an-engineer)
+- [Cooking for engineers](http://www.cookingforengineers.com) - [Grim grains](https://grimgrains.com)
+- [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) - [Optimized cooking](https://web.archive.org/web/20170420110020/http://www.matthewwettergreen.com/2010/01/05/how-to-cook-like-an-engineer)
 
 <!--
 ## Appendix: my receipts
