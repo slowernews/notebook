@@ -21,7 +21,7 @@
 
 ## Level up
 
-- [Italian Food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
+- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
 
 ### Nerd level
 
