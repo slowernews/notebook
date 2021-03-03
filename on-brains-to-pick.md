@@ -29,6 +29,9 @@ You should definitely pick these brains (alphabetic order):
 - Mark Manson
 - Abbas (iran - photojournalist)
 any females? Any non american?
+- Pawel Kuczynski (illustrator)
+- Mario Puppo (illustrator)
+- Edward Tufte
 -->
 
 # Relevant sources
