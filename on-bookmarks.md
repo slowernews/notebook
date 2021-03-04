@@ -45,7 +45,8 @@ Selling:
 
 # Hobby horses
 
-- slow TV:  [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos) - [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com)
+- [music for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [musical time machine](https://radiooooo.com/) - [sounds](https://rainbowhunt.com/)
+- slow TV:  [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos) - [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/)
 - statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
 - game aggregators: [itch.io](https://itch.io/) - [boardgamearena](https://pt.boardgamearena.com/) - [playok](https://www.playok.com/)
 - games: [generals.io](http://generals.io/) - [lord of the manor](http://www.lordofthemanor.io/) - [zty.pe](https://zty.pe/) - [nation states](https://www.nationstates.net/) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale
