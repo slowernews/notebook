@@ -16,5 +16,5 @@ I've tried most avaliable solutions:
 - clojure: [news aggregator](http://planet.clojure.in) - [koans](http://clojurescriptkoans.com/)
 - books on:
 	- clojure: [brave](https://www.braveclojure.com/) - [elements](https://leanpub.com/elementsofclojure/read_sample) - [design patterns](http://mishadoff.com/blog/clojure-design-patterns) - [by example](https://kimh.github.io/clojure-by-example)
-	- clojurescript: [unraveled](https://funcool.github.io/clojurescript-unraveled) - [transforming datat](http://langintro.com/cljsbook) - [learn](https://www.learn-clojurescript.com/)
+	- clojurescript: [unraveled](https://funcool.github.io/clojurescript-unraveled) - [transforming data](http://langintro.com/cljsbook) - [learn](https://www.learn-clojurescript.com/)
 	- racket: [beautiful racket](https://beautifulracket.com) - [how to design programs](https://htdp.org)
