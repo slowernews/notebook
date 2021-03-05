@@ -1,10 +1,3 @@
-# Career
-
-- Job boards: [nocsok](https://nocsok.com/) - [YC jobs](www.ycombinator.com/companies) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) 
-- Head hunting: [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
-- Certifications: [AWS](https://aws.amazon.com/pt/certification/)
-- Poland: [PT/PL](http://ppcc.pl) - [wroclaw one](https://www.monterail.com/careers) and [two](https://10clouds.com/careers)
-
 # Business models - examples
 
 Selling:
@@ -25,6 +18,13 @@ Selling:
 - Books: [mousebookclub](https://mousebookclub.com/).
 - Other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com/) - [wild foods](https://alexandermcnaughton.com/) - [car leasing](https://www.lingscars.com/).
 
+# Career
+
+- Job boards: [nocsok](https://nocsok.com/) - [YC jobs](www.ycombinator.com/companies) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) 
+- Head hunting: [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
+- Certifications: [AWS](https://aws.amazon.com/pt/certification/)
+- Poland: [PT/PL](http://ppcc.pl) - [wroclaw one](https://www.monterail.com/careers) and [two](https://10clouds.com/careers)
+
 # Architecture
 
 - architectural competitions: [portugal](http://encomenda.oasrs.org/concursos) - [finland](https://www.safa.fi/en/architectural-competitions-in-finland/) - [slovenia](https://www.zaps.si/index.php?m_id=natecaji_aktualni) - [czech republic](https://cceamoba.cz/en)
@@ -43,15 +43,18 @@ Selling:
 - linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos)
 - cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
 
-# Hobby horses
+# Gaming
 
-- music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [musical time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
-- slow TV:  [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos) - [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/)
-- statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
 - game aggregators: [itch.io](https://itch.io/) - [boardgamearena](https://pt.boardgamearena.com/) - [playok](https://www.playok.com/)
 - games: [generals.io](http://generals.io/) - [lord of the manor](http://www.lordofthemanor.io/) - [zty.pe](https://zty.pe/) - [nation states](https://www.nationstates.net/) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale
 
 ### Level up
 
 - chess: [tactics](https://www.chesstactics.org/) - [checkmatechamp](https://www.checkmatechamp.net/)
-- dungeon & dragons: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter)
+- dungeon & dragons: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter)7
+
+# Hobby horses
+
+- music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
+- slow TV:  [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos) - [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/)
+- statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
