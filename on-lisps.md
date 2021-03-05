@@ -1,23 +1,20 @@
-# Notes on Lisps (Clojure, Clojurescript, Racket)
+# Notes on Lisps
 
 ## Clojurescript tooling
 
 I've tried most avaliable solutions:
 
-- VScode + Calva: I couldn't understand the fuss around it. I didn't even manage to connect a REPL..
-- Atom + Chlorine: Simple solution. A text editor and a REPL. I used Lumo. Not without quirks of course.
-- Emacs + Cider: Emacs is an old beast that after my fifth or sixth trial along the years I really believe that worths to tame. It certainly would become loyal for life. For now, I did't get even as far as installling Cider..
-- IntelliJ + Cursive: Simple solution but it feels heavy for a drifter.
-- Sublime + SublimeRepl: Basic support.
+- vscode + calva: I couldn't understand the fuss around it. I didn't even manage to connect a repl..
+- atom + chlorine: simple solution. a text editor and a repl. I used lumo. Not without quirks of course.
+- emacs + cider: emacs is an old beast that after my fifth or sixth trial along the years I really believe that worths to tame. It certainly would become loyal for life. For now, I did't get even as far as installling cider..
+- intellij + cursive: simple solution but it feels heavy for a drifter.
+- sublime + sublimerepl: basic support.
 
 ## Relevant links
 
-- Tools: [Cursive](https://cursive-ide.com) - [Lumo.cljs](https://github.com/anmonteiro/lumo) - [Clojure docs](https://clojuredocs.org/quickref)
-- Meta: [Clojure news aggregator](http://planet.clojure.in) - [Clojure Koans](http://clojurescriptkoans.com/)
-- Books on Clojure: [Brave Clojure](https://www.braveclojure.com/) - [Elements of Clojure](https://leanpub.com/elementsofclojure/read_sample) - [Clojure design patterns](http://mishadoff.com/blog/clojure-design-patterns) - [Clojure by example](https://kimh.github.io/clojure-by-example)
-- Books on ClojureScript: [Clojurescript unraveled](https://funcool.github.io/clojurescript-unraveled) - [Transforming data with ClojureScript](http://langintro.com/cljsbook) - [Learn Clojurescript](https://www.learn-clojurescript.com/)
-- Books on Racket: [Beautiful Racket](https://beautifulracket.com) - [How to design programs](https://htdp.org)
-
-<!--
-reagent/reframe
--->
+- tools: [cursive](https://cursive-ide.com) - [lumo](https://github.com/anmonteiro/lumo) - [clojure docs](https://clojuredocs.org/quickref)
+- clojure: [news aggregator](http://planet.clojure.in) - [koans](http://clojurescriptkoans.com/)
+- books on:
+	- clojure: [brave](https://www.braveclojure.com/) - [elements](https://leanpub.com/elementsofclojure/read_sample) - [clojure](http://mishadoff.com/blog/clojure-design-patterns) - [by example](https://kimh.github.io/clojure-by-example)
+	- clojurescript: [unraveled](https://funcool.github.io/clojurescript-unraveled) - [transforming datat](http://langintro.com/cljsbook) - [learn](https://www.learn-clojurescript.com/)
+	- racket: [beautiful racket](https://beautifulracket.com) - [how to design programs](https://htdp.org)
