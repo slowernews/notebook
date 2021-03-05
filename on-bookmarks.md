@@ -2,8 +2,8 @@
 
 - Job boards: [nocsok](https://nocsok.com/) - [YC jobs](www.ycombinator.com/companies) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) 
 - Head hunting: [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
-- Poland: [PT/PL](http://ppcc.pl) - [wroclaw](https://www.monterail.com/careers) - [wroclaw 2](https://10clouds.com/careers)
 - Certifications: [AWS](https://aws.amazon.com/pt/certification/)
+- Poland: [PT/PL](http://ppcc.pl) - [wroclaw one](https://www.monterail.com/careers) and [two](https://10clouds.com/careers)
 
 # Business models - examples
 
@@ -15,11 +15,11 @@ Selling:
 - Real estate: [exclusive & good photos one](https://www.fantasticfrank.de/) and [two](https://www.themodernhouse.com/) - [private islands](http://www.vladi-private-islands.de/).
 - kits: [farm ](https://farmfromabox.com/) - [aframe one](https://avrame.com/) and [two](https://dubldom.com/eu) - [cabin one](https://buildcover.com/) and [two](https://www.kodasema.com/pt/).
 - Marketing packages: [brand + logo + domain package](https://www.brandbucket.com/) - [$495 logos](https://logo.pizza/).
-- Crowdsource graphics: [example one](https://www.crowdspring.com/), [two](https://draftss.com/) and [three](https://www.manypixels.co/).
+- Crowdsource graphics: [one](https://www.crowdspring.com/), [two](https://draftss.com/) and [three](https://www.manypixels.co/).
 - Services: [cleaning](https://www.maidsinblack.com/).
 - Accomodation renting: [long term](https://www.uniplaces.com/) - [student](https://www.studentville.pt/en).
-- Capital: [example one](https://shl.vc/), [two](https://www.generalcatalyst.com/) and [three](https://www.tinycapital.com/).
-- Consulting: [example one](https://hashref.com/), [two](https://roybarber.com/), [three](https://consulting.joreteg.com/) and [four](www.desktopneo.com) - [on real estate](https://www.zeonamcintyre.com/).
+- Capital: [one](https://shl.vc/), [two](https://www.generalcatalyst.com/) and [three](https://www.tinycapital.com/).
+- Consulting: [one](https://hashref.com/), [two](https://roybarber.com/), [three](https://consulting.joreteg.com/) and [four](www.desktopneo.com) - [on real estate](https://www.zeonamcintyre.com/).
 - Mailbox money: [printable place cards](https://www.placecard.me/).
 - Geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home).
 - Books: [mousebookclub](https://mousebookclub.com/).
@@ -29,7 +29,7 @@ Selling:
 
 - architectural competitions: [portugal](http://encomenda.oasrs.org/concursos) - [finland](https://www.safa.fi/en/architectural-competitions-in-finland/) - [slovenia](https://www.zaps.si/index.php?m_id=natecaji_aktualni) - [czech republic](https://cceamoba.cz/en)
 - models, drawings & textures: [archimodels](https://archimodels.tumblr.com/) - [archidrawings](https://archidrawings.tumblr.com/) - [modulor](https://www.modulor.de/en/) - [textureking](https://www.textureking.com/)
-- [10 principles for good design](https://www.vitsoe.com/gb/about/good-design) - [computer prototype](https://habr.com/en/post/437912/)
+- design: [10 principles](https://www.vitsoe.com/gb/about/good-design) - [computer prototype](https://habr.com/en/post/437912/)
 
 # Real estate
 
@@ -45,7 +45,7 @@ Selling:
 
 # Hobby horses
 
-- [music for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [musical time machine](https://radiooooo.com/) - [sounds](https://rainbowhunt.com/)
+- music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [musical time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
 - slow TV:  [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos) - [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/)
 - statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
 - game aggregators: [itch.io](https://itch.io/) - [boardgamearena](https://pt.boardgamearena.com/) - [playok](https://www.playok.com/)

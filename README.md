@@ -9,12 +9,6 @@ My half-baked notes on:
 - [polish language](on-polish-language.md) and learning methodology.
 - some [brains to pick](on-brains-to-pick.md), [cooking](on-cooking.md) and [trades](on-trades.md).
 
-Trail guides on:
+Trail guides on [self learn web development](trail-guide-web-development.md) and [self-publishing](trail-guide-self-publishing.md).
 
-- [self learn web development](trail-guide-web-development.md).
-- [self-publishing](trail-guide-self-publishing.md).
-
-Bookmarks on:
-
-- [basics of computer science](on-computer-science.md).
-- [assorted..](on-bookmarks.md)
+Bookmarks on [basics of computer science](on-computer-science.md) and [others](on-bookmarks.md).
