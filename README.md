@@ -1,4 +1,4 @@
-# Learning notes
+# Notebook
 
 My half-baked notes on:
 
