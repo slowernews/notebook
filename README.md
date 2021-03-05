@@ -10,4 +10,4 @@ My half-baked notes on:
 - some [brains to pick](on-brains-to-pick.md), [cooking](on-cooking.md) and [trades](on-trades.md).
 
 Trail guides on [self learn web development](trail-guide-web-development.md) and [self-publishing](trail-guide-self-publishing.md).  
-Bookmarks on [basics of computer science](on-computer-science.md) and [others](on-bookmarks.md).
+Tree shaked bookmarks on [basics of computer science](on-computer-science.md) and [more](on-bookmarks.md).

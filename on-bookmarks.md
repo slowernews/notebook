@@ -1,7 +1,5 @@
 # Business models - examples
 
-Selling:
-
 - Experiences: [the worst tours](https://theworsttours.weebly.com/) - [trekking guides](https://andrewskurka.com/) - [rent scenario](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant & bed](https://www.brushlandeatinghouse.com/) - [workaway](https://www.workaway.info/) - [rent cabins one](https://www.cabinscape.com/) and [two](https://getaway.house/) - [rent houses](https://www.silentliving.pt/).
 - Dreams (lifestyle): [nomadic one](https://www.nomadicmatt.com/), [two](https://sofianaaustralia.com/) and [three](https://craigmod.com/) - [cabinland](https://www.youtube.com/c/Cabinland/videos)
 - Research: [dense discovery](https://www.densediscovery.com/) - [exclusive](https://www.wowhaus.co.uk/) or [cheap houses one](https://www.instagram.com/cheapoldhouses/) and [two](https://www.instagram.com/cheapirishhouses/).
@@ -53,8 +51,8 @@ Selling:
 - chess: [tactics](https://www.chesstactics.org/) - [checkmatechamp](https://www.checkmatechamp.net/)
 - dungeon & dragons: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter)7
 
-# Hobby horses
+# Other hobby horses
 
 - music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
-- slow TV:  [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos) - [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/)
+- slow TV: [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/) - [norwegian trains](https://www.youtube.com/c/RailCowGirl/videos)
 - statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
