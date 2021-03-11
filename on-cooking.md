@@ -14,10 +14,16 @@
 
 #### Home oven pizza recipe
 
-- 250ml (yes ml) of flour (type 55 or 65) without self raising.  
-- 100ml of tepid water.  
+- 250ml (yes ml) of flour. Prefer type 65 and specially without self raising - You'll use live ferment. 
+- 100ml of tepid water. Prefer tepid water (~ 35 C) for a good environment for live ferment.
 - full coffee spoon of salt.  
 - 5 grams of live ferment.
+
+How to make it: Mix the tepid water with the ferment and salt in a bowl. only then pour the flour using a sieve (you don't want to crete a cement). Mix. Reserve it a hot place and wait 4 hours or more.
+
+How to bake it: Home oven with maximum temperature. Bake it near the oven bottom until half cooked. Take it out and put toppings. Finish baking it in middle of the oven.
+
+Results: Not restaurant quality but better that frozen pizza by far.
 
 ## Level up
 
