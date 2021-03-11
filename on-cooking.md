@@ -19,11 +19,11 @@
 - full coffee spoon of salt.  
 - 5 grams of live ferment.
 
-How to make it: Mix the tepid water with the ferment and salt in a bowl. only then pour the flour using a sieve (you don't want to crete a cement). Mix. Reserve it a hot place and wait 4 hours or more.
+Dough: Dissolve the ferment and salt in the water. Only then pour the flour using a sieve (you don't want to make cement). Mix. Reserve it in a hot (~30C) place and wait 4 hours or more.
 
-How to bake it: Home oven with maximum temperature. Bake it near the oven bottom until half cooked. Take it out and put toppings. Finish baking it in middle of the oven.
+Baking: Home oven with maximum temperature. Bake in the oven's bottom until half cooked. Take it out and put toppings. Finish baking it in the oven's middle.
 
-Results: Not restaurant quality but better that frozen pizza by far.
+Results: Better than frozen pizza. Guaranteed.
 
 ## Level up
 
