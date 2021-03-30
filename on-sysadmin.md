@@ -1,6 +1,8 @@
-# Notes on domain settings
+# Notes on Sysadmin
 
-## Github pages
+## Domain settings
+
+### Github pages
 
 - It seems to be preferable to use the *www* subdomain instead of the apex domain.
 - On your domain provider advanced DNS tab, set:
@@ -11,6 +13,8 @@
 		A record from @ to 185.199.111.153
 		CNAME from www to yourdomain.extension
 
-## Netlify
+## Linux distros
 
-## Tumblr
+- Mint (polished - 1G standby)
+- Manjaro (advanced / xfce - 750mb standby)
+- Lubuntu (fastest - 400MB standby)
