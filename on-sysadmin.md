@@ -15,6 +15,12 @@
 
 ## Linux distros
 
+Tested:
+
 - Mint (polished - 1G standby)
 - Manjaro (advanced / xfce - 750mb standby)
 - Lubuntu (fastest - 400MB standby)
+
+To test:
+
+- Ubuntu (gnome)

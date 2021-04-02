@@ -38,3 +38,9 @@ Why?
 ## Choosing a self publisher
 
 [Amazon](https://kdp.amazon.com/) to self publish paperbacks is the obvious choice.
+
+
+---
+## To investigate
+
+[Pollen](https://docs.racket-lang.org/pollen/) - A book is a (Racket Lisp) program.
