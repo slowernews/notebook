@@ -9,7 +9,7 @@ You should definitely pick these brains (alphabetic order):
 - Eric Weinstein
 - Evan Czaplicki
 - Jeff Bezos
-- Jordan Peterson - [Interview](https://www.youtube.com/watch?v=yZYQpge1W5s)
+- Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
 - Naval Ravikant
 - Paul Graham
 - Paulo Coelho
@@ -33,11 +33,3 @@ any females? Any non american?
 - Mario Puppo (illustrator)
 - Edward Tufte
 -->
-
-# Relevant sources
-
-- [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
-- [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com) 
-- [Goodreads](https://www.goodreads.com) - [Wikiart](https://www.wikiart.org)
-- [Less Wrong](https://www.lesswrong.com)
-- [Calvert Journal](https://calvertjournal.com)

@@ -1,3 +1,11 @@
+# Relevant info sources
+
+- [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
+- [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com) 
+- [Goodreads](https://www.goodreads.com) - [Wikiart](https://www.wikiart.org)
+- [Less Wrong](https://www.lesswrong.com)
+- [Calvert Journal](https://calvertjournal.com)
+
 # Business models - examples
 
 - Experiences: [the worst tours](https://theworsttours.weebly.com/) - [trekking guides](https://andrewskurka.com/) - [rent scenario](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant & bed](https://www.brushlandeatinghouse.com/) - [workaway](https://www.workaway.info/) - [rent cabins one](https://www.cabinscape.com/) and [two](https://getaway.house/) - [rent houses](https://www.silentliving.pt/).
@@ -35,12 +43,6 @@
 - [Preços habitação PT](https://www.idealista.pt/media/relatorios-preco-habitacao/) - [IVA 6% serviços imóveis p/ uso exclusivo hab](https://www.idealista.pt/news/financas/fiscalidade/2019/10/03/41051-iva-de-6-em-obras-apenas-para-imoveis-destinados-a-habitacao-esclarece-fisco)
 - [E-leilões](https://e-leiloes.pt/) - [como funciona](https://www.economias.pt/e-leiloes/)
 
-# Learn
-
-- [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
-- Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
-- Linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos)
-
 # Gaming
 
 - Game aggregators: [itch.io](https://itch.io/) - [boardgamearena](https://pt.boardgamearena.com/) - [playok](https://www.playok.com/)
@@ -54,5 +56,10 @@
 # Other hobby horses
 
 - Music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
-- Slow TV: [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos)
+- Slow TV: [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
+)
+- [Movies](https://www.openculture.com/freemoviesonline) and [Books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
+- [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
+- Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
+- Linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos)
