@@ -1,4 +1,4 @@
-# Relevant info sources
+# Info sources
 
 - [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com) 
@@ -58,7 +58,7 @@
 - Music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
 - Slow TV: [cities one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos), [two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos) and [three](https://www.youtube.com/c/keeezi/videos) - [japan one](https://www.youtube.com/c/Rambalac/videos) and [two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive and listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
 )
-- [Movies](https://www.openculture.com/freemoviesonline) and [Books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
+- Free [movies](https://www.openculture.com/freemoviesonline) and [books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
 - [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
