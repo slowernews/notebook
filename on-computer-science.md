@@ -32,10 +32,13 @@
 - Ruby: [for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [poignant guide](http://poignant.guide) - [shell scripting](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) - [http requests](https://www.twilio.com/blog/5-ways-make-http-requests-ruby) - [style guide](https://rubystyle.guide/)
 - Regex: [learn](https://github.com/ziishaned/learn-regex) - [for regular folk](https://refrf.shreyasminocha.me/) - [beyond](https://github.com/VerbalExpressions)
 - Maths: [functors, applicatives and monads](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - [calculus with derivatives](https://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html) - [matrices](https://www.dhruvonmath.com/2018/12/31/matrices/) - [modes, medians and means](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/) - [hexagonal grids](https://www.redblobgames.com/grids/hexagons/) - [3blue1brown](https://www.youtube.com/c/3blue1brown/videos) - [mathologer](https://www.youtube.com/c/Mathologer/videos) - [map of math](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
-- Documentation: [devdocs](https://devdocs.io/) - [mdn web docs](https://developer.mozilla.org/en-US/)
 - Other: [practical typography](https://practicaltypography.com) - [practical go](https://www.practical-go-lessons.com/) - [automate boring stuff with python](https://automatetheboringstuff.com) - [excel](https://www.youtube.com/watch?v=0nbkaYsR94c) - [sicp v1](https://github.com/sarabander/sicp) and [v2](https://github.com/ldct/isicp) - [xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html)
 
 ---
+
+## Documentation
+
+- [devdocs](https://devdocs.io/) - [mdn web docs](https://developer.mozilla.org/en-US/)
 
 ## Cheatsheets
 
