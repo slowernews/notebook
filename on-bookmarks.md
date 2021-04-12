@@ -26,7 +26,7 @@
 
 ## Career
 
-- Job boards: [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/)
+- Job boards: [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/)
 - Head hunting: [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
 - Certifications: [AWS](https://aws.amazon.com/pt/certification/)
 - Poland: [PT/PL](http://ppcc.pl) - [wroclaw one](https://www.monterail.com/careers) and [two](https://10clouds.com/careers)
@@ -60,6 +60,8 @@
 )
 - Free [movies](https://www.openculture.com/freemoviesonline) and [books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
+- Maps: [flightradar](https://www.flightradar24.com/) - [vesselfinder](https://www.vesselfinder.com/) - [marinetraffic](https://www.marinetraffic.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - [instantstreetview](https://www.instantstreetview.com/)
+- Geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com/)
 - [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
 - Linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos)
