@@ -24,6 +24,7 @@ You should definitely pick these brains (alphabetic order):
 - Warren Buffett
 
 <!--
+- Ausguste Escoffier
 - Rollo Tomassi
 - Milton Friedman
 - Mark Manson
@@ -32,4 +33,5 @@ any females? Any non american?
 - Pawel Kuczynski (illustrator)
 - Mario Puppo (illustrator)
 - Edward Tufte
+- sarah tavel (ex pinterest ceo)
 -->

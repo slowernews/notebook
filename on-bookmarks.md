@@ -1,10 +1,10 @@
 ## Info sources
 
 - [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
-- [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com) 
+- [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com)
 - [Goodreads](https://www.goodreads.com) - [Wikiart](https://www.wikiart.org)
 - [Less Wrong](https://www.lesswrong.com)
-- [Calvert Journal](https://calvertjournal.com)
+- [Politico Europe](https://www.politico.eu/) - [Calvert Journal](https://calvertjournal.com)
 
 ## Business models - examples
 
@@ -55,7 +55,7 @@
 ## Other hobby horses
 
 - Music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
-- Slow TV: cities [one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos)/[two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos)/[three](https://www.youtube.com/c/keeezi/videos) - japan [one](https://www.youtube.com/c/Rambalac/videos)/[two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [drive & listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
+- Slow TV: cities [one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos)/[two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos)/[three](https://www.youtube.com/c/keeezi/videos) - japan [one](https://www.youtube.com/c/Rambalac/videos)/[two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [travel remotely](https://travel-remotely.netlify.app/) - [drive & listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
 )
 - Free [movies](https://www.openculture.com/freemoviesonline)/[books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
