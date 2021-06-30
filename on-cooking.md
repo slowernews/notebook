@@ -36,6 +36,10 @@ Results: better than frozen pizza. Guaranteed.
 - [Cooking for engineers](http://www.cookingforengineers.com) - [Grim grains](https://grimgrains.com)
 - [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) - [Optimized cooking](https://web.archive.org/web/20170420110020/http://www.matthewwettergreen.com/2010/01/05/how-to-cook-like-an-engineer)
 
+## Signature dishes
+
+You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in you mind. People want to eat well and want to do it soon.
+
 <!--
 ## Appendix: my receipts
 

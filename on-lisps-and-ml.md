@@ -1,21 +1,16 @@
 # Haskell and Elm
 
-```haskell
--- HASKELL
+```elm
+-- ELM
 
--- common typeclasses
-Num; Floating, Integral				-- Int, Float / Integer, Double
-Eq; Ord, Enum, Bounded				-- equality, ordered, sequentially ordered (list ranges), limits
-Show, Read
-
-typicalAssigment :: Num
+typicalAssigment : Num
 typicalAssigment = 24				-- assigment is a like a function without arguments
 
-typicalFunction :: Num -> Num -> Num
+typicalFunction : Num -> Num -> Num
 typicalFunction x y = 2 * x + 2 * y		-- typical function with signature
 
-functionPatternMatching :: Integral -> Text	
-functionPatternMatching 1 = "one"		-- pattern matching works also with tuples
+functionPatternMatching :: Num -> String
+functionPatternMatching 1 = "one"
 functionPatternMatching 2 = "two"
 functionPatternMatching 3 = "three"
 functionPatternMatching x = "out of range"
