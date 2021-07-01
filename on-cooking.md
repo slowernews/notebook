@@ -38,7 +38,7 @@ Results: better than frozen pizza. Guaranteed.
 
 ## Signature dishes
 
-You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in you mind. People want to eat well and want to do it soon.
+You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
 
 <!--
 ## Appendix: my receipts
