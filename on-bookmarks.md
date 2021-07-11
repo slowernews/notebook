@@ -26,7 +26,7 @@
 
 ## Career
 
-- Job boards: [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/)
+- Job boards: [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/) - [sidejobs](https://sidequestjobs.com/)
 - Head hunting: [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
 - Certifications: [AWS](https://aws.amazon.com/pt/certification/)
 - Poland: [PT_PL](http://ppcc.pl) - wroclaw [one](https://www.monterail.com/careers)/[two](https://10clouds.com/careers)
@@ -59,7 +59,7 @@
 )
 - Free [movies](https://www.openculture.com/freemoviesonline)/[books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
-- Maps: [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/) - [flightradar](https://www.flightradar24.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - [instantstreetview](https://www.instantstreetview.com/)
+- Maps: [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/) - [flightradar](https://www.flightradar24.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/) - [gmaps area calculator](https://www.daftlogic.com/projects-google-maps-area-calculator-tool.htm#)
 - Geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com/)
 - [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)

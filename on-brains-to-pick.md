@@ -24,6 +24,7 @@ You should definitely pick these brains (alphabetic order):
 - Warren Buffett
 
 <!--
+- Nassin Taleb
 - Ausguste Escoffier
 - Rollo Tomassi
 - Milton Friedman
