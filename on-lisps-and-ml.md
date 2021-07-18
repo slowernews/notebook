@@ -15,7 +15,7 @@ functionPatternMatching 2 = "two"
 functionPatternMatching 3 = "three"
 functionPatternMatching x = "out of range"
 ```
-Relevant link: [elm news aggregator](https://elm-news.com/)
+Relevant elm links: [news aggregator](https://elm-news.com/) - [packages](https://korban.net/elm/catalog/)
 
 # Lisps
 

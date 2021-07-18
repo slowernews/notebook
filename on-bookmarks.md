@@ -41,6 +41,7 @@
 
 - By country: [AU](https://www.realestate.com.au/buy) - [BR](https://www.zapimoveis.com.br/) - [CZ](https://www.sreality.cz/) - [DE](https://www.immobilienscout24.de/) - [ES](https://www.idealista.com/) - [FI](https://www.etuovi.com/) - [GR](https://en.spitogatos.gr/) - [IT](https://www.idealista.it/) - [LT](https://www.remax.lt/) - [PL](https://www.otodom.pl/) - [PT](https://www.idealista.pt/) - [RU](https://www.cian.ru/) - [SE](https://www.hemnet.se/) - [UK](https://www.rightmove.co.uk/) - [other countries](https://www.similarweb.com/pt/top-websites/category/business-and-consumer-services/real-estate/)
 - [Preços habitação PT](https://www.idealista.pt/media/relatorios-preco-habitacao/) - [IVA 6% serviços imóveis p/ uso exclusivo hab](https://www.idealista.pt/news/financas/fiscalidade/2019/10/03/41051-iva-de-6-em-obras-apenas-para-imoveis-destinados-a-habitacao-esclarece-fisco) - [E-leilões](https://e-leiloes.pt/)/[como funciona](https://www.economias.pt/e-leiloes/)
+- [gmaps area calculator](https://www.daftlogic.com/projects-google-maps-area-calculator-tool.htm#)
 
 ## Gaming
 
@@ -59,7 +60,8 @@
 )
 - Free [movies](https://www.openculture.com/freemoviesonline)/[books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
-- Maps: [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/) - [flightradar](https://www.flightradar24.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/) - [gmaps area calculator](https://www.daftlogic.com/projects-google-maps-area-calculator-tool.htm#)
+- Maps: [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/) - [flightradar](https://www.flightradar24.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
+- TRavel: [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
 - Geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com/)
 - [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
