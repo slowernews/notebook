@@ -2,6 +2,9 @@
 
 My half-baked notes on:
 
+[ver nota][1]
+outra nota[^2]
+
 - [javascript](on-native-methods-tricks-quirks.js), [DOM](on-js-dom-html-css.html), [frontend](on-js-frontend-frameworks.js) and [chrome extensions](on-extensions-chrome.js).
 - [ruby](on-native-methods-tricks-quirks.rb) and [sketchup extensions](on-extensions-sketchup.md).
 - [lisps and ML](on-lisps-and-ml.md).
@@ -11,3 +14,6 @@ My half-baked notes on:
 
 Trail guides on [self learn web development](trail-guide-web-development.md) and [self-publishing](trail-guide-self-publishing.md).  
 Tree shaked bookmarks on [basics of computer science](on-computer-science.md) and [more](on-bookmarks.md).
+
+[1]: uma nota
+[^2]
