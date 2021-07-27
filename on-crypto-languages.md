@@ -2,9 +2,10 @@
 
 | cryptocurrency 				| core language 				| smart contracts language				|
 | :-- 						| :-: 						| :-: 							|
+| [bitcoin](https://github.com/bitcoin/bitcoin) | c++
 | [ethereum](https://github.com/ethereum/)	| [go](https://github.com/ethereum/go-ethereum)	| [solidity](https://github.com/ethereum/solidity)	|
 | [chainlink](https://github.com/smartcontractkit) | [go](https://github.com/smartcontractkit/chainlink) |
-| [polygon](https://github.com/maticnetwork)	| [go](https://github.com/maticnetwork/bor)
+| [polygon](https://github.com/maticnetwork)	| [go](https://github.com/maticnetwork/bor) | solidity |
 | [chia](https://github.com/Chia-Network/)	| [python](https://github.com/Chia-Network/chia-blockchain) / c++ | [chia lisp](https://chialisp.com/)	|
 | [polkadot](https://github.com/paritytech/) 	| [rust](https://github.com/paritytech/polkadot) | [ink](https://github.com/paritytech/ink) (rust) 	|
 | [solana](https://github.com/solana-labs)	| [rust](https://github.com/solana-labs/solana)	| rust							|
