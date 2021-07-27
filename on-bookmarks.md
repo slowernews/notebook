@@ -55,7 +55,7 @@
 
 ## Other hobby horses
 
-- Music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/) - [nature sounds](https://rainbowhunt.com/)
+- Music: [for programming](https://musicforprogramming.net/) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com/)  - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat/) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com/)
 - Slow TV: cities [one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos)/[two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos)/[three](https://www.youtube.com/c/keeezi/videos) - japan [one](https://www.youtube.com/c/Rambalac/videos)/[two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [travel remotely](https://travel-remotely.netlify.app/) - [drive & listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
 )
 - Free [movies](https://www.openculture.com/freemoviesonline)/[books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
