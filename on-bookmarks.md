@@ -2,7 +2,7 @@
 
 - [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com)
-- [Goodreads](https://www.goodreads.com) - [Wikiart](https://www.wikiart.org)
+- [Goodreads](https://www.goodreads.com) - [Wikiart](https://www.wikiart.org) - [Core77](https://www.core77.com)
 - [Less Wrong](https://www.lesswrong.com)
 - [Politico Europe](https://www.politico.eu/) - [Calvert Journal](https://calvertjournal.com)
 
