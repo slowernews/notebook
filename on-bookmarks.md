@@ -2,9 +2,9 @@
 
 - [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com)
-- [Goodreads](https://www.goodreads.com) - [Wikiart](https://www.wikiart.org) - [Core77](https://www.core77.com)
-- [Less Wrong](https://www.lesswrong.com)
-- [Politico Europe](https://www.politico.eu/) - [Calvert Journal](https://calvertjournal.com)
+- [Politico Europe](https://www.politico.eu/) - [Foreign Affairs](https://www.foreignaffairs.com)
+- - [Wikiart](https://www.wikiart.org) - [Core77](https://www.core77.com) - [Divisare](https://divisare.com/) - [Calvert Journal](https://calvertjournal.com)
+- [Goodreads](https://www.goodreads.com) - [Less Wrong](https://www.lesswrong.com)
 
 ## Business models - examples
 
@@ -61,7 +61,7 @@
 - Free [movies](https://www.openculture.com/freemoviesonline)/[books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
 - Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
 - Maps: [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/) - [flightradar](https://www.flightradar24.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
-- TRavel: [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
+- Travel: [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
 - Geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com/)
 - [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
