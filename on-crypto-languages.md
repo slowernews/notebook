@@ -1,12 +1,12 @@
 ## Crypto Languages
 
-| cryptocurrency 				| core language 				| dapp language				|
+| cryptocurrency 				| core language 				| dapp language						|
 | :-- 						| :-: 						| :-: 							|
 | [bitcoin](https://github.com/bitcoin/bitcoin) | c++
 | [chia](https://github.com/Chia-Network/)	| [python](https://github.com/Chia-Network/chia-blockchain) / c++ | [chia lisp](https://chialisp.com/)	|
 | [ethereum](https://github.com/ethereum/)	| [go](https://github.com/ethereum/go-ethereum)	| [solidity](https://github.com/ethereum/solidity)	|
-| [chainlink](https://github.com/smartcontractkit) | [go](https://github.com/smartcontractkit/chainlink) |
-| [polygon](https://github.com/maticnetwork)	| [go](https://github.com/maticnetwork/bor) | solidity |
+| [chainlink](https://github.com/smartcontractkit) | [go](https://github.com/smartcontractkit/chainlink) | solidity					|
+| [polygon](https://github.com/maticnetwork)	| [go](https://github.com/maticnetwork/bor) 	| solidity 						|
 | [iotex](https://github.com/iotexproject) | go |
 | [flow](https://github.com/onflow) | go | cadence |
 | [polkadot](https://github.com/paritytech/) 	| [rust](https://github.com/paritytech/polkadot) | [ink](https://github.com/paritytech/ink) (rust) 	|
