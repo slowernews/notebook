@@ -1,9 +1,9 @@
 ## Info sources
 
-- [Hacker News](https://news.ycombinator.com/) - [Lobsters](https://lobste.rs/)
+- [Hacker News](https://news.ycombinator.com/) / [PaperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com)
 - [Politico Europe](https://www.politico.eu/) - [Foreign Affairs](https://www.foreignaffairs.com)
-- [Wikiart](https://www.wikiart.org) - [Core77](https://www.core77.com) - [Divisare](https://divisare.com/) - [Calvert Journal](https://calvertjournal.com) - [TheDesignFiles](https://thedesignfiles.net/)
+- [Wikiart](https://www.wikiart.org) - [Core77](https://www.core77.com) - [Divisare](https://divisare.com/) - [Calvert Journal](https://calvertjournal.com) - [TheDesignFiles](https://thedesignfiles.net/) - [LandBook](https://land-book.com/)
 - [Goodreads](https://www.goodreads.com) - [Less Wrong](https://www.lesswrong.com) - [Quanta Magazine](https://www.quantamagazine.org/)
 
 ## Business models - examples

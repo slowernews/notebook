@@ -1,3 +1,7 @@
+# On crypto
+
+- [liveCoinWatch](https://www.livecoinwatch.com/) - [coinMarketCap](https://coinmarketcap.com/) / [earn](https://coinmarketcap.com/earn)
+
 ## Crypto Languages
 
 | cryptocurrency 				| core language 				| dapp language						|

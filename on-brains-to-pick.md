@@ -1,6 +1,6 @@
 # Brains to pick
 
-You should definitely pick these brains (alphabetic order):
+(alphabetic order):
 
 - Charlie Munger
 - David Allen
@@ -10,7 +10,8 @@ You should definitely pick these brains (alphabetic order):
 - Evan Czaplicki
 - Jeff Bezos
 - Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
-- Naval Ravikant
+- [Naval Ravikant](https://twitter.com/naval)
+- [Nassim Taleb](https://twitter.com/nntaleb)
 - Paul Graham
 - Paulo Coelho
 - Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
