@@ -21,3 +21,4 @@
 | [tron](https://github.com/tronprotocol) | [java](https://github.com/tronprotocol/java-tron) | solidity |
 | [helium](https://github.com/helium) | erlang
 | [sushiswap](https://github.com/sushiswap) | solidity / typescript |
+| [mina protocol](https://github.com/MinaProtocol/mina) | ocaml

@@ -1,6 +1,6 @@
 ## Info sources
 
-- [Hacker News](https://news.ycombinator.com/) / [PaperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [Lobsters](https://lobste.rs/)
+- [Hacker News](https://news.ycombinator.com/) / [PaperHN](https://www.wolfgangfaust.com/project/paper-hn/) / [HNfeeds](https://hnrss.github.io/) - [Lobsters](https://lobste.rs/)
 - [Economist](https://economist.com) - [Allsides](https://www.allsides.com/) - [The Atlantic](https://www.theatlantic.com) - [Aeon](https://aeon.co) - [Tortoise](https://www.tortoisemedia.com)
 - [Politico Europe](https://www.politico.eu/) - [Foreign Affairs](https://www.foreignaffairs.com)
 - [Wikiart](https://www.wikiart.org) - [Core77](https://www.core77.com) - [Divisare](https://divisare.com/) - [Calvert Journal](https://calvertjournal.com) - [TheDesignFiles](https://thedesignfiles.net/) - [LandBook](https://land-book.com/)
@@ -18,7 +18,7 @@
 - Services: [cleaning](https://www.maidsinblack.com/)
 - Accomodation renting: [long term](https://www.uniplaces.com/) - [student](https://www.studentville.pt/en)
 - Capital: [one](https://shl.vc/)/[two](https://www.generalcatalyst.com/)/[three](https://www.tinycapital.com/)
-- Consulting: [one](https://hashref.com/)/[two](https://roybarber.com/)/[three](https://consulting.joreteg.com/)/[four](www.desktopneo.com) - [on real estate](https://www.zeonamcintyre.com/)
+- Consulting: [one](https://hashref.com/)/[two](https://roybarber.com/)/[three](https://consulting.joreteg.com/)/[four](https://desktopneo.com) - [on real estate](https://www.zeonamcintyre.com/)
 - Mailbox money: [printable place cards](https://www.placecard.me/)
 - Geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
 - Books: [mousebookclub](https://mousebookclub.com/)
