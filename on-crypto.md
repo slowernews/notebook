@@ -1,13 +1,14 @@
 # On crypto
 
-- [liveCoinWatch](https://www.livecoinwatch.com/) - [coinMarketCap earn](https://coinmarketcap.com/earn)
+- [liveCoinWatch](https://www.livecoinwatch.com/) - [withdrawal fees](https://withdrawalfees.com/) - [major indexs](https://pt.tradingeconomics.com/stocks)
 
 ## Crypto Languages
 
 | cryptocurrency 				| core language 				| dapp language						|
 | :-- 						| :-: 						| :-: 							|
 | [bitcoin](https://github.com/bitcoin/bitcoin) | c++
-| [chia](https://github.com/Chia-Network/) | [python](https://github.com/Chia-Network/chia-blockchain) / c++ | [chia lisp](https://chialisp.com/)
+| [nano](https://github.com/nanocurrency) | c++
+| [chia](https://github.com/Chia-Network/) | c++ / [python](https://github.com/Chia-Network/chia-blockchain) | [chia lisp](https://chialisp.com/)
 | [ethereum](https://github.com/ethereum/) | [go](https://github.com/ethereum/go-ethereum) | [solidity](https://github.com/ethereum/solidity)
 | [chainlink](https://github.com/smartcontractkit) | [go](https://github.com/smartcontractkit/chainlink) | solidity
 | [polygon](https://github.com/maticnetwork) | [go](https://github.com/maticnetwork/bor) | solidity

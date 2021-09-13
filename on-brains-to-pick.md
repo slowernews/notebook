@@ -4,12 +4,13 @@
 
 - Charlie Munger
 - David Allen
+- [David Deutsch](https://twitter.com/DavidDeutschOxf)
 - Derek Sivers
 - Elon Musk
 - Eric Weinstein
 - Evan Czaplicki
 - Jeff Bezos
-- Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
+- [Jordan Peterson](https://twitter.com/jordanbpeterson) - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
 - [Naval Ravikant](https://twitter.com/naval)
 - [Nassim Taleb](https://twitter.com/nntaleb)
 - Paul Graham
@@ -25,7 +26,6 @@
 - Warren Buffett
 
 <!--
-- Nassin Taleb
 - Ausguste Escoffier
 - Rollo Tomassi
 - Milton Friedman
