@@ -1,6 +1,6 @@
 # On crypto
 
-- [liveCoinWatch](https://www.livecoinwatch.com/) - [withdrawal fees](https://withdrawalfees.com/) - [major indexs](https://pt.tradingeconomics.com/stocks)
+- [ATH](https://www.livecoinwatch.com/) - [TVL](https://defillama.com/chains) - [withdrawal fees](https://withdrawalfees.com/) - [stock indexes](https://pt.tradingeconomics.com/stocks)
 
 ## Crypto Languages
 
@@ -24,5 +24,7 @@
 | [cardano](https://github.com/input-output-hk)	| [haskell](https://github.com/input-output-hk/cardano-node)| [plutus](https://github.com/input-output-hk/plutus) (haskell)
 | [mina protocol](https://github.com/MinaProtocol/mina) | ocaml
 | [helium](https://github.com/helium) | erlang
+| [omg network](https://github.com/omgnetwork) | elixir
 | [tron](https://github.com/tronprotocol) | [java](https://github.com/tronprotocol/java-tron) | solidity
+| [district0x](https://github.com/district0x) | clojure
 | [sushiswap](https://github.com/sushiswap) | solidity / typescript
