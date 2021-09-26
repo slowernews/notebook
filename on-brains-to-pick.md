@@ -4,15 +4,15 @@
 
 - Charlie Munger
 - David Allen
-- [David Deutsch](https://nitter.net/DavidDeutschOxf)
+- [David Deutsch](https://twitter.com/DavidDeutschOxf)
 - Derek Sivers
 - Elon Musk
 - Eric Weinstein
 - Evan Czaplicki
 - Jeff Bezos
-- [Jordan Peterson](https://nitter.net/jordanbpeterson) - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
-- [Naval Ravikant](https://nitter.net/naval)
-- [Nassim Taleb](https://nitter.net/nntaleb)
+- [Jordan Peterson](https://twitter.com/jordanbpeterson) - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
+- [Naval Ravikant](https://twitter.com/naval)
+- [Nassim Taleb](https://twitter.com/nntaleb)
 - Paul Graham
 - Paulo Coelho
 - Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
