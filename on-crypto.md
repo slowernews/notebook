@@ -2,11 +2,8 @@
 
 - [ATH](https://www.livecoinwatch.com/) - [TVL](https://defillama.com/chains) - [withdrawal fees](https://withdrawalfees.com/) - [stock indexes](https://pt.tradingeconomics.com/stocks)
 
-## Main and [smart contract] languages of crypto projects
+## Main and [contract] languages in crypto projects
 
-- c++:
-	- [bitcoin](https://github.com/bitcoin/bitcoin)
-	- [nano](https://github.com/nanocurrency)
 - go:
 	- [ethereum](https://github.com/ethereum/) [solidity]
 	- [polygon](https://github.com/maticnetwork) [solidity]
@@ -24,6 +21,9 @@
 	- [near](https://github.com/near) [EVM]
 	- [nervos](https://github.com/nervosnetwork) [EVM]
 	- [stacks](https://github.com/blockstack) [clarity lisp]
+- c++:
+	- [bitcoin](https://github.com/bitcoin/bitcoin)
+	- [nano](https://github.com/nanocurrency)
 - java:
 	- [tron](https://github.com/tronprotocol) [solidity]
 	- hedera [solidity]
