@@ -2,18 +2,18 @@
 
 - [ATH](https://www.livecoinwatch.com/) - [TVL](https://defillama.com/chains) - [withdrawal fees](https://withdrawalfees.com/) - [stock indexes](https://pt.tradingeconomics.com/stocks)
 
-## Main and [smart contract] crypto languages
+## Main and [smart contract] languages of crypto projects
 
 - c++:
 	- [bitcoin](https://github.com/bitcoin/bitcoin)
 	- [nano](https://github.com/nanocurrency)
 - go:
-	- [ethereum](https://github.com/ethereum/)
-	- [polygon](https://github.com/maticnetwork)
-	- [chainlink](https://github.com/smartcontractkit)
-	- [avalanche](https://github.com/ava-labs)
-	- [celer](https://github.com/celer-network)
-	- [omg](https://github.com/omgnetwork) [solidity or EVM]
+	- [ethereum](https://github.com/ethereum/) [solidity]
+	- [polygon](https://github.com/maticnetwork) [solidity]
+	- [chainlink](https://github.com/smartcontractkit) [solidity]
+	- [avalanche](https://github.com/ava-labs) [solidity]
+	- [celer](https://github.com/celer-network) [EVM]
+	- [omg](https://github.com/omgnetwork) [EVM]
 	- [terra](https://github.com/terra-money) [cosmwasm]
 	- [flow](https://github.com/onflow) [cadence]
 	- [cosmos](https://github.com/cosmos)
@@ -24,17 +24,17 @@
 	- [near](https://github.com/near) [EVM]
 	- [nervos](https://github.com/nervosnetwork) [EVM]
 	- [stacks](https://github.com/blockstack) [clarity lisp]
-- haskell:
-	- [cardano](https://github.com/input-output-hk) [[plutus](https://github.com/input-output-hk/plutus)]
+- java:
+	- [tron](https://github.com/tronprotocol) [solidity]
+	- hedera [solidity]
 - ocaml:
 	- [mina protocol](https://github.com/MinaProtocol/mina)
 	- [tezos]()
+- haskell:
+	- [cardano](https://github.com/input-output-hk) [[plutus](https://github.com/input-output-hk/plutus)]
 - erlang:
 	- [helium](https://github.com/helium)
 - clojure:
 	- [district0x](https://github.com/district0x)
-- java:
-	- [tron](https://github.com/tronprotocol) [solidity]
-	- hedera [solidity]
 - python:
 	- [chia](https://github.com/Chia-Network/) [[chia lisp](https://chialisp.com/)]
