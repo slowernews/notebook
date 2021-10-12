@@ -17,7 +17,7 @@
 - Javascript: [runJS](https://runjs.app/) - [questions](https://github.com/lydiahallie/javascript-questions) - [1LOC](https://1loc.dev/) - [prettier](https://prettier.io/playground/)
 - Python: [rhonny](https://thonny.org/) - [snakify](https://snakify.org/pt/)
 - Regex: [101](https://regex101.com) - [regexr](https://regexr.com/) - [rubular](https://rubular.com/) - [crosswords](http://regexcrossword.com)
-- SQL: [SQLPD](https://sqlpd.com/)
+- SQL: [SQLPD](https://sqlpd.com/) - [sqlime](https://sqlime.org/)
 
 ### Level up
 

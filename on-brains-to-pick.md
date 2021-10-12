@@ -23,6 +23,7 @@
 - Stephen Wolfram
 - Tim Ferriss
 - Tim Urban
+- Vitalik Buterin
 - Warren Buffett
 
 <!--
@@ -35,5 +36,5 @@ any females? Any non american?
 - Pawel Kuczynski (illustrator)
 - Mario Puppo (illustrator)
 - Edward Tufte
-- sarah tavel (ex pinterest ceo)
+- Sarah Tavel (ex pinterest ceo)
 -->

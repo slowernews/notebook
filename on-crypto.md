@@ -6,25 +6,21 @@
 
 | cryptocurrency 				| core language 				| dapp language						|
 | :-- 						| :-: 						| :-: 							|
-| [bitcoin](https://github.com/bitcoin/bitcoin) | c++
-| [nano](https://github.com/nanocurrency) | c++
+| [bitcoin](https://github.com/bitcoin/bitcoin), [nano](https://github.com/nanocurrency) | c++
 | [chia](https://github.com/Chia-Network/) | c++ / [python](https://github.com/Chia-Network/chia-blockchain) | [chia lisp](https://chialisp.com/)
-| [ethereum](https://github.com/ethereum/) | [go](https://github.com/ethereum/go-ethereum) | [solidity](https://github.com/ethereum/solidity)
-| [chainlink](https://github.com/smartcontractkit) | [go](https://github.com/smartcontractkit/chainlink) | solidity
-| [polygon](https://github.com/maticnetwork) | [go](https://github.com/maticnetwork/bor) | solidity
-| [avalanche](https://github.com/ava-labs) | go | solidity
+| [ethereum](https://github.com/ethereum/), [polygon](https://github.com/maticnetwork), [chainlink](https://github.com/smartcontractkit), [avalanche](https://github.com/ava-labs), [celer network](https://github.com/celer-network) | go | solidity
 | [flow](https://github.com/onflow) | go | cadence
-| [cosmos/atom](https://github.com/cosmos) | go | go
+| [omg network](https://github.com/omgnetwork) | go | EVM
+| [cosmos/atom](https://github.com/cosmos) | go
 | [terra/luna](https://github.com/terra-money) | go | cosmwasm (rust / go / assemblyscript)
-| [near](https://github.com/near) | rust | rust / assemblyscript
-| [polkadot](https://github.com/paritytech/) | [rust](https://github.com/paritytech/polkadot) | [ink](https://github.com/paritytech/ink) (rust)
 | [solana](https://github.com/solana-labs) | [rust](https://github.com/solana-labs/solana) | rust
-| [internet computer](https://github.com/dfinity) | [rust](https://github.com/dfinity/ic) | rust / [motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html) (ocaml)
+| [near](https://github.com/near), [nervos network](https://github.com/nervosnetwork)  | rust | EVM
+| [polkadot](https://github.com/paritytech/) | rust | [ink](https://github.com/paritytech/ink) (rust)
+| [internet computer](https://github.com/dfinity) | rust | rust / [motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html) (ocaml)
 | [stacks](https://github.com/blockstack) | rust | clarity lisp (rust)
 | [cardano](https://github.com/input-output-hk)	| [haskell](https://github.com/input-output-hk/cardano-node)| [plutus](https://github.com/input-output-hk/plutus) (haskell)
-| [mina protocol](https://github.com/MinaProtocol/mina) | ocaml
+| [mina protocol](https://github.com/MinaProtocol/mina), [tezos]() | ocaml
 | [helium](https://github.com/helium) | erlang
-| [omg network](https://github.com/omgnetwork) | elixir
-| [tron](https://github.com/tronprotocol) | [java](https://github.com/tronprotocol/java-tron) | solidity
 | [district0x](https://github.com/district0x) | clojure
-| [sushiswap](https://github.com/sushiswap) | solidity / typescript
+| [tron](https://github.com/tronprotocol), hedera? | [java](https://github.com/tronprotocol/java-tron) | solidity
+| [sushiswap](https://github.com/sushiswap) | solidity
