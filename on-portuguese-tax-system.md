@@ -178,7 +178,7 @@
 			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
-	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas que insira *manualmente* na AT (em caso de falha do comerciante).
+	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
 - Quando?
 	- De 1 de abril a 30 de junho de 2019 (IRS 2019).
 	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações. [Algumas notas sobre o seu preenchimento](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
