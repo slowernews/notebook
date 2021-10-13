@@ -1,25 +1,25 @@
-# On digital tools I use and relevant alternatives
+# On digital tools I use and alternatives
 
 
-| function | tool I use | alternatives I might use  |
+| function | tool I use | alternatives I used and/or may use someday |
 | --- | --- | --- |
 | os | WIN7 |lubuntu
 | antivirus | AVAST
 | launcher/file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
-| web browser | BRAVE, FFDEV, SAFARI | Google
+| web browser | BRAVE, FFDEV, SAFARI | chrome
 | mail | GMAIL / PROTONMAIL | tutanota, ctemplar
 | cloud | GDRIVE | 
 | search | PRESEARCH | qwant, google, startpage, ddg
 | calc | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
-| accounting | EXCEL2010 / FACTURAMA | www.ledger-cli.org, https://hledger.org, https://awesome-beancount.com, https://prudent.me
-| presentations | | prezi, mdx (markdown), https://mark.show
-| flowcharts | | https://app.diagrams.net, www.viz-js.com, https://excalidraw.com
-| chat | SIGNAL | whatsapp-fb_messenger-skype-slack-zoom https://delta.chat/en/
-| proj management | TRELLO | www.notion.so, https://personalkanban.js.org, www.manifest.app, treesheets
-| time management | | www.magicworkcycle.com
-| form + mail lists | | gdocs, www.poll-maker.com, www.formking.io, https://mailchimp.com
-| automate | | ifttt-ahk, https://nimbletext.com, https://blaze.today
+| accounting | EXCEL2010 / FACTURAMA | plain text ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
+| presentations | | https://mark.show, mdx (markdown), prezi
+| flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), www.viz-js.com
+| chat | SIGNAL | whatsapp, fb_messenger, skype, slack, zoom
+| proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets
+| time management | | http://www.magicworkcycle.com
+| form + mail lists | | gdocs, [poll-maker](https://www.poll-maker.com), [formking](https://www.formking.io), [mailchimp](https://mailchimp.com)
+| automate | | ifttt, ahk, [nimble text](https://nimbletext.com), [blaze](https://blaze.today)
 | level up | | www.descript.com, https://payymail.com, www.etools.ch
 | srs | ANKI2.0 | supermemo-readlang-memrise
 | moocs | | https://classcentral.com, https://docs.microsoft.com/en-us/learn, https://elementsofai.com
