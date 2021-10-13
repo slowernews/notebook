@@ -63,29 +63,29 @@
 | --- | --- | --- |
 | music player | YOUTUBE | spotify, 1by1
 | learn music | | lilybin, hacklily, abcjs, https://learningmusic.ableton.com, https://lmms.io
-| torrents | | utorrent
-| tumblr tags | | https://tags.circumfluo.us |
-| translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
 | ebook reader | | www.loudreader.com
 | hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org
 | reddit reader | | https://teddit.net, https://unim.press/|chia
 | feeds | FEEDLY | https://usepanda.com, https://waldenpond.press
+| torrents | | utorrent
+| tumblr tags | | https://tags.circumfluo.us |
+| translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
 | crypto | COINGECKO / COINMARKETCAP |
 | fintech | PAYPAL / REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
 | crowdfunding | | kickstarter, indiegogo, seedrs
-| shopping | [wirecutter](https://www.nytimes.com/wirecutter), [tropical price](https://tropicalprice.com)
+| shopping | | [wirecutter](https://www.nytimes.com/wirecutter), [tropical price](https://tropicalprice.com)
 | booking | AIRBNB/BOOKING.COM | www.housetrip.com
 | flights | SKYSCANNER | www.google.com/flights, www.kiwi.com, https://scottscheapflights.com
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
 | osm | | https://osm-in-realtime.jwestman.net, https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete
 | geography and maps | | https://trailrouter.com
 
-### arch
+### graphics
 
 | function | tool I use | alternatives I used and/or may use someday |
 | --- | --- | --- |
-| image collection | LOCAL / PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
-| raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
-| pixel art | | www.aseprite.org, https://isometricmaps.com
-| cad | AUTOCAD2012 [lisp] |  archicad18 [140k-gdl], www.freecadweb.org [py]
+| cad | AUTOCAD2012 [lisp] |  archicad [gdl], www.freecadweb.org [py]
 | 3d / render | SKETCHUP17 [rb2.2] | revit, blender[py], vray
+| raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
+| image collection | LOCAL / PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
+| pixel art | | www.aseprite.org, https://isometricmaps.com
