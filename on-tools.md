@@ -13,7 +13,7 @@
 | search | PRESEARCH | qwant, [etools](https://www.etools.ch), google, startpage, ddg
 | calc | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
-| accounting | EXCEL2010 / FACTURAMA | plain text ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
+| accounting | EXCEL2010 / FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 | presentations | | https://mark.show, mdx (markdown), prezi
 | flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), http://viz-js.com/
 | proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets
@@ -27,19 +27,19 @@
 | text editor | SUBLIME3 | vscode, atom, emacs, neovim, textadept, emeditor, [ellx](https://ellx.io), [mesh spreadsheet](http://mesh-spreadsheet.com)
 | snippets / cloud editor | | gitpod, pastebin-glot.io-ideone-gist-observablehq, jsfiddle https://repl.it
 | markdown/latex editor | | https://typora.io, www.overleaf.com
-| writing | WORD/EXCEL2010 | scrivener-zotero, www.hemingwayapp.com, https://epub.to
+| writing | WORD2010 / EXCEL2010 | scrivener-zotero, www.hemingwayapp.com, https://epub.to
 | monospace font| CONSOLAS  | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode
 | sans serif font | ARIAL NARROW | https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com
 | fonts | | https://fonts.google.com, www.myfonts.com/WhatTheFont
 | terminal | CONEMU | vscode-hyper.is
-| repl | | svelte? node-python-ruby_crystal
+| repl | | node, python, ruby, janet
 | db | | https://dbeaver.io, https://franchise.cloud
 | docs + autocompleters | | https://zealdocs.org, www.kite.com, https://tabnine.com
 | domains + whois tools | NAMECHEAP | https://whois.domaintools.com
-| domain naming | http://impossibility.org, https://domainr.com, www.bustaname.com, www.leandomainsearch.com
-| analytics | GOATCOUNTER | www.netlify.com/products/analytics, https://search.google.com/search-console/about, counter.dev
-| ads | https://carbonads.net, https://www.buysellads.com, http://upstart.me/search/index.php
-| apis | https://github.com/public-apis/public-apis, www.twilio.com, https://trolley.link
+| domain naming | | http://impossibility.org, https://domainr.com, www.bustaname.com, www.leandomainsearch.com
+| analytics | GOATCOUNTER | [counter.dev](https://counter.dev)
+| ads | | https://carbonads.net, https://www.buysellads.com, http://upstart.me/search/index.php
+| apis | | https://github.com/public-apis/public-apis, www.twilio.com, https://trolley.link
 | cms+hosting | TUMBLR | www.bigcartel.com, shopify, squarespace-wix-weebly, 
 | static+hosting | NETLIFY | github, https://vercel.com, https://jamstack.org/generators
 | app hosting | | firebase, https://cloud.google.com/appengine, https://glitch.com
@@ -61,10 +61,10 @@
 | hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org
 | reddit reader | | https://teddit.net, https://unim.press/|chia
 | feeds | FEEDLY | https://usepanda.com, https://waldenpond.press
-| blockchain | BINANCE/COINBASE | kraken[cryptowatch]-coinmarketcap-coingecko, https://changelly.com
-| fintech | REVOLUT/PAYPAL | https://n26.com, https://www.moey.pt, www.degiro.pt
-| crowdfunding | | kickstarter-indiegogo-seedrs
-| shopping | https://www.nytimes.com/wirecutter, https://tropicalprice.com, www.dx.com/pt
+| crypto | COINGECKO / COINMARKETCAP |
+| fintech | PAYPAL / REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
+| crowdfunding | | kickstarter, indiegogo, seedrs
+| shopping | [wirecutter](https://www.nytimes.com/wirecutter), [tropical price](https://tropicalprice.com)
 | booking | AIRBNB/BOOKING.COM | www.housetrip.com
 | flights | SKYSCANNER | www.google.com/flights, www.kiwi.com, https://scottscheapflights.com
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
