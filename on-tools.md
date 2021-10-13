@@ -1,6 +1,6 @@
 # On digital tools I use and alternatives
 
-## Generalist tools
+### generalist
 
 | function | tool I use | alternatives I used and/or may use someday |
 | --- | --- | --- |
@@ -16,7 +16,7 @@
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
 | accounting | EXCEL2010 / FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 
-## Office Tools
+### office
 
 | function | tool I use | alternatives I used and/or may use someday |
 | --- | --- | --- |
@@ -35,6 +35,11 @@
 | markdown/latex editor | | https://typora.io, www.overleaf.com
 | writing | WORD2010 / EXCEL2010 | scrivener-zotero, www.hemingwayapp.com, https://epub.to
 | fonts | CONSOLAS / ARIAL NARROW | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode, https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com, https://fonts.google.com, www.myfonts.com/WhatTheFont
+
+### dev
+
+| function | tool I use | alternatives I used and/or may use someday |
+| --- | --- | --- |
 | terminal | CONEMU | vscode-hyper.is
 | repl | | node, python, ruby, janet
 | db | | https://dbeaver.io, https://franchise.cloud
@@ -52,13 +57,10 @@
 | colors | | https://colourco.de, https://uigradients.com, https://bradjasper.com/subtle-patterns-bookmarklet, www.colorbox.io
 | ux design | | figma-moqups-marvelapp-framer-penpot.app [mac |sketch-kiteapp-paintcodeapp]
 
-### Arch tools
+### hobby
 
-| image collection | LOCAL / PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
-| raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
-| pixel art | | www.aseprite.org, https://isometricmaps.com
-| cad | AUTOCAD2012 [lisp] |  archicad18 [140k-gdl], www.freecadweb.org [py]
-| 3d / render | SKETCHUP17 [rb2.2] | revit, blender[py], vray
+| function | tool I use | alternatives I used and/or may use someday |
+| --- | --- | --- |
 | music player | YOUTUBE | spotify, 1by1
 | learn music | | lilybin, hacklily, abcjs, https://learningmusic.ableton.com, https://lmms.io
 | torrents | | utorrent
@@ -77,3 +79,13 @@
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
 | osm | | https://osm-in-realtime.jwestman.net, https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete
 | geography and maps | | https://trailrouter.com
+
+### arch
+
+| function | tool I use | alternatives I used and/or may use someday |
+| --- | --- | --- |
+| image collection | LOCAL / PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
+| raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
+| pixel art | | www.aseprite.org, https://isometricmaps.com
+| cad | AUTOCAD2012 [lisp] |  archicad18 [140k-gdl], www.freecadweb.org [py]
+| 3d / render | SKETCHUP17 [rb2.2] | revit, blender[py], vray
