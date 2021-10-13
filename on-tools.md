@@ -1,20 +1,18 @@
-# On tools
-
-## Digital tools I use and relevant alternatives
+# On digital tools I use and relevant alternatives
 
 
-| FUNCTION | TOOL | ALTERNATIVES |
+| function | tool I use | alternatives I might use  |
 | --- | --- | --- |
-| os | WIN7 |lubuntu, chromeos
+| os | WIN7 |lubuntu
 | antivirus | AVAST
-| launcher/file search | LISTARY5 | keypirinha[py], wox1.3[c|], cerebro0.2.7[js]
-| web browser | BRAVE, CHROME, FFDEV, SAFARI
-| mail | GMAIL/PROTONMAIL | tutanota, ctemplar
+| launcher/file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
+| web browser | BRAVE, FFDEV, SAFARI | Google
+| mail | GMAIL / PROTONMAIL | tutanota, ctemplar
 | cloud | GDRIVE | 
-| search | PRESEARCH | qwant, google, startpage
-| calc | EXCEL2010 | https://rows.com
-| money management | EXCEL2010 | https://lunchmoney.app
-| accounting | EXCEL2010-FACTURAMA | www.ledger-cli.org, https://hledger.org, https://awesome-beancount.com, https://prudent.me
+| search | PRESEARCH | qwant, google, startpage, ddg
+| calc | EXCEL2010 | [rows](https://rows.com)
+| money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
+| accounting | EXCEL2010 / FACTURAMA | www.ledger-cli.org, https://hledger.org, https://awesome-beancount.com, https://prudent.me
 | presentations | | prezi, mdx (markdown), https://mark.show
 | flowcharts | | https://app.diagrams.net, www.viz-js.com, https://excalidraw.com
 | chat | SIGNAL | whatsapp-fb_messenger-skype-slack-zoom https://delta.chat/en/
@@ -51,14 +49,14 @@
 | ux design | | figma-moqups-marvelapp-framer-penpot.app [mac |sketch-kiteapp-paintcodeapp]
 | LOCAL/PINTEREST | | image collection | dribbble-behance, pexels-unsplash, https://carbon.now.sh
 | raster + vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
-| pixel art | www.aseprite.org, https://isometricmaps.com
+| pixel art | | www.aseprite.org, https://isometricmaps.com
 | cad | AUTOCAD2012 [lisp] |  archicad18 [140k-gdl], www.freecadweb.org [py]
 | 3d + render | SKETCHUP17 [rb2.2] | revit2015 [200k-js], blender[py], vray3.4
 | music player | YOUTUBE | spotify, 1by1
 | learn music | | lilybin-hacklily-abcjs, https://learningmusic.ableton.com, https://lmms.io
 | ebook reader | | www.loudreader.com
 | torrents | | utorrent
-| tumblr tags | https://tags.circumfluo.us |
+| tumblr tags | | https://tags.circumfluo.us |
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
 | hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org
 | reddit reader | | https://teddit.net, https://unim.press/|chia

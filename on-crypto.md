@@ -2,7 +2,7 @@
 
 - [ATH](https://www.livecoinwatch.com/) - [TVL](https://defillama.com/chains) - [withdrawal fees](https://withdrawalfees.com/) - [stock indexes](https://pt.tradingeconomics.com/stocks)
 
-## Main and [contract] languages in crypto projects
+## Main and [contract] programming languages
 
 - go:
 	- [ethereum](https://github.com/ethereum/) [solidity]
