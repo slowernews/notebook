@@ -5,27 +5,27 @@
 | --- | --- | --- |
 | os | WIN7 |lubuntu
 | antivirus | AVAST
-| launcher/file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
+| launcher / file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
 | web browser | BRAVE, FFDEV, SAFARI | chrome
+| chat | SIGNAL | whatsapp, fb_messenger, skype, slack, zoom
 | mail | GMAIL / PROTONMAIL | tutanota, ctemplar
 | cloud | GDRIVE | 
-| search | PRESEARCH | qwant, google, startpage, ddg
+| search | PRESEARCH | qwant, [etools](https://www.etools.ch), google, startpage, ddg
 | calc | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
 | accounting | EXCEL2010 / FACTURAMA | plain text ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 | presentations | | https://mark.show, mdx (markdown), prezi
-| flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), www.viz-js.com
-| chat | SIGNAL | whatsapp, fb_messenger, skype, slack, zoom
+| flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), http://viz-js.com/
 | proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets
 | time management | | http://www.magicworkcycle.com
 | form + mail lists | | gdocs, [poll-maker](https://www.poll-maker.com), [formking](https://www.formking.io), [mailchimp](https://mailchimp.com)
-| automate | | ifttt, ahk, [nimble text](https://nimbletext.com), [blaze](https://blaze.today)
-| level up | | www.descript.com, https://payymail.com, www.etools.ch
-| srs | ANKI2.0 | supermemo-readlang-memrise
-| moocs | | https://classcentral.com, https://docs.microsoft.com/en-us/learn, https://elementsofai.com
-| notes/wiki | SUBLIME3 | getnotation-nvalt-qownnotes-docfetch-tiddlywiki-zimwiki-joplin, https://standardnotes.org, https://simplenote.com 
-| text editor | SUBLIME3 | vscode-atom-emacs-neovim, textadept-emeditor, http://mesh-spreadsheet.com, https://ellx.io
-| snippets/cloud editor | | pastebin-glot.io-ideone-gist-observablehq, https://repl.it, https://jsfiddle.net gitpod?
+| automate | | ahk, [nimble text](https://nimbletext.com), [blaze](https://blaze.today), ifttt
+| *level up* | | [descript](https://www.descript.com), [payymail](https://payymail.com)
+| srs | ANKI2.0 | supermemo, readlang, memrise
+| moocs | | [classcentral](https://classcentral.com), [microsoft](https://docs.microsoft.com/en-us/learn), [elements of AI](https://elementsofai.com)
+| notes/wiki | SUBLIME3 | getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
+| text editor | SUBLIME3 | vscode, atom, emacs, neovim, textadept, emeditor, [ellx](https://ellx.io), [mesh spreadsheet](http://mesh-spreadsheet.com)
+| snippets / cloud editor | | gitpod, pastebin-glot.io-ideone-gist-observablehq, jsfiddle https://repl.it
 | markdown/latex editor | | https://typora.io, www.overleaf.com
 | writing | WORD/EXCEL2010 | scrivener-zotero, www.hemingwayapp.com, https://epub.to
 | monospace font| CONSOLAS  | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode
