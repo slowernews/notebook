@@ -1,12 +1,13 @@
 # On digital tools I use and alternatives
 
+## Generalist tools
 
 | function | tool I use | alternatives I used and/or may use someday |
 | --- | --- | --- |
 | os | WIN7 |lubuntu
 | antivirus | AVAST
 | launcher / file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
-| web browser | BRAVE, FFDEV, SAFARI | chrome
+| web browser | BRAVE / FFDEV / SAFARI | chrome
 | chat | SIGNAL | whatsapp, fb_messenger, skype, slack, zoom
 | mail | GMAIL / PROTONMAIL | tutanota, ctemplar
 | cloud | GDRIVE | 
@@ -14,6 +15,11 @@
 | calc | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
 | accounting | EXCEL2010 / FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
+
+## Office Tools
+
+| function | tool I use | alternatives I used and/or may use someday |
+| --- | --- | --- |
 | presentations | | https://mark.show, mdx (markdown), prezi
 | flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), http://viz-js.com/
 | proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets
@@ -28,9 +34,7 @@
 | snippets / cloud editor | | gitpod, pastebin-glot.io-ideone-gist-observablehq, jsfiddle https://repl.it
 | markdown/latex editor | | https://typora.io, www.overleaf.com
 | writing | WORD2010 / EXCEL2010 | scrivener-zotero, www.hemingwayapp.com, https://epub.to
-| monospace font| CONSOLAS  | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode
-| sans serif font | ARIAL NARROW | https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com
-| fonts | | https://fonts.google.com, www.myfonts.com/WhatTheFont
+| fonts | CONSOLAS / ARIAL NARROW | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode, https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com, https://fonts.google.com, www.myfonts.com/WhatTheFont
 | terminal | CONEMU | vscode-hyper.is
 | repl | | node, python, ruby, janet
 | db | | https://dbeaver.io, https://franchise.cloud
@@ -47,17 +51,20 @@
 | css | | bulma-tailwindcss, https://shuffle.dev
 | colors | | https://colourco.de, https://uigradients.com, https://bradjasper.com/subtle-patterns-bookmarklet, www.colorbox.io
 | ux design | | figma-moqups-marvelapp-framer-penpot.app [mac |sketch-kiteapp-paintcodeapp]
-| LOCAL/PINTEREST | | image collection | dribbble-behance, pexels-unsplash, https://carbon.now.sh
-| raster + vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
+
+### Arch tools
+
+| image collection | LOCAL / PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
+| raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
 | pixel art | | www.aseprite.org, https://isometricmaps.com
 | cad | AUTOCAD2012 [lisp] |  archicad18 [140k-gdl], www.freecadweb.org [py]
-| 3d + render | SKETCHUP17 [rb2.2] | revit2015 [200k-js], blender[py], vray3.4
+| 3d / render | SKETCHUP17 [rb2.2] | revit, blender[py], vray
 | music player | YOUTUBE | spotify, 1by1
-| learn music | | lilybin-hacklily-abcjs, https://learningmusic.ableton.com, https://lmms.io
-| ebook reader | | www.loudreader.com
+| learn music | | lilybin, hacklily, abcjs, https://learningmusic.ableton.com, https://lmms.io
 | torrents | | utorrent
 | tumblr tags | | https://tags.circumfluo.us |
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
+| ebook reader | | www.loudreader.com
 | hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org
 | reddit reader | | https://teddit.net, https://unim.press/|chia
 | feeds | FEEDLY | https://usepanda.com, https://waldenpond.press
