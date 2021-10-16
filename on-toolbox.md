@@ -4,16 +4,15 @@
 
 | function | tool I use | alternatives I like |
 | --- | --- | --- |
-| os | WIN7 | ubuntu
-| antivirus | AVAST
+| os & antivirus | WIN7 + AVAST | ubuntu
 | launcher / file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
-| web browser | BRAVE / FFDEV / SAFARI | chrome
+| web browser | BRAVE + FFDEV + SAFARI | chrome
 | search | PRESEARCH | qwant
 | chat | SIGNAL | whatsapp
-| mail | GMAIL / PROTONMAIL | tutanota
+| mail | GMAIL + PROTONMAIL | tutanota
 | cloud | GDRIVE | 
 | notes/wiki | SUBLIME3 | getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
-| fonts | CONSOLAS / ARIAL NARROW | [iosevka](https://typeof.net/Iosevka), [firacode](https://github.com/tonsky/FiraCode), [inter](https://rsms.me/inter), [public sans](https://public-sans.digital.gov), [national park](https://nationalparktypeface.com), [google fonts](https://fonts.google.com), [what the font](onts.com/WhatTheFont)
+| fonts | CONSOLAS / ARIAL NARROW | [iosevka](https://typeof.net/Iosevka), [firacode](https://github.com/tonsky/FiraCode), [inter](https://rsms.me/inter), [public sans](https://public-sans.digital.gov), [national park](https://nationalparktypeface.com), [google fonts](https://fonts.google.com) - [what the font](onts.com/WhatTheFont)
 
 ### dev
 
@@ -43,8 +42,8 @@
 | --- | --- | --- |
 | calc | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
-| accounting | EXCEL2010 / FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
-| writing / research | WORD2010 / EXCEL2010 | scrivener, zotero, www.hemingwayapp.com, https://epub.to
+| accounting | EXCEL2010 + FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
+| writing / research | WORD2010 + EXCEL2010 | scrivener, zotero, www.hemingwayapp.com, https://epub.to
 | markdown / latex editor | | https://typora.io, www.overleaf.com
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
 | presentations | | https://mark.show, mdx (markdown), prezi
@@ -62,7 +61,7 @@
 | cad | AUTOCAD2012 [lisp] |  archicad [gdl], www.freecadweb.org [py]
 | 3d / render | SKETCHUP17 [rb2.2] | revit, blender[py], vray
 | raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
-| image collection | LOCAL / PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
+| image collection | LOCAL + PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
 | pixel art | | www.aseprite.org, https://isometricmaps.com
 
 ### hobby
