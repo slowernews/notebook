@@ -78,13 +78,13 @@
 | feeds | FEEDLY | https://usepanda.com, https://waldenpond.press
 | torrents | | utorrent
 | tumblr tags | | https://tags.circumfluo.us |
-| crypto | COINGECKO / COINMARKETCAP |
-| fintech | PAYPAL / REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
+| crypto | COINGECKO + COINMARKETCAP |
+| fintech | PAYPAL + REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
 | crowdfunding | | kickstarter, indiegogo, seedrs
 | geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/), [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html), [nomadlist](https://nomadlist.com/)
 | collectionism | | [ucoin](https://en.ucoin.net/)
 | shopping | | [wirecutter](https://www.nytimes.com/wirecutter), [tropical price](https://tropicalprice.com)
-| booking | AIRBNB / BOOKING | www.housetrip.com
+| booking | AIRBNB + BOOKING | www.housetrip.com
 | flights | SKYSCANNER | www.google.com/flights, www.kiwi.com, https://scottscheapflights.com
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
 | osm | | https://osm-in-realtime.jwestman.net, https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete,  [randomstreetview](https://randomstreetview.com/), [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
