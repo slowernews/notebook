@@ -20,18 +20,18 @@
 | --- | --- | --- |
 | text editor | SUBLIME3 | vscode, atom, emacs, neovim, textadept, emeditor, [ellx](https://ellx.io), [mesh spreadsheet](http://mesh-spreadsheet.com)
 | cloud editor / snippets | | gitpod, pastebin, glot.io, ideone, gist, observablehq, jsfiddle, [replit](https://repl.it)
+| docs & autocompleters | | [zealdocs](https://zealdocs.org), [kite](https://www.kite.com), [tabnine](https://tabnine.com)
 | terminal | CONEMU | vscode, hyper.is
-| repl | | node, python, ruby, janet
-| db | | https://dbeaver.io, https://franchise.cloud
-| docs & autocompleters | | https://zealdocs.org, www.kite.com, https://tabnine.com
+| repl | | node, ruby, python, janet
+| db | | [dbeaver](https://dbeaver.io), [sql notebook](https://franchise.cloud)
 | domains | NAMECHEAP |
+| cms hosting | TUMBLR |  shopify
+| static hosting | NETLIFY | github, [vercel](https://vercel.com), [glitch](https://glitch.com) - [jamstack](https://jamstack.org/generators)
+| app hosting | | firebase, [google cloud app engine](https://cloud.google.com/appengine), 
 | analytics | GOATCOUNTER | [counter.dev](https://counter.dev)
-| ads | | [newsletter ads](https://upstart.me/search/index.php)
-| apis | | https://github.com/public-apis/public-apis, www.twilio.com, https://trolley.link
-| cms | TUMBLR |  shopify
-| static hosting | NETLIFY | github, https://vercel.com, https://jamstack.org/generators
-| app hosting | | firebase, https://cloud.google.com/appengine, https://glitch.com
-| optimize | | https://gtmetrix.com, https://realfavicongenerator.net
+| ads | | [ads on newsletters](https://upstart.me/search/index.php)
+| apis | | [public apis](https://github.com/public-apis/public-apis), [twilio](https://www.twilio.com), https://trolley.link
+| optimize | | [gtmetrix](https://gtmetrix.com), https://realfavicongenerator.net
 | css | | bulma-tailwindcss, https://shuffle.dev
 | colors | | https://colourco.de, https://uigradients.com, https://bradjasper.com/subtle-patterns-bookmarklet, www.colorbox.io
 | ux design | | figma, moqups, marvelapp, framer, penpot.app (mac only: sketch, kiteapp, paintcodeapp)
@@ -40,12 +40,12 @@
 
 | function | tool I use | alternatives I like |
 | --- | --- | --- |
-| calc | EXCEL2010 | [rows](https://rows.com)
-| money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
-| accounting | EXCEL2010 + FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 | writing / research | WORD2010 + EXCEL2010 | scrivener, zotero, www.hemingwayapp.com, https://epub.to
 | markdown / latex editor | | https://typora.io, www.overleaf.com
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
+| calc | EXCEL2010 | [rows](https://rows.com)
+| money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
+| accounting | EXCEL2010 + FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 | presentations | | https://mark.show, mdx (markdown), prezi
 | flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), http://viz-js.com/
 | proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets, zoom, slack
@@ -58,9 +58,9 @@
 
 | function | tool I use | alternatives I like |
 | --- | --- | --- |
-| cad | AUTOCAD2012 [lisp] |  archicad [gdl], www.freecadweb.org [py]
-| 3d / render | SKETCHUP17 [rb2.2] | revit, blender[py], vray
-| raster / vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
+| cad | AUTOCAD2012[lisp] |  archicad[gdl], www.freecadweb.org [py]
+| 3d / render | SKETCHUP17[rb2.2] | revit, blender[py], vray
+| raster / vectors | PHOTOSHOP CS4[js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
 | image collection | LOCAL + PINTEREST | | dribbble-behance, pexels-unsplash, https://carbon.now.sh
 | pixel art | | www.aseprite.org, https://isometricmaps.com
 
@@ -77,7 +77,7 @@
 | reddit reader | | https://teddit.net, https://unim.press/|chia
 | feeds | FEEDLY | https://usepanda.com, https://waldenpond.press
 | torrents | | utorrent
-| tumblr tags | | https://tags.circumfluo.us |
+| tumblr tags | | https://tags.circumfluo.us
 | crypto | COINGECKO + COINMARKETCAP |
 | fintech | PAYPAL + REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
 | crowdfunding | | kickstarter, indiegogo, seedrs
