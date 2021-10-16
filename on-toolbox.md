@@ -8,14 +8,11 @@
 | antivirus | AVAST
 | launcher / file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
 | web browser | BRAVE / FFDEV / SAFARI | chrome
+| search | PRESEARCH | qwant, [etools](https://www.etools.ch), google, startpage, ddg
 | chat | SIGNAL | whatsapp, fb_messenger, skype, slack, zoom
 | mail | GMAIL / PROTONMAIL | tutanota, ctemplar
 | cloud | GDRIVE | 
-| search | PRESEARCH | qwant, [etools](https://www.etools.ch), google, startpage, ddg
 | notes/wiki | SUBLIME3 | getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
-| calc | EXCEL2010 | [rows](https://rows.com)
-| money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
-| accounting | EXCEL2010 / FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 
 ### dev
 
@@ -27,7 +24,7 @@
 | repl | | node, python, ruby, janet
 | db | | https://dbeaver.io, https://franchise.cloud
 | docs / autocompleters | | https://zealdocs.org, www.kite.com, https://tabnine.com
-| domains + whois tools | NAMECHEAP | https://whois.domaintools.com, naming (http://impossibility.org, https://domainr.com, www.bustaname.com, www.leandomainsearch.com)
+| domains | NAMECHEAP | https://whois.domaintools.com, naming (http://impossibility.org, https://domainr.com, www.bustaname.com, www.leandomainsearch.com)
 | analytics | GOATCOUNTER | [counter.dev](https://counter.dev)
 | ads | | https://carbonads.net, https://www.buysellads.com, http://upstart.me/search/index.php
 | apis | | https://github.com/public-apis/public-apis, www.twilio.com, https://trolley.link
@@ -37,12 +34,15 @@
 | optimize | | https://gtmetrix.com, https://realfavicongenerator.net
 | css | | bulma-tailwindcss, https://shuffle.dev
 | colors | | https://colourco.de, https://uigradients.com, https://bradjasper.com/subtle-patterns-bookmarklet, www.colorbox.io
-| ux design | | figma-moqups-marvelapp-framer-penpot.app [mac |sketch-kiteapp-paintcodeapp]
+| ux design | | figma, moqups, marvelapp, framer, penpot.app (mac only: sketch, kiteapp, paintcodeapp)
 
 ### office
 
 | function | tool I use | alternatives I like |
 | --- | --- | --- |
+| calc | EXCEL2010 | [rows](https://rows.com)
+| money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
+| accounting | EXCEL2010 / FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
 | writing / research | WORD2010 / EXCEL2010 | scrivener, zotero, www.hemingwayapp.com, https://epub.to
 | markdown / latex editor | | https://typora.io, www.overleaf.com
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
@@ -69,7 +69,8 @@
 
 | function | tool I use | alternatives I like |
 | --- | --- | --- |
-| srs / moocs | ANKI2.0 | supermemo, readlang, memrise, moocs ([classcentral](https://classcentral.com), [microsoft](https://docs.microsoft.com/en-us/learn), [elements of AI](https://elementsofai.com))
+| srs | ANKI2.0 | supermemo, readlang, memrise
+| moocs | | [classcentral](https://classcentral.com), [microsoft](https://docs.microsoft.com/en-us/learn), [elements of AI](https://elementsofai.com)
 | music player | YOUTUBE | spotify, 1by1
 | learn music | | lilybin, hacklily, abcjs, https://learningmusic.ableton.com, https://lmms.io
 | ebook reader | | www.loudreader.com
