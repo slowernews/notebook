@@ -8,9 +8,9 @@
 | antivirus | AVAST
 | launcher / file search | LISTARY5 | keypirinha[py], wox[c#], cerebro[js]
 | web browser | BRAVE / FFDEV / SAFARI | chrome
-| search | PRESEARCH | qwant, [etools](https://www.etools.ch), google, startpage, ddg
-| chat | SIGNAL | whatsapp, fb_messenger, skype, slack, zoom
-| mail | GMAIL / PROTONMAIL | tutanota, ctemplar
+| search | PRESEARCH | qwant
+| chat | SIGNAL | whatsapp
+| mail | GMAIL / PROTONMAIL | tutanota
 | cloud | GDRIVE | 
 | notes/wiki | SUBLIME3 | getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
 
@@ -19,7 +19,7 @@
 | function | tool I use | alternatives I like |
 | --- | --- | --- |
 | text editor | SUBLIME3 | vscode, atom, emacs, neovim, textadept, emeditor, [ellx](https://ellx.io), [mesh spreadsheet](http://mesh-spreadsheet.com)
-| cloud editor / snippets | | gitpod, pastebin, glot.io, ideone, gist, observablehq, jsfiddle https://repl.it
+| cloud editor / snippets | | gitpod, pastebin, glot.io, ideone, gist, observablehq, jsfiddle, [replit](https://repl.it)
 | terminal | CONEMU | vscode, hyper.is
 | repl | | node, python, ruby, janet
 | db | | https://dbeaver.io, https://franchise.cloud
@@ -49,7 +49,7 @@
 | fonts | CONSOLAS / ARIAL NARROW | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode, https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com, https://fonts.google.com, www.myfonts.com/WhatTheFont
 | presentations | | https://mark.show, mdx (markdown), prezi
 | flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), http://viz-js.com/
-| proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets
+| proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets, zoom, slack
 | time management | | http://www.magicworkcycle.com
 | forms / mail lists | | gdocs, [poll-maker](https://www.poll-maker.com), [formking](https://www.formking.io), [mailchimp](https://mailchimp.com)
 | automate | | ahk, [nimble text](https://nimbletext.com), [blaze](https://blaze.today), ifttt
