@@ -4,18 +4,28 @@
 
 ### generalist
 
-- os [WIN7] (l)ubuntu
-- antivirus [AVAST]
-- launcher / file search [LISTARY5] keypirinha[py], wox[c#], cerebro[js]
-- web browser [BRAVE / FFDEV / SAFARI] chrome
-- chat [SIGNAL] whatsapp, fb_messenger, skype, slack, zoom
-- mail [GMAIL / PROTONMAIL] tutanota
-- cloud [GDRIVE]
-- search [PRESEARCH] qwant, [etools](https://www.etools.ch)
-- money management [EXCEL2010][lunchmoney](https://lunchmoney.app)
-- accounting [EXCEL2010 / FACTURAMA] [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
-- notes/wiki [SUBLIME3] getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
-- fonts [CONSOLAS / ARIAL NARROW] https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode, https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com, https://fonts.google.com, www.myfonts.com/WhatTheFont
+- os: WIN7
+	- (l)ubuntu
+- antivirus: AVAST
+- launcher / file search: LISTARY5
+	- keypirinha[py], wox[c#], cerebro[js]
+- web browser: BRAVE / FFDEV / SAFARI
+	- chrome
+- chat: SIGNAL
+	- whatsapp, fb_messenger, skype, slack, zoom
+- mail: GMAIL / PROTONMAIL
+	- tutanota
+- cloud: GDRIVE
+- search: PRESEARCH
+	- qwant, [etools](https://www.etools.ch)
+- money management: EXCEL2010
+	- [lunchmoney](https://lunchmoney.app)
+- accounting: EXCEL2010 / FACTURAMA
+	- [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org), [hledger](https://hledger.org), [beancount](https://awesome-beancount.com), [prudent](https://prudent.me))
+- notes/wiki: SUBLIME3
+	- getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
+- fonts: CONSOLAS / ARIAL NARROW
+	- https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode, https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com, https://fonts.google.com, www.myfonts.com/WhatTheFont
 
 ### dev
 
