@@ -82,9 +82,11 @@
 | crypto | COINGECKO / COINMARKETCAP |
 | fintech | PAYPAL / REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
 | crowdfunding | | kickstarter, indiegogo, seedrs
+| geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/), [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html), [nomadlist](https://nomadlist.com/)
 | shopping | | [wirecutter](https://www.nytimes.com/wirecutter), [tropical price](https://tropicalprice.com)
 | booking | AIRBNB / BOOKING | www.housetrip.com
 | flights | SKYSCANNER | www.google.com/flights, www.kiwi.com, https://scottscheapflights.com
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
-| osm | | https://osm-in-realtime.jwestman.net, https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete
-| geography and maps | | https://trailrouter.com
+| osm | | https://osm-in-realtime.jwestman.net, https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete,  [randomstreetview](https://randomstreetview.com/), [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
+| geography and maps | | [trailrouter](https://trailrouter.com), [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/), [flightradar](https://www.flightradar24.com/), [windy](https://www.windy.com/), [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
+| numismatic | | [ucoin](https://en.ucoin.net/)

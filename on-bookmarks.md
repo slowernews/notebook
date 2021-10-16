@@ -59,10 +59,7 @@
 - Slow TV: cities [one](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos)/[two](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos)/[three](https://www.youtube.com/c/keeezi/videos) - japan [one](https://www.youtube.com/c/Rambalac/videos)/[two](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [travel remotely](https://travel-remotely.netlify.app/) - [drive & listen](https://driveandlisten.herokuapp.com/) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
 )
 - Free [movies](https://www.openculture.com/freemoviesonline)/[books](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)
-- Statistics: [ucoin](https://en.ucoin.net/) - [INE](https://www.ine.pt/)
-- Maps: [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/) - [flightradar](https://www.flightradar24.com/) - [windy](https://www.windy.com/) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
-- Travel: [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
-- Geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com/)
 - [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos)
 - Linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos) - [etymology](https://www.youtube.com/user/Alliterative/videos)
+- Statistics: [INE](https://www.ine.pt/)
