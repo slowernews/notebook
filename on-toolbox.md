@@ -23,12 +23,12 @@
 | terminal | CONEMU | vscode, hyper.is
 | repl | | node, python, ruby, janet
 | db | | https://dbeaver.io, https://franchise.cloud
-| docs / autocompleters | | https://zealdocs.org, www.kite.com, https://tabnine.com
-| domains | NAMECHEAP | https://whois.domaintools.com, naming (http://impossibility.org, https://domainr.com, www.bustaname.com, www.leandomainsearch.com)
+| docs & autocompleters | | https://zealdocs.org, www.kite.com, https://tabnine.com
+| domains | NAMECHEAP |
 | analytics | GOATCOUNTER | [counter.dev](https://counter.dev)
-| ads | | https://carbonads.net, https://www.buysellads.com, http://upstart.me/search/index.php
+| ads | | [newsletter ads](https://upstart.me/search/index.php)
 | apis | | https://github.com/public-apis/public-apis, www.twilio.com, https://trolley.link
-| cms hosting | TUMBLR | www.bigcartel.com, shopify, squarespace-wix-weebly, 
+| cms | TUMBLR |  shopify
 | static hosting | NETLIFY | github, https://vercel.com, https://jamstack.org/generators
 | app hosting | | firebase, https://cloud.google.com/appengine, https://glitch.com
 | optimize | | https://gtmetrix.com, https://realfavicongenerator.net
