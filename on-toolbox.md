@@ -13,6 +13,7 @@
 | mail | GMAIL / PROTONMAIL | tutanota
 | cloud | GDRIVE | 
 | notes/wiki | SUBLIME3 | getnotation, nvalt, qownnotes, docfetch, tiddlywiki, zimwiki, joplin, [standard notes](https://standardnotes.org)
+| fonts | CONSOLAS / ARIAL NARROW | [iosevka](https://typeof.net/Iosevka), [firacode](https://github.com/tonsky/FiraCode), [inter](https://rsms.me/inter), [public sans](https://public-sans.digital.gov), [national park](https://nationalparktypeface.com), [google fonts](https://fonts.google.com), [what the font](onts.com/WhatTheFont)
 
 ### dev
 
@@ -46,7 +47,6 @@
 | writing / research | WORD2010 / EXCEL2010 | scrivener, zotero, www.hemingwayapp.com, https://epub.to
 | markdown / latex editor | | https://typora.io, www.overleaf.com
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
-| fonts | CONSOLAS / ARIAL NARROW | https://typeof.net/Iosevka, https://github.com/tonsky/FiraCode, https://rsms.me/inter, https://public-sans.digital.gov, https://nationalparktypeface.com, https://fonts.google.com, www.myfonts.com/WhatTheFont
 | presentations | | https://mark.show, mdx (markdown), prezi
 | flowcharts | | [diagrams.net](https://app.diagrams.net), [excalidraw](https://excalidraw.com), http://viz-js.com/
 | proj management | | trello, self hosted (https://personalkanban.js.org, https://www.manifest.app), treesheets, zoom, slack
@@ -83,10 +83,10 @@
 | fintech | PAYPAL / REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
 | crowdfunding | | kickstarter, indiegogo, seedrs
 | geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living)/[numbeo](https://www.numbeo.com/cost-of-living/), [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html), [nomadlist](https://nomadlist.com/)
+| collectionism | | [ucoin](https://en.ucoin.net/)
 | shopping | | [wirecutter](https://www.nytimes.com/wirecutter), [tropical price](https://tropicalprice.com)
 | booking | AIRBNB / BOOKING | www.housetrip.com
 | flights | SKYSCANNER | www.google.com/flights, www.kiwi.com, https://scottscheapflights.com
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
 | osm | | https://osm-in-realtime.jwestman.net, https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete,  [randomstreetview](https://randomstreetview.com/), [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
 | geography and maps | | [trailrouter](https://trailrouter.com), [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/), [flightradar](https://www.flightradar24.com/), [windy](https://www.windy.com/), [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
-| numismatic | | [ucoin](https://en.ucoin.net/)
