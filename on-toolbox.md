@@ -3,7 +3,7 @@
 ### generalist
 
 | function | tool I use | alternatives I like |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | os & antivirus | WIN7 + AVAST | ubuntu
 | launcher / file search | LISTARY5 | keypirinha [py], wox [c#], cerebro [js]
 | web browser | BRAVE + FFDEV + SAFARI | chrome
@@ -17,17 +17,17 @@
 ### dev
 
 | function | tool I use | alternatives I like |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | text editor | SUBLIME3 | vscode, atom, emacs, neovim, textadept, emeditor, [ellx](https://ellx.io), [mesh spreadsheet](http://mesh-spreadsheet.com)
 | cloud editor & snippets | | gitpod, pastebin, glot.io, ideone, gist, observablehq, jsfiddle, [replit](https://repl.it)
 | docs & autocompleters | | [zealdocs](https://zealdocs.org), [kite](https://www.kite.com), [tabnine](https://tabnine.com)
 | terminal | CONEMU | vscode, hyper.is
 | repl | | node, ruby, python, janet
-| db | | [dbeaver](https://dbeaver.io), [sql notebook](https://franchise.cloud)
+| db | | [dbeaver](https://dbeaver.io), [sql notebook](https://franchise.cloud), https://www.evidence.dev
 | domains | NAMECHEAP |
 | cms hosting | TUMBLR |  shopify
 | static hosting | NETLIFY | github, [vercel](https://vercel.com), [glitch](https://glitch.com) - [jamstack](https://jamstack.org/generators)
-| app hosting | | firebase, [google app engine](https://cloud.google.com/appengine), 
+| app hosting | | firebase, [google app engine](https://cloud.google.com/appengine)
 | analytics | GOATCOUNTER | [counter.dev](https://counter.dev)
 | ads | | [on newsletters](https://upstart.me/search/index.php)
 | apis | | [public apis](https://github.com/public-apis/public-apis), [twilio](https://www.twilio.com), https://trolley.link
@@ -39,7 +39,7 @@
 ### office
 
 | function | tool I use | alternatives I like |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | writing / research | WORD2010 + EXCEL2010 | scrivener, zotero, www.hemingwayapp.com, https://epub.to
 | markdown / latex editor | | https://typora.io, www.overleaf.com
 | translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
@@ -58,28 +58,33 @@
 ### graphics
 
 | function | tool I use | alternatives I like |
-| --- | --- | --- |
-| cad | AUTOCAD2012 [lisp] |  archicad [gdl], www.freecadweb.org [py]
+| :--- | :--- | :--- |
+| cad | AUTOCAD2012 [lisp] |  archicad [gdl]
 | 3d & render | SKETCHUP17 [rb2.2] | revit, blender [py], vray
 | raster & vectors | PHOTOSHOP CS4 [js] | www.photopea.com, https://affinity.serif.com, www.geometrize.co.uk, www.myheritage.com.pt/deep-nostalgia
 | image collection | LOCAL + PINTEREST | | dribbble, behance, pexels, unsplash, https://carbon.now.sh
 | pixel art | | www.aseprite.org, https://isometricmaps.com
+| background remover | | https://www.photoroom.com/background-remover
 
 ### hobby
 
 | function | tool I use | alternatives I like |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | srs | ANKI2.0 | supermemo, readlang, memrise
 | moocs | | [classcentral](https://classcentral.com), [microsoft](https://docs.microsoft.com/en-us/learn), [elements of AI](https://elementsofai.com)
 | repair | | https://manuzoid.com
 | learn music | | lilybin, hacklily, abcjs, https://learningmusic.ableton.com, https://lmms.io
-| music player | YOUTUBE | spotify, 1by1
+| music player | YOUTUBE | spotify, 1by1, [music for programming](https://musicforprogramming.net/), [radio garden](http://radio.garden), [time machine](https://radiooooo.com/), [coderadio](https://coderadio.freecodecamp.org), [lofichat](https://lofi.chat/), [lofimusic](https://lofimusic.app), [nature sounds](https://rainbowhunt.com/)
+| generalist news | | [economist](https://economist.com), [allsides](https://www.allsides.com/), [atlantic](https://www.theatlantic.com), [aeon](https://aeon.co), [tortoise](https://www.tortoisemedia.com), [politico Europe](https://www.politico.eu/), [foreign affairs](https://www.foreignaffairs.com)
+| tech news | HACKER NEWS | [lobsters](https://lobste.rs/)
+| art news | [wikiart](https://www.wikiart.org), [core77](https://www.core77.com), [divisare](https://divisare.com/), [design files](https://thedesignfiles.net/), [landbook](https://land-book.com/)
+| cultures news | | [goodreads](https://www.goodreads.com), [less wrong](https://www.lesswrong.com), [quanta magazine](https://www.quantamagazine.org/), [calvert](https://calvertjournal.com)
 | ebook reader | | www.loudreader.com
-| hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org
+| hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org, [paperHN](https://www.wolfgangfaust.com/project/paper-hn/), [HNfeeds](https://hnrss.github.io/)
 | reddit reader | | https://teddit.net, https://unim.press/|chia
 | feeds | FEEDLY | https://usepanda.com, https://waldenpond.press, https://sumi.news
 | torrents | | utorrent
-| assorted | | https://tags.circumfluo.us, https://typeitjs.com, [qrosscodes](https://qrosscodes.com), [wificard v1](https://wificard.io)/[wificard v2](https://zdgeier.github.io/wifi-code)
+| assorted | | https://tags.circumfluo.us, https://typeitjs.com, [qrosscodes](https://qrosscodes.com), [wificard v1](https://wificard.io), [wificard v2](https://zdgeier.github.io/wifi-code)
 | crypto | COINGECKO + COINMARKETCAP |
 | fintech | PAYPAL + REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
 | crowdfunding | | kickstarter, indiegogo, seedrs
@@ -89,6 +94,6 @@
 | booking | AIRBNB + BOOKING | www.housetrip.com
 | flights | SKYSCANNER | www.google.com/flights, www.kiwi.com, https://scottscheapflights.com
 | travel info | | www.seat61.com, http://airport.wroclaw.pl, https://reopen.europa.eu/pt
-| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net), [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete), [randomstreetview](https://randomstreetview.com/), [show my street](https://showmystreet.com/) / [instantstreetview](https://www.instantstreetview.com/)
-| maps | | [trailrouter](https://trailrouter.com), [flightradar](https://www.flightradar24.com), [vesselfinder](https://www.vesselfinder.com/)/[marinetraffic](https://www.marinetraffic.com/)
-| weather | WINDGURU.CZ | [windy](https://www.windy.com), [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
+| weather | WINDGURU.CZ | [windy](https://www.windy.com), [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php), https://www.skylinewebcams.com
+| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net), [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete), [randomstreetview](https://randomstreetview.com/), [show my street](https://showmystreet.com/), [instantstreetview](https://www.instantstreetview.com/)
+| maps | | [trailrouter](https://trailrouter.com), [flightradar](https://www.flightradar24.com), [vesselfinder](https://www.vesselfinder.com/), [marinetraffic](https://www.marinetraffic.com/)
