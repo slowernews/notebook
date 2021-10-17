@@ -1,10 +1,10 @@
 # Notes on amateur cooking
 
-## Beginner level
+## Noob level
 
 ### Pasta
 
-- Pasta is one of easiest plates you can cook. Small mistakes will not make a big change on results.
+- Pasta is one of easiest plates you can cook. Most mistakes will not make a big change on results. Most likely it will be eatable or even tasty.
 
 ## Advanced level
 

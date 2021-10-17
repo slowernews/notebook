@@ -9,7 +9,7 @@ typicalAssigment = 24				-- assigment is a like a function without arguments
 typicalFunction : Num -> Num -> Num
 typicalFunction x y = 2 * x + 2 * y		-- typical function with signature
 
-functionPatternMatching :: Num -> String
+functionPatternMatching : Num -> String
 functionPatternMatching 1 = "one"
 functionPatternMatching 2 = "two"
 functionPatternMatching 3 = "three"

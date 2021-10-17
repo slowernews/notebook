@@ -75,7 +75,7 @@
 | repair | | https://manuzoid.com
 | learn music | | lilybin - hacklily - abcjs - https://learningmusic.ableton.com - https://lmms.io
 | music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
-| generalist news | | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [tortoise](https://www.tortoisemedia.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
+| news | | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [tortoise](https://www.tortoisemedia.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
 | tech news | HACKER NEWS | [lobsters](https://lobste.rs)
 | art news | | [wikiart](https://www.wikiart.org) - [core77](https://www.core77.com) - [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [landbook](https://land-book.com)
 | culture news | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org)
@@ -94,6 +94,6 @@
 | flights | SKYSCANNER | www.google.com/flights - www.kiwi.com - https://scottscheapflights.com
 | travel info | | www.seat61.com - http://airport.wroclaw.pl - https://reopen.europa.eu/pt
 | weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - https://www.skylinewebcams.com
-| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com/) - [show my street](https://showmystreet.com/) - [instantstreetview](https://www.instantstreetview.com/)
+| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com/) - [instantstreetview](https://www.instantstreetview.com/) - [show my street](https://showmystreet.com/)
 | maps | | [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com/) - [marinetraffic](https://www.marinetraffic.com/)
 | assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code)
