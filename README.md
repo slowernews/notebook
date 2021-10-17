@@ -9,7 +9,7 @@ My half-baked notes on:
 - [polish language](on-polish-language.md) and learning methodology.
 - some [brains to pick](on-brains-to-pick.md), [cooking](on-cooking.md) and [trades](on-trades.md).
 - my [digital toolbox](on-toolbox.md). I try to keep my tools sharp.
-- [programming languages of cryptocurrencies](on.crypto.md). Odd enough?
+- [programming languages of cryptocurrencies](on-crypto.md). Odd enough?
 
 Trail guides on [self learn web development](trail-guide-web-development.md) and [self-publishing](trail-guide-self-publishing.md).  
 Tree shaked bookmarks on [basics of computer science](on-computer-science.md) and [other stuff](on-bookmarks.md).
