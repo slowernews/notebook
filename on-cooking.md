@@ -29,16 +29,16 @@ Results: better than frozen pizza. Guaranteed.
 
 - [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
 
+### Signature dishes
+
+You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
+
 ### Nerd level
 
 - Some theory on: [pizza](http://www.varasanos.com/PizzaRecipe.htm) - [mayonnaise](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8916120&fileOId=8916126)
 - [Nutrients on ingredients](https://ryanatkn.github.io/nutrients-per-calorie/#/compare) - [Recipe radar](https://www.reciperadar.com/)
 - [Cooking for engineers](http://www.cookingforengineers.com) - [Grim grains](https://grimgrains.com)
 - [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) - [Optimized cooking](https://web.archive.org/web/20170420110020/http://www.matthewwettergreen.com/2010/01/05/how-to-cook-like-an-engineer)
-
-## Signature dishes
-
-You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
 
 <!--
 ## Appendix: my receipts
