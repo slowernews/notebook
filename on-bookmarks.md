@@ -37,9 +37,6 @@
 
 - Game aggregators: [itch.io](https://itch.io/) - [boardgamearena](https://pt.boardgamearena.com/) - [playok](https://www.playok.com/)
 - Games: [generals.io](http://generals.io/) - [lord of the manor](http://www.lordofthemanor.io/) - [zty.pe](https://zty.pe/) - [nation states](https://www.nationstates.net/) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale
-
-### Level up
-
 - Chess: [tactics](https://www.chesstactics.org/) - [checkmatechamp](https://www.checkmatechamp.net/)
 - Dungeon & dragons: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter)
 

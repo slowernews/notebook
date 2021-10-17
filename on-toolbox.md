@@ -81,11 +81,11 @@
 | culture news | | [goodreads](https://www.goodreads.com), [less wrong](https://www.lesswrong.com), [calvert](https://calvertjournal.com), [quanta magazine](https://www.quantamagazine.org)
 | ebook reader | | www.loudreader.com
 | hn reader | HNEWS.XYZ | www.hnapp.com, https://hnify.com, https://deephn.org, [paperHN](https://www.wolfgangfaust.com/project/paper-hn/), [HNfeeds](https://hnrss.github.io/)
-| reddit reader | | https://teddit.net, https://unim.press/|chia
-| feeds | FEEDLY | https://usepanda.com, https://waldenpond.press, https://sumi.news
+| reddit reader | | [teddit](https://teddit.net), [unim.press](https://unim.press/)
+| feeds | FEEDLY | https://usepanda.com, https://sumi.news, https://waldenpond.press
 | torrents | | utorrent
-| crypto | COINGECKO + COINMARKETCAP |
-| fintech | PAYPAL + REVOLUT | https://n26.com, https://www.moey.pt, www.degiro.pt
+| crypto | COINGECKO + COINMARKETCAP | livecoinwatch
+| fintech | PAYPAL + REVOLUT | [N26](https://n26.com), [moey](https://www.moey.pt), [degiro](https://www.degiro.pt)
 | crowdfunding | | kickstarter, indiegogo, seedrs
 | geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living), [numbeo](https://www.numbeo.com/cost-of-living/), [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html), [nomadlist](https://nomadlist.com)
 | collectionism | | [ucoin](https://en.ucoin.net)
