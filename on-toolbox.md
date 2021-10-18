@@ -19,7 +19,7 @@
 | function | tool I use | alternatives I like |
 | :--- | :--- | :--- |
 | text editor | SUBLIME3 | vscode - atom - emacs - neovim - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com)
-| cloud editor & snippets | | gitpod - pastebin - glot.io - ideone - gist - observablehq - jsfiddle - [replit](https://repl.it)
+| cloud editor & snippets | GIST | [gitpod](https://www.gitpod.io) - [replit](https://repl.it) - [jsfiddle](https://jsfiddle.net)
 | docs & autocompleters | | [zealdocs](https://zealdocs.org) - [kite](https://www.kite.com) - [tabnine](https://tabnine.com)
 | terminal | CONEMU | vscode - hyper.is
 | repl | | node - ruby - python - janet
@@ -32,7 +32,7 @@
 | ads | | [on newsletters](https://upstart.me/search/index.php)
 | apis | | [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - https://trolley.link
 | optimize | | [gtmetrix](https://gtmetrix.com)
-| css | | bulma-tailwindcss - https://shuffle.dev
+| css | | bulma - tailwind - https://shuffle.dev
 | colors | | https://colourco.de - https://uigradients.com - https://bradjasper.com/subtle-patterns-bookmarklet - www.colorbox.io
 | ux design | | figma - moqups - marvelapp - framer - penpot.app (mac only: sketch - kiteapp - paintcodeapp)
 
@@ -77,10 +77,10 @@
 | music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 | news | | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [tortoise](https://www.tortoisemedia.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
 | tech news | HACKER NEWS | [lobsters](https://lobste.rs)
-| art news | | [wikiart](https://www.wikiart.org) - [core77](https://www.core77.com) - [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [landbook](https://land-book.com)
+| art news | | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 | culture news | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org)
-| ebook reader | | www.loudreader.com
-| hn reader | HNEWS.XYZ | www.hnapp.com - https://hnify.com - https://deephn.org - [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNfeeds](https://hnrss.github.io/)
+| ebook reader | | [loudreader](https://www.loudreader.com)
+| hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily/) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNify](https://hnify.com)- feeds ([HNfeeds](https://hnrss.github.io/) - [HNapp](https://hnapp.com)) - [deepHN](https://deephn.org) 
 | reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press/)
 | feeds | FEEDLY | https://usepanda.com - https://sumi.news - https://waldenpond.press
 | torrents | | utorrent
@@ -91,7 +91,7 @@
 | collectionism | | [ucoin](https://en.ucoin.net)
 | shopping | | [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com)
 | booking | AIRBNB + BOOKING | www.housetrip.com
-| flights | SKYSCANNER | www.google.com/flights - www.kiwi.com - https://scottscheapflights.com
+| flights | SKYSCANNER | [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
 | travel info | | www.seat61.com - http://airport.wroclaw.pl - https://reopen.europa.eu/pt
 | weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - https://www.skylinewebcams.com
 | osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com/) - [instantstreetview](https://www.instantstreetview.com/) - [show my street](https://showmystreet.com/)
