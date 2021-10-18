@@ -28,6 +28,7 @@
 
 <!--
 - Ausguste Escoffier
+- Allan Kay
 - Rollo Tomassi
 - Milton Friedman
 - Mark Manson
