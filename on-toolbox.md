@@ -19,7 +19,7 @@
 | function | tool I use | alternatives I like |
 | :--- | :--- | :--- |
 | text editor | SUBLIME3 | vscode - atom - emacs - neovim - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com)
-| cloud editor & snippets | GIST | [gitpod](https://www.gitpod.io) - [replit](https://repl.it) - [jsfiddle](https://jsfiddle.net)
+| cloud editor & snippets | GIST | [gitpod](https://www.gitpod.io) - [replit](https://repl.it) - JS ([jsfiddle](https://jsfiddle.net) - https://gist.dumber.app)
 | docs & autocompleters | | [zealdocs](https://zealdocs.org) - [kite](https://www.kite.com) - [tabnine](https://tabnine.com)
 | terminal | CONEMU | vscode - hyper.is
 | repl | | node - ruby - python - janet
@@ -80,20 +80,21 @@
 | art news | | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 | culture news | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org)
 | ebook reader | | [loudreader](https://www.loudreader.com)
-| hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily/) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNify](https://hnify.com)- feeds ([HNfeeds](https://hnrss.github.io/) - [HNapp](https://hnapp.com)) - [deepHN](https://deephn.org) 
+| hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily/) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - feeds ([HNfeeds](https://hnrss.github.io/) - [HNapp](https://hnapp.com))
 | reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press/)
-| feeds | FEEDLY | https://usepanda.com - https://sumi.news - https://waldenpond.press
+| feeds | FEEDLY | https://usepanda.com - https://sumi.news
+| prints | | [tiny printer](https://tinyprinter.club) - https://waldenpond.press
 | torrents | | utorrent
 | crypto | COINGECKO + COINMARKETCAP | livecoinwatch
 | fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [degiro](https://www.degiro.pt)
 | crowdfunding | | kickstarter - indiegogo - seedrs
 | geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
 | collectionism | | [ucoin](https://en.ucoin.net)
-| shopping | | [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com)
+| shopping | | [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 | booking | AIRBNB + BOOKING | www.housetrip.com
 | flights | SKYSCANNER | [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
-| travel info | | www.seat61.com - http://airport.wroclaw.pl - https://reopen.europa.eu/pt
-| weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php) - https://www.skylinewebcams.com
+| travel info | | [reopen europe](https://reopen.europa.eu/pt) - [seat61](https://www.seat61.com) - *[wroclaw airport](https://airport.wroclaw.pl)*
+| weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
 | osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com/) - [instantstreetview](https://www.instantstreetview.com/) - [show my street](https://showmystreet.com/)
 | maps | | [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com/) - [marinetraffic](https://www.marinetraffic.com/)
 | assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code)
