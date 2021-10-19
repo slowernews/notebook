@@ -52,8 +52,6 @@
 | time management | | http://www.magicworkcycle.com - https://tiempone.com
 | forms & mail lists | | gdocs - [poll-maker](https://www.poll-maker.com) - [formking](https://www.formking.io) - [mailchimp](https://mailchimp.com)
 | automate | | ahk - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today) - ifttt
-| job boards | | https://www.beefrii.com - [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/) - [sidejobs](https://sidequestjobs.com/)
-| head hunting | | [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
 
 ### graphics
 
@@ -75,21 +73,28 @@
 | repair | | https://manuzoid.com
 | learn music | | lilybin - hacklily - abcjs - https://learningmusic.ableton.com - https://lmms.io
 | music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
-| news | | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [tortoise](https://www.tortoisemedia.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
-| tech news | HACKER NEWS | [lobsters](https://lobste.rs)
-| art news | | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
-| culture news | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org)
 | ebook reader | | [loudreader](https://www.loudreader.com)
 | hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily/) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - feeds ([HNfeeds](https://hnrss.github.io/) - [HNapp](https://hnapp.com))
 | reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press/)
 | feeds | FEEDLY | https://usepanda.com - https://sumi.news
 | prints | | [tiny printer](https://tinyprinter.club) - https://waldenpond.press
 | torrents | | utorrent
-| crypto | COINGECKO + COINMARKETCAP | livecoinwatch
 | fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [degiro](https://www.degiro.pt)
-| crowdfunding | | kickstarter - indiegogo - seedrs
-| geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
 | collectionism | | [ucoin](https://en.ucoin.net)
+| assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code)
+
+### info sources
+
+| function | tool I use | alternatives I like |
+| :--- | :--- | :--- |
+| news | | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [tortoise](https://www.tortoisemedia.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
+| tech news | HACKER NEWS | [lobsters](https://lobste.rs)
+| art news | | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
+| culture news | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org)
+| crypto | COINGECKO + COINMARKETCAP | livecoinwatch
+| job boards | | https://www.beefrii.com - [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/) - [sidejobs](https://sidequestjobs.com/)
+| head hunting | | [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
+| crowdfunding | | kickstarter - indiegogo - seedrs
 | shopping | | [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 | booking | AIRBNB + BOOKING | www.housetrip.com
 | flights | SKYSCANNER | [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
@@ -97,4 +102,4 @@
 | weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
 | osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com/) - [instantstreetview](https://www.instantstreetview.com/) - [show my street](https://showmystreet.com/)
 | maps | | [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com/) - [marinetraffic](https://www.marinetraffic.com/)
-| assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code)
+| geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living/) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
