@@ -30,7 +30,7 @@
 | app hosting | | firebase - [google app engine](https://cloud.google.com/appengine)
 | analytics | GOATCOUNTER | [counter.dev](https://counter.dev)
 | ads | | [on newsletters](https://upstart.me/search/index.php)
-| apis | | [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - https://trolley.link
+| apis | | [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 | optimize | | [gtmetrix](https://gtmetrix.com)
 | css | | bulma - tailwind - https://shuffle.dev
 | colors | | https://colourco.de - https://uigradients.com - https://bradjasper.com/subtle-patterns-bookmarklet - www.colorbox.io
@@ -41,8 +41,8 @@
 | function | tool I use | alternatives I like |
 | :--- | :--- | :--- |
 | writing / research | WORD2010 + EXCEL2010 | scrivener - zotero - www.hemingwayapp.com - https://epub.to
-| markdown / latex editor | | https://typora.io - www.overleaf.com
-| translator | GOOGLE TRANSLATOR | https://wikitranslator.github.io
+| markdown / latex editor | | [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
+| translator | GOOGLE TRANSLATOR | [wiki translator](https://wikitranslator.github.io)
 | spreadsheet | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
 | accounting | EXCEL2010 + FACTURAMA | [plain text](https://plaintextaccounting.org/) ([ledger](www.ledger-cli.org) - [hledger](https://hledger.org) - [beancount](https://awesome-beancount.com) - [prudent](https://prudent.me)) - [payymail](https://payymail.com)
@@ -66,22 +66,22 @@
 
 ### hobby
 
-| function | tool I use | alternatives I like |
-| :--- | :--- | :--- |
-| srs | ANKI2.0 | supermemo - readlang - memrise
+| function | tool I use | alternatives I like | to test | 
+| :--- | :--- | :--- | :--- |
+| srs | ANKI2.0 | supermemo - readlang - memrise | to test
 | moocs | | [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
-| repair | | https://manuzoid.com
-| learn music | | lilybin - hacklily - abcjs - https://learningmusic.ableton.com - https://lmms.io
-| music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
-| ebook reader | | [loudreader](https://www.loudreader.com)
+| repair | | https://manuzoid.com |
+| learn music | | lilybin - hacklily - abcjs - https://learningmusic.ableton.com - https://lmms.io |
+| music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com) | 
+| ebook reader | | [loudreader](https://www.loudreader.com) | 
 | hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily/) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - feeds ([HNfeeds](https://hnrss.github.io/) - [HNapp](https://hnapp.com))
-| reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press/)
-| feeds | FEEDLY | https://usepanda.com - https://sumi.news
-| prints | | [tiny printer](https://tinyprinter.club) - https://waldenpond.press
-| torrents | | utorrent
+| reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press/) | 
+| feeds | FEEDLY | https://usepanda.com - https://sumi.news | 
+| prints | | [tiny printer](https://tinyprinter.club) - https://waldenpond.press | 
+| torrents | | utorrent | 
 | fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [degiro](https://www.degiro.pt)
-| collectionism | | [ucoin](https://en.ucoin.net)
-| assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code)
+| collectionism | | [ucoin](https://en.ucoin.net) | 
+| assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) | 
 
 ### info sources
 

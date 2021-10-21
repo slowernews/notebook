@@ -47,7 +47,7 @@
 ## Benchmarks
 
 - [Computer languages speed](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
-- Web frameworks speed: [benchmarker](https://github.com/the-benchmarker/web-frameworks) - [techempower](https://www.techempower.com/benchmarks/)
+- Web frameworks speed: [benchmarker](https://web-frameworks-benchmark.netlify.app/result) - [techempower](https://www.techempower.com/benchmarks/)
 
 ## Trends
 
