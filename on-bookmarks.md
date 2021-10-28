@@ -13,7 +13,7 @@
 - Consulting: [one](https://hashref.com/)/[two](https://roybarber.com/)/[three](https://consulting.joreteg.com/)/[four](https://desktopneo.com) - [on real estate](https://www.zeonamcintyre.com/)
 - Mailbox money: [printable place cards](https://www.placecard.me/)
 - Geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
-- Books: [mousebookclub](https://mousebookclub.com/)
+- Books: [mousebookclub](https://mousebookclub.com/) - https://waldenpond.press
 - Other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com/) - [wild foods](https://alexandermcnaughton.com/) - [car leasing](https://www.lingscars.com/)
 
 ## Career

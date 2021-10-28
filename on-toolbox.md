@@ -77,7 +77,7 @@
 | hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily/) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn/) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - feeds ([HNfeeds](https://hnrss.github.io/) - [HNapp](https://hnapp.com))
 | reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press/) | 
 | feeds | FEEDLY | https://usepanda.com - https://sumi.news | 
-| prints | | [tiny printer](https://tinyprinter.club) - https://waldenpond.press | 
+| prints | | [tiny printer](https://tinyprinter.club) | 
 | torrents | | utorrent | 
 | fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [degiro](https://www.degiro.pt)
 | collectionism | | [ucoin](https://en.ucoin.net) | 
@@ -91,7 +91,7 @@
 | tech news | HACKER NEWS | [lobsters](https://lobste.rs)
 | art news | | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 | culture news | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org)
-| crypto | COINGECKO + COINMARKETCAP | livecoinwatch
+| crypto | COINGECKO + COINMARKETCAP | [blockchaincenter](https://www.blockchaincenter.net) - [livecoinwatch](https://www.livecoinwatch.com)
 | job boards | | https://www.beefrii.com - [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/) - [sidejobs](https://sidequestjobs.com/)
 | head hunting | | [triplebyte](https://triplebyte.com/) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com/) - [hackajob](https://hackajob.co/)
 | crowdfunding | | kickstarter - indiegogo - seedrs
