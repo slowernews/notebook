@@ -19,8 +19,7 @@ Relevant elm links: [news aggregator](https://elm-news.com/) - [packages](https:
 
 # Lisps
 
-- tools: [cursive](https://cursive-ide.com) - [lumo](https://github.com/anmonteiro/lumo) - [docs](https://clojuredocs.org/quickref)
-- clojure: [news aggregator](http://planet.clojure.in) - [koans](http://clojurescriptkoans.com/)
+- clojure: [get started](https://calva.io/get-started-with-clojure/) - [clojure radar](https://www.juxt.pro/radar) - [news aggregator](http://planet.clojure.in) - [koans](http://clojurescriptkoans.com/) - [cursive](https://cursive-ide.com) - [docs](https://clojuredocs.org/quickref)
 - books on:
 	- clojure: [brave](https://www.braveclojure.com/) - [elements](https://leanpub.com/elementsofclojure/read_sample) - [design patterns](http://mishadoff.com/blog/clojure-design-patterns) - [by example](https://kimh.github.io/clojure-by-example)
 	- clojurescript: [unraveled](https://funcool.github.io/clojurescript-unraveled) - [transforming datat](http://langintro.com/cljsbook) - [learn](https://www.learn-clojurescript.com/)

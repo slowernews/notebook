@@ -3,7 +3,7 @@
 - Experiences: [the worst tours](https://theworsttours.weebly.com/) - [trekking guides](https://andrewskurka.com/) - [rent scenario](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant & bed](https://www.brushlandeatinghouse.com/) - [workaway](https://www.workaway.info/) - rent cabins [one](https://www.cabinscape.com/)/[two](https://getaway.house/) - [rent houses](https://www.silentliving.pt/)
 - Dreams (lifestyle): nomadic [one](https://www.nomadicmatt.com/)/[two](https://sofianaaustralia.com/)/[three](https://craigmod.com/) - [cabinland](https://www.youtube.com/c/Cabinland/videos)
 - Research: [dense discovery](https://www.densediscovery.com/) - [exclusive](https://www.wowhaus.co.uk/) or cheap houses [one](https://www.instagram.com/cheapoldhouses/)/[two](https://www.instagram.com/cheapirishhouses/)
-- Real estate: exclusive & good photography [one](https://www.fantasticfrank.de/)/[two](https://www.themodernhouse.com/) - [private islands](http://www.vladi-private-islands.de/)
+- Real estate: exclusive & good photography [one](https://www.fantasticfrank.de/)/[two](https://www.themodernhouse.com/) - [private islands](http://www.vladi-private-islands.de/) - [house shares](https://www.altacasa.com)
 - Kits: [farm ](https://farmfromabox.com/) - Aframe [one](https://avrame.com/)/[two](https://dubldom.com/eu) - cabin [one](https://buildcover.com/)/[two](https://www.kodasema.com/pt/)
 - Marketing packages: [brand + logo + domain package](https://www.brandbucket.com/) - [$495 logos](https://logo.pizza/)
 - Crowdsource graphics: [one](https://www.crowdspring.com/)/[two](https://draftss.com/)/[three](https://www.manypixels.co/)
