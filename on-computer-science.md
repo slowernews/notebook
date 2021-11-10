@@ -51,7 +51,7 @@
 
 ## Trends
 
-- computer languages popularity: [redmonk](https://redmonk.com/rstephens/files/2021/08/redmonk-language-rankings-june-2021-1536x1225.png) - [githut](https://madnight.github.io/githut) - [stackoverflow trends](https://insights.stackoverflow.com/trends)
-- NPM modules popularity: [trends](https://www.npmtrends.com/) - [moiva](https://moiva.io) - [best of JS](https://bestofjs.org) - [awesome JS](https://github.com/sorrycc/awesome-javascript)
-- github: [dev community trends](https://octoverse.github.com) - [octotrends](https://octotrends.com)
-- HN: [posting trends](https://toddwschneider.com/dashboards/hacker-news-trends) - [hiring trends](https://www.hntrends.com/)
+- computer languages popularity: [redmonk](https://redmonk.com/rstephens/files/2021/08/redmonk-language-rankings-june-2021-1536x1225.png) - [githut](https://madnight.github.io/githut) - [stackoverflow](https://insights.stackoverflow.com/trends)
+- JS ecosystem: [npm](https://www.npmtrends.com/) - [moiva](https://moiva.io) - [best of](https://bestofjs.org) - [awesome](https://github.com/sorrycc/awesome-javascript)
+- github: [dev community](https://octoverse.github.com) - [octotrends](https://octotrends.com)
+- HN: [posting](https://toddwschneider.com/dashboards/hacker-news-trends) - [hiring](https://www.hntrends.com/)
