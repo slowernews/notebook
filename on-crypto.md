@@ -32,6 +32,7 @@
 	- [tezos]()
 - haskell:
 	- [cardano](https://github.com/input-output-hk) [[plutus](https://github.com/input-output-hk/plutus)]
+	- [kadena](https://github.com/kadena-io) [[pact lisp](https://github.com/kadena-io/pact)]
 - erlang:
 	- [helium](https://github.com/helium)
 - clojure:
