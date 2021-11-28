@@ -1,19 +1,22 @@
 # On crypto
 
-- [ATH](https://www.blockchaincenter.net) - [ATH2](https://www.livecoinwatch.com) - [converter](https://coinmarketcap.com/converter/) - [compare](https://www.coingecko.com/en/coins/compare) - [TVL](https://defillama.com/chains) - [withdrawal fees](https://withdrawalfees.com) - [stock indexes](https://pt.tradingeconomics.com/stocks)
+- [ATH](https://www.blockchaincenter.net) - [ATH2](https://www.livecoinwatch.com) - [converter](https://coinmarketcap.com/converter/) - [compare](https://www.coingecko.com/en/coins/compare) - [TVL](https://defillama.com/chains) - [stock indexes](https://pt.tradingeconomics.com/stocks)
 
 ## Main and [contract] programming languages
 
 - go:
 	- [ethereum](https://github.com/ethereum/) [solidity]
+	- [avalanche](https://github.com/ava-labs) [solidity]
 	- [polygon](https://github.com/maticnetwork) [solidity]
 	- [chainlink](https://github.com/smartcontractkit) [solidity]
-	- [avalanche](https://github.com/ava-labs) [solidity]
+	- [terra](https://github.com/terra-money) [cosmwasm]
 	- [celer](https://github.com/celer-network) [EVM]
 	- [omg](https://github.com/omgnetwork) [EVM]
-	- [terra](https://github.com/terra-money) [cosmwasm]
 	- [flow](https://github.com/onflow) [cadence]
 	- [cosmos](https://github.com/cosmos)
+	- [vechain](https://github.com/vechain)
+	- [klaytn](https://github.com/klaytn)
+	- [iotex](https://github.com/iotexproject)
 - rust:
 	- [solana](https://github.com/solana-labs) [rust]
 	- [polkadot](https://github.com/paritytech/) [[ink](https://github.com/paritytech/ink)]
@@ -21,12 +24,20 @@
 	- [near](https://github.com/near) [EVM]
 	- [nervos](https://github.com/nervosnetwork) [EVM]
 	- [stacks](https://github.com/blockstack) [clarity lisp]
+	- [holochain](https://github.com/holochain) [rust]
+	- [secret](https://github.com/scrtlabs)
+	- [polymath](https://github.com/PolymathNetwork)
+	- [nucypher](https://github.com/nucypher/)
+	- [casper](https://github.com/casper-network)
 - c++:
 	- [bitcoin](https://github.com/bitcoin/bitcoin)
 	- [nano](https://github.com/nanocurrency)
+	- [zilliqa](https://github.com/Zilliqa)
+	- [hive](https://github.com/openhive-network)
 - java:
 	- [tron](https://github.com/tronprotocol) [solidity]
 	- hedera [solidity]
+	- [radix](https://github.com/radixdlt) [scrypto]
 - ocaml:
 	- [mina protocol](https://github.com/MinaProtocol/mina)
 	- [tezos]()
@@ -39,3 +50,5 @@
 	- [district0x](https://github.com/district0x)
 - python:
 	- [chia](https://github.com/Chia-Network/) [[chia lisp](https://chialisp.com/)]
+- typescript:
+	- [lisk](https://github.com/LiskHQ) [js]
