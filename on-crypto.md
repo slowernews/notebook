@@ -1,6 +1,6 @@
 # On crypto
 
-- [ATH](https://www.blockchaincenter.net) - [ATH2](https://www.livecoinwatch.com) - [converter](https://coinmarketcap.com/converter/) - [compare](https://www.coingecko.com/en/coins/compare) - [TVL](https://defillama.com/chains) - [stock indexes](https://pt.tradingeconomics.com/stocks)
+- [ATH](https://www.blockchaincenter.net) - [ATH2](https://cryptorank.io) - [ATH3](https://www.livecoinwatch.com) - [converter](https://coinmarketcap.com/converter/) - [compare](https://www.coingecko.com/en/coins/compare) - [TVL](https://defillama.com/chains) - [L2beat](https://l2beat.com/) - [stock indexes](https://pt.tradingeconomics.com/stocks)
 
 ## Main and [contract] programming languages
 
@@ -13,6 +13,7 @@
 	- [celer](https://github.com/celer-network) [EVM]
 	- [omg](https://github.com/omgnetwork) [EVM]
 	- [flow](https://github.com/onflow) [cadence]
+	- algorand
 	- [cosmos](https://github.com/cosmos)
 	- [vechain](https://github.com/vechain)
 	- [klaytn](https://github.com/klaytn)
@@ -29,8 +30,14 @@
 	- [polymath](https://github.com/PolymathNetwork)
 	- [nucypher](https://github.com/nucypher/)
 	- [casper](https://github.com/casper-network)
-- c++:
-	- [bitcoin](https://github.com/bitcoin/bitcoin)
+- c++ / c:
+	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks (bitcoin cash, [litecoin](https://github.com/litecoin-project))
+	- [dogecoin](https://github.com/dogecoin)
+	- [dash](https://github.com/dashpay/dash)
+	- [zcash](https://github.com/zcash)
+	- [monero](https://github.com/monero-project/monero)
+	- [xrp](https://github.com/ripple)
+	- [stellar](https://github.com/stellar)
 	- [nano](https://github.com/nanocurrency)
 	- [zilliqa](https://github.com/Zilliqa)
 	- [hive](https://github.com/openhive-network)
