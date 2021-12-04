@@ -83,9 +83,7 @@
 | collectionism | | [ucoin](https://en.ucoin.net) | 
 | assorted | | https://tags.circumfluo.us - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) | 
 
----
-
-## On info sources
+### On info sources
 
 | function | source I use | alternatives I like |
 | :--- | :--- | :--- |
