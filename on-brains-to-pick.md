@@ -7,12 +7,12 @@
 - [1930] Warren Buffett
 - [1945] David Allen
 - [1947] Paulo Coelho
-- [1953] [David Deutsch](https://twitter.com/DavidDeutschOxf)
+- [1953] David Deutsch
 - [195?] Robert Glover
 - [1959] Stephen Wolfram
 - [1959] Stephen Kotkin
-- [1960] [Nassim Taleb](https://twitter.com/nntaleb)
-- [1962] [Jordan Peterson](https://twitter.com/jordanbpeterson) - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
+- [1960] Nassim Taleb
+- [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
 - [1964] Jeff Bezos
 - [1964] Paul Graham
 - [1965] Eric Weinstein
