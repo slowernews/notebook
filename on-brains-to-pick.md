@@ -2,39 +2,41 @@
 
 (contemporaneity order):
 
-### 1920s
+- 1920
+	- [1918] Richard Feynman 
+- 1925
+	- [1924] Charlie Munger
+- 1930
+	- [1930] Warren Buffett
+- 1945
+	- [1945] David Allen
+	- [1947] Paulo Coelho
+- 1955
+	- [1953] [David Deutsch](https://twitter.com/DavidDeutschOxf)
+- 1960
+	- [1960] [Nassim Taleb](https://twitter.com/nntaleb)
+	- [1962] [Jordan Peterson](https://twitter.com/jordanbpeterson) - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
+- 1965
+	- [1964] Jeff Bezos
+	- [1965] Eric Weinstein
+- 1970
+	- [1969] Derek Sivers
+	- [1971] Elon Musk
+- 1975
+	- [1974] [Naval Ravikant](https://twitter.com/naval)
+- 1995
+	- [1994]Vitalik Buterin
 
-- Charlie Munger
+- [????] Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
+- [????] Evan Czaplicki
 
-### 1930s
-
-### 1940s
-
-- David Allen
-
-### 1950s
-
-- [David Deutsch](https://twitter.com/DavidDeutschOxf)
-- Derek Sivers
-- Elon Musk
-- Eric Weinstein
-- Evan Czaplicki
-- Jeff Bezos
-- [Jordan Peterson](https://twitter.com/jordanbpeterson) - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
-- [Naval Ravikant](https://twitter.com/naval)
-- [Nassim Taleb](https://twitter.com/nntaleb)
 - Paul Graham
-- Paulo Coelho
-- Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
-- Richard Feynman 
 - Robert Glover
 - Sam Harris
 - Stephen Kotkin
 - Stephen Wolfram
 - Tim Ferriss
 - Tim Urban
-- Vitalik Buterin
-- Warren Buffett
 
 <!--
 - Ausguste Escoffier
