@@ -1,9 +1,19 @@
 # Brains to pick
 
-(alphabetic order):
+(contemporaneity order):
+
+### 1920s
 
 - Charlie Munger
+
+### 1930s
+
+### 1940s
+
 - David Allen
+
+### 1950s
+
 - [David Deutsch](https://twitter.com/DavidDeutschOxf)
 - Derek Sivers
 - Elon Musk
