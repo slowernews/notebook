@@ -1,6 +1,6 @@
 # Brains to pick
 
-(contemporaneity order):
+Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers or motivators.
 
 - [1918] Richard Feynman 
 - [1924] Charlie Munger
