@@ -2,9 +2,11 @@
 
 Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers or motivators.
 
+- [1846] Auguste Escoffier
 - [1918] Richard Feynman 
 - [1924] Charlie Munger
 - [1930] Warren Buffett
+- [1940] Alan Kay
 - [1945] David Allen
 - [1947] Paulo Coelho
 - [1953] David Deutsch
@@ -21,6 +23,7 @@ Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers 
 - [1971] Elon Musk
 - [1974] [Naval Ravikant](https://twitter.com/naval)
 - [1977] Tim Ferriss
+- [1980] [Balaji Srinivasan](https://twitter.com/balajis)
 - [1994] Vitalik Buterin
 
 ---
@@ -30,8 +33,6 @@ Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers 
 - [19??] Tim Urban
 
 <!--
-- Ausguste Escoffier
-- Allan Kay
 - Rollo Tomassi
 - Milton Friedman
 - Mark Manson
