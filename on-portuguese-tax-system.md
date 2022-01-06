@@ -292,8 +292,8 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 ### Valores indexantes
 
-- IAS (Indexante dos Apoios Sociais) 2019 = 435,76€
-- SMN (Salário Mínimo Nacional) 2019 = 600€ x 14 meses
+- IAS (Indexante dos Apoios Sociais) 2022 = 443€
+- SMN (Salário Mínimo Nacional) 2022 = 705€ x 14 meses
 
 
 

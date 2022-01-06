@@ -8,6 +8,7 @@ Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers 
 - [1930] Warren Buffett
 - [1940] Alan Kay
 - [1945] David Allen
+- [1943] [Pierluigi Piazzi](https://www.youtube.com/watch?v=RlSCoYwnxr4)
 - [1947] Paulo Coelho
 - [1953] David Deutsch
 - [195?] Robert Glover
