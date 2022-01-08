@@ -4,24 +4,27 @@
 
 ### generalist
 
-- os & antivirus: WIN7 + AVAST [ubuntu]
-- launcher / file search: LISTARY5 | [keypirinha (py) - wox (c#) - cerebro (js)]
-- web browser: BRAVE + FFDEV + SAFARI [chrome]
+- os & antivirus: WIN7 + AVAST | ubuntu
+- launcher / file search: LISTARY5 | keypirinha (py) - wox (c#) - cerebro (js)
+- web browser: BRAVE + FFDEV + SAFARI | chrome
 - search: PRESEARCH | qwant
 - chat: SIGNAL | whatsapp
-- mail: GMAIL + PROTONMAIL [tutanota]
+- mail: GMAIL + PROTONMAIL | tutanota
 - cloud: GDRIVE
-- notes/wiki: SUBLIME3 [getnotation - nvalt - qownnotes - docfetch - tiddlywiki - zimwiki - joplin - [standard notes](https://standardnotes.org)]
-- fonts: CONSOLAS + ARIAL NARROW [[iosevka](https://typeof.net/Iosevka) - [firacode](https://github.com/tonsky/FiraCode) - [inter](https://rsms.me/inter) - [public sans](https://public-sans.digital.gov) - [national park](https://nationalparktypeface.com) - [google fonts](https://fonts.google.com) - [what the font](onts.com/WhatTheFont)]
+- notes/wiki: SUBLIME3
+	- getnotation - nvalt - qownnotes - docfetch - tiddlywiki - zimwiki - joplin - [standard notes](https://standardnotes.org)
+- fonts: CONSOLAS + ARIAL NARROW
+	- [iosevka](https://typeof.net/Iosevka) - [firacode](https://github.com/tonsky/FiraCode) - [inter](https://rsms.me/inter) - [public sans](https://public-sans.digital.gov) - [national park](https://nationalparktypeface.com) - [google fonts](https://fonts.google.com) - [what the font](onts.com/WhatTheFont)
 
 ### dev
 
 - text editor: SUBLIME3 | vscode - atom - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com) - emacs - neovim
-- cloud editor & snippets | GIST | [[gitpod](https://www.gitpod.io) - [replit](https://repl.it) - JS ([jsfiddle](https://jsfiddle.net) - https://gist.dumber.app)]
-- docs & autocompleters | | [zealdocs](https://zealdocs.org) - [kite](https://www.kite.com) - [tabnine](https://tabnine.com)
-- terminal | CONEMU | vscode - hyper.is
-- repl | | node - ruby - python - janet
-- db | | [dbeaver](https://dbeaver.io) - [sql notebook](https://franchise.cloud) - https://www.evidence.dev
+- cloud editor & snippets: GIST | [gitpod](https://www.gitpod.io) - [replit](https://repl.it) - JS ([jsfiddle](https://jsfiddle.net) - https://gist.dumber.app)
+- docs & autocompleters:	| [zealdocs](https://zealdocs.org) - [kite](https://www.kite.com) - [tabnine](https://tabnine.com)
+- terminal: CONEMU | vscode - hyper.is
+- repl: ? | node - ruby - python - janet
+- db: ?
+	- [dbeaver](https://dbeaver.io) - [sql notebook](https://franchise.cloud) - https://www.evidence.dev
 - domains | NAMECHEAP |
 - cms hosting | TUMBLR |  shopify
 - static hosting | NETLIFY | github - [vercel](https://vercel.com) - [glitch](https://glitch.com) - [jamstack](https://jamstack.org/generators)
