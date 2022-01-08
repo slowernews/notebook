@@ -4,14 +4,12 @@
 
 ### generalist
 
-- os & antivirus: WIN7 + AVAST
+- os & antivirus: *WIN7 + AVAST*
 	- ubuntu
-- launcher / file search: LISTARY5
+- launcher / file search: *LISTARY5*
 	- keypirinha (py) - wox (c#) - cerebro (js)
-- web browser: BRAVE + FFDEV + SAFARI
-	- chrome
-- search: PRESEARCH
-	- qwant
+- web browser | *BRAVE + FFDEV + SAFARI* | chrome
+- search | *PRESEARCH* | qwant
 - chat: SIGNAL
 	- whatsapp
 - mail: GMAIL + PROTONMAIL
