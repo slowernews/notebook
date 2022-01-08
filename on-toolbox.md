@@ -5,9 +5,9 @@
 | function | tool I use | alternatives I like |
 | :--- | :--- | :--- |
 | os & antivirus | WIN7 + AVAST | ubuntu
-| launcher / file search | LISTARY5 | keypirinha [py] - wox [c#] - cerebro [js]
-| web browser | BRAVE + FFDEV + SAFARI | chrome
-| search | PRESEARCH | qwant
+| launcher | LISTARY5 | keypirinha (py) - wox (c#) - cerebro (js)
+| browser | BRAVE + FFDEV + SAFARI | chrome
+| web search | PRESEARCH | qwant
 | chat | SIGNAL | whatsapp
 | mail | GMAIL + PROTONMAIL | tutanota
 | cloud | GDRIVE | 
@@ -40,8 +40,8 @@
 
 | function | tool I use | alternatives I like |
 | :--- | :--- | :--- |
-| writing / research | WORD2010 + EXCEL2010 | scrivener - zotero - www.hemingwayapp.com - https://epub.to
-| markdown / latex editor | | [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
+| writing + research | WORD2010 + EXCEL2010 | scrivener - zotero - www.hemingwayapp.com - https://epub.to
+| markdown/latex editor | | [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
 | translator | GOOGLE TRANSLATOR | [wiki translator](https://wikitranslator.github.io)
 | spreadsheet | EXCEL2010 | [rows](https://rows.com)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
@@ -66,9 +66,9 @@
 
 ### hobby
 
-| function | tool I use | alternatives I like | to test | 
-| :--- | :--- | :--- | :--- |
-| srs | ANKI2.0 | supermemo - readlang - memrise | to test
+| function | tool I use | alternatives I like |
+| :--- | :--- | :--- |
+| srs | ANKI2.0 | supermemo - readlang - memrise
 | moocs | | [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 | repair | | https://manuzoid.com |
 | learn music | | lilybin - hacklily - abcjs - https://learningmusic.ableton.com - https://lmms.io |
