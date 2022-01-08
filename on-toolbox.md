@@ -19,7 +19,8 @@
 | function | tool I use | alternatives I like or may test |
 | :--- | :--- | :--- |
 | text editor | SUBLIME3 | vscode - atom - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com) - emacs - neovim
-| cloud editor & snippets | | [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - JS ([jsfiddle](https://jsfiddle.net) - https://gist.dumber.app) - gist
+| cloud editor | | [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
+| snippets | | JS ([jsfiddle](https://jsfiddle.net) - https://gist.dumber.app) - gist
 | docs & autocompleters | | [zealdocs](https://zealdocs.org) - [kite](https://www.kite.com) - [tabnine](https://tabnine.com)
 | terminal | CONEMU | vscode - hyper.is
 | repl | | node - ruby - python - janet
@@ -91,8 +92,8 @@
 
 | function | source I use | alternatives I like or may test |
 | :--- | :--- | :--- |
-| general | | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [tortoise](https://www.tortoisemedia.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
-| tech | HACKER NEWS | [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
+| general | HACKER NEWS | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
+| tech | | [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
 | art | AFASIAARCHZINE | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 | culture | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org) - [dense discovery](https://www.densediscovery.com/archive/)
 | job boards | | https://www.beefrii.com - [nocsok](https://nocsok.com/) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com/) - [remoteok](https://remoteok.io/) - [producthire](https://producthire.net/) - [whoishiring](https://whoishiring.io/) - [landingjobs](https://landing.jobs/) - [germantechjobs](https://germantechjobs.de/) - [relocate](https://relocate.me/) - [sidejobs](https://sidequestjobs.com/)
