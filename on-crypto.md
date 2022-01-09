@@ -37,7 +37,7 @@
 	- [dash](https://github.com/dashpay/dash)
 	- [zcash](https://github.com/zcash)
 	- [monero](https://github.com/monero-project/monero)
-	- [xrp](https://github.com/ripple)
+	- [ripple](https://github.com/ripple)
 	- [stellar](https://github.com/stellar)
 	- [nano](https://github.com/nanocurrency)
 	- [zilliqa](https://github.com/Zilliqa)
