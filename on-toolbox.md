@@ -47,10 +47,10 @@
 | calc | EXCEL2010 | [rows](https://rows.com) - [speedcrunch](http://speedcrunch.org) - [insect](https://insect.sh) - [numbr](https://numbr.dev)
 | money management | EXCEL2010 | [lunchmoney](https://lunchmoney.app)
 | accounting | EXCEL2010 + FACTURAMA | [plain text](https://plaintextaccounting.org) ([ledger](www.ledger-cli.org) - [hledger](https://hledger.org) - [beancount](https://awesome-beancount.com) - [prudent](https://prudent.me)) - [payymail](https://payymail.com)
-| presentations | | https://mark.show - mdx (markdown) - prezi - [descript](https://www.descript.com) - [livetext](https://livetext.21solutions.de)
-| flowcharts | | [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [viz JS](http://viz-js.com) - [tldraw](https://www.tldraw.com)]
-| proj management | | trello - self hosted (https://personalkanban.js.org - https://www.manifest.app) - treesheets - [taskjuggler](https://taskjuggler.org) - zoom - slack - [clickup](https://clickup.com)
-| time management | | http://www.magicworkcycle.com - https://tiempone.com
+| presentations | | [mark.show](https://mark.show) - mdx (markdown) - prezi - [descript](https://www.descript.com) - [livetext](https://livetext.21solutions.de)
+| flowcharts | | [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [viz JS](http://viz-js.com) - [tldraw](https://www.tldraw.com)
+| proj management | | trello - self hosted ([personal kanban](https://personalkanban.js.org) - [manifest app](https://www.manifest.app)) - treesheets - [taskjuggler](https://taskjuggler.org) - zoom - slack - [clickup](https://clickup.com)
+| time management | | [magic workcycle](http://www.magicworkcycle.com/) - [tiempone](https://tiempone.com)
 | forms & mail lists | | gdocs - [poll-maker](https://www.poll-maker.com) - [formking](https://www.formking.io) - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 | automate | | ahk - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today) - ifttt - [browserflow](https://browserflow.app)
 
