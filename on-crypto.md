@@ -46,6 +46,7 @@
 	- [tron](https://github.com/tronprotocol) [solidity]
 	- hedera [solidity]
 	- [radix](https://github.com/radixdlt) [scrypto]
+	- [nuls](https://github.com/nuls-io)
 - ocaml:
 	- [mina protocol](https://github.com/MinaProtocol/mina)
 	- [tezos]()
@@ -60,3 +61,5 @@
 	- [chia](https://github.com/Chia-Network/) [[chia lisp](https://chialisp.com/)]
 - typescript:
 	- [lisk](https://github.com/LiskHQ) [js]
+- c#:
+	- [aelf](https://github.com/aelfProject)
