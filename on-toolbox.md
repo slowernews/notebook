@@ -2,7 +2,7 @@
 
 ### generalist
 
-| function | tool I use | alternatives I like |
+| function | tool I use | alternatives I like or may test |
 | :--- | :--- | :--- |
 | os & antivirus | WIN7 + AVAST | ubuntu
 | launcher | LISTARY5 | keypirinha (py) - wox (c#) - cerebro (js)
@@ -60,7 +60,7 @@
 | :--- | :--- | :--- |
 | cad | AUTOCAD2012 [lisp] |  archicad [gdl]
 | 3d & render | SKETCHUP17 [rb2.2] | revit - blender [py] - vray
-| raster & vectors | PHOTOSHOP CS4 [js] | [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh/)
+| raster & vectors | PHOTOSHOP CS4 [js] | [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh)
 | pixel art | | [aseprite](https://www.aseprite.org) - [isometric maps](https://isometricmaps.com) - [ditherpaint](https://beyondloom.com/tools/ditherpaint.html)
 | image collection | LOCAL + PINTEREST | | dribbble - behance - pexels - unsplash
 
@@ -82,7 +82,7 @@
 | prints | | [tinyprinter](https://tinyprinter.club)
 | newsletters | SUBSTACK | [papyrus](https://papyrus.so)
 | torrents | | utorrent | 
-| fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [degiro](https://www.degiro.pt)
+| fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt) - [degiro](https://www.degiro.pt) - [swissquote](https://en.swissquote.com)
 | collectionism | | [ucoin](https://en.ucoin.net)
 | gaming | | [tabletop sounds](https://tabletopy.com) - [guriddo](https://www.guriddo.app) - [escape team](https://www.escape-team.com)
 | assorted | | [tumblr tags](https://tags.circumfluo.us) - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) - [wallpapers](https://tanck.nl/wallpaper)

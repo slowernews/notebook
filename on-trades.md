@@ -7,6 +7,8 @@
 - 12 Amps when standby, 20 Amps when working (apollo 13)
 - 50 KVA (domestic limit from local authorities in PT)
 
+- [mobile solar power](https://www.mobile-solarpower.com)
+
 ## Mechanics
 
 - [animated engines](https://animatedengines.com)
