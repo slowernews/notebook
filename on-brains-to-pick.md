@@ -1,6 +1,6 @@
 # Brains to pick
 
-Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers or motivators.
+Great thinkers, makers, sellers or motivators.
 
 - [1846] Auguste Escoffier
 - [1918] Richard Feynman 
@@ -8,12 +8,12 @@ Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers 
 - [1930] Warren Buffett
 - [1940] Alan Kay
 - [1945] David Allen
-- [1943] [Pierluigi Piazzi](https://www.youtube.com/watch?v=RlSCoYwnxr4)
-- [1947] Paulo Coelho
+- [1947] Paulo Coelho - [Timeless interview](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (Portuguese)
 - [1953] David Deutsch
+- [1955] Bill Gates 
+- [1955] Steve Jobs
 - [195?] Robert Glover
 - [1959] Stephen Wolfram
-- [1959] Stephen Kotkin
 - [1960] Nassim Taleb
 - [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
 - [1964] Jeff Bezos
@@ -31,14 +31,21 @@ Polymaths or highly focused (visible) outliers. Great thinkers, makers, sellers 
 
 - [19??] Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
 - [19??] Evan Czaplicki
+- [19??] Rollo Tomassi
 - [19??] Tim Urban
 
+## Lectures
+
+Great teachers.
+
+- [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (Portuguese)
+- [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [1959] Stephen Kotkin
+
 <!--
-- Rollo Tomassi
 - Milton Friedman
 - Mark Manson
 - Abbas (iran - photojournalist)
-any females? Any non american?
 - Pawel Kuczynski (illustrator)
 - Mario Puppo (illustrator)
 - Edward Tufte
