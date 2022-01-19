@@ -20,7 +20,7 @@
 
 - Certifications: [AWS](https://aws.amazon.com/pt/certification)
 - Poland: [PT_PL](http://ppcc.pl) - wroclaw [one](https://www.monterail.com/careers)/[two](https://10clouds.com/careers)
-- Job boards: remote [one](https://www.beefrii.com)/[two](https://freshremote.work)/[three](https://remoteok.com) and [four](https://weworkremotely.com) - [nocsdegree](https://www.nocsdegree.com/jobs) - [sidejobs](https://sidequestjobs.com) - YC [one](https://www.ycombinator.com/jobs)/[two](https://whoishiring.io) - [relocate](https://relocate.me) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs) 
+- Job boards: remote [one](https://www.beefrii.com)/[two](https://freshremote.work)/[three](https://remoteok.com)/[four](https://weworkremotely.com) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [sidejobs](https://sidequestjobs.com) - YC [one](https://www.ycombinator.com/jobs)/[two](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs) 
 - Head hunting: [triplebyte](https://triplebyte.com) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co)
 - Crowdfunding: kickstarter - indiegogo - seedrs
 
@@ -49,7 +49,7 @@
 - Flights: skyscanner - [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
 - Weather: windguru.cz - [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
 - Maps: [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads)
-- Osm: [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com)
+- Osm: [realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com)
 - Geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
 
 ## Other hobby horses
@@ -60,7 +60,7 @@
 - Cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - Linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos) - [etymology](https://www.youtube.com/user/Alliterative/videos)
 - Statistics: [INE](https://www.ine.pt) - [ucoin](https://en.ucoin.net)
-- Trades: [Woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
+- Trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
 - Learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
 
 ## Info sources
