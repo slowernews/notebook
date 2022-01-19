@@ -20,11 +20,11 @@
 | :--- | :--- | :--- |
 | text editor | SUBLIME3 | vscode - atom - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com) - emacs - neovim
 | cloud editor | | [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
-| snippets | | JS ([jsfiddle](https://jsfiddle.net) - https://gist.dumber.app) - gist
+| snippets | | gist - JS ([jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app))
 | docs & autocompleters | | [zealdocs](https://zealdocs.org) - [kite](https://www.kite.com) - [tabnine](https://tabnine.com)
 | terminal | CONEMU | vscode - hyper.is
 | repl | | node - ruby - python - janet
-| db | | [dbeaver](https://dbeaver.io) - sql client [one](https://franchise.cloud), [two](https://sqlnotebook.com) & [three](https://rosefinchapp.com) - https://www.evidence.dev
+| db | | [dbeaver](https://dbeaver.io) - sql client [one](https://franchise.cloud), [two](https://sqlnotebook.com) & [three](https://rosefinchapp.com) - [evidence](https://www.evidence.dev)
 | domains | NAMECHEAP | [namelantern](https://namelantern.com)
 | cms hosting | TUMBLR | shopify
 | static hosting | NETLIFY | github - [vercel](https://vercel.com) - [glitch](https://glitch.com) - [jamstack](https://jamstack.org/generators)
@@ -33,15 +33,15 @@
 | ads | | [on newsletters](https://upstart.me/search/index.php)
 | apis | | [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 | optimize | | [gtmetrix](https://gtmetrix.com)
-| css | | bulma - tailwind - https://shuffle.dev
-| colors | | https://colourco.de - https://uigradients.com - https://bradjasper.com/subtle-patterns-bookmarklet - www.colorbox.io
+| css | | bulma - tailwind - [shuffle.dev](https://shuffle.dev)
+| colors | | [colourcode](https://colourco.de) - [uigradients](https://uigradients.com) - [patterns bookmarklet](https://bradjasper.com/subtle-patterns-bookmarklet) - www.colorbox.io
 | ux design | | figma - moqups - marvelapp - framer - penpot.app (mac only: sketch - kiteapp - paintcodeapp)
 
 ### office
 
 | function | tool I use | alternatives I like or may test |
 | :--- | :--- | :--- |
-| writing + research | WORD2010 + EXCEL2010 | scrivener - zotero - www.hemingwayapp.com - https://epub.to
+| writing + research | WORD2010 + EXCEL2010 | scrivener - zotero - [hemingway](www.hemingwayapp.com) - [epub.to](https://epub.to)
 | markdown/latex editor | | [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
 | translator | GOOGLE | [wiki translator](https://wikitranslator.github.io)
 | calc | EXCEL2010 | [rows](https://rows.com) - [speedcrunch](http://speedcrunch.org) - [insect](https://insect.sh) - [numbr](https://numbr.dev)
@@ -71,21 +71,21 @@
 | srs | ANKI2.0 | supermemo - readlang - memrise
 | moocs | | [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 | ebooks | | [1lib](https://1lib.education)
-| repair | | https://manuzoid.com
-| learn music | | lilybin - hacklily - abcjs - https://learningmusic.ableton.com - https://lmms.io
+| repair | | [manuzoid](https://manuzoid.com)
+| learn music | | lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
 | music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 | ebook reader | | [loudreader](https://www.loudreader.com)
 | hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - feeds ([HNfeeds](https://hnrss.github.io) - [HNapp](https://hnapp.com))
 | reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press)
 | wikipedia reader | | [modern wiki](https://www.modernwiki.app)
-| feed reader | FEEDLY | https://usepanda.com - https://sumi.news
+| feed reader | FEEDLY | [usepanda](https://usepanda.com) - [sumi.news](https://sumi.news)
 | prints | | [tinyprinter](https://tinyprinter.club)
 | newsletters | SUBSTACK | [papyrus](https://papyrus.so)
 | torrents | | utorrent | 
 | fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt) - [degiro](https://www.degiro.pt) - [swissquote](https://en.swissquote.com)
 | collectionism | | [ucoin](https://en.ucoin.net)
 | gaming | | [tabletop sounds](https://tabletopy.com) - [guriddo](https://www.guriddo.app) - [escape team](https://www.escape-team.com)
-| assorted | | [tumblr tags](https://tags.circumfluo.us) - https://typeitjs.com - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) - [wallpapers](https://tanck.nl/wallpaper)
+| assorted | | [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) - [wallpapers](https://tanck.nl/wallpaper)
 
 ### On info sources
 
@@ -103,6 +103,6 @@
 | flights | SKYSCANNER | [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
 | travel info | | [reopen europe](https://reopen.europa.eu/pt) - [hewelapp](https://hewellapp.com) - [seat61](https://www.seat61.com) - *[wroclaw airport](https://airport.wroclaw.pl)*
 | weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
-| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com)
 | maps | | [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads)
+| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com)
 | geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
