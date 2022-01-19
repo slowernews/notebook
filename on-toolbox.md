@@ -69,10 +69,6 @@
 | function | tool I use | alternatives I like or may test |
 | :--- | :--- | :--- |
 | srs | ANKI2.0 | supermemo - readlang - memrise
-| moocs | | [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
-| ebooks | | [1lib](https://1lib.education)
-| repair | | [manuzoid](https://manuzoid.com)
-| learn music | | lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
 | music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 | ebook reader | | [loudreader](https://www.loudreader.com)
 | hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - feeds ([HNfeeds](https://hnrss.github.io) - [HNapp](https://hnapp.com))
@@ -83,26 +79,5 @@
 | newsletters | SUBSTACK | [papyrus](https://papyrus.so)
 | torrents | | utorrent | 
 | fintech | PAYPAL + REVOLUT | [N26](https://n26.com) - [moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt) - [degiro](https://www.degiro.pt) - [swissquote](https://en.swissquote.com)
-| collectionism | | [ucoin](https://en.ucoin.net)
-| gaming | | [tabletop sounds](https://tabletopy.com) - [guriddo](https://www.guriddo.app) - [escape team](https://www.escape-team.com)
 | assorted | | [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) - [wallpapers](https://tanck.nl/wallpaper)
-
-### On info sources
-
-| function | source I use | alternatives I like or may test |
-| :--- | :--- | :--- |
-| general | HACKER NEWS | [economist](https://economist.com) - [allsides](https://www.allsides.com) - [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
-| tech | | [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
-| art | AFASIAARCHZINE | [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
-| culture | | [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org) - [dense discovery](https://www.densediscovery.com/archive)
-| job boards | | [beefrii](https://www.beefrii.com) - [nocsok](https://nocsok.com) - [YC jobs](https://www.ycombinator.com/jobs) - [weworkremotely](https://weworkremotely.com) - [remoteok](https://remoteok.io) - [producthire](https://producthire.net) - [whoishiring](https://whoishiring.io) - [landingjobs](https://landing.jobs) - [germantechjobs](https://germantechjobs.de) - [relocate](https://relocate.me) - [sidejobs](https://sidequestjobs.com)
-| head hunting | | [triplebyte](https://triplebyte.com) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co)
-| crowdfunding | | kickstarter - indiegogo - seedrs
-| shopping | | [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 | booking | AIRBNB + BOOKING |
-| flights | SKYSCANNER | [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
-| travel info | | [reopen europe](https://reopen.europa.eu/pt) - [hewelapp](https://hewellapp.com) - [seat61](https://www.seat61.com) - *[wroclaw airport](https://airport.wroclaw.pl)*
-| weather | WINDGURU.CZ | [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
-| maps | | [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads)
-| osm | | [osm in realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com)
-| geoarbitrage | | [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
