@@ -21,7 +21,7 @@
 - Certifications: [AWS](https://aws.amazon.com/pt/certification)
 - Poland: [PT_PL](http://ppcc.pl) - wroclaw [one](https://www.monterail.com/careers)/[two](https://10clouds.com/careers)
 - Job boards: remote [one](https://www.beefrii.com)/[two](https://freshremote.work)/[three](https://remoteok.com)/[four](https://weworkremotely.com) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [sidejobs](https://sidequestjobs.com) - YC [one](https://www.ycombinator.com/jobs)/[two](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs) 
-- Head hunting: [triplebyte](https://triplebyte.com) - [vettery](https://www.vettery.com/candidate/tech) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co)
+- Head hunting: [triplebyte](https://triplebyte.com) - [hired](https://hired.com/talent) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co)
 - Crowdfunding: kickstarter - indiegogo - seedrs
 
 ## Architecture

@@ -14,7 +14,7 @@
 
 #### Home oven pizza recipe
 
-- 250ml of flour (a weighing scale is not an essential tool for amateurs). Prefer type 65 flour and specially without self raising, you'll use live ferment. 
+- 250ml of flour (a weighing scale is not an essential tool for amateurs). Prefer type 65 flour without self raising, you'll use live ferment. 
 - 100ml of water. Prefer tepid water (~35C) to contribute to a good environment for live ferment.
 - full coffee spoon of salt.  
 - 5 grams of live ferment.
@@ -25,13 +25,14 @@ Baking: wait until home oven gets maximum temperature. Bake in the oven's bottom
 
 Results: better than frozen pizza. Guaranteed.
 
-## Level up
-
-- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
-
 ### Signature dishes
 
 You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
+
+## Level up
+
+- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
+- [Portuguese food](https://www.youtube.com/c/TuganaCozinha/videos)
 
 ### Nerd level
 
