@@ -1,5 +1,9 @@
 # Notes on amateur cooking
 
+### Signature dishes
+
+You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
+
 ## Noob level
 
 ### Pasta
@@ -24,10 +28,6 @@ Dough: dissolve the ferment and salt in the water. Only then pour the flour pref
 Baking: wait until home oven gets maximum temperature. Bake in the oven's bottom until half cooked. Take it out and put toppings. Finish baking it in the oven's middle.
 
 Results: better than frozen pizza. Guaranteed.
-
-### Signature dishes
-
-You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
 
 ## Level up
 

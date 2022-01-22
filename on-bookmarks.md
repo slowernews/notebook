@@ -1,20 +1,19 @@
 ## Business models - examples
 
 - Experiences: [the worst tours](https://theworsttours.weebly.com) - [trekking guides](https://andrewskurka.com) - [rent scenario](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant & bed](https://www.brushlandeatinghouse.com) - [workaway](https://www.workaway.info) - rent cabins [one](https://www.cabinscape.com)/[two](https://getaway.house) - [rent houses](https://www.silentliving.pt)
-- Dreams (lifestyle): nomadic [one](https://www.nomadicmatt.com)/[two](https://sofianaaustralia.com)/[three](https://craigmod.com) - [cabinland](https://www.youtube.com/c/Cabinland/videos)
-- Research: [dense discovery](https://www.densediscovery.com) - [exclusive](https://www.wowhaus.co.uk) or cheap houses [one](https://www.instagram.com/cheapoldhouses)/[two](https://www.instagram.com/cheapirishhouses)
-- Real estate: exclusive & good photography [one](https://www.fantasticfrank.de)/[two](https://www.themodernhouse.com) - [private islands](http://www.vladi-private-islands.de) - [house shares](https://www.altacasa.com)
+- Dreams (lifestyle): nomadic [one](https://www.nomadicmatt.com)/[two](https://sofianaaustralia.com)/[three](https://craigmod.com) - [cabinland](https://www.youtube.com/c/Cabinland/videos) - [wild foods](https://alexandermcnaughton.com)
 - Kits: [farm ](https://farmfromabox.com) - Aframe [one](https://avrame.com)/[two](https://dubldom.com/eu) - cabin [one](https://buildcover.com)/[two](https://www.kodasema.com/pt)
-- Marketing packages: [brand + logo + domain package](https://www.brandbucket.com) - [$495 logos](https://logo.pizza)
-- Crowdsource graphics: [one](https://www.crowdspring.com)/[two](https://draftss.com)/[three](https://www.manypixels.co)
+- Real estate: selected [one](https://www.fantasticfrank.de)/[two](https://www.themodernhouse.com) - [private islands](http://www.vladi-private-islands.de) - [house shares](https://www.altacasa.com)
+- Research: [creative](https://www.densediscovery.com) - [exclusive](https://www.wowhaus.co.uk) or cheap houses [one](https://www.instagram.com/cheapoldhouses)/[two](https://www.instagram.com/cheapirishhouses)
+- Graphics: [brand + logo + domain package](https://www.brandbucket.com) - [$495 logos](https://logo.pizza) - crowdsource [one](https://www.crowdspring.com)/[two](https://draftss.com)/[three](https://www.manypixels.co)
 - Services: [cleaning](https://www.maidsinblack.com)
-- Accomodation renting: [long term](https://www.uniplaces.com) - [student](https://www.studentville.pt/en)
+- Accomodation: [long term](https://www.uniplaces.com) - [student](https://www.studentville.pt/en)
 - Capital: [one](https://shl.vc)/[two](https://www.generalcatalyst.com)/[three](https://www.tinycapital.com)
 - Consulting: [one](https://hashref.com)/[two](https://roybarber.com)/[three](https://consulting.joreteg.com)/[four](https://desktopneo.com) - [on real estate](https://www.zeonamcintyre.com)
 - Mailbox money: [printable place cards](https://www.placecard.me)
 - Geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
 - Books: [mousebookclub](https://mousebookclub.com) - [waldenpond](https://waldenpond.press)
-- Other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [wild foods](https://alexandermcnaughton.com) - [car leasing](https://www.lingscars.com)
+- Other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com)
 
 ## Career
 
