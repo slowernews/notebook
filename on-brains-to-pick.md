@@ -22,7 +22,7 @@ Great thinkers, makers, sellers or motivators.
 - [1967] Sam Harris
 - [1969] Derek Sivers
 - [1971] Elon Musk
-- [1974] [Naval Ravikant](https://twitter.com/naval)
+- [1974] [Naval Ravikant](https://twitter.com/naval) - [tidbits](https://twitter.com/navalismhq)
 - [1977] Tim Ferriss
 - [1980] [Balaji Srinivasan](https://twitter.com/balajis)
 - [1994] Vitalik Buterin
@@ -40,6 +40,7 @@ Great teachers.
 
 - [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (Portuguese)
 - [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [195?] Larry McEnerney - [How to write](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [1959] Stephen Kotkin
 
 <!--
