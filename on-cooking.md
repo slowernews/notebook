@@ -32,7 +32,8 @@ Results: better than frozen pizza. Guaranteed.
 ## Level up
 
 - [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
-- [Portuguese food](https://www.youtube.com/c/TuganaCozinha/videos)
+- [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos)
+- [Modernist cuisine](https://modernistcuisine.com/all-recipes)
 
 ### Nerd level
 

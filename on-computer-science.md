@@ -1,11 +1,11 @@
 # Computer science for noobs
 
 - [functional programming](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
-- [the Elm Architecture (TEA)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
+- [the elm architecture (TEA)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
 - [react](https://learnreact.design/posts/what-is-react)
 - [modern CSS](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 - [regex](https://www.janmeppe.com/blog/regex-for-noobs)
-- [sQLite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
+- [sqlite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
 - [emacs](https://learnxinyminutes.com/docs/emacs)
 - [naming stuff](https://leanpub.com/elementsofclojure/read_sample)
 
@@ -14,7 +14,7 @@
 - [freecodecamp](https://www.freecodecamp.org) - [exercism](https://exercism.io) - [codewars](https://www.codewars.com)
 - CSS: [grid](https://grid.layoutit.com), [masonry generator](https://w3bits.com/tools/masonry-generator) and [zen garden](http://www.csszengarden.com/
 )
-- javascript: [runJS](https://runjs.app) - [questions](https://github.com/lydiahallie/javascript-questions) - [1LOC](https://1loc.dev) - [prettier](https://prettier.io/playground)
+- javascript: [runJS](https://runjs.app) - [questions](https://github.com/lydiahallie/javascript-questions) - [1loc](https://1loc.dev) - [prettier](https://prettier.io/playground)
 - python: [rhonny](https://thonny.org) - [snakify](https://snakify.org/pt)
 - regex: [101](https://regex101.com) - [regexr](https://regexr.com) - [rubular](https://rubular.com) - [crosswords](http://regexcrossword.com)
 - SQL: [SQLPD](https://sqlpd.com) - [sqlime](https://sqlime.org)
@@ -29,7 +29,7 @@
 	- graphics & webGL: [raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [water](http://madebyevan.com/webgl-water) - [waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [cloths](https://aatishb.com/drape) - [particles](https://minimal.be/lab/fluGL) - [generative](http://weavesilk.com/?ika) - [inspirograph](https://nathanfriend.io/inspirograph) - [gears](https://brm.io/gears) - [fractals](http://js1k.com/2016-elemental/demo/2552) - [text](https://tholman.com/texter)
 - CSS frameworks: bulma - tailwind - minimal [one](https://dohliam.github.io/dropin-minimal-css), [two](https://andybrewer.github.io/mvp) and [three](https://watercss.kognise.dev) - [tufte CSS](https://edwardtufte.github.io/tufte-css) - [shuffle.dev](https://shuffle.dev)
 - themes, icons & vectors: [tumblr themes](https://www.tumblr.com/themes) - [noun project](https://thenounproject.com) - [vectors](https://www.humaaans.com) - [svg shapes](https://tool.graphics/shapes)
-- fonts: [iosevka](https://typeof.net/Iosevka) - [firacode](https://github.com/tonsky/FiraCode) - [inter](https://rsms.me/inter) - [public sans](https://public-sans.digital.gov) - [national park](https://nationalparktypeface.com) - [google fonts](https://fonts.google.com) - [what the font](onts.com/WhatTheFont) - [web fonts](https://beautifulwebtype.com) - [nerdfonts](https://www.nerdfonts.com)
+- fonts: [google](https://fonts.google.com) - [what the font](onts.com/WhatTheFont) - [iosevka](https://typeof.net/Iosevka) - [firacode](https://github.com/tonsky/FiraCode) - [inter](https://rsms.me/inter) - [public sans](https://public-sans.digital.gov) - [national park](https://nationalparktypeface.com) - [web fonts](https://beautifulwebtype.com) - [nerdfonts](https://www.nerdfonts.com)
 - colors: [colourcode](https://colourco.de) - [uigradients](https://uigradients.com) - [patterns bookmarklet](https://bradjasper.com/subtle-patterns-bookmarklet) - [colorbox](https://colorbox.io/)
 - pixel art: [aseprite](https://www.aseprite.org) - [isometric maps](https://isometricmaps.com) - [ditherpaint](https://beyondloom.com/tools/ditherpaint.html)
 - ruby: [weekly](https://rubyweekly.com/issues) - [for beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - [poignant guide](http://poignant.guide) - [shell scripting](https://www.devdungeon.com/content/enhanced-shell-scripting-ruby) - [http requests](https://www.twilio.com/blog/5-ways-make-http-requests-ruby) - [style guide](https://rubystyle.guide)
