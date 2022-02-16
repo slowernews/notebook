@@ -1,6 +1,6 @@
 # On crypto
 
-## Main and [contract] programming languages
+### Main and [contract] programming languages
 
 - go:
 	- [ethereum](https://github.com/ethereum) [solidity]
@@ -61,8 +61,7 @@
 - c#:
 	- [aelf](https://github.com/aelfProject)
 
-## Crypto analysis
+### Crypto analysis
 
  - [TVL](https://defillama.com/chains) - [ATH](https://www.blockchaincenter.net) & [tools](https://www.blockchaincenter.net/tools) - [historic prices](https://cryptorank.io) - [%winners](https://app.intotheblock.com)- [compare](https://www.coingecko.com/en/coins/compare) - [converter](https://coinmarketcap.com/converter)
-
 - [stocks](https://pt.tradingeconomics.com/stocks)
