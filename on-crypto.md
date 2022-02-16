@@ -1,7 +1,5 @@
 # On crypto
 
-- [ATH](https://www.blockchaincenter.net) - [history](https://cryptorank.io) - [%winners](https://app.intotheblock.com) - [TVL](https://defillama.com/chains)  - [compare](https://www.coingecko.com/en/coins/compare) - [converter](https://coinmarketcap.com/converter) - [stocks](https://pt.tradingeconomics.com/stocks)
-
 ## Main and [contract] programming languages
 
 - go:
@@ -32,8 +30,7 @@
 	- [casper](https://github.com/casper-network)
 	- [everscale](https://github.com/tonlabs)
 - c++ / c:
-	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks (bitcoin cash, [litecoin](https://github.com/litecoin-project))
-	- [dogecoin](https://github.com/dogecoin)
+	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks (bitcoin cash, [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin))
 	- [dash](https://github.com/dashpay/dash)
 	- [zcash](https://github.com/zcash)
 	- [monero](https://github.com/monero-project/monero)
@@ -63,3 +60,9 @@
 	- [lisk](https://github.com/LiskHQ) [js]
 - c#:
 	- [aelf](https://github.com/aelfProject)
+
+## Crypto analysis
+
+ - [TVL](https://defillama.com/chains) - [ATH](https://www.blockchaincenter.net) & [tools](https://www.blockchaincenter.net/tools) - [historic prices](https://cryptorank.io) - [%winners](https://app.intotheblock.com)- [compare](https://www.coingecko.com/en/coins/compare) - [converter](https://coinmarketcap.com/converter)
+
+- [stocks](https://pt.tradingeconomics.com/stocks)
