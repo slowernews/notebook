@@ -20,11 +20,13 @@
 	- [solidity / EVM] [tron](https://github.com/tronprotocol) - hedera
 	- [scrypto] [radix](https://github.com/radixdlt) 
 	- [nuls](https://github.com/nuls-io)
-- ocaml:
-	- [mina protocol](https://github.com/MinaProtocol/mina) - tezos
 - haskell:
 	- [[plutus](https://github.com/input-output-hk/plutus)] [cardano](https://github.com/input-output-hk)
 	- [[pact lisp](https://github.com/kadena-io/pact)] [kadena](https://github.com/kadena-io)
+- ocaml:
+	- [mina protocol](https://github.com/MinaProtocol/mina) - tezos
+- scala:
+	- [RIDE] - [waves](https://github.com/wavesplatform)
 - erlang:
 	- [helium](https://github.com/helium)
 - clojure:

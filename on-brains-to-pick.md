@@ -21,18 +21,19 @@ Great thinkers, makers, sellers or motivators.
 - [1965] Eric Weinstein
 - [1967] Sam Harris
 - [1969] Derek Sivers
+- [1969] Rollo Tomassi
 - [1971] Elon Musk
+- [1971] Marc Andreessen
 - [1974] [Naval Ravikant](https://twitter.com/naval) - [tidbits](https://twitter.com/navalismhq)
 - [1977] Tim Ferriss
 - [1980] [Balaji Srinivasan](https://twitter.com/balajis)
+- [198?] Tim Urban - [Interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
 - [1994] Vitalik Buterin
 
 ---
 
 - [19??] Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
 - [19??] Evan Czaplicki
-- [19??] Rollo Tomassi
-- [19??] Tim Urban
 
 ## Lectures
 
@@ -40,7 +41,6 @@ Great teachers.
 
 - [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (Portuguese)
 - [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [195?] Larry McEnerney - [How to write](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [1959] Stephen Kotkin
 
 <!--
