@@ -8,7 +8,7 @@ Great thinkers, makers, sellers or motivators.
 - [1930] Warren Buffett
 - [1940] Alan Kay
 - [1945] David Allen
-- [1947] Paulo Coelho - [Timeless interview](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (Portuguese)
+- [1947] Paulo Coelho - [timeless interview in portuguese](https://www.youtube.com/watch?v=4AwUM3Br_Pg)
 - [1953] David Deutsch
 - [1955] Bill Gates 
 - [1955] Steve Jobs
@@ -27,8 +27,8 @@ Great thinkers, makers, sellers or motivators.
 - [1974] [Naval Ravikant](https://twitter.com/naval) - [tidbits](https://twitter.com/navalismhq)
 - [1977] Tim Ferriss
 - [1980] [Balaji Srinivasan](https://twitter.com/balajis)
-- [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [Interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
-- [1994] [Vitalik Buterin](https://twitter.com/VitalikButerin)
+- [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
+- [1994] [Vitalik Buterin](https://vitalik.ca)
 
 ---
 
