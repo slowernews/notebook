@@ -8,7 +8,7 @@ Great thinkers, makers, sellers or motivators.
 - [1930] Warren Buffett
 - [1940] Alan Kay
 - [1945] David Allen
-- [1947] Paulo Coelho - [timeless interview in portuguese](https://www.youtube.com/watch?v=4AwUM3Br_Pg)
+- [1947] Paulo Coelho - timeless interviews in portuguese: [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) and [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg)
 - [1953] David Deutsch
 - [1955] Bill Gates 
 - [1955] Steve Jobs
