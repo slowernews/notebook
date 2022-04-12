@@ -64,9 +64,11 @@
 
 ## Info sources
 
-- general: [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [allsides](https://www.allsides.com) - [politico](https://www.politico.eu) - [foreign affairs](https://www.foreignaffairs.com)
+- general: [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [allsides](https://www.allsides.com)
+- geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org)
 - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 - culture: [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org) - [dense discovery](https://www.densediscovery.com/archive)
+- books: [blas](https://blas.com/books/searchable-library)
 - moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
