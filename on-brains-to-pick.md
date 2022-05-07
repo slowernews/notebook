@@ -1,12 +1,16 @@
 # Brains to pick
 
-Great thinkers, makers, sellers or motivators.
+Great thinkers, makers, sellers, motivators or artists.
 
 - [1846] Auguste Escoffier
+- [1912] Milton Friedman
 - [1918] [Richard Feynman](https://twitter.com/ProfFeynman)
 - [1924] Charlie Munger
 - [1930] Warren Buffett
+- [1932] *Johnny Cash*
+- [1935] *Elvis Presley*
 - [1940] Alan Kay
+- [1943] *Jim Morrison*
 - [1945] David Allen
 - [1947] Paulo Coelho - timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) / [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (portuguese)
 - [1953] David Deutsch
@@ -24,7 +28,7 @@ Great thinkers, makers, sellers or motivators.
 - [1969] Rollo Tomassi
 - [1971] Elon Musk
 - [1971] Marc Andreessen
-- [1974] [Naval Ravikant](https://twitter.com/naval) - [tidbits](https://twitter.com/navalismhq)
+- [1974] [Naval Ravikant](https://twitter.com/naval)
 - [1977] Tim Ferriss
 - [1980] [Balaji Srinivasan](https://twitter.com/balajis)
 - [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
@@ -44,7 +48,7 @@ Great teachers.
 - [1959] Stephen Kotkin
 
 <!--
-- Milton Friedman
+- Kevin Kelly (1952)
 - Mark Manson
 - Abbas (iran - photojournalist)
 - Pawel Kuczynski (illustrator)
