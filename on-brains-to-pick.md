@@ -18,7 +18,7 @@ Great thinkers, makers, sellers, motivators or artists.
 - [1955] Steve Jobs
 - [195?] Robert Glover
 - [1959] Stephen Wolfram
-- [1960] Nassim Taleb
+- [1960] [Nassim Taleb](https://twitter.com/nntaleb)
 - [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
 - [1964] Jeff Bezos
 - [1964] Paul Graham
@@ -30,8 +30,9 @@ Great thinkers, makers, sellers, motivators or artists.
 - [1971] Marc Andreessen
 - [1974] [Naval Ravikant](https://twitter.com/naval)
 - [1977] Tim Ferriss
-- [1980] [Balaji Srinivasan](https://twitter.com/balajis)
+- [1980] Balaji Srinivasan
 - [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
+- [1986] [Lex Fridman](https://twitter.com/lexfridman)
 - [1994] [Vitalik Buterin](https://vitalik.ca)
 
 ---
