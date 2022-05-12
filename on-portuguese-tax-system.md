@@ -164,13 +164,21 @@
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
 - Quem paga?
-	- residentes em território português;
+	- residentes em território português.
 	- rendimentos obtidos em território português por não residentes.
-- Quanto?
-	- residentes habituais em território português.
 
-			VALORES (ARREDONDADOS) PARA 2022:
-			
+- Sobre que rendimentos?
+
+			A: Trabalho dependente
+			B: Empresariais e profissionais
+			E: Capitais
+			F: Prediais
+			G: Incrementos patrimoniais (mais-valias)
+			H: Pensões
+	
+- Quanto?
+	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
+		
 			ESCALÕES:                       TAXA            TAXA MÉDIA
 			Até €7k:                        14.5%
 			Entre  €7k e 10k:               23%             17.4%
@@ -179,24 +187,15 @@
 			Entre €25k e 37k:               37%             28.8%
 			Entre €37k e 80k:               45%             37.6%
 			Superior a 80k:                 48%
-			
-			Sobre os rendimentos das categorias:
-			A: Trabalho dependente
-			B: Empresariais e profissionais
-			E: Capitais
-			F: Prediais
-			G: Incrementos patrimoniais (mais-valias)
-			H: Pensões
 
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 
 			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
-	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
-- Quando?
-	- De 1 de abril a 30 de junho de 2022 (IRS 2021).
-	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações. [Algumas notas sobre o seu preenchimento](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
+	- Atenuantes fiscais.[^2]
+
+- Quando? De 1 de abril a 30 de junho (IRS do ano anterior).
 
 
 
@@ -339,7 +338,7 @@ Intercâmbio internacional de informações sobre o IVA: [VIES](https://ec.europ
 
 ### Quanto custa um TOC?
 
-Valores *referência* para a contabilidade:
+Valores *referência* para contabilidade:
 - ENI no regime simplificado com pouca faturação: 250€/trimestre.
 - Sociedade Unipessoal com pouca faturação: 150€/mês.
 
@@ -359,6 +358,7 @@ Valores *referência* para a contabilidade:
 - Como declarar rendimentos de fundos de investimento no IRS?
 	- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 	- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO. [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
+- A declaração de IRS é obrigatória não é obrigatória com baixos rendimentos. No entanto ter uma prova de rendimentos simplifica diversas situações.
 
 
 
@@ -367,19 +367,17 @@ Valores *referência* para a contabilidade:
 
 ### Quanto tempo guardar as declarações de impostos?
 
-- IRS: 4 anos. (CIRS, art.128)
-	- Com contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
-- IRC: 12 anos.
-- IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
+	IRS: 4 anos (CIRS, art.128). Com contabilidade organizada de rendimentos categoria B: 12 anos (CIRS, arts.117/118).
+	IRC: 12 anos.
+	IVA: 10 anos. 12 anos quando relevante para o cálculo de IRC.
 
 
 
 
 
-
----
 
 [^1]: Tax regime for [non residents](https://www.newco.pro/en/blog/portugal-or-spain-two-tax-regimes-for-non-habitual-residents-to-consider-in-the-eu). [More info](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/)
+[^2]: Despesas de saúde ou educação. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
 
 
 <!--
