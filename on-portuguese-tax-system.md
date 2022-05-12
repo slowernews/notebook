@@ -169,29 +169,29 @@
 
 - Sobre que rendimentos?
 
-			A: Trabalho dependente
-			B: Empresariais e profissionais
-			E: Capitais
-			F: Prediais
-			G: Incrementos patrimoniais (mais-valias)
-			H: Pensões
+		A: Trabalho dependente
+		B: Empresariais e profissionais
+		E: Capitais
+		F: Prediais
+		G: Incrementos patrimoniais (mais-valias)
+		H: Pensões
 	
 - Quanto?
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
 		
-			ESCALÕES:                       TAXA            TAXA MÉDIA
-			Até €7k:                        14.5%
-			Entre  €7k e 10k:               23%             17.4%
-			Entre €10k e 20k:               28.5%           22.6%
-			Entre €20k e 25k:               35%             25%
-			Entre €25k e 37k:               37%             28.8%
-			Entre €37k e 80k:               45%             37.6%
-			Superior a 80k:                 48%
+		ESCALÕES:                       TAXA            TAXA MÉDIA
+		Até €7k:                        14.5%
+		Entre  €7k e 10k:               23%             17.4%
+		Entre €10k e 20k:               28.5%           22.6%
+		Entre €20k e 25k:               35%             25%
+		Entre €25k e 37k:               37%             28.8%
+		Entre €37k e 80k:               45%             37.6%
+		Superior a 80k:                 48%
 
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 
-			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
-			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
+		Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
+		Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
 	- Atenuantes fiscais.[^2]
 
@@ -207,12 +207,12 @@
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
-		Taxas IRC (2022):
+	Taxas IRC (2022):
 
-		21% - Continente (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
-		14.7% (Taxa continente - 30%) - Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13% primeiros €15k)
-		14.7% (Taxa continente - 30%) - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
-		5% - Offshore da Madeira (até 2027)
+	21% - Continente (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
+	14.7% (Taxa continente - 30%) - Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13% primeiros €15k)
+	14.7% (Taxa continente - 30%) - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
+	5% - Offshore da Madeira (até 2027)
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 - Formas de cálculo:
