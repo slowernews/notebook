@@ -163,18 +163,15 @@
 
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem paga?
-	- residentes em território português.
-	- rendimentos obtidos em território português por não residentes.
+- Quem paga? Individuos que tenham obtido rendimentos em território português.
 
-- Sobre que rendimentos?
-
-		A: Trabalho dependente
-		B: Empresariais e profissionais
-		E: Capitais
-		F: Prediais
-		G: Incrementos patrimoniais (mais-valias)
-		H: Pensões
+			Tipo de rendimentos:
+			A: Trabalho dependente
+			B: Empresariais e profissionais
+			E: Capitais
+			F: Prediais
+			G: Incrementos patrimoniais (mais-valias)
+			H: Pensões
 	
 - Quanto?
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
@@ -187,12 +184,10 @@
 			Entre €25k e 37k:               37%             28.8%
 			Entre €37k e 80k:               45%             37.6%
 			Superior a 80k:                 48%
-
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 
 			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
-
 	- Atenuantes fiscais.[^2]
 
 - Quando? De 1 de abril a 30 de junho (IRS do ano anterior).
@@ -254,9 +249,10 @@
 
 - Quem paga: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
 - Quanto:
-	- prédios rústicos: 0,8% sobre o valor patrimonial tributário (VPT);
-	- prédios urbanos: 0,4% a 0,8% sobre o VPT;
-	- prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o VPT.
+
+		prédios rústicos: 0,8% sobre o valor patrimonial tributário (VPT);
+		prédios urbanos: 0,4% a 0,8% sobre o VPT;
+		prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o VPT.
 - Quando: anualmente durante o mês de Maio ou tranches ao longo do ano para valores elevados.
 - Isenção de IMI:
 	- devido a baixos rendimentos e VPT.
