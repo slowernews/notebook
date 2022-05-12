@@ -60,7 +60,7 @@
 - [SMN: Salário Mínimo Nacional](#valores-indexantes)
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
 - [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
-- [Categorias de rendimentos](#categorias-de-rendimentos)
+- [Categorias de rendimentos e anexo onde devem ser declarados](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados)
 - [Quanto tempo devo arquivar as declarações de impostos?](#quanto-tempo-devo-arquivar-as-declarações-de-impostos)
 
 
@@ -164,7 +164,7 @@
 
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem está sujeito: Quaisquer [rendimentos](#categorias-de-rendimentos) obtidos em território português por pessoas singulares (residentes ou não-residentes).
+- Quem está sujeito: Quaisquer [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) obtidos em território português por pessoas singulares (residentes ou não-residentes).
 	
 - Quanto:
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
@@ -194,7 +194,7 @@
 
 ### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-- Quem está sujeito: Quaisquer [rendimentos](#categorias-de-rendimentos) (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
+- Quem está sujeito: Quaisquer [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
 		Taxas IRC (2022):
@@ -357,9 +357,7 @@ Valores *referência* para contabilidade:
 
 
 
-### Categorias de rendimentos
-
-	Categorias de rendimentos e anexo onde devem ser declarados:
+### Categorias de rendimentos e anexo onde devem ser declarados
 
 	Anexo A: Trabalho dependente
 	Anexo B: Empresariais e profissionais
