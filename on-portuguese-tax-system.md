@@ -185,7 +185,7 @@
 
 	- Atenuantes fiscais.[^2]
 
-- Quando: De 1 de abril a 30 de junho (IRS do ano anterior). [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS).
+- Quando: 2º trimestre (IRS do ano anterior). [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS).
 
 
 
@@ -194,7 +194,7 @@
 
 ### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-- Quem está sujeito: [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
+- Quem está sujeito: rendimentos (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
 		Taxas IRC (2022):
@@ -206,7 +206,7 @@
 
 	- Atenuantes fiscais. [^3]
 
-- Forma geral de cálculo: Contabilidade organizada (Com volume de negócios inferior a €200k anuais pode optar pelo regime simplicado).
+- Forma geral de cálculo: contabilidade organizada (Com volume de negócios inferior a €200k anuais pode optar pelo regime simplicado).
 
 
 
@@ -246,10 +246,12 @@
 		prédios rústicos: 0,8% sobre o valor patrimonial tributário (VPT);
 		prédios urbanos: 0,4% a 0,8% sobre o VPT;
 		prédios urbanos avaliados 'recentemente': 0,2% a 0,5% sobre o VPT.
-- Quando: anualmente durante o mês de Maio ou tranches ao longo do ano para valores elevados.
-- Isenção de IMI:
-	- devido a baixos rendimentos e VPT.
-	- após a compra das primeiras duas HPPs (habitação própria e permanente) e solicitada nos 60 dias seguintes.
+	
+	- Isenção de IMI:
+		- devido a baixos rendimentos e VPT.
+		- após a compra das primeiras duas HPPs (habitação própria e permanente) e solicitada nos 60 dias seguintes.
+
+- Quando: Maio (tranches ao longo do ano para valores elevados).
 
 
 
