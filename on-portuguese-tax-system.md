@@ -164,7 +164,7 @@
 
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem está sujeito: Quaisquer [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) obtidos em território português por pessoas singulares (residentes ou não-residentes).
+- Quem está sujeito: [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) obtidos em território português por pessoas singulares (residentes ou não-residentes).
 	
 - Quanto:
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
@@ -194,7 +194,7 @@
 
 ### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-- Quem está sujeito: Quaisquer [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
+- Quem está sujeito: [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
 		Taxas IRC (2022):
@@ -202,13 +202,11 @@
 		14.7% (Desconto de 30%) - Madeira
 		14.7% (Desconto de 30%) - Açores
 		5% - Offshore da Madeira (até 2027)
-
 		(PMEs: taxa reduzida nos primeiros €15k)
 
-- Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
-- Formas de cálculo:
-	- Regime geral.
-	- Regime simplificado, por opção *e* volume de negócios inferior a €200k anuais.
+	- Atenuantes fiscais. [^3]
+
+- Forma geral de cálculo: Contabilidade organizada (Com volume de negócios inferior a €200k anuais pode optar pelo regime simplicado).
 
 
 
@@ -341,7 +339,7 @@ Valores *referência* para contabilidade:
 
 ### Notas sobre o preenchimento da declaração do IRS
 
-- Anexo A: rendimentos de trabalho dependente/reformas.
+- A declaração de IRS não é obrigatória com baixos rendimentos. No entanto ter uma prova de rendimentos simplifica diversas situações.
 - Anexo B: rendimentos brutos de trabalho independente sem IVA.
 - Anexo SS: *regra geral* é obrigatório para quem tem rendimentos da categoria B. Excepção para quem só passou atos isolados.
 - Anexo H: para apresentar valores de faturas divergentes do fornecido pelo fisco.
@@ -350,7 +348,6 @@ Valores *referência* para contabilidade:
 - Como declarar rendimentos de fundos de investimento no IRS?
 	- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 	- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO. [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
-- A declaração de IRS não é obrigatória com baixos rendimentos. No entanto ter uma prova de rendimentos simplifica diversas situações.
 
 
 
@@ -359,12 +356,15 @@ Valores *referência* para contabilidade:
 
 ### Categorias de rendimentos e anexo onde devem ser declarados
 
-	Anexo A: Trabalho dependente
+	Anexo A: Trabalho dependente e pensões
 	Anexo B: Empresariais e profissionais
+	Anexo C: Empresariais e profissionais (contabilidade organizada)
 	Anexo E: Capitais
 	Anexo F: Prediais
 	Anexo G: Incrementos patrimoniais (mais-valias)
-	Anexo H: Pensões
+	Anexo H: Beneficios fiscais e deduções
+	Anexo J: Rendimentos obtidos no estrangeiro
+	Anexo L: Residente não habitual
 
 
 
@@ -383,7 +383,8 @@ Valores *referência* para contabilidade:
 
 
 [^1]: Tax regime for [non residents](https://www.newco.pro/en/blog/portugal-or-spain-two-tax-regimes-for-non-habitual-residents-to-consider-in-the-eu). [More info](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/)
-[^2]: Despesas de saúde ou educação. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
+[^2]: Despesas de saúde, educação, etc. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
+[^3]: Criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato, etc.
 
 
 <!--
