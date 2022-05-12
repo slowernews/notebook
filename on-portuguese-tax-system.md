@@ -1,4 +1,6 @@
-# Portuguese tax system for noobs (2020)
+# Portuguese tax system for noobs (2022)
+
+
 
 
 
@@ -19,6 +21,8 @@
 
 - [LDA: Sociedade por quotas](#lda-sociedade-por-quotas)
 - [SA: Sociedade anónima](#sa-sociedade-anónima)
+
+
 
 
 
@@ -45,6 +49,8 @@
 
 
 
+
+
 ### FAQ:
 
 - [Fatura](#fatura)
@@ -55,7 +61,8 @@
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
 - [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
 - [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
-- [Links relevantes](#links-uteis)
+
+
 
 
 
@@ -71,6 +78,8 @@
 - Segurança social:
 	- Pagamento mensal facultativo.
 	- O trabalhador ao emitir um ato isolado não perde o direito ao subsídio de desemprego. Suspende-o temporariamente (pelo mesmo valor recebido) e não o cancela definitivamente.
+
+
 
 
 
@@ -118,6 +127,8 @@
 
 
 
+
+
 ### LDA: Sociedade por Quotas
 
 - Nas sociedades por quotas, a seguir ao nome escolhido para a mesma, acrescenta-se:
@@ -133,6 +144,8 @@
 
 
 
+
+
 ### SA: Sociedade Anónima
 
 - Forma jurídica burocráticamente exigente para negócios de grande dimensão e que requiram muito financiamento.
@@ -140,6 +153,8 @@
 - Responsabilidade sobre o património individual: limitada ao valor das acções que possui.
 - TOC: obrigatório.
 - IRC.
+
+
 
 
 
@@ -154,7 +169,7 @@
 - Quanto?
 	- residentes habituais em território português.
 
-			VALORES (ARREDONDADOS) PARA 2019:
+			VALORES (ARREDONDADOS) PARA 2022:
 			
 			ESCALÕES:                       TAXA            TAXA MÉDIA
 			Até €7k:                        14.5%
@@ -173,15 +188,17 @@
 			G: Incrementos patrimoniais (mais-valias)
 			H: Pensões
 
-	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).
+	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 
 			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
 
 	- Atenuantes fiscais: despesas de saúde ou educação. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
 - Quando?
-	- De 1 de abril a 30 de junho de 2019 (IRS 2019).
+	- De 1 de abril a 30 de junho de 2022 (IRS 2021).
 	- A declaração de IRS é obrigatória mesmo com um baixo valor de rendimentos? Não, mas ter uma prova de rendimentos simplifica bastante em diversas situações. [Algumas notas sobre o seu preenchimento](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
+
+
 
 
 
@@ -189,19 +206,21 @@
 ### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
 - Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
-- Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista [anualmente](http://www.taxfile.pt/file_bank/news0918_5_1.pdf))
+- Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
-		Taxas IRC (2019):
+		Taxas IRC (2022):
 
 		21% - Continente (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 17% primeiros €15k)
-		20% - Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13% primeiros €15k)
-		16.8% - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
+		14.7% (Taxa continente - 30%) - Madeira (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13% primeiros €15k)
+		14.7% (Taxa continente - 30%) - Açores (PMEs c/ ativ. principal, comercial, industrial ou agrícola: 13.6% primeiros €15k)
 		5% - Offshore da Madeira (até 2027)
 
 - Atenuantes fiscais: criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato.
 - Formas de cálculo:
 	- Regime geral.
 	- Regime simplificado, por opção *e* volume de negócios inferior a €200k anuais.
+
+
 
 
 
@@ -219,10 +238,14 @@
 
 
 
+
+
 ### IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
 - Quem paga: comprador do imóvel.
 - Quanto: depende do valor e finalidade da compra (habitação permanente ou não).
+
+
 
 
 
@@ -242,11 +265,15 @@
 
 
 
+
+
 ### IUC: Imposto Único de Circulação
 
 - Quem paga: proprietários de veículos motorizados terrestre.
 - Quanto: varia segundo a cilindrada e ano de matrícula do veículo.
 - Quando: anualmente até ao final do mês de aniversário da matrícula do veículo.
+
+
 
 
 
@@ -262,6 +289,8 @@ Taxa sobre as transmissões (heranças e doações). Regra geral:
 
 
 
+
+
 ## FAQ:
 
 ### Fatura
@@ -272,9 +301,13 @@ Taxa sobre as transmissões (heranças e doações). Regra geral:
 
 
 
+
+
 ### CAE: Classificação Portuguesa das Actividades Económicas
 
 Códigos de classificação específicos de empresas, segundo o ramo de atividade, para controle fiscal e estatistico.
+
+
 
 
 
@@ -287,6 +320,10 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 - Quando: anualmente até 15 Julho. 
 - Quanto: €85 até 5 dias úteis após a entrega.
 
+Intercâmbio internacional de informações sobre o IVA: [VIES](https://ec.europa.eu/taxation_customs/vies/vatRequest.html?locale=pt)
+
+
+
 
 
 
@@ -298,11 +335,15 @@ Códigos de classificação específicos de empresas, segundo o ramo de atividad
 
 
 
+
+
 ### Quanto custa um TOC?
 
 Valores *referência* para a contabilidade:
-- ENI no regime simplificado com pouca faturação: 200€/trimestre.
+- ENI no regime simplificado com pouca faturação: 250€/trimestre.
 - Sociedade Unipessoal com pouca faturação: 150€/mês.
+
+
 
 
 
@@ -313,19 +354,20 @@ Valores *referência* para a contabilidade:
 - Anexo B: rendimentos brutos de trabalho independente sem IVA. Os possíveis pagamentos por conta não estão pré-preenchidos.
 - Anexo SS: *regra geral* é obrigatório para quem tem rendimentos da categoria B. Excepção para quem só passou atos isolados.
 - Anexo H: para apresentar valores de faturas divergentes do fornecido pelo fisco.
+- Deduções especificas (4104€) para categoria A/H e B (por opção e >80% à mesma entidade. Favorável para rendimentos até 10K anuais)
+- Mínimo de existência para categoria A/H e B (excepto comerciantes e agricultores)
 - Como declarar rendimentos de fundos de investimento no IRS?
 	- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 	- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO. [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
-- Deduções especificas (4104€) para categoria A/H e B (por opção e >80% à mesma entidade. Favorável para rendimentos até 10K anuais)
-- Mínimo de existência para categoria A/H e B (excepto comerciantes e agricultores)
+
+
 
 
 
 
 ### Quanto tempo guardar as declarações de impostos?
 
-- IRS:
-	- 4 anos. (CIRS, art.128)
+- IRS: 4 anos. (CIRS, art.128)
 	- Com contabilidade organizada de rendimentos da categoria B (ENIs e TIs): 12 anos. (CIRS, art.117 e art.118)
 - IRC: 12 anos.
 - IVA: 10 anos. Desde 2014, 12 anos quando relevante para o cálculo de IRC.
@@ -333,10 +375,12 @@ Valores *referência* para a contabilidade:
 
 
 
-### Links relevantes
 
-- Sistema de intercâmbio de informações sobre o IVA: [VIES](https://ec.europa.eu/taxation_customs/vies/vatRequest.html?locale=pt)
-- Tax regime for non residents: [here](https://www.newco.pro/en/blog/portugal-or-spain-two-tax-regimes-for-non-habitual-residents-to-consider-in-the-eu) and [here](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/)
+
+---
+
+[^1]: Tax regime for [non residents](https://www.newco.pro/en/blog/portugal-or-spain-two-tax-regimes-for-non-habitual-residents-to-consider-in-the-eu). [More info](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/)
+
 
 <!--
 ## IVA de Caixa
