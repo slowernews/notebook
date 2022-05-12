@@ -217,9 +217,7 @@
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
 	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
-- Quando:
-	- Regime trimestral: declaração até dia 15 e pagamento até dia 20 do segundo mês seguinte ao trimestre a que dizem respeito os serviços.
-	- Regime mensal: até dia 15 do segundo mês seguinte ao mês a que dizem respeito os serviços.
+- Quando: declaração (e pagamento) até dia 15 do segundo mês seguinte ao trimestre (ou mês - no regime mensal) a que dizem respeito os serviços.
 
 
 
