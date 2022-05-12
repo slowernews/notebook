@@ -163,16 +163,16 @@
 
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem paga? Qualquer individuos que tenha obtido *rendimento* em território português.
+- Quem paga? Pessoas singulares (residentes ou não-residentes) sobre quaisquer rendimentos obtidos em território português.
 
-			Tipo de rendimentos:
+			Categorias de rendimentos:
 
-			A: Trabalho dependente
-			B: Empresariais e profissionais
-			E: Capitais
-			F: Prediais
-			G: Incrementos patrimoniais (mais-valias)
-			H: Pensões
+			Anexo A: Trabalho dependente
+			Anexo B: Empresariais e profissionais
+			Anexo E: Capitais
+			Anexo F: Prediais
+			Anexo G: Incrementos patrimoniais (mais-valias)
+			Anexo H: Pensões
 	
 - Quanto?
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
@@ -202,7 +202,7 @@
 
 ### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-- Quem paga: empresas com sede em território português com ou sem estabelecimento estável sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
+- Quem paga: pessoas coletivas com sede (com ou sem estabelecimento estável) em território português sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
 		Taxas IRC (2022):
