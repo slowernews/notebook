@@ -109,7 +109,7 @@
 			- Quanto: 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
 			- Inseridas automaticamente na declaração IRS.
 		- Pagamentos por conta:
-			- Quem paga: isento nos três primeiros anos. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102)
+			- Quem está sujeito: isento nos três primeiros anos. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102)
 			- Quando: 3 pagamentos anuais (Julho, Setembro e Dezembro).
 			- Quanto: valor indicado na nota de liquidação do IRS do *penúltimo* ano.
 			- Inseridos *manualmente* na declaração IRS. (Quadro 6, anexo B)
@@ -163,7 +163,7 @@
 
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem paga? Pessoas singulares (residentes ou não-residentes) sobre quaisquer rendimentos obtidos em território português.
+- Quem está sujeito: Quaisquer rendimentos obtidos em território português por pessoas singulares (residentes ou não-residentes).
 
 			Categorias de rendimentos:
 
@@ -174,7 +174,7 @@
 			Anexo G: Incrementos patrimoniais (mais-valias)
 			Anexo H: Pensões
 	
-- Quanto?
+- Quanto:
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
 
 			ESCALÕES:                       TAXA            TAXA MÉDIA
@@ -193,7 +193,7 @@
 
 	- Atenuantes fiscais.[^2]
 
-- Quando? De 1 de abril a 30 de junho (IRS do ano anterior). [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS).
+- Quando: De 1 de abril a 30 de junho (IRS do ano anterior). [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS).
 
 
 
@@ -202,7 +202,7 @@
 
 ### IRC: Imposto sobre o Rendimento das Pessoas Coletivas
 
-- Quem paga: pessoas coletivas com sede (com ou sem estabelecimento estável) em território português sobre a totalidade dos rendimentos incluindo os obtidos fora do país.
+- Quem está sujeito: Quaisquer rendimentos (incluindo os obtidos fora do país) obtidos por pessoas coletivas com sede (com ou sem estabelecimento estável) em território português.
 - Quanto: Taxa IRC + Derrama (cobrada pelos municípios portugueses c/ máx 1.5% e revista anualmente. [Valores p/ 2022](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20237_2022.pdf))
 
 		Taxas IRC (2022):
@@ -225,7 +225,7 @@
 
 ### IVA: Imposto sobre o Valor Acrescentado
 
-- Quem paga:
+- Quem está sujeito:
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
 	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
@@ -240,7 +240,7 @@
 
 ### IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
-- Quem paga: comprador do imóvel.
+- Quem está sujeito: comprador do imóvel.
 - Quanto: depende do valor e finalidade da compra (habitação permanente ou não).
 
 
@@ -250,7 +250,7 @@
 
 ### IMI: Imposto Municipal sobre Imóveis
 
-- Quem paga: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
+- Quem está sujeito: proprietários e usufrutuários de imóveis, a 31 de dezembro do ano a que o mesmo respeitar.
 - Quanto:
 
 		prédios rústicos: 0,8% sobre o valor patrimonial tributário (VPT);
@@ -268,7 +268,7 @@
 
 ### IUC: Imposto Único de Circulação
 
-- Quem paga: proprietários de veículos motorizados terrestre.
+- Quem está sujeito: proprietários de veículos motorizados terrestre.
 - Quanto: varia segundo a cilindrada e ano de matrícula do veículo.
 - Quando: anualmente até ao final do mês de aniversário da matrícula do veículo.
 
