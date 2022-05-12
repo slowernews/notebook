@@ -60,7 +60,7 @@
 - [SMN: Salário Mínimo Nacional](#valores-indexantes)
 - [Quanto custa um TOC?](#quanto-custa-um-toc)
 - [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS)
-- [Quanto tempo guardar as declarações de impostos?](#quanto-tempo-guardar-as-declarações-de-impostos)
+- [Quanto tempo devo arquivar as declarações de impostos?](#quanto-tempo-devo-arquivar-as-declarações-de-impostos)
 
 
 
@@ -351,7 +351,7 @@ Valores *referência* para contabilidade:
 ### Notas sobre o preenchimento da declaração do IRS
 
 - Anexo A: rendimentos de trabalho dependente/reformas.
-- Anexo B: rendimentos brutos de trabalho independente sem IVA. Os possíveis pagamentos por conta não estão pré-preenchidos.
+- Anexo B: rendimentos brutos de trabalho independente sem IVA.
 - Anexo SS: *regra geral* é obrigatório para quem tem rendimentos da categoria B. Excepção para quem só passou atos isolados.
 - Anexo H: para apresentar valores de faturas divergentes do fornecido pelo fisco.
 - Deduções especificas (4104€) para categoria A/H e B (por opção e >80% à mesma entidade. Favorável para rendimentos até 10K anuais)
@@ -359,18 +359,18 @@ Valores *referência* para contabilidade:
 - Como declarar rendimentos de fundos de investimento no IRS?
 	- Fundos nacionais: desde 2015 é efectuada retenção na fonte de 28% sobre os rendimentos obtidos com fundos nacionais. Assim não é necessário declarar excepto opte pelo englobamento.
 	- Fundos estrangeiros: declaração obrigatória no anexo J segundo o método FIFO. [Mais informação](http://www.big.pt/pdf/irs/faqs_irs_2017.pdf).
-- A declaração de IRS é obrigatória não é obrigatória com baixos rendimentos. No entanto ter uma prova de rendimentos simplifica diversas situações.
+- A declaração de IRS não é obrigatória com baixos rendimentos. No entanto ter uma prova de rendimentos simplifica diversas situações.
 
 
 
 
 
 
-### Quanto tempo guardar as declarações de impostos?
+### Quanto tempo devo arquivar as declarações de impostos?
 
 	IRS: 4 anos (CIRS, art.128). Com contabilidade organizada de rendimentos categoria B: 12 anos (CIRS, arts.117/118).
 	IRC: 12 anos.
-	IVA: 10 anos. 12 anos quando relevante para o cálculo de IRC.
+	IVA: 12 anos. 10 anos para rendimentos categoria B sem contabilidade organizada.
 
 
 
