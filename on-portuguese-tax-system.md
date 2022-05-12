@@ -87,9 +87,9 @@
 
 ### Trabalhador independente / Empresário em nome individual
 
-- Quais as diferenças:
-	- TIs prestam serviços no âmbito da lista anexa ao CIRS, art.151.
-	- ENIs tem uma actividade que está elencada no CAE;
+- Quais as diferenças entre TI e ENI:
+	- TI presta serviços da lista anexa ao CIRS, art.151.
+	- ENI tem uma actividade do CAE;
 	- Alguns detalhes no acesso à Segurança Social.
 - Responsabilidade sobre o património individual: total.
 - Constituição: abertura de atividade nas Finanças sem capital inicial.
@@ -97,26 +97,24 @@
 - Documento fiscal: fatura ou recibo verde.
 - TOC: só é obrigatório se houver contabilidade organizada.
 - IRS: categoria B.
-	- Regime de cálculo de IRS:
+	- Regime de cálculo IRS:
 		- Simplificado, se o volume de vendas for inferior a €200k.
 			- Dispensado de TOC e IES.
 			- Assume-se uma margem de 75% de rendimento colectável sobre os *serviços* e 15% sobre as *vendas*. As despesas não são (até 2017 pelo menos) consideradas ao contrário do que acontece com a contabilidade organizada.
-		- Contabilidade organizada, se o volume de vendas for superior a €200k *ou* por opção do empresário.
+		- Contabilidade organizada, por opção ou volume de vendas superior a €200k.
 			- Obrigatório TOC e IES.
 			- O cálculo do rendimento segue as regras do CIRC mas com limitação dos custos que se podem considerar. Regra geral, quanto maior o negócio e sempre que os custos forem superiores a 25% dos rendimentos será proveitoso escolher este regime.
-	- Pagamento adiantado de IRS:
+	- Pagamento adiantado IRS:
 		- Retenções na fonte:
 			- Quem faz: quem recebe mais de €10k anuais e passe recibos a entidades com contabilidade organizada.
 			- Quanto: 25% (atividades no CIRS, art.151). Taxas reduzidas (CIRS, art.101): 20%, 16.5% e 11.5% (prestação serviços por ENIs).
-			- Inseridas automaticamente na declaração IRS.
 		- Pagamentos por conta:
 			- Quem está sujeito: isento nos três primeiros anos. Após esta data poderá ser notificado pelo Fisco (CIRS, art.102)
-			- Quando: 3 pagamentos anuais (Julho, Setembro e Dezembro).
 			- Quanto: valor indicado na nota de liquidação do IRS do *penúltimo* ano.
-			- Inseridos *manualmente* na declaração IRS. (Quadro 6, anexo B)
+			- Quando: 3 pagamentos anuais (Julho, Setembro e Dezembro).
 - IVA:
-	- Cobrança obrigatória com rendimentos superiores a €10k no ano anterior *ou* por opção *ou* possuir contabilidade organizada.
-	- Declaração trimestral de IVA ao Fisco (ou mensal, se tiver tido rendimentos superiores a €500k)
+	- Opcional. Cobrança obrigatória caso tenha contabilidade organizada ou rendimentos superiores a €10k no ano anterior.
+	- Declaração trimestral (ou mensal para rendimentos superiores a €500k)
 - Segurança Social:
 	- Pagamento mensal obrigatório (excepto acumule c/ trabalho dependente c/ montante mínimo de um [IAS](#valores-indexantes) e não tenha rendimento da categoria B superior a 4 IAS)
 	- Quem possui contabilidade organizada(?), a partir de 2019, em Janeiro, Abril, Julho e Outubro deverá declarar à SS os rendimentos obtidos no trimestre anterior para apuramento da prestação a pagar no trimestre seguinte. [Exemplo](https://www.dropbox.com/s/23thixqodz9fsao/V%C3%ADdeo%20-%20Exemplo%20TI%201.pdf?dl=0).
