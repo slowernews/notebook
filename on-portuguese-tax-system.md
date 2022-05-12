@@ -178,7 +178,7 @@
 	
 - Quanto?
 	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
-		
+
 		ESCALÕES:                       TAXA            TAXA MÉDIA
 		Até €7k:                        14.5%
 		Entre  €7k e 10k:               23%             17.4%
