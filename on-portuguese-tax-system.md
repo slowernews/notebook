@@ -163,9 +163,10 @@
 
 ### IRS: Imposto sobre o Rendimento das Pessoas Singulares
 
-- Quem paga? Individuos que tenham obtido rendimentos em território português.
+- Quem paga? Qualquer individuos que tenha obtido *rendimento* em território português.
 
 			Tipo de rendimentos:
+
 			A: Trabalho dependente
 			B: Empresariais e profissionais
 			E: Capitais
@@ -184,13 +185,15 @@
 			Entre €25k e 37k:               37%             28.8%
 			Entre €37k e 80k:               45%             37.6%
 			Superior a 80k:                 48%
+
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 
 			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
 			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
+
 	- Atenuantes fiscais.[^2]
 
-- Quando? De 1 de abril a 30 de junho (IRS do ano anterior).
+- Quando? De 1 de abril a 30 de junho (IRS do ano anterior). [Notas sobre o preenchimento da declaração do IRS](#notas-sobre-o-preenchimento-da-declaração-do-IRS).
 
 
 
