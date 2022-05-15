@@ -40,5 +40,5 @@
 
 ### Crypto analysis
 
- - [ATH](https://www.blockchaincenter.net), [tools](https://www.blockchaincenter.net/tools) & [trending](https://www.blockchaincenter.net/trending-coins) - [TVL](https://defillama.com/chains) - [historic prices](https://cryptorank.io) - [%winners](https://app.intotheblock.com) - [compare](https://www.coingecko.com/en/coins/compare) - [converter](https://coinmarketcap.com/converter) - [withdrawal fees](https://withdrawalfees.com)
+ - [ath](https://www.blockchaincenter.net) & [tools](https://www.blockchaincenter.net/tools) - [tvl](https://defillama.com/chains) - [historic prices](https://cryptorank.io) - [%winners](https://app.intotheblock.com) - [compare](https://www.coingecko.com/en/coins/compare) - [withdrawal fees](https://withdrawalfees.com)
 - [stocks](https://finance.yahoo.com/world-indices)
