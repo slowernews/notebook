@@ -1,6 +1,6 @@
 # Brains to pick
 
-Great thinkers, makers, sellers, motivators or artists.
+Thinkers, makers, sellers, motivators or artists:
 
 - [1846] Auguste Escoffier
 - [1912] Milton Friedman
@@ -30,8 +30,8 @@ Great thinkers, makers, sellers, motivators or artists.
 - [1971] Marc Andreessen
 - [1974] [Naval Ravikant](https://twitter.com/naval)
 - [1977] Tim Ferriss
-- [1980] Balaji Srinivasan
 - [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
+- [1984] Mark Manson
 - [1986] [Lex Fridman](https://twitter.com/lexfridman)
 - [1994] [Vitalik Buterin](https://vitalik.ca)
 

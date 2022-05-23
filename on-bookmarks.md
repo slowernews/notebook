@@ -19,7 +19,7 @@
 
 - certifications: [AWS](https://aws.amazon.com/pt/certification)
 - poland: [PT_PL](http://ppcc.pl) - wroclaw [one](https://www.monterail.com/careers)/[two](https://10clouds.com/careers)
-- job boards: remote [one](https://www.beefrii.com)/[two](https://freshremote.work)/[three](https://weworkremotely.com)/[four](https://remoteok.com) ([stats](https://remoteok.com/remote-work-statistics)) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [nocv](https://no-cv.com) - [sidejobs](https://sidequestjobs.com) - YC [one](https://www.ycombinator.com/jobs)/[two](https://www.workatastartup.com/jobs)/[three](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs)
+- job boards: remote [one](https://www.beefrii.com)/[two](https://freshremote.work)/[three](https://weworkremotely.com)/[four](https://remoteok.com) ([stats](https://remoteok.com/remote-work-statistics)) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [nocv](https://no-cv.com) - [sidejobs](https://sidequestjobs.com) - [4 day week](https://4dayweek.io/remote-jobs) - YC [one](https://www.ycombinator.com/jobs)/[two](https://www.workatastartup.com/jobs)/[three](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs)
 - head hunting: [triplebyte](https://triplebyte.com) - [hired](https://hired.com/talent) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co)
 - Crowdfunding: kickstarter - indiegogo - seedrs
 
