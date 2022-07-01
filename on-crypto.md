@@ -25,8 +25,11 @@
 	- [[pact lisp](https://github.com/kadena-io/pact)] [kadena](https://github.com/kadena-io)
 - ocaml:
 	- [mina protocol](https://github.com/MinaProtocol/mina) - tezos
+- c#:
+	- [c#] [stratis](https://github.com/stratisproject)
+	- [aelf](https://github.com/aelfProject)
 - scala:
-	- [RIDE] - [waves](https://github.com/wavesplatform)
+	- [RIDE] [waves](https://github.com/wavesplatform)
 - erlang:
 	- [helium](https://github.com/helium)
 - clojure:
@@ -35,8 +38,6 @@
 	- [[chia lisp](https://chialisp.com)] [chia](https://github.com/Chia-Network) 
 - typescript:
 	- [js] [lisk](https://github.com/LiskHQ) 
-- c#:
-	- [aelf](https://github.com/aelfProject)
 
 ### Crypto analysis
 

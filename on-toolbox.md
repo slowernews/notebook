@@ -65,7 +65,7 @@
 | srs | ANKI2.0 | supermemo - readlang - memrise
 | music player | YOUTUBE | spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 | ebook reader | | [loudreader](https://www.loudreader.com)
-| hn reader | [HNEWS.XYZ](https://hnews.xyz/top) + [HN DAILY](https://www.daemonology.net/hn-daily) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - feeds ([HNfeeds](https://hnrss.github.io) - [HNapp](https://hnapp.com))
+| hn reader | [HN DAILY](https://www.daemonology.net/hn-daily) | [paperHN](https://www.wolfgangfaust.com/project/paper-hn) - [HNify](https://hnify.com) - [deepHN](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - feeds ([HNfeeds](https://hnrss.github.io) - [HNapp](https://hnapp.com))
 | reddit reader | | [teddit](https://teddit.net) - [unim.press](https://unim.press)
 | wikipedia reader | | [modern wiki](https://www.modernwiki.app)
 | feed reader | FEEDLY | [usepanda](https://usepanda.com) - [sumi.news](https://sumi.news)
