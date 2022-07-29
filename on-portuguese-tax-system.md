@@ -217,7 +217,7 @@
 	- Sociedades e Trabalhadores Esporádicos (Ato isolado).
 	- ENIs / Trab. Independentes com volume de negócios superior a €10k no ano anterior *ou* por opção *ou* no regime de contabilidade organizada.
 	- Nota: algumas actividades estão isentas de IVA (ver CIVA).
-- Quando: declaração (e pagamento) até dia 15 do segundo mês seguinte ao trimestre (ou mês - no regime mensal) a que dizem respeito os serviços.
+- Quando: declaração até dia 20 (e pagamento até dia 25) do segundo mês seguinte ao trimestre (ou mês - no regime mensal) a que dizem respeito os serviços.
 
 
 
@@ -380,7 +380,7 @@ Valores *referência* para contabilidade:
 
 
 
-[^1]: Tax regime for [non residents](https://www.newco.pro/en/blog/portugal-or-spain-two-tax-regimes-for-non-habitual-residents-to-consider-in-the-eu). [More info](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/)
+[^1]: Tax regime for [non residents](http://www.livinginportugal.com/en/moving-to-portugal/tax-regime-for-non-habitual-residents/). More [info](https://paulomarques-saberfazer-fazersaber.blogs.sapo.pt/regime-fiscal-dos-ex-residentes-para-61945)
 [^2]: Despesas de saúde, educação, etc. Guardar apenas as facturas inseridas *manualmente* na AT (caso o comerciante não o faça).
 [^3]: Criação de emprego jovem, quotizações empresariais, custos ligados ao combate à desertificação e ao desenvolvimento de zonas mais desfavoráveis e deduções consideradas pelo estatuto de mecenato, etc.
 
