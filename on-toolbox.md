@@ -15,20 +15,22 @@ function: TOOLS I USE / alternatives I like or may test
 
 ### dev
 
-- text editor: SUBLIME3 / vscode - atom - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com) - emacs - neovim
-- cloud editor: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
-- snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
+- text editor:
+	- local: SUBLIME3 / vscode - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com)
+	- cloud: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
+	- snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
 - terminal: CONEMU / vscode - hyper.is
 - repl: node - ruby - python - janet
 - domains: NAMECHEAP / [namelantern](https://namelantern.com)
-- cms hosting: TUMBLR / shopify
-- static hosting: NETLIFY / github - [vercel](https://vercel.com) - [glitch](https://glitch.com) - [jamstack](https://jamstack.org/generators)
-- app hosting: firebase - [google app engine](https://cloud.google.com/appengine)
+- hosting:
+	- cms: TUMBLR / shopify
+	- static: NETLIFY / github - [vercel](https://vercel.com) - [glitch](https://glitch.com) - [jamstack](https://jamstack.org/generators)
+	- app: firebase - [google app engine](https://cloud.google.com/appengine)
 - analytics: GOATCOUNTER / [counter.dev](https://counter.dev)
 - ads: [on newsletters](https://upstart.me/search/index.php)
 - apis: [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 - optimize: [gtmetrix](https://gtmetrix.com)
-- ux design: figma - moqups - marvelapp - framer - penpot.app - mac only (sketch - kiteapp - paintcodeapp)
+- ux: figma - moqups - marvelapp - framer - penpot.app - mac only (sketch - kiteapp - paintcodeapp)
 
 ### office
 
@@ -49,7 +51,7 @@ function: TOOLS I USE / alternatives I like or may test
 
 - cad: AUTOCAD2012 [lisp] / archicad [gdl] - revit
 - 3d & render: SKETCHUP17 [rb2.2] / blender [py] - vray
-- raster & vectors: PHOTOSHOP CS4 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh)
+- raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh)
 - image collection: LOCAL - PINTEREST / dribbble - behance - pexels - unsplash
 
 ### hobby
