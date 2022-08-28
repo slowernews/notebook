@@ -5,7 +5,7 @@ function: TOOLS I USE / alternatives I like or may test
 ### generalist
 
 - os & antivirus: WIN7 - AVAST / ubuntu
-- launcher: LISTARY5 / keypirinha[py] - wox[c#] - cerebro[js]
+- launcher: LISTARY5 / keypirinha [py] - wox [c#] - cerebro [js]
 - browser: BRAVE - FFDEV - SAFARI - CHROME
 - web search: PRESEARCH - QWANT
 - chat: SIGNAL / whatsapp
@@ -18,7 +18,7 @@ function: TOOLS I USE / alternatives I like or may test
 - text editor: SUBLIME3 / vscode - atom - textadept - emeditor - [ellx](https://ellx.io) - [mesh spreadsheet](http://mesh-spreadsheet.com) - emacs - neovim
 - cloud editor: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
 - snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
-- terminal: CONEMU - vscode - hyper.is
+- terminal: CONEMU / vscode - hyper.is
 - repl: node - ruby - python - janet
 - domains: NAMECHEAP / [namelantern](https://namelantern.com)
 - cms hosting: TUMBLR / shopify
@@ -28,12 +28,12 @@ function: TOOLS I USE / alternatives I like or may test
 - ads: [on newsletters](https://upstart.me/search/index.php)
 - apis: [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 - optimize: [gtmetrix](https://gtmetrix.com)
-- ux design: figma - moqups - marvelapp - framer - penpot.app (mac only: sketch - kiteapp - paintcodeapp)
+- ux design: figma - moqups - marvelapp - framer - penpot.app - mac only (sketch - kiteapp - paintcodeapp)
 
 ### office
 
 - writing - research: WORD2010 - EXCEL2010 / scrivener - zotero - [hemingway](www.hemingwayapp.com) - [epub.to](https://epub.to)
-- markdown/latex editor: [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
+- markdown or latex editor: [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
 - translator: GOOGLE / [wiki translator](https://wikitranslator.github.io)
 - calc: EXCEL2010 / [rows](https://rows.com) - [speedcrunch](http://speedcrunch.org) - [insect](https://insect.sh) - [numbr](https://numbr.dev)
 - money management: EXCEL2010 / [lunchmoney](https://lunchmoney.app)
@@ -47,9 +47,9 @@ function: TOOLS I USE / alternatives I like or may test
 
 ### graphics
 
-- cad: AUTOCAD2012[lisp] / archicad[gdl] - revit
-- 3d & render: SKETCHUP17[rb2.2] / blender[py] - vray
-- raster & vectors: PHOTOSHOP CS4[js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh)
+- cad: AUTOCAD2012 [lisp] / archicad [gdl] - revit
+- 3d & render: SKETCHUP17 [rb2.2] / blender [py] - vray
+- raster & vectors: PHOTOSHOP CS4 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh)
 - image collection: LOCAL - PINTEREST / dribbble - behance - pexels - unsplash
 
 ### hobby
