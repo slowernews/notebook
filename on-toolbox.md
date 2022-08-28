@@ -11,7 +11,7 @@ function: TOOLS I USE / alternatives I like or may test
 - chat: SIGNAL / whatsapp
 - mail: GMAIL - PROTONMAIL / tutanota
 - cloud: GDRIVE 
-- notes/wiki: SUBLIME3 / getnotation - nvalt - qownnotes - docfetch - tiddlywiki - zimwiki - joplin - [standard notes](https://standardnotes.org)
+- notes & wiki: SUBLIME3 / getnotation - nvalt - qownnotes - docfetch - tiddlywiki - zimwiki - joplin - [standard notes](https://standardnotes.org)
 
 ### dev
 
@@ -35,7 +35,7 @@ function: TOOLS I USE / alternatives I like or may test
 ### office
 
 - writing - research: WORD2010 - EXCEL2010 / scrivener - zotero - [hemingway](www.hemingwayapp.com) - [epub.to](https://epub.to)
-- markdown or latex editor: [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
+- markdown & latex editor: [typora](https://typora.io) - [overleaf](https://www.overleaf.com)
 - translator: GOOGLE / [wiki translator](https://wikitranslator.github.io)
 - calc: EXCEL2010 / [rows](https://rows.com) - [speedcrunch](http://speedcrunch.org) - [insect](https://insect.sh) - [numbr](https://numbr.dev)
 - money management: EXCEL2010 / [lunchmoney](https://lunchmoney.app)
