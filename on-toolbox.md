@@ -58,12 +58,12 @@ function: TOOLS I USE / alternatives I like or may test
 
 - srs: ANKI2.0 / supermemo - readlang - memrise
 - music player: YOUTUBE / spotify - 1by1 - [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
-- readers:
+- reader:
+	- feeds: FEEDLY / [usepanda](https://usepanda.com) - [sumi.news](https://sumi.news)
 	- ebooks: [loudreader](https://www.loudreader.com)
 	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [hnify](https://hnify.com) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)
 	- wikipedia: [modern wiki](https://www.modernwiki.app)
-	- feeds: FEEDLY / [usepanda](https://usepanda.com) - [sumi.news](https://sumi.news)
 - prints: [tinyprinter](https://tinyprinter.club)
 - newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - torrents: utorrent 
