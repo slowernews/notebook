@@ -68,7 +68,7 @@
 - geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org)
 - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
-- culture: [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org) - [dense discovery](https://www.densediscovery.com/archive)
+- culture: [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org) - [dense discovery](https://www.densediscovery.com/archive) - [libgen](https://libgen.is)
 - moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 - portugal: [stats](https://maisliberdade.pt/maisfactos/)
