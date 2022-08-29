@@ -72,3 +72,4 @@
 - moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 - portugal: [stats](https://maisliberdade.pt/maisfactos/)
+- music: [music for programming](https://musicforprogramming.net) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [coderadio](https://coderadio.freecodecamp.org) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
