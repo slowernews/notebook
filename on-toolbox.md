@@ -58,16 +58,15 @@ function: TOOLS I USE / alternatives I like or may test
 
 - srs: ANKI2.0 / readlang - memrise
 - music player: YOUTUBE / spotify - [1by1](https://mpesch3.de/1by1.html)
+- newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - readers:
-	- feeds: FEEDLY
 	- ebooks: [loudreader](https://www.loudreader.com)
+	- feeds: FEEDLY
+	- twitter: NITTER
 	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)
-	- twitter: NITTER
 	- wikipedia: [modern wiki](https://www.modernwiki.app)
-- prints: [tinyprinter](https://tinyprinter.club)
-- newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - torrents: utorrent 
 - booking: AIRBNB - BOOKING
 - fintech: PAYPAL - REVOLUT / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt) 
-- assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) - [wallpapers](https://tanck.nl/wallpaper) - [ads on newsletters](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com)
+- assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - [wificard v1](https://wificard.io) - [wificard v2](https://zdgeier.github.io/wifi-code) - [wallpapers](https://tanck.nl/wallpaper) - [ads on newsletters](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club)
