@@ -62,6 +62,7 @@
 - trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
 - music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com)- [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 - learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
+- moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 
 ## Info sources
 
@@ -69,7 +70,7 @@
 - geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org)
 - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
-- culture: [goodreads](https://www.goodreads.com) - [less wrong](https://www.lesswrong.com) - [calvert](https://calvertjournal.com) - [quanta magazine](https://www.quantamagazine.org) - [dense discovery](https://www.densediscovery.com/archive) - [libgen](https://libgen.is)
-- moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
+- rationality: [quanta magazine](https://www.quantamagazine.org) - [less wrong](https://www.lesswrong.com)
+- books: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
-- other: [cultural tutor](https://twitter.com/culturaltutor) - [portugal stats](https://maisliberdade.pt/maisfactos/)
+- other: [calvert](https://calvertjournal.com) - [cultural tutor](https://twitter.com/culturaltutor) - [portugal stats](https://maisliberdade.pt/maisfactos/)
