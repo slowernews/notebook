@@ -19,9 +19,10 @@
 
 - certifications: [upskill](https://upskill.pt/faqs/) - [AWS](https://aws.amazon.com/pt/certification)
 - poland: [PT_PL](http://ppcc.pl) - wroclaw [1](https://www.monterail.com/careers)/[2](https://10clouds.com/careers)
-- job boards: remote [1](https://www.beefrii.com)/[2](https://freshremote.work)/[3](https://weworkremotely.com)/[4](https://remotefriendly.com)/[5](https://remoteok.com) ([stats](https://remoteok.com/remote-work-statistics)) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [nocv](https://no-cv.com) - [sidejobs](https://sidequestjobs.com) - [4 day week](https://4dayweek.io/remote-jobs) - YC [1](https://www.ycombinator.com/jobs)/[2](https://www.workatastartup.com/jobs)/[3](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs)
+- job boards: remote [1](https://www.beefrii.com)/[2](https://freshremote.work)/[3](https://weworkremotely.com)/[4](https://remotefriendly.com)/[5](https://remoteok.com) ([stats](https://remoteok.com/remote-work-statistics)) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [nocv](https://no-cv.com) - [sidejobs](https://sidequestjobs.com) - [4 day week](https://4dayweek.io/remote-jobs) - YC [1](https://www.ycombinator.com/jobs)/[2](https://www.workatastartup.com/jobs)/[3](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs) - [futureweb](https://futureweb.vc/)
 - head hunting: [triplebyte](https://triplebyte.com) - [hired](https://hired.com/talent) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co) - [curated job boards](https://jobboardsearch.com)
-- Crowdfunding: kickstarter - indiegogo - seedrs
+- crowdfunding: kickstarter - indiegogo - seedrs
+- moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com) - [apple](https://training.apple.com)
 
 ## Architecture
 
@@ -62,15 +63,15 @@
 - trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
 - music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com)- [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 - learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
-- moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com)
 
 ## Info sources
 
 - general: [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [allsides](https://www.allsides.com)
 - geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org)
 - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
-- art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
-- rationality: [quanta magazine](https://www.quantamagazine.org) - [less wrong](https://www.lesswrong.com)
+- rationality: [quanta magazine](https://www.quantamagazine.org) - [less wrong](https://www.lesswrong.com) - [big think](https://bigthink.com)
 - books: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is)
+- art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
-- other: [calvert](https://calvertjournal.com) - [cultural tutor](https://twitter.com/culturaltutor) - [portugal stats](https://maisliberdade.pt/maisfactos/)
+- other: [calvert](https://calvertjournal.com) - [cultural tutor](https://twitter.com/culturaltutor) - [not boring](https://www.notboring.co/) - [portugal stats](https://maisliberdade.pt/maisfactos/) - [abnormal returns](https://abnormalreturns.com)
+- meme: [englishrussia](https://englishrussia.com)
