@@ -29,7 +29,9 @@ function: TOOLS I USE / alternatives I like or may test
 - analytics: GOATCOUNTER / [counter.dev](https://counter.dev)
 - apis: [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 - optimize: [gtmetrix](https://gtmetrix.com)
-- ux: [figma](https://www.figma.com) - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app) - mac only ([sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co/) - [paintcodeapp](https://www.paintcodeapp.com))
+- ux & frontend: [figma](https://www.figma.com) - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app)
+	- mac only: [sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co/) - [paintcodeapp](https://www.paintcodeapp.com)
+	- frontend: [aspect](https://aspect.app) - [fuzzmap](https://www.fuzzmap.io)
 
 ### office
 
@@ -69,4 +71,4 @@ function: TOOLS I USE / alternatives I like or may test
 - torrents: utorrent 
 - booking: AIRBNB - BOOKING
 - fintech: PAYPAL - REVOLUT / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt) 
-- assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard [v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club)
+- assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard ([v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club)

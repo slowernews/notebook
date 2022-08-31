@@ -7,22 +7,21 @@
 - research: [creative](https://www.densediscovery.com) - [exclusive](https://www.wowhaus.co.uk) or cheap houses [1](https://www.instagram.com/cheapoldhouses)/[2](https://www.instagram.com/cheapirishhouses)
 - graphics: [brand + logo + domain package](https://www.brandbucket.com) - [$495 logos](https://logo.pizza) - crowdsource [1](https://www.crowdspring.com)/[2](https://draftss.com)/[3](https://www.manypixels.co)
 - services: [cleaning](https://www.maidsinblack.com)
-- accomodation: [long term](https://www.uniplaces.com) - [student](https://www.studentville.pt/en)
+- accomodation: [long term](https://www.uniplaces.com) - [student](https://www.studentville.pt/en) - [short term](https://freespirit-house.com)
 - capital: [1](https://shl.vc)/[2](https://www.generalcatalyst.com)/[3](https://www.tinycapital.com)
 - consulting: [1](https://hashref.com)/[2](https://roybarber.com)/[3](https://consulting.joreteg.com)/[4](https://desktopneo.com) - [on real estate](https://www.zeonamcintyre.com)
 - mailbox money: [printable place cards](https://www.placecard.me)
 - geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
 - books: [mousebookclub](https://mousebookclub.com) - [waldenpond](https://waldenpond.press)
-- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com)
+- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com)
 
 ## Career
 
-- certifications: [upskill](https://upskill.pt/faqs/) - [AWS](https://aws.amazon.com/pt/certification)
+- moocs & certificates: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com) - [apple](https://training.apple.com) - [near certificate](https://www.near.university/courses/near-certified-developer) -  [upskill](https://upskill.pt/faqs/) - [AWS](https://aws.amazon.com/pt/certification)
 - poland: [PT_PL](http://ppcc.pl) - wroclaw [1](https://www.monterail.com/careers)/[2](https://10clouds.com/careers)
-- job boards: remote [1](https://www.beefrii.com)/[2](https://freshremote.work)/[3](https://weworkremotely.com)/[4](https://remotefriendly.com)/[5](https://remoteok.com) ([stats](https://remoteok.com/remote-work-statistics)) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [nocv](https://no-cv.com) - [sidejobs](https://sidequestjobs.com) - [4 day week](https://4dayweek.io/remote-jobs) - YC [1](https://www.ycombinator.com/jobs)/[2](https://www.workatastartup.com/jobs)/[3](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs) - [futureweb](https://futureweb.vc/)
+- job boards: remote [1](https://www.beefrii.com)/[2](https://freshremote.work)/[3](https://weworkremotely.com)/[4](https://remotefriendly.com)/[5](https://remoteok.com) ([stats](https://remoteok.com/remote-work-statistics)) - [relocate](https://relocate.me) - [nocsdegree](https://www.nocsdegree.com/jobs) - [nocv](https://no-cv.com) - [sidejobs](https://sidequestjobs.com) - [4 day week](https://4dayweek.io/remote-jobs) - YC [1](https://www.ycombinator.com/jobs)/[2](https://www.workatastartup.com/jobs)/[3](https://whoishiring.io) - [germantechjobs](https://germantechjobs.de) - [landingjobs](https://landing.jobs) - [futureweb](https://futureweb.vc/) - [nploy](https://nploy.net) - [polychain](https://jobs.polychain.capital/companies)
 - head hunting: [triplebyte](https://triplebyte.com) - [hired](https://hired.com/talent) - [hackerrank](https://www.hackerrank.com) - [hackajob](https://hackajob.co) - [curated job boards](https://jobboardsearch.com)
 - crowdfunding: kickstarter - indiegogo - seedrs
-- moocs: [classcentral](https://classcentral.com) - [microsoft](https://docs.microsoft.com/en-us/learn) - [elements of AI](https://elementsofai.com) - [apple](https://training.apple.com)
 
 ## Architecture
 
@@ -45,7 +44,7 @@
 
 ## Travel
 
-- info: [reopen europe](https://reopen.europa.eu/pt) - [hewelapp](https://hewellapp.com) - [seat61](https://www.seat61.com) - *[wroclaw airport](https://airport.wroclaw.pl)*
+- info: [reopen europe](https://reopen.europa.eu/pt) - [hewelapp](https://hewellapp.com) - [seat61](https://www.seat61.com) - *[wroclaw airport](https://airport.wroclaw.pl)* - [world heritage sites](https://world-heritage.mapspot.co/#/search/ZmM4rtgJE8/all/all/all/2/31.653381399664/-40.043210482063/eyJsYXRNYXgiOjc0LjY4MzI1MDMwMDUxODYxLCJsYXRNaW4iOi00My41ODAzOTA4NTU2MDc4NDUsImxuZ01heCI6NjYuMDkzNzUwMDAwMDAwMDEsImxuZ01pbiI6LTE0NS44OTg0Mzc1MDAwMDAwM30=/all/created_at/desc/30/0)
 - flights: skyscanner - [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
 - weather: windguru.cz - [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
 - maps: [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads)
