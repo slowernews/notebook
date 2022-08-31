@@ -11,7 +11,7 @@ function: TOOLS I USE / alternatives I like or may test
 - chat: SIGNAL / whatsapp
 - mail: GMAIL - PROTONMAIL / tutanota - [skiff](https://skiff.com)
 - cloud: GDRIVE 
-- notes & wiki: SUBLIME3 / getnotation - nvalt - qownnotes - [standard notes](https://standardnotes.org)
+- notes & wiki: SUBLIME3 / getnotation - nvalt - qownnotes - [standard notes](https://standardnotes.org) - [zen journal](https://thezenjournal.com)
 
 ### dev
 

@@ -74,4 +74,3 @@
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 - other: [calvert](https://calvertjournal.com) - [cultural tutor](https://twitter.com/culturaltutor) - [not boring](https://www.notboring.co/) - [portugal stats](https://maisliberdade.pt/maisfactos/) - [abnormal returns](https://abnormalreturns.com)
-- meme: [englishrussia](https://englishrussia.com)
