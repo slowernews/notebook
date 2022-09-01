@@ -60,7 +60,7 @@
 - linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos) - [etymology](https://www.youtube.com/user/Alliterative/videos)
 - statistics: [INE](https://www.ine.pt) - [ucoin](https://en.ucoin.net)
 - trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
-- music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com)- [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
+- music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 - learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
 
 ## Info sources
@@ -72,4 +72,4 @@
 - books: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is)
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
-- other: [calvert](https://calvertjournal.com) - [cultural tutor](https://twitter.com/culturaltutor) - [not boring](https://www.notboring.co/) - [portugal stats](https://maisliberdade.pt/maisfactos/) - [abnormal returns](https://abnormalreturns.com)
+- other: [calvert](https://calvertjournal.com) - [not boring](https://www.notboring.co/) - [portugal stats](https://maisliberdade.pt/maisfactos/) - [abnormal returns](https://abnormalreturns.com) - twitter accounts [1](https://twitter.com/culturaltutor)/[2](https://twitter.com/visualizevalue)/[3](https://twitter.com/mmay3r)/[4](https://twitter.com/ShaneAParrish)/[5](https://twitter.com/_erinaazmi)
