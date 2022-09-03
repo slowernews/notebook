@@ -1,17 +1,20 @@
 # Brains to pick
 
-Thinkers, makers, sellers, motivators or artists. People that I learn/learnt from. Not necessarily famous.
+Thinkers, makers, sellers, teachers, motivators or artists. People that I learn/learnt from. Not necessarily famous.
 
 - [1846] Auguste Escoffier
 - [1912] Milton Friedman
 - [1918] [Richard Feynman](https://twitter.com/ProfFeynman)
 - [1923] [Henry Kissinger](https://en.wikipedia.org/wiki/Henry_Kissinger)
 - [1924] Charlie Munger
+- [1928] Noam Chomski
 - [1930] Warren Buffett
 - [1932] *Johnny Cash*
 - [1935] *Elvis Presley*
 - [1940] Alan Kay
 - [1943] *Jim Morrison*
+- [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (portuguese)
+- [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [1945] David Allen
 - [1947] Paulo Coelho - timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) / [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (portuguese)
 - [1952] Kevin Kelly
@@ -20,6 +23,7 @@ Thinkers, makers, sellers, motivators or artists. People that I learn/learnt fro
 - [1955] Steve Jobs
 - [195?] Robert Glover
 - [1959] Stephen Wolfram
+- [1959] Stephen Kotkin
 - [1960] [Nassim Taleb](https://twitter.com/nntaleb)
 - [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
 - [1964] Jeff Bezos
@@ -33,8 +37,9 @@ Thinkers, makers, sellers, motivators or artists. People that I learn/learnt fro
 - [1974] [Naval Ravikant](https://twitter.com/naval)
 - [1977] Tim Ferriss
 - [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
+- [1983] [Lex Fridman](https://twitter.com/lexfridman)
 - [1984] Mark Manson
-- [1986] [Lex Fridman](https://twitter.com/lexfridman)
+- [1984] Liv Boeree
 - [1990] [Lyn Alden](https://twitter.com/lynaldencontact)
 - [1994] [Vitalik Buterin](https://vitalik.ca)
 
@@ -43,13 +48,6 @@ Thinkers, makers, sellers, motivators or artists. People that I learn/learnt fro
 - [19??] Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
 - [19??] Evan Czaplicki
 
-## Lectures
-
-Great teachers.
-
-- [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (portuguese)
-- [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [1959] Stephen Kotkin
 
 <!--
 - Abbas (iran - photojournalist)

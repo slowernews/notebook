@@ -48,6 +48,7 @@ function: TOOLS I USE / alternatives I like or may test
 - communication: zoom - skype - slack
 - forms & mail lists: gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 - automate: ahk - ifttt - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today)
+- security: escrow - [justdeleteme](https://backgroundchecks.org/justdeleteme)
 
 ### graphics
 

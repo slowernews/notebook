@@ -62,6 +62,7 @@
 - trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
 - music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 - learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
+- other: [firedating](https://firedating.me)
 
 ## Info sources
 
