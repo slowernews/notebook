@@ -17,12 +17,14 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learn/
 - [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [1945] David Allen
 - [1947] Paulo Coelho - timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) / [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (portuguese)
+- [1947] Robert Kiyosaki
+- [1948] Ray Kurzweil
 - [1952] Kevin Kelly
 - [1953] David Deutsch
 - [1955] Bill Gates 
 - [1955] Steve Jobs
 - [195?] Robert Glover
-- [1959] Stephen Wolfram
+- [1959] Stephen Wolframs
 - [1959] Stephen Kotkin
 - [1960] [Nassim Taleb](https://twitter.com/nntaleb)
 - [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
