@@ -1,6 +1,6 @@
 # Brains to pick
 
-Thinkers, makers, sellers, teachers, motivators or artists. People that I learn/learnt from. Not necessarily famous.
+Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt from. Not necessarily famous.
 
 - [1846] Auguste Escoffier
 - [1912] Milton Friedman
@@ -42,6 +42,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learn/
 - [1983] [Lex Fridman](https://twitter.com/lexfridman)
 - [1984] Mark Manson
 - [1984] Liv Boeree
+- [1986] Andrew Tate
 - [1990] [Lyn Alden](https://twitter.com/lynaldencontact)
 - [1994] [Vitalik Buterin](https://vitalik.ca)
 
