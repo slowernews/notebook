@@ -2,16 +2,28 @@
 
 Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt from. Not necessarily famous.
 
+- [1469] Niccolò Machiavelli
+- [1524] Luís de Camões
+- [1547] Miguel de Cervantes
+- [1564] William Shakespeare
 - [1846] Auguste Escoffier
+- [1888] Fernando Pessoa
+- [1891] Henry Miller
+- [1899] Jorge Luis Borges
+- [1900] Antoine de Saint-Exupéry
 - [1912] Milton Friedman
 - [1918] [Richard Feynman](https://twitter.com/ProfFeynman)
+- [1921] *Astor Piazzolla*
+- [1923] Italo Calvino
 - [1923] [Henry Kissinger](https://en.wikipedia.org/wiki/Henry_Kissinger)
 - [1924] Charlie Munger
 - [1928] Noam Chomski
 - [1930] Warren Buffett
+- [1932] Ryszard Kapuściński
 - [1932] *Johnny Cash*
 - [1935] *Elvis Presley*
 - [1940] Alan Kay
+- [1942] António Lobo Antunes
 - [1943] *Jim Morrison*
 - [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (portuguese)
 - [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
@@ -24,7 +36,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1955] Bill Gates 
 - [1955] Steve Jobs
 - [195?] Robert Glover
-- [1959] Stephen Wolframs
+- [1959] Stephen Wolfram
 - [1959] Stephen Kotkin
 - [1960] [Nassim Taleb](https://twitter.com/nntaleb)
 - [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
@@ -34,6 +46,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1967] Sam Harris
 - [1969] Derek Sivers
 - [1969] Rollo Tomassi
+- [1970] John Carmack
 - [1971] Elon Musk
 - [1971] Marc Andreessen
 - [1974] [Naval Ravikant](https://twitter.com/naval)
