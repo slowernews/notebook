@@ -23,13 +23,14 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1932] *Johnny Cash*
 - [1935] *Elvis Presley*
 - [1940] Alan Kay
-- [1942] António Lobo Antunes
+- [1942] [António Lobo Antunes](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes)
 - [1943] *Jim Morrison*
 - [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (portuguese)
 - [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [1945] David Allen
 - [1947] Paulo Coelho - timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) / [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (portuguese)
 - [1947] Robert Kiyosaki
+- [1948] [Al Berto](https://en.wikipedia.org/wiki/Al_Berto)
 - [1948] Ray Kurzweil
 - [1952] Kevin Kelly
 - [1953] David Deutsch
