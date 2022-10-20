@@ -9,8 +9,8 @@ My half-baked notes on:
 - bookmarks[^2] on [basics of computer science](on-computer-science.md) and [other stuff](on-bookmarks.md).
 - trail guides on [self learn web development](trail-guide-web-development.md) and [self-publishing](trail-guide-self-publishing.md).  
 - programming languages [of cryptocurrencies](on-crypto.md).
-- [javascript](on-native-methods-tricks-quirks.js), [DOM](on-js-dom-html-css.html), [frontend](on-js-frontend-frameworks.js) and [chrome extensions](on-extensions-chrome.js).
-- [ruby](on-native-methods-tricks-quirks.rb) and [sketchup extensions](on-extensions-sketchup.md).
+- javascript [native](on-native-methods-tricks-quirks.js), [DOM](on-js-dom-html-css.html), [frontend](on-js-frontend-frameworks.js) and [chrome extensions](on-extensions-chrome.js).
+- ruby [native](on-native-methods-tricks-quirks.rb) and [sketchup extensions](on-extensions-sketchup.md).
 - [lisps and ML](on-lisps-and-ml.md).
 
 [^1]: Most tools are not brand new but I keep them sharp.
