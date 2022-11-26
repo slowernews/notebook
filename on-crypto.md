@@ -41,5 +41,6 @@
 
 ### Crypto analysis
 
- - [ath](https://www.blockchaincenter.net) & [tools](https://www.blockchaincenter.net/tools) - [tvl](https://defillama.com/chains) - [historic prices](https://cryptorank.io) - [%winners](https://app.intotheblock.com) - [compare](https://www.coingecko.com/en/coins/compare) - [withdrawal fees](https://withdrawalfees.com)
+- technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [top10 hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com) - [withdrawal fees](https://withdrawalfees.com) 
+- fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/tvl/) - [compare](https://www.coingecko.com/en/coins/compare)
 - [stocks](https://finance.yahoo.com/world-indices)

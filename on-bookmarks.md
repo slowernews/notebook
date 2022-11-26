@@ -28,6 +28,7 @@
 - architectural competitions: [PT](http://encomenda.oasrs.org/concursos) - [FI](https://www.safa.fi/en/architectural-competitions-in-finland) - [SI](https://www.zaps.si/index.php?m_id=natecaji_aktualni) - [CZ](https://cceamoba.cz/en)
 - models, drawings & textures: [archimodels](https://archimodels.tumblr.com)/[archidrawings](https://archidrawings.tumblr.com) - [modulor](https://www.modulor.de/en) - [textureking](https://www.textureking.com)
 - design: [10 principles](https://www.vitsoe.com/gb/about/good-design) - [computer prototype](https://habr.com/en/post/437912)
+- ai/stable diffusion: [1](https://www.thisshirtexists.com)
 
 ## Real estate
 
@@ -56,7 +57,7 @@
 
 - slow TV: cities [1](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos)/[2](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos)/[3](https://www.youtube.com/c/keeezi/videos) - japan [1](https://www.youtube.com/c/Rambalac/videos)/[2](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [travel remotely](https://travel-remotely.netlify.app) - [drive & listen](https://driveandlisten.herokuapp.com) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
 )
-- free [movies](https://www.openculture.com/freemoviesonline) - books [1](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)/[2](https://1lib.education)
+- free movies [1](https://www.openculture.com/freemoviesonline)/[2](https://www3.pobre.wtf/movies) - books [1](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)/[2](https://1lib.education)
 - cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos) - [etymology](https://www.youtube.com/user/Alliterative/videos)
 - statistics: [INE](https://www.ine.pt) - [ucoin](https://en.ucoin.net)

@@ -21,6 +21,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1930] Warren Buffett
 - [1932] Ryszard Kapuściński
 - [1932] *Johnny Cash*
+- [1935] *Woody Allen*
 - [1935] *Elvis Presley*
 - [1940] Alan Kay
 - [1942] [António Lobo Antunes](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes)
