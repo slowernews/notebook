@@ -10,8 +10,8 @@
 - rust:
 	- [solidity / EVM] [near](https://github.com/near) - [nervos](https://github.com/nervosnetwork)
 	- [rust] [solana](https://github.com/solana-labs) - [holochain](https://github.com/holochain)
-	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech) 
-	- [[motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)] [internet computer](https://github.com/dfinity) 
+	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
+	- [[motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)] [internet computer](https://github.com/dfinity)
 	- [clarity lisp] [stacks](https://github.com/blockstack) 
 	- [secret](https://github.com/scrtlabs) - [polymath](https://github.com/PolymathNetwork) - [nucypher](https://github.com/nucypher) - [casper](https://github.com/casper-network) - [everscale](https://github.com/tonlabs)
 - c++ / c:
@@ -35,12 +35,12 @@
 - clojure:
 	- [district0x](https://github.com/district0x)
 - python:
-	- [[chia lisp](https://chialisp.com)] [chia](https://github.com/Chia-Network) 
+	- [[chia lisp](https://chialisp.com)] [chia](https://github.com/Chia-Network)
 - typescript:
-	- [js] [lisk](https://github.com/LiskHQ) 
+	- [js] [lisk](https://github.com/LiskHQ)
 
 ### Crypto analysis
 
-- technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [top10 hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com) - [withdrawal fees](https://withdrawalfees.com) 
+- technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com) - [withdrawal fees](https://withdrawalfees.com) 
 - fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/tvl/) - [compare](https://www.coingecko.com/en/coins/compare)
 - [stocks](https://finance.yahoo.com/world-indices)
