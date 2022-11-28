@@ -12,5 +12,6 @@ My half-baked notes on:
 - ruby [native](on-native-methods-tricks-quirks.rb) and [sketchup extensions](on-extensions-sketchup.md).
 - [lisps and ML](on-lisps-and-ml.md).
 - programming languages [of cryptocurrencies](on-crypto.md).
+- architectural [projects](https://www.pinterest.pt/archimodels), [drawings](https://archidrawings.tumblr.com) and [scale models](https://archimodels.tumblr.com).
 
 [^1]: Most tools are not brand new but I keep them sharp.

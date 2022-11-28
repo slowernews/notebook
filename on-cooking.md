@@ -2,7 +2,15 @@
 
 ### Signature dishes
 
-You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes in the top of your mind. Your friends want to eat well and want to do it now.
+You should have a few signature dishes. Having a full grasp of cuisine is less relevant than having some optimized recipes. Your friends want to eat well and want to do it now.
+
+Mine are:
+
+- 3 breakfasts: sweet french toast, fruit jam, scrambled eggs
+- 3 Starters: vegetable soup, ramen, pizza
+- 3 Fishes: roasted salmon with black beans, bacalhau à brás, tuna pasta
+- 3 Meats: fried chicken, spaghetti carbonara, hamburguer
+- 3 Desserts: cream tart, cookie cake, chocolate mousse
 
 ## Noob level
 
