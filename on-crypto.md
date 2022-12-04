@@ -3,7 +3,7 @@
 ### Main and [contract] programming languages
 
 - go:
-	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [avalanche](https://github.com/ava-labs) - [polygon](https://github.com/maticnetwork) - [chainlink](https://github.com/smartcontractkit) - [celer](https://github.com/celer-network) - [omg](https://github.com/omgnetwork)
+	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [avalanche](https://github.com/ava-labs) - [polygon](https://github.com/maticnetwork) - [chainlink](https://github.com/smartcontractkit) - [fantom](https://github.com/Fantom-foundation) - [celo](https://github.com/celo-org) - [celer](https://github.com/celer-network) - [omg](https://github.com/omgnetwork)
 	- [cosmwasm] [cosmos](https://github.com/cosmos) - [terra](https://github.com/terra-money)
 	- [cadence] [flow](https://github.com/onflow)
 	- [vechain](https://github.com/vechain) - [klaytn](https://github.com/klaytn) - [iotex](https://github.com/iotexproject) - algorand
