@@ -7,8 +7,12 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1547] Miguel de Cervantes
 - [1564] William Shakespeare
 - [1846] Auguste Escoffier
+- [1867] Frank Lloyd Wright
+- [1886] Mies Van Der Rohe
+- [1887] Le Corbusier
 - [1888] Fernando Pessoa
 - [1891] Henry Miller
+- [1898] Alvar Aalto
 - [1899] Jorge Luis Borges
 - [1900] Antoine de Saint-Exupéry
 - [1912] Milton Friedman

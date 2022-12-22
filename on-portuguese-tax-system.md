@@ -179,7 +179,7 @@
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 
 			Rendimentos obtidos em Portugal: 20% (sem direito a deduções!)
-			Rendimentos provenientes de outros paises: 0% (ex: dividendos)
+			Rendimentos provenientes de outros paises: 0%
 
 	- Atenuantes fiscais.[^2]
 
@@ -316,8 +316,8 @@ Intercâmbio internacional de informações sobre o IVA: [VIES](https://ec.europ
 
 ### Valores indexantes
 
-- IAS (Indexante dos Apoios Sociais) 2022 = 443€
-- SMN (Salário Mínimo Nacional) 2022 = 705€ x 14 meses
+- IAS (Indexante dos Apoios Sociais) 2023 = 480€
+- SMN (Salário Mínimo Nacional) 2023 = 760€ x 14 meses
 
 
 
