@@ -3,18 +3,18 @@
 ### Main and [contract] programming languages on TOP100 coins
 
 - go:
-	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [avalanche](https://github.com/ava-labs) - [polygon](https://github.com/maticnetwork) - [chainlink](https://github.com/smartcontractkit) - [fantom](https://github.com/Fantom-foundation)
+	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [polygon](https://github.com/maticnetwork) - [avalanche](https://github.com/ava-labs) - [fantom](https://github.com/Fantom-foundation)
 	- [cosmwasm] [cosmos](https://github.com/cosmos) - [terra](https://github.com/terra-money)
 	- [cadence] [flow](https://github.com/onflow)
 	- [python] [algorand](https://github.com/algorand)
-	- [vechain](https://github.com/vechain) - [klaytn](https://github.com/klaytn) - [multiversx](https://github.com/ElrondNetwork) - [theta](https://github.com/thetatoken) - [iota](https://github.com/iotaledger) - [chain](https://github.com/chain)
+	- [chainlink](https://github.com/smartcontractkit) - [vechain](https://github.com/vechain) - [klaytn](https://github.com/klaytn) - [multiversx](https://github.com/ElrondNetwork) - [theta](https://github.com/thetatoken) - [iota](https://github.com/iotaledger) - [chain](https://github.com/chain)
 - c++ / c:
 	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks ([bitcoin cash](https://gitlab.com/bitcoin-cash-node), [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin), [bitcoin sv](https://github.com/bitcoin-sv), [ecash](https://github.com/bitcoin-abc)) - [dash](https://github.com/dashpay/dash) - [zcash](https://github.com/zcash) - [monero](https://github.com/monero-project/monero) - [ripple](https://github.com/ripple) - [stellar](https://github.com/stellar) - [eos](https://github.com/eosnetworkfoundation)
-	- [solidity / EVM] [zilliqa](https://github.com/Zilliqa)
 	- [funC] [toncoin](https://github.com/ton-blockchain)
+	- [solidity / EVM] [zilliqa](https://github.com/Zilliqa)
 - rust:
-	- [solidity / EVM] [near](https://github.com/near)
 	- [rust] [solana](https://github.com/solana-labs)
+	- [solidity / EVM] [near](https://github.com/near)
 	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
 	- [[motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)] [internet computer](https://github.com/dfinity)
 	- [clarity lisp] [stacks](https://github.com/blockstack)
