@@ -6,24 +6,31 @@
 	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [avalanche](https://github.com/ava-labs) - [polygon](https://github.com/maticnetwork) - [chainlink](https://github.com/smartcontractkit) - [fantom](https://github.com/Fantom-foundation)
 	- [cosmwasm] [cosmos](https://github.com/cosmos) - [terra](https://github.com/terra-money)
 	- [cadence] [flow](https://github.com/onflow)
-	- [vechain](https://github.com/vechain) - [klaytn](https://github.com/klaytn) - algorand
+	- [python] [algorand](https://github.com/algorand)
+	- [vechain](https://github.com/vechain) - [klaytn](https://github.com/klaytn) - [multiversx](https://github.com/ElrondNetwork) - [theta](https://github.com/thetatoken) - [iota](https://github.com/iotaledger) - [chain](https://github.com/chain)
+- c++ / c:
+	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks ([bitcoin cash](https://gitlab.com/bitcoin-cash-node), [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin), [bitcoin sv](https://github.com/bitcoin-sv), [ecash](https://github.com/bitcoin-abc)) - [dash](https://github.com/dashpay/dash) - [zcash](https://github.com/zcash) - [monero](https://github.com/monero-project/monero) - [ripple](https://github.com/ripple) - [stellar](https://github.com/stellar) - [eos](https://github.com/eosnetworkfoundation)
+	- [solidity / EVM] [zilliqa](https://github.com/Zilliqa)
+	- [funC] [toncoin](https://github.com/ton-blockchain)
 - rust:
 	- [solidity / EVM] [near](https://github.com/near)
 	- [rust] [solana](https://github.com/solana-labs)
 	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
 	- [[motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)] [internet computer](https://github.com/dfinity)
-	- [clarity lisp] [stacks](https://github.com/blockstack) 
-- c++ / c:
-	- [solidity / EVM] [zilliqa](https://github.com/Zilliqa)
-	- [funC] [toncoin](https://github.com/ton-blockchain)
-	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks (bitcoin cash, [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin)) - [dash](https://github.com/dashpay/dash) - [zcash](https://github.com/zcash) - [monero](https://github.com/monero-project/monero) - [ripple](https://github.com/ripple) - [stellar](https://github.com/stellar)
+	- [clarity lisp] [stacks](https://github.com/blockstack)
+	- [aptos](https://github.com/aptos-labs)
 - java:
 	- [solidity / EVM] [tron](https://github.com/tronprotocol) - hedera
 	- [scrypto] [radix](https://github.com/radixdlt)
+- typescript:
+	- [solidity / EVM] [cronos](https://github.com/crypto-org-chain/cronos)
+	- [aave](https://github.com/aave) - [the graph](https://github.com/graphprotocol)
 - ocaml:
 	- [mina protocol](https://github.com/MinaProtocol/mina) - tezos
 - haskell:
 	- [[plutus](https://github.com/input-output-hk/plutus)] [cardano](https://github.com/input-output-hk)
+- C#:
+	- [neo](https://github.com/neo-project)
 
 ### Crypto analysis
 
