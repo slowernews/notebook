@@ -1,6 +1,6 @@
 # Brains to pick
 
-Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt from. Not necessarily famous.
+Thinkers, makers, sellers, teachers, motivators or artists. Not necessarily famous. People that I learnt from. Not necessarily *virtuous* stuff.
 
 - [1469] Niccolò Machiavelli
 - [1524] Luís de Camões
@@ -8,6 +8,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1564] William Shakespeare
 - [1846] Auguste Escoffier
 - [1867] Frank Lloyd Wright
+- [1881] Pablo Picasso
 - [1886] Mies Van Der Rohe
 - [1887] Le Corbusier
 - [1888] Fernando Pessoa
@@ -17,22 +18,24 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1900] Antoine de Saint-Exupéry
 - [1912] Milton Friedman
 - [1918] [Richard Feynman](https://twitter.com/ProfFeynman)
-- [1921] *Astor Piazzolla*
-- [1923] Italo Calvino
+- [1921] Astor Piazzolla
 - [1923] [Henry Kissinger](https://en.wikipedia.org/wiki/Henry_Kissinger)
+- [1923] Italo Calvino
 - [1924] Charlie Munger
 - [1928] Noam Chomski
 - [1930] Warren Buffett
+- [1932] Johnny Cash
 - [1932] Ryszard Kapuściński
-- [1932] *Johnny Cash*
-- [1935] *Woody Allen*
-- [1935] *Elvis Presley*
+- [1935] Elvis Presley
+- [1935] Woody Allen
 - [1940] Alan Kay
 - [1942] [António Lobo Antunes](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes)
-- [1943] *Jim Morrison*
-- [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (portuguese)
+- [1942] Edward Tufte
+- [1943] Jim Morrison
 - [1943] Patrick Winston - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [1943] Pierluigi Piazzi - [How to learn](https://www.youtube.com/watch?v=RlSCoYwnxr4) (portuguese)
 - [1945] David Allen
+- [1946] Donald Trump
 - [1947] Paulo Coelho - timeless interviews from [1990](https://www.youtube.com/watch?v=ItllhYhQR4Q) / [1994](https://www.youtube.com/watch?v=4AwUM3Br_Pg) (portuguese)
 - [1947] Robert Kiyosaki
 - [1948] [Al Berto](https://en.wikipedia.org/wiki/Al_Berto)
@@ -41,11 +44,12 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1953] David Deutsch
 - [1955] Bill Gates 
 - [1955] Steve Jobs
-- [195?] Robert Glover
-- [1959] Stephen Wolfram
+- [1959] [Robin Hanson](https://www.overcomingbias.com)
 - [1959] Stephen Kotkin
+- [1959] Stephen Wolfram
+- [195?] Robert Glover
 - [1960] [Nassim Taleb](https://twitter.com/nntaleb)
-- [1962] Jordan Peterson - [Interview](https://tim.blog/2021/03/01/jordan-peterson/)
+- [1962] Jordan Peterson
 - [1964] Jeff Bezos
 - [1964] Paul Graham
 - [1965] Eric Weinstein
@@ -57,13 +61,15 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - [1971] Marc Andreessen
 - [1974] [Naval Ravikant](https://twitter.com/naval)
 - [1977] Tim Ferriss
-- [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
+- [1978] Vladimir Zelensky
 - [1983] [Lex Fridman](https://twitter.com/lexfridman)
-- [1984] Mark Manson
 - [1984] Liv Boeree
+- [1984] Mark Manson
 - [1986] Andrew Tate
+- [198?] [Tim Urban](https://twitter.com/waitbutwhy) - [interview](https://www.youtube.com/watch?v=0Jd7fJgFkPU)
 - [1990] [Lyn Alden](https://twitter.com/lynaldencontact)
 - [1994] [Vitalik Buterin](https://vitalik.ca)
+- [2003] Greta Thunberg
 
 ---
 
@@ -75,6 +81,5 @@ Thinkers, makers, sellers, teachers, motivators or artists. People that I learnt
 - Abbas (iran - photojournalist)
 - Pawel Kuczynski (illustrator)
 - Mario Puppo (illustrator)
-- Edward Tufte
 - Sarah Tavel (ex pinterest ceo)
 -->
