@@ -41,7 +41,7 @@ Results: better than frozen pizza. Guaranteed.
 
 - [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
 - [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos)
-- [Modernist cuisine](https://modernistcuisine.com/all-recipes)
+- [Modernist cuisine](https://modernistcuisine.com/all-recipes) - [Cooktime](https://letscooktime.com)
 - [Parsnip](https://www.parsnip.ai)
 
 ### Nerd level

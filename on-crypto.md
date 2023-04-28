@@ -13,12 +13,12 @@
 	- [funC] [toncoin](https://github.com/ton-blockchain)
 	- [solidity / EVM] [zilliqa](https://github.com/Zilliqa)
 - rust:
-	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
 	- [rust] [solana](https://github.com/solana-labs)
+	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
+	- [aptos](https://github.com/aptos-labs)
 	- [solidity / EVM] [near](https://github.com/near)
 	- [[motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)] [internet computer](https://github.com/dfinity)
 	- [clarity lisp] [stacks](https://github.com/blockstack)
-	- [aptos](https://github.com/aptos-labs)
 - java:
 	- [solidity / EVM] [tron](https://github.com/tronprotocol) - hedera
 	- [scrypto] [radix](https://github.com/radixdlt)
@@ -34,6 +34,6 @@
 
 ### Crypto analysis
 
-- technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com) - [withdrawal fees](https://withdrawalfees.com) 
+- technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com) - [withdrawal fees](https://coinmarketfees.com) 
 - fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/tvl/) - [compare](https://www.coingecko.com/en/coins/compare)
 - [stocks](https://finance.yahoo.com/world-indices)

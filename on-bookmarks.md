@@ -1,6 +1,6 @@
 ## Business models - examples
 
-- experiences: [the worst tours](https://theworsttours.weebly.com) - [trekking guides](https://andrewskurka.com) - [rent scenario](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant & bed](https://www.brushlandeatinghouse.com) - [workaway](https://www.workaway.info) - rent cabins [1](https://www.cabinscape.com)/[2](https://getaway.house) - [rent houses](https://www.silentliving.pt)
+- experiences: [the worst tours](https://theworsttours.weebly.com) - [trekking guides](https://andrewskurka.com) - [rent scenario](https://www.unchartedbooks.com/adventurers-club.php) - [restaurant & bed](https://www.brushlandeatinghouse.com) - [workaway](https://www.workaway.info) - rent cabins [1](https://www.cabinscape.com)/[2](https://getaway.house) - [rent houses](https://www.silentliving.pt) - [rent boats](https://www.skipperi.com/rent-a-boat)
 - dreams (lifestyle): nomadic [1](https://www.nomadicmatt.com)/[2](https://sofianaaustralia.com)/[3](https://craigmod.com) - [cabinland](https://www.youtube.com/c/Cabinland/videos) - [wild foods](https://alexandermcnaughton.com)
 - kits: [farm ](https://farmfromabox.com) - Aframe [1](https://avrame.com)/[2](https://dubldom.com/eu) - cabin [1](https://buildcover.com)/[2](https://www.kodasema.com/pt)
 - real estate: selected [1](https://www.fantasticfrank.de)/[2](https://www.themodernhouse.com) - [private islands](http://www.vladi-private-islands.de) - [house shares](https://www.altacasa.com)
@@ -32,7 +32,7 @@
 
 ## Real estate
 
-- by country: [AU](https://www.realestate.com.au/buy) - [BR](https://www.zapimoveis.com.br) - [CZ](https://www.sreality.cz) - [DE](https://www.immobilienscout24.de) - [ES](https://www.idealista.com) - [FI](https://www.etuovi.com) - [GR](https://en.spitogatos.gr) - [IT](https://www.idealista.it) - [LT](https://www.remax.lt/paieska) - [PL](https://www.otodom.pl) - [PT](https://www.idealista.pt) - [RU](https://www.cian.ru) - [SE](https://www.hemnet.se) - [UK](https://www.rightmove.co.uk) - [other countries](https://www.similarweb.com/pt/top-websites/category/business-and-consumer-services/real-estate)
+- by country: [AU](https://www.realestate.com.au/buy) - [BR](https://www.zapimoveis.com.br) - [CZ](https://www.sreality.cz) - [DE](https://www.immobilienscout24.de) - [ES](https://www.idealista.com) - [FI](https://www.etuovi.com) - [GR](https://en.spitogatos.gr) - [IT](https://www.idealista.it) - [LT](https://www.remax.lt/paieska) - [PL](https://www.otodom.pl) - [PT](https://www.idealista.pt) - [RU](https://www.cian.ru) - [SE](https://www.hemnet.se) - [UK](https://www.rightmove.co.uk) - [other countries](https://www.similarweb.com/pt/top-websites/category/business-and-consumer-services/real-estate) - [EU](https://homestra.com)
 - cheap: EU [1](https://www.instagram.com/cheappropertyeu)/[2](https://www.propertyunder20k.com)/[3](https://realting.com/property-for-sale/world?page=1&movemap-input=1&slug=property-for-sale&Estate%5Bgeo_id%5D=-1&Estate%5BminPrice%5D=5000&Estate%5BmaxPrice%5D=25000&Estate%5Bcurrency%5D=EUR&Estate%5Bx1%5D=-35.15625000000001&Estate%5By1%5D=-22.43134015636061&Estate%5Bx2%5D=61.34765625000001&Estate%5By2%5D=61.18562468142283&Estate%5Bzoom%5D=3&sort=price_usd) - ES [1](https://www.spainhouses.net/en/sale-houses-spain/cheap/lower-price.html)/[2](https://www.eyeonspain.com/spanish-property/for-sale/find-country/spain/apartments-and-flats,houses-and-villas,plots-land-and-ruins,mobile-and-log-homes?max-price=50000&orderby=price-ascending) - [IT](https://casea1euro.it) 
 - [preços habitação PT](https://www.idealista.pt/media/relatorios-preco-habitacao) - [IVA 6% serviços imóveis p/ uso exclusivo hab](https://www.idealista.pt/news/financas/fiscalidade/2019/10/03/41051-iva-de-6-em-obras-apenas-para-imoveis-destinados-a-habitacao-esclarece-fisco) - [E-leilões](https://e-leiloes.pt)/[como funciona](https://www.economias.pt/e-leiloes) - [fazer escritura](https://casavo.com/pt/blog/como-fazer-escritura-imovel)
 - [gmaps area calculator](https://www.daftlogic.com/projects-google-maps-area-calculator-tool.htm#)
@@ -40,7 +40,7 @@
 ## Gaming
 
 - game aggregators: [itch.io](https://itch.io) - [boardgamearena](https://pt.boardgamearena.com) - [playok](https://www.playok.com)
-- games: [generals.io](http://generals.io) - [lord of the manor](http://www.lordofthemanor.io) - [zty.pe](https://zty.pe) - [nation states](https://www.nationstates.net) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale - [guriddo](https://www.guriddo.app)
+- games: [generals.io](http://generals.io) - [lord of the manor](http://www.lordofthemanor.io) - [zty.pe](https://zty.pe) - [nation states](https://www.nationstates.net) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale - [guriddo](https://www.guriddo.app) - geo [1](https://www.geoguessr.com)/[2](https://geotastic.net)
 - chess: [tactics](https://www.chesstactics.org) - [checkmatechamp](https://www.checkmatechamp.net)
 - tabletop + D&D: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter) - [sounds](https://tabletopy.com) - [escape team](https://www.escape-team.com)
 
@@ -50,7 +50,7 @@
 - flights: skyscanner - [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
 - weather: windguru.cz - [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
 - maps: [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads)
-- osm: [realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com)
+- osm: [realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com) - [street view wonders](https://neal.fun/wonders-of-street-view)
 - geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
 
 ## Other hobby horses
@@ -58,13 +58,14 @@
 - slow TV: cities [1](https://www.youtube.com/channel/UCBcVQr-07MH-p9e2kRTdB3A/videos)/[2](https://www.youtube.com/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/videos)/[3](https://www.youtube.com/c/keeezi/videos) - japan [1](https://www.youtube.com/c/Rambalac/videos)/[2](https://www.youtube.com/c/lylehsaxon/videos) - [usa](https://www.youtube.com/c/ActionKid/videos) - [window swap](https://window-swap.com) - [travel remotely](https://travel-remotely.netlify.app) - [drive & listen](https://driveandlisten.herokuapp.com) - [trains](https://www.youtube.com/c/RailCowGirl/videos) - [building a log cabin](https://www.youtube.com/watch?v=BBX5qh09OIE
 )
 - movies [1](https://www.openculture.com/freemoviesonline)/[2](https://www3.pobre.wtf/movies) - books [1](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)/[2](https://1lib.education)/[3](https://zlibrary.to/)/[4](https://z-lib.is/)
+- podcasts: [lex](https://lexfridman.com/podcast) - [tyler](https://conversationswithtyler.com/episodes)
 - cultura geral: [manual do mundo](https://www.youtube.com/user/iberethenorio/videos) - [oversimplified](https://www.youtube.com/c/OverSimplified/videos) - [economy](https://www.core-econ.org/the-economy/book/text/0-3-contents.html)
 - linguas: [canal autodidata](https://www.youtube.com/c/CanalAutodidatagh/playlists?view=1) - [polyglot](https://www.youtube.com/user/poliglotta80/videos) - [etymology](https://www.youtube.com/user/Alliterative/videos)
 - statistics: [INE](https://www.ine.pt) - [ucoin](https://en.ucoin.net)
 - trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
 - music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 - learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
-- other: [firedating](https://firedating.me)
+- other: [firedating](https://firedating.me) - [taskrabbit](https://www.taskrabbit.com/)
 
 ## Info sources
 
@@ -72,7 +73,7 @@
 - geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org)
 - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
 - rationality: [quanta magazine](https://www.quantamagazine.org) - [less wrong](https://www.lesswrong.com) - [big think](https://bigthink.com)
-- books: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is)
-- art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org)
+- books & papers: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is) - [scholar](https://scholar.archive.org)
+- art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org) - [wul](https://www.wulmagazine.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
-- other: [calvert](https://calvertjournal.com) - [not boring](https://www.notboring.co/) - [portugal stats](https://maisliberdade.pt/maisfactos/) - [abnormal returns](https://abnormalreturns.com) - twitter accounts [1](https://twitter.com/culturaltutor)/[2](https://twitter.com/visualizevalue)/[3](https://twitter.com/mmay3r)/[4](https://twitter.com/ShaneAParrish)/[5](https://twitter.com/_erinaazmi)
+- other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co/) - [portugal stats](https://maisliberdade.pt/maisfactos/) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives/)

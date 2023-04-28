@@ -8,12 +8,14 @@
 - [sqlite](https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html)
 - [emacs](https://learnxinyminutes.com/docs/emacs)
 - [naming stuff](https://leanpub.com/elementsofclojure/read_sample)
+- [web design](https://anthonyhobday.com/sideprojects/saferules/)
+- [ux](https://archive.is/ry2Kc)
 
 ### Playgrounds
 
 - [freecodecamp](https://www.freecodecamp.org) - [exercism](https://exercism.io) - [codewars](https://www.codewars.com)
-- CSS: [grid](https://grid.layoutit.com), [masonry generator](https://w3bits.com/tools/masonry-generator) and [zen garden](http://www.csszengarden.com/
-)
+- [HTML](https://no-gravity.github.io/html_editor/#) & CSS: [grid](https://grid.layoutit.com), [masonry generator](https://w3bits.com/tools/masonry-generator) and [zen garden](http://www.csszengarden.com/
+) - [flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox)
 - javascript: [runJS](https://runjs.app) - [questions](https://github.com/lydiahallie/javascript-questions) - [1loc](https://1loc.dev) - [prettier](https://prettier.io/playground)
 - python: [rhonny](https://thonny.org) - [snakify](https://snakify.org/pt)
 - regex: [101](https://regex101.com) - [regexr](https://regexr.com) - [rubular](https://rubular.com) - [crosswords](http://regexcrossword.com)
@@ -24,7 +26,7 @@
 - JS: [weekly](https://javascriptweekly.com/issues) - [exploring](https://exploringjs.com) - [way](https://github.com/thejsway/thejsway) - [YDKJS](https://github.com/getify/You-Dont-Know-JS) - [info](https://javascript.info) - [eloquent](https://eloquentjavascript.net) - [modern](https://mbeaudru.github.io/modern-js-cheatsheet) - [human](https://read.humanjavascript.com) - [data science](http://js4ds.org)
 	- functional programming: [for JS people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - [jargon](https://github.com/hemanth/functional-programming-jargon) - [light](https://github.com/getify/Functional-Light-JS) - [allonge](https://leanpub.com/javascriptallongesix/read) - [jargon](https://github.com/hemanth/functional-programming-jargon)
 	- basic apps: [spreadsheet](https://jsfiddle.net/ondras/o3tzx1px) - [data table](https://github.com/piecioshka/simple-data-table) - [notes](https://github.com/tmm/notational) - [calculator](https://insect.sh) - [chrome extension](https://github.com/abhiomkar/good-quotes)
-	- games: [JS1K](https://js1k.com) - [JS13K](https://js13kgames.com) - [traffic simulation](https://traffic-simulation.de) - [minesweeper](http://xem.github.io/MiniSweeper) - [tetris](http://binaryify.github.io/vue-tetris) - [rogue](https://nluqo.github.io/broughlike-tutorial) - [maze](https://observablehq.com/@mbostock/best-first-search) - [path finding](http://qiao.github.io/PathFinding.js/visual) - [doom](https://www.playfuljs.com/a-first-person-engine-in-265-lines)
+	- games: [JS1K](https://js1k.com) - [JS13K](https://js13kgames.com) - [traffic simulation](https://traffic-simulation.de) - [minesweeper](http://xem.github.io/MiniSweeper) - [tetris](http://binaryify.github.io/vue-tetris) - [rogue](https://nluqo.github.io/broughlike-tutorial) - [maze](https://observablehq.com/@mbostock/best-first-search) - [path finding](http://qiao.github.io/PathFinding.js/visual) - [doom](https://www.playfuljs.com/a-first-person-engine-in-265-lines) - [night drive](https://incoherency.co.uk/blog/stories/nightdrive.html)
 	- data viz: [with JS](https://jsdatav.is/intro.html) - [threeJS fundamentals](https://threejsfundamentals.org)
 	- graphics & webGL: [raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [water](http://madebyevan.com/webgl-water) - [waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [cloths](https://aatishb.com/drape) - [particles](https://minimal.be/lab/fluGL) - [generative](http://weavesilk.com/?ika) - [inspirograph](https://nathanfriend.io/inspirograph) - [gears](https://brm.io/gears) - [fractals](http://js1k.com/2016-elemental/demo/2552) - [text](https://tholman.com/texter) - [golfing](https://aem1k.com)
 - CSS frameworks: bulma - tailwind - minimal [1](https://dohliam.github.io/dropin-minimal-css)/[2](https://andybrewer.github.io/mvp)/[3](https://watercss.kognise.dev) - [tufte CSS](https://edwardtufte.github.io/tufte-css) - [shuffle.dev](https://shuffle.dev)
@@ -39,7 +41,7 @@
 - data: [dbeaver](https://dbeaver.io) - sql client [1](https://franchise.cloud)/[2](https://sqlnotebook.com)/[3](https://rosefinchapp.com) - [evidence](https://www.evidence.dev) - [jsoncrack](https://jsoncrack.com/) - [jailer](https://wisser.github.io/Jailer/data-browsing.html) - [prql](https://prql-lang.org)
 - maths: [functors, applicatives and monads](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - [calculus with derivatives](https://adit.io/posts/2018-02-18-Introduction-To-Calculus-With-Derivatives.html) - [matrices](https://www.dhruvonmath.com/2018/12/31/matrices) - [modes, medians and means](http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective) - [hexagonal grids](https://www.redblobgames.com/grids/hexagons) - [3blue1brown](https://www.youtube.com/c/3blue1brown/videos) - [mathologer](https://www.youtube.com/c/Mathologer/videos) - [map of math](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 - crypto: [howtoweb3](https://www.howtoweb3.guide) - [scaffold eth](https://github.com/scaffold-eth/scaffold-eth)
-- other: [practical typography](https://practicaltypography.com) - [excel](https://www.youtube.com/watch?v=0nbkaYsR94c) - sicp [1](https://github.com/sarabander/sicp)/[2](https://github.com/ldct/isicp) - [xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [emacs news](https://sachachua.com/blog/category/emacs-news)
+- other: [practical typography](https://practicaltypography.com) - [excel](https://www.youtube.com/watch?v=0nbkaYsR94c) - sicp [1](https://github.com/sarabander/sicp)/[2](https://github.com/ldct/isicp) - [xahlee](http://xahlee.info/comp/comp_lang_tutorials_index.html) - [emacs news](https://sachachua.com/blog/category/emacs-news) - [janet](https://janet.guide/)
 
 ---
 

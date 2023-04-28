@@ -19,13 +19,14 @@ function: TOOLS I USE / alternatives I like or may test
 	- local: SUBLIME3 - VSCODE / emeditor
 	- cloud: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
 	- snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
+	- ai: [phind](https://www.phind.com/)
 - terminal: CONEMU / vscode - hyper.is
 - repl: node - ruby - python - janet
 - domains: NAMECHEAP / [namelantern](https://namelantern.com)
 - hosting:
 	- cms: TUMBLR / shopify
 	- static: NETLIFY / github - [vercel](https://vercel.com) - [jamstack](https://jamstack.org/generators)
-	- app: firebase - [google app engine](https://cloud.google.com/appengine)
+	- app: firebase - [google app engine](https://cloud.google.com/appengine) - [fly.io](https://fly.io)
 - analytics: GOATCOUNTER / [counter.dev](https://counter.dev)
 - apis: [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 - optimize: [gtmetrix](https://gtmetrix.com)
@@ -39,12 +40,12 @@ function: TOOLS I USE / alternatives I like or may test
 - research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
 - converter: pandoc - [epub.to](https://epub.to)
 - translator: GOOGLE / [wiki translator](https://wikitranslator.github.io)
-- calc: EXCEL2010 / [insect](https://insect.sh) - [numbr](https://numbr.dev)
+- calc: EXCEL2010 / [insect](https://insect.sh) - [numbr](https://numbr.dev) - [notepadcalculator](https://notepadcalculator.com)
 - money management: EXCEL2010 / [lunchmoney](https://lunchmoney.app)
 - accounting: EXCEL2010 - FACTURAMA / [plain text](https://plaintextaccounting.org) ([ledger](https://www.ledger-cli.org) - [hledger](https://hledger.org) - [beancount](https://awesome-beancount.com) - [prudent](https://prudent.me))
 - presentations: [scribehow](https://scribehow.com) - [descript](https://www.descript.com) - [mdx](https://mdxjs.com) 
 - flowcharts: [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com)
-- proj management: trello - self hosted ([personal kanban](https://personalkanban.js.org) - [manifest app](https://www.manifest.app)) - [taskjuggler](https://taskjuggler.org)
+- proj management: trello - self hosted ([personal kanban](https://personalkanban.js.org) - [manifest app](https://www.manifest.app)) - [taskjuggler](https://taskjuggler.org) - [taiga](https://www.taiga.io)
 - communication: zoom - skype - slack
 - forms & mail lists: gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 - automate: ahk - ifttt - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today)
@@ -54,7 +55,7 @@ function: TOOLS I USE / alternatives I like or may test
 
 - cad: AUTOCAD2012 [lisp] / archicad [gdl] - revit
 - 3d & render: SKETCHUP17 [rb2.2] / blender [py] - vray
-- raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app)
+- raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [dpaint](https://www.stef.be/dpaint/)
 - image collection: LOCAL - PINTEREST / dribbble - behance - pexels - unsplash
 
 ### hobby
@@ -72,4 +73,4 @@ function: TOOLS I USE / alternatives I like or may test
 - torrents: utorrent 
 - booking: AIRBNB - BOOKING
 - fintech: PAYPAL - REVOLUT / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt) 
-- assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard ([v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club)
+- assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard ([v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club) - [scroll pub](https://scroll.pub/) - [web outside browsers](https://woob.tech) - [e-sim](https://www.airalo.com) - [research](https://quarto.org)
