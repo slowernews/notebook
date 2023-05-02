@@ -6,6 +6,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. Not necessarily famo
 - [1524] Luís de Camões
 - [1547] Miguel de Cervantes
 - [1564] William Shakespeare
+- [1844] Friedrich Nietzsche
 - [1846] Auguste Escoffier
 - [1867] Frank Lloyd Wright
 - [1881] Pablo Picasso
@@ -16,6 +17,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. Not necessarily famo
 - [1898] Alvar Aalto
 - [1899] Jorge Luis Borges
 - [1900] Antoine de Saint-Exupéry
+- [1903] Charlotte Perriand
 - [1912] Milton Friedman
 - [1918] [Richard Feynman](https://twitter.com/ProfFeynman)
 - [1921] Astor Piazzolla
@@ -42,6 +44,7 @@ Thinkers, makers, sellers, teachers, motivators or artists. Not necessarily famo
 - [1947] Robert Kiyosaki
 - [1948] [Al Berto](https://en.wikipedia.org/wiki/Al_Berto)
 - [1948] Ray Kurzweil
+- [1951] Robert Glover
 - [1952] Kevin Kelly
 - [1953] David Deutsch
 - [1955] Bill Gates 
@@ -49,12 +52,12 @@ Thinkers, makers, sellers, teachers, motivators or artists. Not necessarily famo
 - [1959] [Robin Hanson](https://www.overcomingbias.com)
 - [1959] Stephen Kotkin
 - [1959] Stephen Wolfram
-- [195?] Robert Glover
 - [1960] [Nassim Taleb](https://twitter.com/nntaleb)
 - [1962] Jordan Peterson
 - [1964] Jeff Bezos
 - [1964] Paul Graham
 - [1965] Eric Weinstein
+- [1966] Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
 - [1967] Sam Harris
 - [1969] Derek Sivers
 - [1969] Rollo Tomassi
@@ -70,19 +73,18 @@ Thinkers, makers, sellers, teachers, motivators or artists. Not necessarily famo
 - [1984] Liv Boeree
 - [1984] Mark Manson
 - [1986] Andrew Tate
+- [1988] Evan Czaplicki
 - [1990] Lyn Alden
 - [1994] [Vitalik Buterin](https://vitalik.ca)
 - [2003] Greta Thunberg
 
 ---
 
-- [19??] Rich Hickey - [Talk: Simple Made Easy](www.infoq.com/presentations/Simple-Made-Easy)
-- [19??] Evan Czaplicki
-
-
 <!--
-- Abbas (iran - photojournalist)
-- Pawel Kuczynski (illustrator)
-- Mario Puppo (illustrator)
+- [1725] Giacomo Casanova
+- [1927] Gabriel Garcia Marquez
+- [1933] Alvaro Siza
+- [1944] Abbas
+- [1976] Pawel Kuczynski (illustrator)
 - Sarah Tavel (ex pinterest ceo)
 -->
