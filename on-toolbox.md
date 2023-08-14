@@ -54,9 +54,10 @@ function: TOOLS I USE / alternatives I like or may test
 ### graphics
 
 - cad: AUTOCAD2012 [lisp] / archicad [gdl] - revit
-- 3d & render: SKETCHUP17 [rb2.2] / blender [py] - vray
+- 3d & render: SKETCHUP17 [rb2.2] / blender [py] - lumion - D5 render (free) - [rerenderai](https://rerenderai.com/)
 - raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [dpaint](https://www.stef.be/dpaint/)
 - image collection: LOCAL - PINTEREST / dribbble - behance - pexels - unsplash
+-other: [qgis](https://qgis.org/en/site/)
 
 ### hobby
 

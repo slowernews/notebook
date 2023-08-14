@@ -43,6 +43,7 @@ Results: better than frozen pizza. Guaranteed.
 - [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos)
 - [Modernist cuisine](https://modernistcuisine.com/all-recipes) - [Cooktime](https://letscooktime.com)
 - [Parsnip](https://www.parsnip.ai)
+- [Serious eats](https://www.seriouseats.com/)
 
 ### Nerd level
 
@@ -50,7 +51,7 @@ Results: better than frozen pizza. Guaranteed.
 - [Nutrients on ingredients](https://ryanatkn.github.io/nutrients-per-calorie/#/compare) - [Recipe radar](https://www.reciperadar.com/)
 - [Cooking for engineers](http://www.cookingforengineers.com) - [Grim grains](https://grimgrains.com)
 - [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) - [Optimized cooking](https://web.archive.org/web/20170420110020/http://www.matthewwettergreen.com/2010/01/05/how-to-cook-like-an-engineer) - [Cooklang](https://cooklang.org)
-- [Food timeline](https://foodtimeline.org)
+- [Food timeline](https://foodtimeline.org) - [196 flavours](https://www.196flavors.com)
 
 <!--
 ## Appendix: my receipts

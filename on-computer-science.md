@@ -47,7 +47,7 @@
 
 ## Documentation
 
-- cheatsheets: [learn X in Y minutes](https://learnxinyminutes.com) - [rosetta code](http://rosettacode.org/wiki/Rosetta_Code) - [rosetta.alhur.es](https://rosetta.alhur.es) - [hyperpolyglot](http://hyperpolyglot.org) - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html)
+- cheatsheets: [learn X in Y minutes](https://learnxinyminutes.com) - [rosetta code](http://rosettacode.org/wiki/Rosetta_Code) - [rosetta.alhur.es](https://rosetta.alhur.es) - [hyperpolyglot](http://hyperpolyglot.org) - [syntax across languages](http://rigaux.org/language-study/syntax-across-languages.html) - [vim cheatsheet](http://michael.peopleofhonoronly.com/vim/)
 - docs: [devdocs](https://devdocs.io) - [mdn web docs](https://developer.mozilla.org/en-US) - [zealdocs](https://zealdocs.org)
 - autocompleters: [tabnine](https://tabnine.com) - [kite](https://www.kite.com) 
 
