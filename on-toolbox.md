@@ -66,7 +66,7 @@ function: TOOLS I USE / alternatives I like or may test
 - newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - readers:
 	- ebooks: [loudreader](https://www.loudreader.com)
-	- feeds: FEEDLY
+	- feeds: FEEDLY - feedgrid.io
 	- twitter: NITTER
 	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)

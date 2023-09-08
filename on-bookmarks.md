@@ -70,8 +70,8 @@
 
 ## Info sources
 
-- general: [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [allsides](https://www.allsides.com)
-- geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org)
+- general: [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [ground](https://ground.news)/[allsides](https://www.allsides.com)
+- geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org) - [rest of the world](https://restofworld.org)
 - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
 - rationality: [quanta magazine](https://www.quantamagazine.org) - [less wrong](https://www.lesswrong.com) - [big think](https://bigthink.com)
 - books & papers: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is) - [scholar](https://scholar.archive.org)

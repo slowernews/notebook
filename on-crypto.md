@@ -30,5 +30,5 @@
 ### Crypto analysis
 
 - technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com) - [withdrawal fees](https://coinmarketfees.com) 
-- fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/tvl/) - [compare](https://www.coingecko.com/en/coins/compare) - [reports](https://messari.io/research)
+- fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/tvl/) - [compare](https://www.coingecko.com/en/coins/compare) - [reports](https://messari.io/research/protocol-reporting)
 - [stocks](https://finance.yahoo.com/world-indices)

@@ -40,10 +40,14 @@ Results: better than frozen pizza. Guaranteed.
 ## Level up
 
 - [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
-- [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos)
+- [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos) - [Brazilian father food](https://www.youtube.com/receitasdepai/videos)
 - [Modernist cuisine](https://modernistcuisine.com/all-recipes) - [Cooktime](https://letscooktime.com)
 - [Parsnip](https://www.parsnip.ai)
 - [Serious eats](https://www.seriouseats.com/)
+
+### Tips
+
+- The freezer (+ ice tray) is your friend. Most food "waste" that we usually discard can be freezed: any drink (wine, champagne, juice, coffee, etc), buttermilk, herbs (or herbs + olive oil, frozen tomato can to use just "a slice", etc.
 
 ### Nerd level
 
