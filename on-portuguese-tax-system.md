@@ -227,7 +227,7 @@
 ### IMT: Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
 - Quem está sujeito: comprador do imóvel.
-- Quanto: depende do valor e finalidade da compra (habitação permanente ou não).
+- [Quanto](https://www.doutorfinancas.pt/simulador-imt): depende do valor e finalidade da compra (habitação permanente ou não).
 
 
 

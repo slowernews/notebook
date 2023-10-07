@@ -8,6 +8,7 @@ function: TOOLS I USE / alternatives I like or may test
 - launcher: LISTARY5 / wox [c#] - cerebro [js] - keypirinha [py]
 - browser: BRAVE - FFDEV - SAFARI - CHROME
 - web search: PRESEARCH - QWANT
+- llms: GPT4 / [compare llms](https://olilo.ai/llms) - [claude](https://claude.ai)
 - chat: SIGNAL / whatsapp
 - mail: GMAIL - PROTONMAIL / tutanota - [skiff](https://skiff.com)
 - cloud: GDRIVE 
@@ -17,9 +18,9 @@ function: TOOLS I USE / alternatives I like or may test
 
 - text editor:
 	- local: SUBLIME3 - VSCODE / emeditor
-	- cloud: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) 
+	- cloud: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - [retool](https://retool.com)
 	- snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
-	- ai: [phind](https://www.phind.com/)
+	- ai: [phind](https://www.phind.co)
 - terminal: CONEMU / vscode - hyper.is
 - repl: node - ruby - python - janet
 - domains: NAMECHEAP / [namelantern](https://namelantern.com)
@@ -39,12 +40,12 @@ function: TOOLS I USE / alternatives I like or may test
 - writing: WORD2010 - SUBLIME3 / [scrivener](https://www.literatureandlatte.com/scrivener/overview) - [browser spellcheck](https://languagetool.org/spellchecking-portuguese) - [hemingway](www.hemingwayapp.com)
 - research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
 - converter: pandoc - [epub.to](https://epub.to)
-- translator: GOOGLE / [wiki translator](https://wikitranslator.github.io)
+- translator: GPT / [wiki translator](https://wikitranslator.github.io)
 - calc: EXCEL2010 / [insect](https://insect.sh) - [numbr](https://numbr.dev) - [notepadcalculator](https://notepadcalculator.com)
 - money management: EXCEL2010 / [lunchmoney](https://lunchmoney.app)
 - accounting: EXCEL2010 - FACTURAMA / [plain text](https://plaintextaccounting.org) ([ledger](https://www.ledger-cli.org) - [hledger](https://hledger.org) - [beancount](https://awesome-beancount.com) - [prudent](https://prudent.me))
 - presentations: [scribehow](https://scribehow.com) - [descript](https://www.descript.com) - [mdx](https://mdxjs.com) 
-- flowcharts: [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com)
+- flowcharts: [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com) - [nomnoml](https://nomnoml.com)
 - proj management: trello - self hosted ([personal kanban](https://personalkanban.js.org) - [manifest app](https://www.manifest.app)) - [taskjuggler](https://taskjuggler.org) - [taiga](https://www.taiga.io)
 - communication: zoom - skype - slack
 - forms & mail lists: gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
@@ -55,7 +56,7 @@ function: TOOLS I USE / alternatives I like or may test
 
 - cad: AUTOCAD2012 [lisp] / archicad [gdl] - revit
 - 3d & render: SKETCHUP17 [rb2.2] / blender [py] - lumion - D5 render (free) - [rerenderai](https://rerenderai.com/)
-- raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [dpaint](https://www.stef.be/dpaint/)
+- raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [dpaint](https://www.stef.be/dpaint/) - [source code images](https://chalk.ist)
 - image collection: LOCAL - PINTEREST / dribbble - behance - pexels - unsplash
 -other: [qgis](https://qgis.org/en/site/)
 
@@ -68,7 +69,7 @@ function: TOOLS I USE / alternatives I like or may test
 	- ebooks: [loudreader](https://www.loudreader.com)
 	- feeds: FEEDLY - feedgrid.io
 	- twitter: NITTER
-	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
+	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [modernhn](https://www.modernhn.com/) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - [hackynews](https://hackyournews.com) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)
 	- wikipedia: [modern wiki](https://www.modernwiki.app)
 - torrents: utorrent 
