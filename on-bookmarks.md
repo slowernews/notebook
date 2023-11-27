@@ -63,6 +63,7 @@
 - chess: [tactics](https://www.chesstactics.org) - [checkmatechamp](https://www.checkmatechamp.net) - [kb gambit](https://vole.wtf/kilobytes-gambit)
 - tabletop + D&D: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter) - [sounds](https://tabletopy.com) - [escape team](https://www.escape-team.com) - [scopa](https://en.wikipedia.org/wiki/Scopa)
 - trivia: [busysimulator](https://busysimulator.com) - [svelte macos](https://macos-web.app) - [space elevator](https://neal.fun/space-elevator)/[solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - [reuse old calendar](https://whencanireusethiscalendar.com) - [this word does not exist](https://www.thisworddoesnotexist.com) - [nownownow](https://nownownow.com) - [the useless web](https://theuselessweb.com)
+- Math: [this day in math](https://pballew.blogspot.com)
 
 ## Other hobby horses
 
