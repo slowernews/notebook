@@ -8,7 +8,7 @@ function: TOOLS I USE / alternatives I like or may test
 - launcher: LISTARY5 / wox [c#] - cerebro [js] - keypirinha [py]
 - browser: BRAVE - FFDEV - SAFARI - CHROME
 - web search: PRESEARCH - QWANT
-- llms: GPT4 / [compare llms](https://olilo.ai/llms) - [claude](https://claude.ai)
+- llms: ChatGPT / [phind](https://www.phind.com) - [compare llms](https://olilo.ai/llms) - [claude](https://claude.ai) - [grok](https://grok.x.ai) 
 - chat: SIGNAL / whatsapp
 - mail: GMAIL - PROTONMAIL / tutanota - [skiff](https://skiff.com)
 - cloud: GDRIVE 
