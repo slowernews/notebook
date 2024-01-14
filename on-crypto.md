@@ -4,11 +4,8 @@
 
 - go:
 	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [polygon](https://github.com/maticnetwork) - [avalanche](https://github.com/ava-labs) - [fantom](https://github.com/Fantom-foundation) - [arbitrum](https://github.com/OffchainLabs) - [optimism](https://github.com/ethereum-optimism/optimism) - [bnb](https://github.com/bnb-chain)
-	- [cosmwasm] [cosmos](https://github.com/cosmos) - [injective](https://github.com/InjectiveLabs) - [cronos](https://github.com/crypto-org-chain/cronos) - [celestia](https://github.com/celestiaorg)
+	- [cosmwasm] [cosmos](https://github.com/cosmos) - [injective](https://github.com/InjectiveLabs) - [cronos](https://github.com/crypto-org-chain/cronos) - [celestia](https://github.com/celestiaorg) - [sei](https://github.com/sei-protocol)
 	- [chainlink](https://github.com/smartcontractkit) - [vechain](https://github.com/vechain) - [multiversx](https://github.com/ElrondNetwork) - [kaspa](https://github.com/kaspanet) - [mantle](https://github.com/mantlenetworkio) - [filecoin](https://github.com/filecoin-project/)
-- c++ / c:
-	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks ([bitcoin cash](https://gitlab.com/bitcoin-cash-node), [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin), [monero](https://github.com/monero-project/monero), [bitcoin sv](https://github.com/bitcoin-sv/bitcoin-sv)) - [xrp](https://github.com/ripple) - [stellar](https://github.com/stellar)
-	- [funC] [toncoin](https://github.com/ton-blockchain)
 - rust:
 	- [rust] [solana](https://github.com/solana-labs)
 	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
@@ -17,12 +14,13 @@
 	- [move] [aptos](https://github.com/aptos-labs)
 	- [clarity lisp] [stacks](https://github.com/blockstack)
 	- [graph](https://github.com/graphprotocol)
+- c++ / c:
+	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks ([bch](https://gitlab.com/bitcoin-cash-node), [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin), [monero](https://github.com/monero-project/monero), [bsv](https://github.com/bitcoin-sv/bitcoin-sv)) - [xrp](https://github.com/ripple) - [stellar](https://github.com/stellar)
+	- [funC] [toncoin](https://github.com/ton-blockchain)
 - java:
 	- [solidity / EVM] [tron](https://github.com/tronprotocol) - [hedera](https://github.com/hashgraph)
 - haskell:
 	- [[plutus](https://github.com/input-output-hk/plutus)] [cardano](https://github.com/input-output-hk)
-- typescript:
-	- [cosmwasm] [sei](https://github.com/sei-protocol)
 
 ### Crypto analysis
 
