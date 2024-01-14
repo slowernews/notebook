@@ -3,9 +3,9 @@
 ### Main and [contract] programming languages on TOP50 coins
 
 - go:
-	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [polygon](https://github.com/maticnetwork) - [avalanche](https://github.com/ava-labs) - [fantom](https://github.com/Fantom-foundation) - [arbitrum](https://github.com/OffchainLabs) - [optimism](https://github.com/ethereum-optimism/optimism) - [bnb](https://github.com/bnb-chain)
+	- [solidity / EVM] [ethereum](https://github.com/ethereum) - [bnb](https://github.com/bnb-chain) - [polygon](https://github.com/maticnetwork) - [avalanche](https://github.com/ava-labs) - [arbitrum](https://github.com/OffchainLabs) - [optimism](https://github.com/ethereum-optimism/optimism)
 	- [cosmwasm] [cosmos](https://github.com/cosmos) - [injective](https://github.com/InjectiveLabs) - [cronos](https://github.com/crypto-org-chain/cronos) - [celestia](https://github.com/celestiaorg) - [sei](https://github.com/sei-protocol)
-	- [chainlink](https://github.com/smartcontractkit) - [vechain](https://github.com/vechain) - [multiversx](https://github.com/ElrondNetwork) - [kaspa](https://github.com/kaspanet) - [mantle](https://github.com/mantlenetworkio) - [filecoin](https://github.com/filecoin-project/)
+	- [chainlink](https://github.com/smartcontractkit) - [filecoin](https://github.com/filecoin-project/) - [vechain](https://github.com/vechain) - [kaspa](https://github.com/kaspanet) - [mantle](https://github.com/mantlenetworkio)
 - rust:
 	- [rust] [solana](https://github.com/solana-labs)
 	- [[ink](https://github.com/paritytech/ink)] [polkadot](https://github.com/paritytech)
