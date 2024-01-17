@@ -1,11 +1,16 @@
 # Other stuff
 
+## Youtube channels
+
+- [milhao](https://www.youtube.com/@CdK_podcast/videos) - [tiago paiva](https://www.youtube.com/@tiagopaiva_/videos)
+- historia: [brasão de armas](https://www.youtube.com/@BrasaodeArmas/videos) - [imperiosAD](https://www.youtube.com/@ImperiosAD/videos)
+- cripto: [luis pinto](https://www.youtube.com/@LuisPintoTekTest/videos)
+
 ## Shopping
 
 ### Mobile (PT)
 
-- [tiendamovil]()
-- [aquario]()
+- tiendamovil / aquario
 - onbit: refurbished computers
 
 ### Shoe (PT)
