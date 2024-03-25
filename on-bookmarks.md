@@ -38,7 +38,7 @@
 - mailbox money: [printable place cards](https://www.placecard.me)
 - geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
 - books: [mousebookclub](https://mousebookclub.com) - [waldenpond](https://waldenpond.press)
-- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com) - [vintage furniture](https://www.vinterior.co
+- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com) - [vintage furniture](https://www.vinterior.co)
 
 ## Career
 
@@ -52,7 +52,7 @@
 - info: [reopen europe](https://reopen.europa.eu/pt) - [hewelapp](https://hewellapp.com) - [seat61](https://www.seat61.com) - *[wroclaw airport](https://airport.wroclaw.pl)* - [world heritage sites](https://world-heritage.mapspot.co/#/search/ZmM4rtgJE8/all/all/all/2/31.653381399664/-40.043210482063/eyJsYXRNYXgiOjc0LjY4MzI1MDMwMDUxODYxLCJsYXRNaW4iOi00My41ODAzOTA4NTU2MDc4NDUsImxuZ01heCI6NjYuMDkzNzUwMDAwMDAwMDEsImxuZ01pbiI6LTE0NS44OTg0Mzc1MDAwMDAwM30=/all/created_at/desc/30/0)
 - flights: skyscanner - [google flights](https://www.google.com/flights) - [kiwi](https://www.kiwi.com) - [scottcheapflights](https://scottscheapflights.com)
 - weather: windguru.cz - [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
-- maps: [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads)
+- maps: [trailrouter](https://trailrouter.com) - [flightradar](https://www.flightradar24.com) - [vesselfinder](https://www.vesselfinder.com) - [marinetraffic](https://www.marinetraffic.com) - [city roads](https://anvaka.github.io/city-roads) - [water ways](https://waterwaymap.org)
 - osm: [realtime](https://osm-in-realtime.jwestman.net) - [street complete](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) - [randomstreetview](https://randomstreetview.com) - [instantstreetview](https://www.instantstreetview.com) - [show my street](https://showmystreet.com) - [street view wonders](https://neal.fun/wonders-of-street-view)
 - geoarbitrage: [expatistan](https://www.expatistan.com/cost-of-living) - [numbeo](https://www.numbeo.com/cost-of-living) - [sallary converter](https://neilkakkar.com/salary-calculator-by-city.html) - [nomadlist](https://nomadlist.com)
 
@@ -60,7 +60,7 @@
 
 - game aggregators: [itch.io](https://itch.io) - [boardgamearena](https://pt.boardgamearena.com) - [playok](https://www.playok.com)
 - games: [generals.io](http://generals.io) - [lord of the manor](http://www.lordofthemanor.io) - [zty.pe](https://zty.pe) - [nation states](https://www.nationstates.net) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale - [guriddo](https://www.guriddo.app) - geo [1](https://www.geoguessr.com)/[2](https://geotastic.net)/[3](https://www.explordle.com/map/wor) - [princejs](https://princejs.com) - [painted ocean](https://thapen.itch.io/painted-ocean) - [open dune](https://www.openra.net)
-- chess: [tactics](https://www.chesstactics.org) - [checkmatechamp](https://www.checkmatechamp.net) - [kb gambit](https://vole.wtf/kilobytes-gambit)
+- chess: [tactics](https://www.chesstactics.org) - [checkmatechamp](https://www.checkmatechamp.net) - [kb gambit](https://vole.wtf/kilobytes-gambit) - [how to learn](https://www.alexcrompton.com/blog/how-to-learn-chess)
 - tabletop + D&D: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter) - [sounds](https://tabletopy.com) - [escape team](https://www.escape-team.com) - [scopa](https://en.wikipedia.org/wiki/Scopa)
 - trivia: [busysimulator](https://busysimulator.com) - [svelte macos](https://macos-web.app) - [space elevator](https://neal.fun/space-elevator)/[solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - [reuse old calendar](https://whencanireusethiscalendar.com) - [this word does not exist](https://www.thisworddoesnotexist.com) - [nownownow](https://nownownow.com) - [the useless web](https://theuselessweb.com)
 - Math: [this day in math](https://pballew.blogspot.com)

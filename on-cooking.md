@@ -39,7 +39,7 @@ Results: better than frozen pizza. Guaranteed.
 
 ## Level up
 
-- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos)
+- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos) - [French guy cooking](https://www.youtube.com/@FrenchGuyCooking/videos)
 - [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos) - [Brazilian father food](https://www.youtube.com/receitasdepai/videos)
 - [Modernist cuisine](https://modernistcuisine.com/all-recipes) - [Cooktime](https://letscooktime.com)
 - [Parsnip](https://www.parsnip.ai)

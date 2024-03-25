@@ -10,6 +10,7 @@
 - [naming stuff](https://leanpub.com/elementsofclojure/read_sample)
 - [web design](https://anthonyhobday.com/sideprojects/saferules/)
 - [ux](https://archive.is/ry2Kc)
+- [calculus](https://calculusmadeeasy.org/)
 
 ### Playgrounds
 

@@ -1,4 +1,4 @@
-# Portuguese tax system for noobs (2022)
+# Portuguese tax system for noobs (2024)
 
 
 
@@ -165,16 +165,18 @@
 - Quem está sujeito: [rendimentos](#categorias-de-rendimentos-e-anexo-onde-devem-ser-declarados) obtidos em território português por pessoas singulares (residentes ou não-residentes).
 	
 - Quanto:
-	- residentes habituais em território português. (Escalões 2022 - valores arredondados)
+	- residentes habituais em território português. (Escalões 2024 - valores arredondados)
 
 			ESCALÕES:                       TAXA            TAXA MÉDIA
-			Até €7k:                        14.5%
-			Entre  €7k e 10k:               23%             17.4%
-			Entre €10k e 20k:               28.5%           22.6%
-			Entre €20k e 25k:               35%             25%
-			Entre €25k e 37k:               37%             28.8%
-			Entre €37k e 80k:               45%             37.6%
-			Superior a 80k:                 48%
+			Até €7,7k:                      13.25%          13.25%
+			Entre  €7.7k e 11.6k:           18%             14.85%
+			Entre €11.6k e 16.5k:           23%             17.25%
+			Entre €16.5k e 21.3k:           26%             19.24%
+			Entre €21.3k e 27.1k:           32.75%          22.14%
+			Entre €27.1k e 39.8k:           37%             26.86%
+			Entre €39.8k e 52k:             43.5%           30.77%
+			Entre   €52k e 81.2k:           45%             35.89%
+			Superior a 81,2k:               48%
 
 	- residentes não-habituais no últimos 5 anos (válido nos 10 anos seguintes).[^1]
 

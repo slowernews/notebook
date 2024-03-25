@@ -26,5 +26,5 @@
 
 - technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com)
 - fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/summary) - [reports](https://messari.io/research/protocol-reporting) - [revenue](https://cryptofees.info)
-- fees: [binance withdrawal](https://www.binance.com/en/fee/cryptoFee) - [L2](https://l2fees.info)
+- fees: withdrawal [binance](https://www.binance.com/en/fee/cryptoFee)/[kucoin](https://www.kucoin.com/vip/level)/[all](https://withdrawalfees.com) - [L2](https://l2fees.info)
 - [stocks](https://finance.yahoo.com/world-indices)

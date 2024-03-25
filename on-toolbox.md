@@ -20,7 +20,7 @@ function: TOOLS I USE / alternatives I like or may test
 	- local: SUBLIME3 - VSCODE / emeditor
 	- cloud: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - [retool](https://retool.com)
 	- snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
-	- ai: [phind](https://www.phind.co)
+	- ai: [phind](https://www.phind.co)/[fast](https://fastsdxl.ai)
 - terminal: CONEMU / vscode - hyper.is
 - repl: node - ruby - python - janet
 - domains: NAMECHEAP / [namelantern](https://namelantern.com)
@@ -38,7 +38,7 @@ function: TOOLS I USE / alternatives I like or may test
 ### office
 
 - writing: WORD2010 - SUBLIME3 / [scrivener](https://www.literatureandlatte.com/scrivener/overview) - [browser spellcheck](https://languagetool.org/spellchecking-portuguese) - [hemingway](www.hemingwayapp.com)
-- research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
+- research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com) - [rowzero](https://rowzero.io)
 - converter: pandoc - [epub.to](https://epub.to)
 - translator: GPT / [wiki translator](https://wikitranslator.github.io)
 - calc: EXCEL2010 / [insect](https://insect.sh) - [numbr](https://numbr.dev) - [notepadcalculator](https://notepadcalculator.com)
@@ -67,7 +67,7 @@ function: TOOLS I USE / alternatives I like or may test
 - newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - readers:
 	- ebooks: [loudreader](https://www.loudreader.com)
-	- feeds: FEEDLY - feedgrid.io
+	- feeds: FEEDLY - [feedgrid]()
 	- twitter: NITTER
 	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [modernhn](https://www.modernhn.com/) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - [hackynews](https://hackyournews.com) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)
