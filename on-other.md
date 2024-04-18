@@ -1,11 +1,5 @@
 # Other stuff
 
-## Youtube channels
-
-- [milhao](https://www.youtube.com/@CdK_podcast/videos) - [tiago paiva](https://www.youtube.com/@tiagopaiva_/videos)
-- cripto: [luis pinto](https://www.youtube.com/@LuisPintoTekTest/videos)
-- historia: [brasão de armas](https://www.youtube.com/@BrasaodeArmas/videos) - [imperiosAD](https://www.youtube.com/@ImperiosAD/videos)
-
 ## Tumblr themes
 
 - https://themes.stashfamily.com/themes/ten-toes/

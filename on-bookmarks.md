@@ -7,7 +7,7 @@
 - books & papers: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is) - [scholar](https://scholar.archive.org)
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org) - [wul](https://www.wulmagazine.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
-- other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co) - [portugal stats](https://maisliberdade.pt/maisfactos) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives) - [one typed page](https://onetypedpage.com) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [age of invention](https://www.ageofinvention.xyz/) - [pudding.cool](https://pudding.cool)
+- other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co) - [portugal stats](https://maisliberdade.pt/maisfactos) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives) - [one typed page](https://onetypedpage.com) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [age of invention](https://www.ageofinvention.xyz/) - [pudding.cool](https://pudding.cool) - [fuckinghomepage](https://fuckinghomepage.com)
 
 ## Architecture
 
@@ -64,6 +64,12 @@
 - tabletop + D&D: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter) - [sounds](https://tabletopy.com) - [escape team](https://www.escape-team.com) - [scopa](https://en.wikipedia.org/wiki/Scopa)
 - trivia: [busysimulator](https://busysimulator.com) - [svelte macos](https://macos-web.app) - [space elevator](https://neal.fun/space-elevator)/[solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - [reuse old calendar](https://whencanireusethiscalendar.com) - [this word does not exist](https://www.thisworddoesnotexist.com) - [nownownow](https://nownownow.com) - [the useless web](https://theuselessweb.com)
 - Math: [this day in math](https://pballew.blogspot.com)
+
+## Youtube channels
+
+- [milhao](https://www.youtube.com/@CdK_podcast/videos) - [tiago paiva](https://www.youtube.com/@tiagopaiva_/videos)
+- cripto: [luis pinto](https://www.youtube.com/@LuisPintoTekTest/videos)
+- historia: [brasão de armas](https://www.youtube.com/@BrasaodeArmas/videos) - [imperiosAD](https://www.youtube.com/@ImperiosAD/videos)
 
 ## Other hobby horses
 
