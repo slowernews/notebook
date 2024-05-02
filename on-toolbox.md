@@ -4,12 +4,12 @@ function: TOOLS I USE / alternatives I like or may test
 
 ### generalist
 
-- os & antivirus: WIN7 - AVAST / ubuntu
+- os & antivirus: WIN7 - AVAST / debian
 - launcher: LISTARY5 / wox [c#] - cerebro [js] - keypirinha [py]
-- browser: BRAVE - FFDEV - SAFARI - CHROME
-- web search: PRESEARCH - QWANT
-- llms: ChatGPT / [phind](https://www.phind.com) - [compare llms](https://olilo.ai/llms) - [claude](https://claude.ai) - [grok](https://grok.x.ai) 
-- chat: SIGNAL / whatsapp
+- browser: FFDEV - SAFARI - CHROME
+- web search: PRESEARCH
+- llms: CHATGPT - [compare llms](hhttps://chat.lmsys.org) / [claude](https://claude.ai) - [grok](https://grok.x.ai) - [phind](https://www.phind.com) - [fast](https://fastsdxl.ai)
+- chat: SIGNAL - WHATSAPP
 - mail: GMAIL - PROTONMAIL / tutanota - [skiff](https://skiff.com)
 - cloud: GDRIVE 
 - notes & wiki: SUBLIME3 / getnotation - nvalt - qownnotes - [standard notes](https://standardnotes.org) - [zen journal](https://thezenjournal.com)
@@ -17,10 +17,9 @@ function: TOOLS I USE / alternatives I like or may test
 ### dev
 
 - text editor:
-	- local: SUBLIME3 - VSCODE / emeditor
+	- local: SUBLIME3 / vscode - emeditor
 	- cloud: [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - [retool](https://retool.com)
 	- snippets: gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
-	- ai: [phind](https://www.phind.co)/[fast](https://fastsdxl.ai)
 - terminal: CONEMU / vscode - hyper.is
 - repl: node - ruby - python - janet
 - domains: NAMECHEAP / [namelantern](https://namelantern.com)
@@ -31,7 +30,8 @@ function: TOOLS I USE / alternatives I like or may test
 - analytics: GOATCOUNTER / [counter.dev](https://counter.dev)
 - apis: [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 - optimize: [gtmetrix](https://gtmetrix.com)
-- ux & frontend: [figma](https://www.figma.com) - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app)
+- ux & frontend:
+	- [figma](https://www.figma.com) - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app)
 	- mac only: [sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co/) - [paintcodeapp](https://www.paintcodeapp.com)
 	- frontend: [aspect](https://aspect.app) - [fuzzmap](https://www.fuzzmap.io)
 
@@ -40,14 +40,14 @@ function: TOOLS I USE / alternatives I like or may test
 - writing: WORD2010 - SUBLIME3 / [scrivener](https://www.literatureandlatte.com/scrivener/overview) - [browser spellcheck](https://languagetool.org/spellchecking-portuguese) - [hemingway](www.hemingwayapp.com)
 - research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com) - [rowzero](https://rowzero.io)
 - converter: pandoc - [epub.to](https://epub.to)
-- translator: GPT / [wiki translator](https://wikitranslator.github.io)
+- translator: CHATGPT / [wiki translator](https://wikitranslator.github.io)
 - calc: EXCEL2010 / [insect](https://insect.sh) - [numbr](https://numbr.dev) - [notepadcalculator](https://notepadcalculator.com)
 - money management: EXCEL2010 / [lunchmoney](https://lunchmoney.app)
 - accounting: EXCEL2010 - FACTURAMA / [plain text](https://plaintextaccounting.org) ([ledger](https://www.ledger-cli.org) - [hledger](https://hledger.org) - [beancount](https://awesome-beancount.com) - [prudent](https://prudent.me))
 - presentations: [scribehow](https://scribehow.com) - [descript](https://www.descript.com) - [mdx](https://mdxjs.com) 
 - flowcharts: [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com) - [nomnoml](https://nomnoml.com)
 - proj management: trello - self hosted ([personal kanban](https://personalkanban.js.org) - [manifest app](https://www.manifest.app)) - [taskjuggler](https://taskjuggler.org) - [taiga](https://www.taiga.io)
-- communication: zoom - skype - slack
+- communication: skype - slack
 - forms & mail lists: gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 - automate: ahk - ifttt - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today)
 - security: escrow - [justdeleteme](https://backgroundchecks.org/justdeleteme)
@@ -67,8 +67,8 @@ function: TOOLS I USE / alternatives I like or may test
 - newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - readers:
 	- ebooks: [loudreader](https://www.loudreader.com)
-	- feeds: FEEDLY - [feedgrid]()
-	- twitter: NITTER
+	- feeds: FEEDLY / feedgrid
+	- twitter: nitter
 	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [modernhn](https://www.modernhn.com/) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - [hackynews](https://hackyournews.com) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)
 	- wikipedia: [modern wiki](https://www.modernwiki.app)
