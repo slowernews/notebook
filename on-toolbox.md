@@ -8,7 +8,7 @@ function: TOOLS I USE / alternatives I like or may test
 - launcher: LISTARY5 / wox [c#] - cerebro [js] - keypirinha [py]
 - browser: FFDEV - SAFARI - CHROME
 - web search: PRESEARCH
-- llms: CHATGPT - [compare llms](hhttps://chat.lmsys.org) / [claude](https://claude.ai) - [grok](https://grok.x.ai) - [phind](https://www.phind.com) - [fast](https://fastsdxl.ai)
+- llms: CHATGPT - [COMPARE LLMS](https://chat.lmsys.org) / [claude](https://claude.ai) - [grok](https://grok.x.ai) - [phind](https://www.phind.com) - [fast](https://fastsdxl.ai)
 - chat: SIGNAL - WHATSAPP
 - mail: GMAIL - PROTONMAIL / tutanota - [skiff](https://skiff.com)
 - cloud: GDRIVE 
@@ -38,9 +38,9 @@ function: TOOLS I USE / alternatives I like or may test
 ### office
 
 - writing: WORD2010 - SUBLIME3 / [scrivener](https://www.literatureandlatte.com/scrivener/overview) - [browser spellcheck](https://languagetool.org/spellchecking-portuguese) - [hemingway](www.hemingwayapp.com)
+- translator: CHATGPT / [wiki translator](https://wikitranslator.github.io)
 - research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com) - [rowzero](https://rowzero.io)
 - converter: pandoc - [epub.to](https://epub.to)
-- translator: CHATGPT / [wiki translator](https://wikitranslator.github.io)
 - calc: EXCEL2010 / [insect](https://insect.sh) - [numbr](https://numbr.dev) - [notepadcalculator](https://notepadcalculator.com)
 - money management: EXCEL2010 / [lunchmoney](https://lunchmoney.app)
 - accounting: EXCEL2010 - FACTURAMA / [plain text](https://plaintextaccounting.org) ([ledger](https://www.ledger-cli.org) - [hledger](https://hledger.org) - [beancount](https://awesome-beancount.com) - [prudent](https://prudent.me))
@@ -58,7 +58,7 @@ function: TOOLS I USE / alternatives I like or may test
 - 3d & render: SKETCHUP17 [rb2.2] / blender [py] - lumion - D5 render (free) - [rerenderai](https://rerenderai.com/)
 - raster & vectors: PHOTOSHOP CS6 [js] / [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [dpaint](https://www.stef.be/dpaint/) - [source code images](https://chalk.ist)
 - image collection: LOCAL - PINTEREST / dribbble - behance - pexels - unsplash
--other: [qgis](https://qgis.org/en/site/)
+- other: [qgis](https://qgis.org/en/site/)
 
 ### hobby
 
@@ -74,5 +74,5 @@ function: TOOLS I USE / alternatives I like or may test
 	- wikipedia: [modern wiki](https://www.modernwiki.app)
 - torrents: utorrent 
 - booking: AIRBNB - BOOKING
-- fintech: PAYPAL - REVOLUT / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt) 
+- fintech: REVOLUT - PAYPAL / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt) 
 - assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard ([v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club) - [scroll pub](https://scroll.pub/) - [web outside browsers](https://woob.tech) - [e-sim](https://www.airalo.com) - [research](https://quarto.org)
