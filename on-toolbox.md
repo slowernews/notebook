@@ -12,7 +12,6 @@ function: TOOLS I USE / alternatives I like or may test
 - chat: SIGNAL - WHATSAPP
 - mail: GMAIL - PROTONMAIL / tutanota - [skiff](https://skiff.com)
 - cloud: GDRIVE 
-- notes & wiki: SUBLIME3 / getnotation - nvalt - qownnotes - [standard notes](https://standardnotes.org) - [zen journal](https://thezenjournal.com)
 
 ### dev
 
@@ -37,7 +36,8 @@ function: TOOLS I USE / alternatives I like or may test
 
 ### office
 
-- writing: WORD2010 - SUBLIME3 / [scrivener](https://www.literatureandlatte.com/scrivener/overview) - [browser spellcheck](https://languagetool.org/spellchecking-portuguese) - [hemingway](www.hemingwayapp.com)
+- notes & wiki: SUBLIME3 / getnotation - nvalt - qownnotes - [standard notes](https://standardnotes.org) - [zen journal](https://thezenjournal.com)
+- writing: SUBLIME3 - WORD2010 / [scrivener](https://www.literatureandlatte.com/scrivener/overview) - [browser spellcheck](https://languagetool.org/spellchecking-portuguese) - [hemingway](www.hemingwayapp.com)
 - translator: CHATGPT / [wiki translator](https://wikitranslator.github.io)
 - research: EXCEL2010 / [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com) - [rowzero](https://rowzero.io)
 - converter: pandoc - [epub.to](https://epub.to)
@@ -66,13 +66,13 @@ function: TOOLS I USE / alternatives I like or may test
 - music player: YOUTUBE / spotify - [1by1](https://mpesch3.de/1by1.html)
 - newsletters: SUBSTACK / [papyrus](https://papyrus.so)
 - readers:
-	- ebooks: [loudreader](https://www.loudreader.com)
 	- feeds: FEEDLY / feedgrid
-	- twitter: nitter
+	- ebooks: [loudreader](https://www.loudreader.com)
 	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) / [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [modernhn](https://www.modernhn.com/) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - [hackynews](https://hackyournews.com) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
+	- twitter: nitter
 	- reddit: [teddit](https://teddit.net) - [unim.press](https://unim.press)
 	- wikipedia: [modern wiki](https://www.modernwiki.app)
-- torrents: utorrent 
+- torrents: utorrent
 - booking: AIRBNB - BOOKING
-- fintech: REVOLUT - PAYPAL / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt) 
+- fintech: REVOLUT - PAYPAL / [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt)
 - assorted: [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard ([v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club) - [scroll pub](https://scroll.pub/) - [web outside browsers](https://woob.tech) - [e-sim](https://www.airalo.com) - [research](https://quarto.org)
