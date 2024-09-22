@@ -7,7 +7,8 @@
 - books & papers: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is) - [scholar](https://scholar.archive.org)
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org) - [wul](https://www.wulmagazine.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
-- other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co) - [portugal stats](https://maisliberdade.pt/maisfactos) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives) - [one typed page](https://onetypedpage.com) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [age of invention](https://www.ageofinvention.xyz/) - [pudding.cool](https://pudding.cool) - [fuckinghomepage](https://fuckinghomepage.com)
+- other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co) - [portugal stats](https://maisliberdade.pt/maisfactos) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives) - [one typed page](https://onetypedpage.com) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [age of invention](https://www.ageofinvention.xyz) - [pudding.cool](https://pudding.cool) - [fuckinghomepage](https://fuckinghomepage.com)
+- more: [linkpantry](https://linkpantry.com)
 
 ## Architecture
 
