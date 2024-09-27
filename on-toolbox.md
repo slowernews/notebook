@@ -11,15 +11,14 @@ function: TOOLS I USE // alternatives I may use if necessary
 - launcher: LISTARY5 // wox[c#] - cerebro[js] - keypirinha[py]
 - browser: CHROME + SAFARI + FFDEV 
 - llms: CHATGPT + CLAUDE // [lmarena](https://lmarena.ai) - [gemini](https://gemini.google.com) - [grok](https://x.ai)
-- chat: SIGNAL + WHATSAPP
+- chat: SIGNAL + WHATSAPP // telegram
 - mail: GMAIL // protonmail - tutanota
 - web search // google
 - cloud // gdrive
 
 ### dev
 
-- text editor:
-	- local: SUBLIME3 // vscode
+- text editor: SUBLIME3 // vscode
 	- cloud // [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - [retool](https://retool.com)
 	- snippets // gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
 - terminal: CONEMU // vscode - hyper.is
@@ -49,7 +48,6 @@ function: TOOLS I USE // alternatives I may use if necessary
 - presentations // [scribehow](https://scribehow.com) - [descript](https://www.descript.com) - [mdx](https://mdxjs.com) 
 - flowcharts // [diagrams.net](https://app.diagrams.net) - [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com) - [nomnoml](https://nomnoml.com)
 - proj management // trello - self hosted ([personal kanban](https://personalkanban.js.org) - [manifest app](https://www.manifest.app)) - [taskjuggler](https://taskjuggler.org) - [taiga](https://www.taiga.io)
-- communication // skype - slack
 - forms & mail lists // gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 - automate // ahk - ifttt - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today)
 - security // escrow - [justdeleteme](https://backgroundchecks.org/justdeleteme)
