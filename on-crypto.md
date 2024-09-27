@@ -12,7 +12,7 @@
 	- [[motoko](https://sdk.dfinity.org/docs/language-guide/motoko.html)] [internet computer](https://github.com/dfinity)
 	- [solidity / EVM] [near](https://github.com/near)
 	- [kaspa](https://github.com/kaspanet) (migrating from go)
-	- [move] [aptos](https://github.com/aptos-labs)
+	- [move] [aptos](https://github.com/aptos-labs) - [sui](https://github.com/MystenLabs/sui)
 	- [clarity lisp] [stacks](https://github.com/blockstack)
 - c++ / c:
 	- [bitcoin](https://github.com/bitcoin/bitcoin) & forks ([bch](https://gitlab.com/bitcoin-cash-node), [litecoin](https://github.com/litecoin-project), [dogecoin](https://github.com/dogecoin), [monero](https://github.com/monero-project/monero)) - [xrp](https://github.com/ripple) - [stellar](https://github.com/stellar)
@@ -26,8 +26,8 @@
 
 - news: [coinmarket](https://coinmarketcap.com/headlines/news/)
 - technical: rainbow [btc](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart)/[eth](https://www.blockchaincenter.net/ethereum-rainbow-chart) - [coin season](https://www.blockchaincenter.net/altcoin-season-index) - [trending coins](https://www.blockchaincenter.net/en/trending-coins) - [hall of fame](https://www.blockchaincenter.net/crypto-top-10-hall-of-fame) - [ath](https://www.blockchaincenter.net) - [%winners](https://app.intotheblock.com)
-- fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/summary) - [reports](https://messari.io/research/protocol-reporting) - [revenue](https://cryptofees.info)
-- kaspa: [adresses](https://kas.fyi/top-addresses) - krc20 [1](https://kas.fyi/krc20-tokens)/[2](https://katscan.xyz)
+- fundamental: [history](https://cryptorank.io) - [tvl](https://defillama.com/chains) - [L2beat](https://l2beat.com/scaling/summary) - [reports](https://messari.io/research/protocol-reporting) - [revenue](https://cryptofees.info) - [tps](https://chainspect.app/dashboard) - [devs](htps://www.developerreport.com) - [defi](https://defieducation.substack.com/archive?sort=new)
+- kaspa: [adresses](https://kas.fyi/top-addresses) - [krc20](https://kas.fyi/krc20-tokens)
 - promos: binance [1](https://www.binance.com/en/support/announcement/latest-binance-news?c=49&navId=49)/[2](https://www.binance.com/en/support/announcement/latest-activities?c=93&navId=93)
 - fees: withdrawal [binance](https://www.binance.com/en/fee/cryptoFee) (fil)/[kucoin](https://www.kucoin.com/pt/vip/privilege) (trx, neo)/[gate](https://www.gate.io/pt/fee/)/[all](https://withdrawalfees.com) - [L2](https://l2fees.info)
 - [stocks](https://finance.yahoo.com/world-indices)
