@@ -33,3 +33,7 @@ Tested:
 - Mint (polished - 1G standby)
 - Manjaro (advanced / xfce - 750mb standby)
 - Lubuntu (fastest - 400MB standby)
+
+## Hardware
+
+- [lowcost pcs](https://lowcostminipcs.com/)

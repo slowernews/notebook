@@ -1,6 +1,6 @@
 # On digital tools
 
-(updated: 2024-09-27)
+(updated: 2024-09-28)
 
 function: TOOLS I USE // alternatives I may use if necessary
 
@@ -30,7 +30,7 @@ function: TOOLS I USE // alternatives I may use if necessary
 	- app // firebase - [google app engine](https://cloud.google.com/appengine) - [fly.io](https://fly.io)
 - analytics: GOATCOUNTER // [counter.dev](https://counter.dev)
 - apis // [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
-- optimize // [gtmetrix](https://gtmetrix.com)
+- optimize // [gtmetrix](https://gtmetrix.com) - [cloudflare scan](https://radar.cloudflare.com/scan)
 - ux & frontend // [figma](https://www.figma.com) - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app)
 	- mac only // [sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co/) - [paintcodeapp](https://www.paintcodeapp.com)
 	- frontend // [aspect](https://aspect.app) - [fuzzmap](https://www.fuzzmap.io)
@@ -51,12 +51,15 @@ function: TOOLS I USE // alternatives I may use if necessary
 - forms & mail lists // gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 - automate // ahk - ifttt - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today)
 - security // escrow - [justdeleteme](https://backgroundchecks.org/justdeleteme)
+- other: [screenshots](https://flameshot.org) - [bullshitremover](https://www.bullshitremover.com)
+
+-->
 
 ### graphics
 
-- cad: AUTOCAD2012[lisp] // archicad [gdl] - revit
-- 3d & render: SKETCHUP17[rb2.2] // blender[py] - lumion - D5 render (free) - [rerenderai](https://rerenderai.com/)
-- raster & vectors: PHOTOSHOP6[js] // [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [dpaint](https://www.stef.be/dpaint/) - [source code images](https://chalk.ist)
+- cad: AUTOCAD2012[lisp] // revit - archicad
+- 3d & render: SKETCHUP17[rb2.2] // blender[py] - lumion - D5 render - [rerenderai](https://rerenderai.com/)
+- raster & vectors: PHOTOSHOP6[js] // [photopea](https://www.photopea.com) - [affinity](https://affinity.serif.com) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [background remover](https://www.photoroom.com/background-remover) - [code pics](https://carbon.now.sh) - [minimator](https://minimator.app) - [colorize pics](https://palette.fm/color/filters) - [adobe ai](https://www.adobe.com/sensei/generative-ai/firefly.html) - [midjourney](https://www.midjourney.com) - [dpaint](https://www.stef.be/dpaint/) - [source code images](https://chalk.ist)
 - image collection: LOCAL + PINTEREST // dribbble - behance - pexels - unsplash
 - other // [qgis](https://qgis.org/en/site/)
 

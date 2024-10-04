@@ -8,7 +8,7 @@
 - art: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org) - [wul](https://www.wulmagazine.com)
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
 - other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co) - [portugal stats](https://maisliberdade.pt/maisfactos) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives) - [one typed page](https://onetypedpage.com) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [age of invention](https://www.ageofinvention.xyz) - [pudding.cool](https://pudding.cool) - [fuckinghomepage](https://fuckinghomepage.com)
-- more: [linkpantry](https://linkpantry.com)
+- more: [linkpantry](https://linkpantry.com) - [blogs hn](https://blogs.hn/) - [simplescience](https://simplescience.ai/)
 
 ## Architecture
 
@@ -16,6 +16,7 @@
 - models, drawings & textures: [archimodels](https://archimodels.tumblr.com)/[archidrawings](https://archidrawings.tumblr.com) - [modulor](https://www.modulor.de/en) - [textureking](https://www.textureking.com)
 - design: [10 principles](https://www.vitsoe.com/gb/about/good-design) - [computer prototype](https://habr.com/en/post/437912)
 - ai/stable diffusion: [1](https://www.thisshirtexists.com)
+- new cad: [hestus](https://www.hestus.co/) - [llm on cad](https://alexschreyer.net/sketchup/ai-vision-is-now-possible-with-openai-explorer-2-3/) - [cadmium](https://mattferraro.dev/posts/cadmium)
 
 ## Real estate
 
@@ -39,7 +40,7 @@
 - mailbox money: [printable place cards](https://www.placecard.me)
 - geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
 - books: [mousebookclub](https://mousebookclub.com) - [waldenpond](https://waldenpond.press)
-- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com) - [vintage furniture](https://www.vinterior.co)
+- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com) - [vintage furniture](https://www.vinterior.co) - [allekinos](https://allekinos.de/)
 
 ## Career
 
@@ -61,9 +62,9 @@
 
 - game aggregators: [itch.io](https://itch.io) - [boardgamearena](https://pt.boardgamearena.com) - [playok](https://www.playok.com)
 - games: [generals.io](http://generals.io) - [lord of the manor](http://www.lordofthemanor.io) - [zty.pe](https://zty.pe) - [nation states](https://www.nationstates.net) - [cosmoteer](https://cosmoteer.net) - dwarf fortress - gnomoria - nethack + volture (gui) - rimworld - prison architect - don't starve - curious expedition - stardew valley - undertale - [guriddo](https://www.guriddo.app) - geo [1](https://www.geoguessr.com)/[2](https://geotastic.net)/[3](https://www.explordle.com/map/wor) - [princejs](https://princejs.com) - [painted ocean](https://thapen.itch.io/painted-ocean) - [open dune](https://www.openra.net)
-- chess: [tactics](https://www.chesstactics.org) - [checkmatechamp](https://www.checkmatechamp.net) - [kb gambit](https://vole.wtf/kilobytes-gambit) - [how to learn](https://www.alexcrompton.com/blog/how-to-learn-chess)
+- chess & classics: [tactics](https://www.chesstactics.org) - [checkmatechamp](https://www.checkmatechamp.net) - [kb gambit](https://vole.wtf/kilobytes-gambit) - [how to learn](https://www.alexcrompton.com/blog/how-to-learn-chess) - [bgammon](https://bgammon.org/)
 - tabletop + D&D: [TLDR](https://github.com/miserlou/dnd-tldr) - [dungeon magazines](https://archive.org/details/dungeonmagazine?sort=titleSorter) - [sounds](https://tabletopy.com) - [escape team](https://www.escape-team.com) - [scopa](https://en.wikipedia.org/wiki/Scopa)
-- trivia: [busysimulator](https://busysimulator.com) - [svelte macos](https://macos-web.app) - [space elevator](https://neal.fun/space-elevator)/[solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - [reuse old calendar](https://whencanireusethiscalendar.com) - [this word does not exist](https://www.thisworddoesnotexist.com) - [nownownow](https://nownownow.com) - [the useless web](https://theuselessweb.com)
+- trivia: [busysimulator](https://busysimulator.com) - [svelte macos](https://macos-web.app) - [space elevator](https://neal.fun/space-elevator)/[solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - [reuse old calendar](https://whencanireusethiscalendar.com) - [this word does not exist](https://www.thisworddoesnotexist.com) - [nownownow](https://nownownow.com) - [the useless web](https://theuselessweb.com) - [floor796](https://floor796.com/)
 - Math: [this day in math](https://pballew.blogspot.com)
 
 ## Youtube channels
@@ -84,4 +85,4 @@
 - trades: [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [repair](https://manuzoid.com)
 - music: [for programming](https://musicforprogramming.net) - [coderadio](https://coderadio.freecodecamp.org) - [radio garden](http://radio.garden) - [time machine](https://radiooooo.com) - [lofichat](https://lofi.chat) - [lofimusic](https://lofimusic.app) - [nature sounds](https://rainbowhunt.com)
 - learn music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com) - [lmms](https://lmms.io)
-- other: [firedating](https://firedating.me) - [omegle](https://www.omegle.com) - [taskrabbit](https://www.taskrabbit.com) - [fridge detective](https://www.reddit.com/r/FridgeDetective)
+- other: [firedating](https://firedating.me) - [omegle](https://www.omegle.com) - [taskrabbit](https://www.taskrabbit.com) - [fridge detective](https://www.reddit.com/r/FridgeDetective) - [meet_hn](https://meet.hn/)
