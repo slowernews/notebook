@@ -1,6 +1,6 @@
 # Polish language - basics
 
-- methodology: [tim Ferriss one](https://tim.blog/2009/01/20/learning-language/) and [two](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - [learn these words first](https://learnthesewordsfirst.com/) - [basic english](http://ogden.basic-english.org)
+- methodology: [tim Ferriss one](https://tim.blog/2009/01/20/learning-language/) and [two](https://tim.blog/2014/03/21/how-to-learn-a-foreign-language-2/) - [learn these words first](https://learnthesewordsfirst.com/) - [basic english](http://ogden.basic-english.org) - [numbers in korean](https://www.ryanestrada.com/countingkorean/index.html)
 - level up: [clozemaster](https://www.clozemaster.com/l/pol-eng) - [wikibook](https://en.wikibooks.org/wiki/Polish) - [youglish](https://youglish.com/polish) - [forvo](https://forvo.com/languages-pronunciations/pl/) - [learning polish from the streets](https://www.youtube.com/playlist?list=PLA5UIoabheFN7GIhcfUGQT2S5_U5sWnhK) - [readini](https://readini.com) - [grammar](https://mowicpopolsku.com/polish-grammar/cases/locative)
 
 <!--

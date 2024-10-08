@@ -6,8 +6,8 @@ You should have a few signature dishes. Having a full grasp of cuisine is less r
 
 Mine are:
 
-- 3 breakfasts: sweet french toast, fruit jam, scrambled eggs
-- 3 Starters: vegetable soup, ramen, pizza
+- 2 breakfasts: sweet french toast, scrambled eggs
+- 3 Starters: vegetable soup, homemade ramen, homemade pizza
 - 3 Fishes: roasted salmon with black beans, bacalhau à brás, tuna pasta
 - 3 Meats: fried chicken, spaghetti carbonara, hamburguer
 - 3 Desserts: cream tart, cookie cake, chocolate mousse
@@ -39,33 +39,25 @@ Results: better than frozen pizza. Guaranteed.
 
 ## Level up
 
-- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos) - [French guy cooking](https://www.youtube.com/@FrenchGuyCooking/videos)
-- [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos) - [Brazilian father food](https://www.youtube.com/receitasdepai/videos)
-- [Modernist cuisine](https://modernistcuisine.com/all-recipes) - [Cooktime](https://letscooktime.com)
-- [Parsnip](https://www.parsnip.ai)
-- [Serious eats](https://www.seriouseats.com/)
-
-### Tips
-
-- The freezer (+ ice tray) is your friend. Most food "waste" that we usually discard can be freezed: any drink (wine, champagne, juice, coffee, etc), buttermilk, herbs (or herbs + olive oil, frozen tomato can to use just "a slice", etc.
+- [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos) - [French guy cooking](https://www.youtube.com/@FrenchGuyCooking/videos)- [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos)
+ - [Recipe radar](https://www.reciperadar.com) - [196 flavours](https://www.196flavors.com) - [Modernist cuisine](https://modernistcuisine.com/all-recipes)- [Cooking for engineers](http://www.cookingforengineers.com) 
 
 ### Nerd level
 
-- Some theory on: [pizza](http://www.varasanos.com/PizzaRecipe.htm) - [mayonnaise](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8916120&fileOId=8916126)
-- [Nutrients on ingredients](https://ryanatkn.github.io/nutrients-per-calorie/#/compare) - [Recipe radar](https://www.reciperadar.com/)
-- [Cooking for engineers](http://www.cookingforengineers.com) - [Grim grains](https://grimgrains.com)
-- [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) - [Optimized cooking](https://web.archive.org/web/20170420110020/http://www.matthewwettergreen.com/2010/01/05/how-to-cook-like-an-engineer) - [Cooklang](https://cooklang.org)
-- [Food timeline](https://foodtimeline.org) - [196 flavours](https://www.196flavors.com)
+- [Nutrients on ingredients](https://ryanatkn.github.io/nutrients-per-calorie/#/compare) - [Grim grains](https://grimgrains.com)
+- [Computerized recipes](https://web.archive.org/web/20021105191447/http://anthus.com/Recipes/CompCook.html) - [Cooklang](https://web.archive.org/web/20241005183211/https://cooklang.org/)
+- Some theory on: [pizza](http://www.varasanos.com/PizzaRecipe.htm) - [mayonnaise](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8916120&fileOId=8916126) - [Food timeline](https://foodtimeline.org)
+
+### Tips
+
+- The freezer (+ ice tray) is your friend. Most food "waste" that we usually discard can be freezed: any drink (wine, champagne, juice, coffee, etc), buttermilk, herbs (or herbs + olive oil), fruits, etc.
 
 <!--
-## Appendix: my receipts
-
-- esparguete c molho abacate e iogurte grego | salmao com feijão preto e variações | bacalhau bras | pizza
-- mousse - salame chocolate e variações | bolo laranja - tatin e variaçoes | tarte pastel nata
+- esparguete c molho abacate e iogurte grego
+- bolo laranja - tatin e variaçoes
 - portuguese style snails
 - mae: frango c arroz, bolachas gengibre
 - piquenique: panados, salada grao, chouriço assado, couve + molho iogurte / sobremesa: crepes c doce, salame choc
-- Basics: Carbonara pasta | Tuna pasta
 
 RECIPES TO TRY: Green Chile & Goat Cheese Dip + Zucchini Fries + Lemon-drop Chicken Wings
 -->
