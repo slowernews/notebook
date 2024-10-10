@@ -51,7 +51,7 @@ function: TOOLS I USE // alternatives I may use if necessary
 - forms & mail lists // gdocs - [mailchimp](https://mailchimp.com) - [dwarforms](https://dwarform.pages.dev)
 - automate // ahk - ifttt - [nimble text](https://nimbletext.com) - [blaze](https://blaze.today)
 - security // escrow - [justdeleteme](https://backgroundchecks.org/justdeleteme)
-- other: [screenshots](https://flameshot.org) - [bullshitremover](https://www.bullshitremover.com)
+- other: [screenshots](https://flameshot.org) - [bullshitremover](https://www.bullshitremover.com) - [markdown](https://blocks.md/)
 
 -->
 
