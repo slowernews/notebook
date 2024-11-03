@@ -11,14 +11,14 @@ function: TOOLS I USE // alternatives I may use if necessary
 - launcher: LISTARY5 // wox[c#] - cerebro[js] - keypirinha[py]
 - browser: CHROME + SAFARI + FFDEV 
 - llms: CHATGPT + CLAUDE // [lmarena](https://lmarena.ai) - [gemini](https://gemini.google.com) - [grok](https://x.ai)
-- chat: SIGNAL + WHATSAPP // telegram
+- chat: SIGNAL + WHATSAPP // telegram - [texts](https://texts.com)
 - mail: GMAIL // protonmail - tutanota
 - web search // google
 - cloud // gdrive
 
 ### dev
 
-- text editor: SUBLIME3 // vscode
+- text editor: SUBLIME3 // vscode - [cursor](https://www.cursor.com) - zed
 	- cloud // [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - [retool](https://retool.com)
 	- snippets // gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
 - terminal: CONEMU // vscode - hyper.is
@@ -28,9 +28,10 @@ function: TOOLS I USE // alternatives I may use if necessary
 	- cms: TUMBLR // shopify
 	- static: NETLIFY // github - [vercel](https://vercel.com) - [jamstack](https://jamstack.org/generators)
 	- app // firebase - [google app engine](https://cloud.google.com/appengine) - [fly.io](https://fly.io)
-- analytics: GOATCOUNTER // [counter.dev](https://counter.dev)
+- analytics: GOATCOUNTER // [counter.dev](https://counter.dev) - [fathom](https://usefathom.com/)
 - apis // [public apis](https://github.com/public-apis/public-apis) - [twilio](https://www.twilio.com) - [open meteo](https://open-meteo.com/en/docs)
 - optimize // [gtmetrix](https://gtmetrix.com) - [cloudflare scan](https://radar.cloudflare.com/scan)
+- browser // [polypane](https://polypane.app)
 - ux & frontend // [figma](https://www.figma.com) - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app)
 	- mac only // [sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co/) - [paintcodeapp](https://www.paintcodeapp.com)
 	- frontend // [aspect](https://aspect.app) - [fuzzmap](https://www.fuzzmap.io)

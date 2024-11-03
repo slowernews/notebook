@@ -28,7 +28,7 @@
 	- functional programming: [for JS people](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - [jargon](https://github.com/hemanth/functional-programming-jargon) - [light](https://github.com/getify/Functional-Light-JS) - [allonge](https://leanpub.com/javascriptallongesix/read) - [jargon](https://github.com/hemanth/functional-programming-jargon)
 	- basic apps: [spreadsheet](https://jsfiddle.net/ondras/o3tzx1px) - [data table](https://github.com/piecioshka/simple-data-table) - [notes](https://github.com/tmm/notational) - [calculator](https://insect.sh) - [chrome extension](https://github.com/abhiomkar/good-quotes)
 	- games: [JS1K](https://js1k.com) - [JS13K](https://js13kgames.com) - [traffic simulation](https://traffic-simulation.de) - [minesweeper](http://xem.github.io/MiniSweeper) - [tetris](http://binaryify.github.io/vue-tetris) - [rogue](https://nluqo.github.io/broughlike-tutorial) - [maze](https://observablehq.com/@mbostock/best-first-search) - [path finding](http://qiao.github.io/PathFinding.js/visual) - [doom](https://www.playfuljs.com/a-first-person-engine-in-265-lines) - [night drive](https://incoherency.co.uk/blog/stories/nightdrive.html)
-	- data viz: [with JS](https://jsdatav.is/intro.html) - [threeJS fundamentals](https://threejsfundamentals.org)
+	- data viz: [with JS](https://jsdatav.is/intro.html) - [threeJS fundamentals](https://threejsfundamentals.org) - [3d.js](https://www.d3indepth.com)
 	- graphics & webGL: [raytracer](https://www.gabrielgambetta.com/tiny-raytracer.html) [source](https://jsfiddle.net/vz5aZ/2) - [water](http://madebyevan.com/webgl-water) - [waves](https://david.li/waves) [source](https://jsfiddle.net/zyAzg) - [fluids](https://paveldogreat.github.io/WebGL-Fluid-Simulation) - [cloths](https://aatishb.com/drape) - [particles](https://minimal.be/lab/fluGL) - [generative](http://weavesilk.com/?ika) - [inspirograph](https://nathanfriend.io/inspirograph) - [gears](https://brm.io/gears) - [fractals](http://js1k.com/2016-elemental/demo/2552) - [text](https://tholman.com/texter) - [golfing](https://aem1k.com) - [glisp](https://glisp.app)
 	- other: [nuejs](https://nuejs.org/blog/rethinking-reactivity/)
 - CSS frameworks: bulma - tailwind - minimal [1](https://dohliam.github.io/dropin-minimal-css)/[2](https://andybrewer.github.io/mvp)/[3](https://watercss.kognise.dev) - [tufte CSS](https://edwardtufte.github.io/tufte-css) - [shuffle.dev](https://shuffle.dev)
@@ -57,7 +57,7 @@
 ## Benchmarks
 
 - [computer languages speed](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
-- web frameworks speed: [benchmarker](https://web-frameworks-benchmark.netlify.app/result) - [techempower](https://www.techempower.com/benchmarks)
+- web frameworks speed: [benchmarker](https://web-frameworks-benchmark.netlify.app/result) - [techempower](https://www.techempower.com/benchmarks) - [browserbench](https://browserbench.org/Speedometer3.0/)
 
 ## Trends
 

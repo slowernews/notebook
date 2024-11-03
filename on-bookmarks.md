@@ -40,7 +40,7 @@
 - mailbox money: [printable place cards](https://www.placecard.me)
 - geoarbitrage: [mturk](https://www.mturk.com/worker) - [kolotibablo](https://kolotibablo.com/main/home)
 - books: [mousebookclub](https://mousebookclub.com) - [waldenpond](https://waldenpond.press)
-- other: [art](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com) - [vintage furniture](https://www.vinterior.co) - [allekinos](https://allekinos.de/)
+- other: art [1](https://en.redcollectors.com)/[2](https://www.zagirovart.com) - [mini materials](https://www.minimaterials.com) - [car leasing](https://www.lingscars.com) - [spiedlife](https://www.spiedlife.com) - [vintage furniture](https://www.vinterior.co) - [allekinos](https://allekinos.de/)
 
 ## Career
 
