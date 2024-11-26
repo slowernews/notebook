@@ -54,8 +54,6 @@ function: TOOLS I USE // alternatives I may use if necessary
 - security // escrow - [justdeleteme](https://backgroundchecks.org/justdeleteme)
 - other: [screenshots](https://flameshot.org) - [bullshitremover](https://www.bullshitremover.com) - [markdown](https://blocks.md/)
 
--->
-
 ### graphics
 
 - cad: AUTOCAD2012[lisp] // revit - archicad
