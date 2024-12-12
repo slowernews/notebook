@@ -2,7 +2,7 @@
 
 (updated: 2024-09-28)
 
-function: TOOLS I USE // alternatives I may use if necessary
+function: TOOLS I USE // alternatives I may use if necessary ?? stuff I want to check
 
 ### generalist
 
@@ -18,7 +18,7 @@ function: TOOLS I USE // alternatives I may use if necessary
 
 ### dev
 
-- text editor: SUBLIME3 // vscode - [cursor](https://www.cursor.com) - zed
+- text editor: SUBLIME3 // vscode - [cursor](https://www.cursor.com) - [bolt](https://bolt.new/) - zed ?? [hackerman](https://hackerman.ai)
 	- cloud // [gitpod](https://www.gitpod.io) - [vscode.dev](https://vscode.dev) - [replit](https://repl.it) - [retool](https://retool.com)
 	- snippets // gist - [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
 - terminal: CONEMU // vscode - hyper.is
@@ -70,7 +70,7 @@ function: TOOLS I USE // alternatives I may use if necessary
 - readers:
 	- feeds: FEEDLY // feedgrid
 	- ebooks // [loudreader](https://www.loudreader.com)
-	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) // [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [modernhn](https://www.modernhn.com/) - [deephn](https://deephn.org) - [hn-summary](https://hn-summary.github.io) - [hackynews](https://hackyournews.com) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
+	- hn: [HN DAILY](https://www.daemonology.net/hn-daily) // [paperhn](https://www.wolfgangfaust.com/project/paper-hn) - [modernhn](https://www.modernhn.com/) - [deephn](https://deephn.org) - [hnsummary](https://hn-summary.github.io) - [yourhackernews](https://yourhackernews.com) - [hackynews](https://hackyournews.com) - [hackerherald](https://hackerherald.com) - [tophnstories](https://top-hn-stories.adhikasp.my.id/) - feeds ([hnfeeds](https://hnrss.github.io) - [hnapp](https://hnapp.com))
 	- twitter // nitter
 	- reddit // [teddit](https://teddit.net) - [unim.press](https://unim.press)
 	- wikipedia // [modern wiki](https://www.modernwiki.app)

@@ -69,7 +69,6 @@
 ## Youtube channels
 
 - [milhao](https://www.youtube.com/@CdK_podcast/videos)
-- cripto: [luis pinto](https://www.youtube.com/@LuisPintoTekTest/videos)
 - historia: [brasão de armas](https://www.youtube.com/@BrasaodeArmas/videos) - [imperiosAD](https://www.youtube.com/@ImperiosAD/videos)
 
 ## Other hobby horses
