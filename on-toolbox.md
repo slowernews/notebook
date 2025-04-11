@@ -1,30 +1,30 @@
 # On digital tools
 
-(updated: 2025-04-03)
+(updated: 2025-04-11)
 
-function: TOOLS I USE // alternatives I may use if necessary /?/ stuff I may check
+function: TOOLS I USE // alternatives I may use or check if necessary
 
 ### generalist
 
 - os: WIN7 + IOS + ANDROID // debian - chromeos
 - antivirus: AVAST
-- launcher: LISTARY5 // wox[go] - cerebroapp[js] <!-- keypirinha[py] -->
-- browser: CHROME + SAFARI + FFDEV /?/ [arc](https://arc.net/search)
+- launcher: LISTARY5 // wox[go] - cerebroapp[js]
+- browser: CHROME + SAFARI + FFDEV // [arc](https://arc.net/search)
 - llm: DEEPSEEK + CHATGPT + GROK + CLAUDE + QWEN + LLAMA + GEMINI // [leaderboard](https://lmarena.ai/?leaderboard) - [tools](https://aicode.danvoronov.com/tools)
-- chat: SIGNAL + WHATSAPP /?/ telegram - [texts](https://texts.com)
+- chat: SIGNAL + WHATSAPP // telegram - [texts](https://texts.com)
 - mail: GMAIL // protonmail - tutanota
 - web search // google
 - cloud // gdrive
 
 ### office
 
-- notes: SUBLIME3 /?/ [zen journal](https://thezenjournal.com)
+- notes: SUBLIME3 // [zen journal](https://thezenjournal.com)
 - writing: SUBLIME3 + WORD2010
 - translator: LLM // [wiki translator](https://wikitranslator.github.io)
-- research: EXCEL2010 /?/ [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
+- research: EXCEL2010 // [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
 - converter // pandoc - [epub.to](https://epub.to)
 - calc: EXCEL2010 // [numbr](https://numbr.dev)
-- accounting: EXCEL2010 + FACTURAMA /?/ [plain text](https://plaintextaccounting.org)
+- accounting: EXCEL2010 + FACTURAMA // [plain text](https://plaintextaccounting.org)
 - presentations // [descript](https://www.descript.com)
 - flowcharts // [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com) - [autodraw](https://www.autodraw.com) - [nomnoml](https://nomnoml.com) - [minimator](https://minimator.app)
 - proj management // trello - [taiga](https://www.taiga.io) - [self hosted kanban](https://personalkanban.js.org) - [taskjuggler](https://taskjuggler.org)
@@ -34,21 +34,21 @@ function: TOOLS I USE // alternatives I may use if necessary /?/ stuff I may che
 
 ### dev
 
-- text editor: SUBLIME3 // vscode & cursor /?/ zed - [hackerman](https://hackerman.ai)
-	- vibe coding /?/ bolt - devin - [replit](https://replit.com) - [retool](https://retool.com)
-	- cloud /?/ [vscode.dev](https://vscode.dev) - gitpod 
+- text editor: SUBLIME3 // vscode & cursor - zed - [hackerman](https://hackerman.ai)
+	- vibe coding // bolt - devin - [replit](https://replit.com) - [retool](https://retool.com)
+	- cloud // [vscode.dev](https://vscode.dev) - gitpod 
 	- snippets // [jsfiddle](https://jsfiddle.net) - [gistdumber](https://gist.dumber.app)
-- terminal: CONEMU /?/ vscode - hyper.is
+- terminal: CONEMU // vscode - hyper.is
 - repl // node - ruby - python - janet
 - domains: NAMECHEAP // [namelantern](https://namelantern.com)
 - hosting:
 	- cms: TUMBLR // shopify
 	- static: NETLIFY // github - [jamstack](https://jamstack.org/generators)
-	- app VERCEL /?/ google firebase/app engine - [fly.io](https://fly.io)
+	- app VERCEL // google firebase/app engine - [fly.io](https://fly.io)
 - analytics: [GOATCOUNTER](https://www.goatcounter.com) // [counter.dev](https://counter.dev) - [fathom](https://usefathom.com)
 - apis // twilio - [open meteo](https://open-meteo.com/en/docs) - [public apis](https://github.com/public-apis/public-apis)
-- ux & frontend // figma /?/ [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app) - [polypane](https://polypane.app)
-	- mac only /?/ [sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co) - [paintcodeapp](https://www.paintcodeapp.com)
+- ux & frontend // figma - [moqups](https://moqups.com) - [marvelapp](https://marvelapp.com) - [framer](https://www.framer.com) - [penpot](https://penpot.app) - [polypane](https://polypane.app)
+	- mac only // [sketch](https://www.sketch.com) - [kiteapp](https://kiteapp.co) - [paintcodeapp](https://www.paintcodeapp.com)
 
 ### graphics
 
@@ -62,30 +62,26 @@ function: TOOLS I USE // alternatives I may use if necessary /?/ stuff I may che
 
 - music: YOUTUBE // [1by1_mp3](https://mpesch3.de/1by1.html)
 - readers:
-	- feeds: FEEDLY // feedgrid
-	- ebooks // [loudreader](https://www.loudreader.com)
-	- twitter_X // nitter
-	- reddit // [teddit](https://teddit.net) - [unim.press](https://unim.press) - [reddtok](https://reddtok.vercel.app)
-	- wikipedia // [modern wiki](https://www.modernwiki.app) - [wiki-ua](https://wiki-ua.vercel.app) - [wikitok](https://wikitok.vercel.app)
-- info sources: [zerohedge](https://www.zerohedge.com) - [visual capitalist](https://www.visualcapitalist.com)
+	- feeds: FEEDLY
+	- twitter_X // [nitter](https://nitter.net)
+	- reddit // [reddtok](https://reddtok.vercel.app) - [unim.press](https://unim.press)
+	- wikipedia // [wikitok](https://wikitok.vercel.app)
+	- hn // [daily top10](https://www.daemonology.net/hn-daily) - paper [1](https://hackerherald.com)/[2](https://www.wolfgangfaust.com/project/paper-hn)  - [feeds](https://hnrss.github.io) - [summary](https://hackyournews.com) - analysis [1](https://deephn.org)/[2](https://hn-summary.github.io)/[3](https://top-hn-stories.adhikasp.my.id) - [alt frontend](https://www.modernhn.com)
 - srs // anki2
-- booking: AIRBNB + BOOKING
 - torrents // utorrent
-- fintech: REVOLUT + PAYPAL // [N26](https://n26.com) - [swissquote](https://en.swissquote.com) - pt ([moey](https://www.moey.pt) - [activo bank](https://www.activobank.pt)) - [degiro](https://www.degiro.pt)
-- assorted // [tumblr tags](https://tags.circumfluo.us) - [typeit](https://typeitjs.com) - [qrosscodes](https://qrosscodes.com) - wificard ([v1](https://wificard.io)/[v2](https://zdgeier.github.io/wifi-code)) - [wallpapers](https://tanck.nl/wallpaper) - [newsletters ads](https://upstart.me/search/index.php) - [payymail](https://payymail.com) - [magic workcycle](http://www.magicworkcycle.com) - [tinyprinter](https://tinyprinter.club) - [scroll pub](https://scroll.pub) - [web outside browsers](https://woob.tech) - [e-sim](https://www.airalo.com) - [research](https://quarto.org) - [listen pdfs](https://aidible.vercel.app)
+- travel:
+	- booking: AIRBNB + BOOKING
+	- [e-sim](https://www.airalo.com) 
+- fintech: REVOLUT + PAYPAL // n26 - swissquote - degiro
+- assorted // [tumblr tags](https://tags.circumfluo.us)
 
 <!--
-- general: [atlantic](https://www.theatlantic.com) - [aeon](https://aeon.co) - [ground](https://ground.news)/[allsides](https://www.allsides.com) - [newsasfacts](https://newsasfacts.com)
- - geopolitics: [foreign affairs](https://www.foreignaffairs.com) - [politico EU](https://www.politico.eu) - [responsible statecraft](https://responsiblestatecraft.org) - [understanding war](https://www.understandingwar.org) - [rest of the world](https://restofworld.org)
- - tech: HN - [lobsters](https://lobste.rs) - [hackaday](https://hackaday.com)
- - rationality: [quanta magazine](https://www.quantamagazine.org) - [less wrong](https://www.lesswrong.com) - [big think](https://bigthink.com)
- - books & papers: [goodreads](https://www.goodreads.com) - [libgen](https://libgen.is) - [scholar](https://scholar.archive.org)
- - arts: [divisare](https://divisare.com) - [design files](https://thedesignfiles.net) - [core77](https://www.core77.com) - [landbook](https://land-book.com) - [wikiart](https://www.wikiart.org) - [wul](https://www.wulmagazine.com)
+[ground](https://ground.news)/[allsides](https://www.allsides.com) - [newsasfacts](https://newsasfacts.com)
+ - tech: [hackaday](https://hackaday.com)
+ - rationality: [big think](https://bigthink.com)
+ - books & papers: [scholar](https://scholar.archive.org)
  - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [lustre](https://lustre.ai)
  - other: [calvert](https://calvertjournal.com) - [scandinavianmind](https://scandinavianmind.com) - [not boring](https://www.notboring.co) - [portugal stats](https://maisliberdade.pt/maisfactos) - [abnormal returns](https://abnormalreturns.com) - [ciechanow.ski](https://ciechanow.ski/archives) - [one typed page](https://onetypedpage.com) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [age of invention](https://www.ageofinvention.xyz) - [pudding.cool](https://pudding.cool) - [fuckinghomepage](https://fuckinghomepage.com)
-
-## Info sources
-
 - shopping: [wirecutter](https://www.nytimes.com/wirecutter) - [tropical price](https://tropicalprice.com) - [vetted](https://vetted.ai)
 - other: [portugal stats](https://maisliberdade.pt/maisfactos) - [ciechanow.ski](https://ciechanow.ski/archives) - [biometric news](https://www.biometricupdate.com) - [aporiamagazine](https://www.aporiamagazine.com) - [pudding.cool](https://pudding.cool)
 - more: [linkpantry](https://linkpantry.com) - [blogs hn](https://blogs.hn) - [simplescience](https://simplescience.ai)
