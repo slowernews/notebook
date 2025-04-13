@@ -11,7 +11,7 @@
 
 ## Mechanics
 
-- [animated engines](https://animatedengines.com)
+- cars // [how a car works](https://www.howacarworks.com) - [animated engines](https://animatedengines.com) - [sizes](https://www.carsized.com)
 
 ## Sysadmin
 
@@ -26,6 +26,10 @@
 		A record from @ to 185.199.111.153
 		CNAME from www to yourdomain.extension
 
+### Tumblr
+
+- [tumblr tags](https://tags.circumfluo.us)
+
 ### Linux distros
 
 Tested:
@@ -37,3 +41,13 @@ Tested:
 ## Hardware
 
 - [lowcost pcs](https://lowcostminipcs.com/)
+
+## Design
+
+- architectural competitions: [pt](http://encomenda.oasrs.org/concursos)/[fi](https://www.safa.fi/kilpailut)/[si](https://zaps.si/?m_id=natecaji_aktualni)/[cz](https://cceamoba.cz/en)
+- design: [rules](https://www.vitsoe.com/gb/about/good-design) - [vietname](https://vietgd.com)- [computer](https://habr.com/en/post/437912)
+- [models shop](https://www.modulor.de/en) - [textures](https://www.textureking.com)
+
+## Other
+
+- [woodworking](https://www.youtube.com/c/ChrisSalomone1/videos) - [instructions](https://manuzoid.com)
