@@ -54,6 +54,7 @@ Tested:
 - music: lilybin - hacklily - abcjs - [ableton](https://learningmusic.ableton.com)
 - history: [1](https://www.youtube.com/c/OverSimplified/videos)/[2](https://www.youtube.com/@BrasaodeArmas/videos)/[3](https://www.youtube.com/@ImperiosAD/videos)
 - economy: [1](https://www.core-econ.org/the-economy/v1/book/text/0-3-contents.html)
+- 
 - curiosidades: [1](https://www.youtube.com/user/iberethenorio/videos)
 
 ## Other
@@ -61,6 +62,59 @@ Tested:
 - [instructions manuals](https://manuzoid.com)
 
 <!--
+https://goperf.dev/
+https://hilariusbookbinder.substack.com/p/the-average-college-student-today
+https://tim.blog/2025/01/13/the-no-book/ | https://tim.blog/2025/02/20/for-less-anxiety-and-more-life-treat-your-to-do-list-like-a-diner-menu/
+https://seeinglogic.com/posts/visual-readability-patterns/
+https://lifeweeks.app/ | https://blinpete.github.io/life-calendar | https://incoherency.co.uk/timeline | https://github.com/clairefro/obsidian-plugin-chronos
+https://webcurios.co.uk/
+https://idx.dev/
+https://font-tester.foxcraft.tech/
+https://findpiclocation.com/ 
+https://crawshaw.io/blog/programming-with-llms | https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/ | https://thebullshitmachines.com/
+https://hn-wrapped.kadoa.com/galfarragem | https://www.gitpodcast.com/slowernews/hamster-system | https://star-history.com/
+https://wd13.ca/quiz/
+https://play.google.com/store/apps/details?id=np.com.njs.autophotos&hl=en_US&gl=US
+https://realtytrends.io/demo/map
+https://cascii.app/ | https://q.uiver.app/
+https://cot.rs/ | https://tuono.dev/ | https://referencecollection.com/references/rust_reference.rs.html 
+https://tweakcn.com/editor/theme | https://scrtwpns.com/mixbox/ | https://outsideir35.com/ | https://obsessjobs.com/
+https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1 | https://uphunt.io/ | https://topjobstoday.com/ | https://weloveproduct.co/ | https://remotejobsly.com | https://www.unlistedjobs.com | https://chromewebstore.google.com/detail/linkedin-to-resume-by-cvg/bhdcmampnnhholkenaahdeaddmodmeem | https://www.levels.fyi
+https://en.wikipedia.org/wiki/Michel_Onfray
+https://entropicthoughts.com/haskell-procedural-programming
+https://graymirror.substack.com/p/4-principles-of-any-next-regime
+https://heyopenspot.com/
+https://news.ycombinator.com/item?id=42832026
+https://jacksonpollock.org/ | https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+https://lite.xlwings.org/
+https://taylor.town/5w | https://taylor.town/cheat-materials
+https://voids.blog/2025/02/14/breaking-infinitys-grip-the-finite-capacity-based-system/
+https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/
+https://www.artofmanliness.com/character/motivation-theories/ | https://www.artofmanliness.com/people/social-skills/the-ancient-art-of-saying-no-plutarch-s-guide-to-breaking-free-from-people-pleasing/
+https://www.construction-physics.com/p/understanding-solar-energy
+https://www.figgie.com/ | https://speedwrite.com/ | https://getpickle.ai/
+https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/ | https://www.lostartoflogarithms.com/ | https://www.desmos.com/calculator?lang=pt-BR
+https://www.trymasterkey.com/
+https://www.youtube.com/watch?v=EPVifrHSPEc -- (blockchain vs blockdag)
+https://roadmap.sh/ | https://www.codedex.io/
+https://writingexamples.com/ | https://writewithharper.com/
+https://hdo.app/ | https://pikashow.su/
+https://fxtop.com/ | https://www.e-leiloes.pt/
+https://walkkumano.com/koyabound/ | https://endtime-instruments.org/ | https://craigmod.com/ | https://www.nomad.pt/lider/claudia-santos/
+https://github.com/anshulmittal712/habit-tracker | https://github.com/mnfst/manifest | https://github.com/nickjj/plutus
+https://fancyword.abi-countdown.de/ | https://tma.live/ | https://llplayer.com/
+https://artifactguesser.com/ | https://www.kanjideck.com/ | https://memalign.github.io/m/spacetrader/index.html | https://steamtok.com/
+https://iterraai.co.uk/ | https://www.co.dev/ | https://www.faststartup.dev/ | https://deepseek.edgeone.app/ | https://lovable.dev/ | https://metaschool.so/templates
+https://uiblocks.xyz/ | https://same.new/ | https://layoutit.com/
+https://www.runningreality.org/projects/28 | https://learningsynths.ableton.com/
+hardware: https://daylightcomputer.com/product
+astro + vercel + sveltekit | https://vanjs.org | https://nuejs.org/
+https://eva.town | https://days.sonnet.io | https://hackerstations.com/setups/pcalves/
+https://tinyawards.net/
+https://ideaharbor.xyz
+https://www.techtalksweekly.io/p/100-most-watched-software-engineering
+
+	
 [AU](https://www.realestate.com.au/buy)
 [BR](https://www.zapimoveis.com.br)
 [CZ](https://www.sreality.cz)

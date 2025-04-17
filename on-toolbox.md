@@ -61,7 +61,7 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 ### downtime
 
 - music: YOUTUBE // [1by1_mp3](https://mpesch3.de/1by1.html) - [music for programming](https://musicforprogramming.net) - radio [1](http://radio.garden)/[2](https://app.radiooooo.com) - [nature sounds](https://rainbowhunt.com)
-- books [1](https://pt.annas-archive.org)/[2](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)/[3](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/browse.html)/[4]/https://openlibrary.org)
+- books [1](https://pt.annas-archive.org)/[2](https://www.gutenberg.org/ebooks/search/?sort_order=release_date)/[3](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/browse.html)/[4](https://openlibrary.org)
 - readers:
 	- feeds: FEEDLY
 	- twitter X // nitter
