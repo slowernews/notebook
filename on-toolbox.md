@@ -19,18 +19,18 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 ### office
 
 - notes: SUBLIME3 // [zen journal](https://thezenjournal.com)
-- writing: SUBLIME3 + WORD2010
+- writing: SUBLIME3 + WORD2010 // [typst](https://typst.app)
 - translator: LLM // [wiki translator](https://wikitranslator.github.io)
 - research: EXCEL2010 // [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
 - converter // pandoc - [epub.to](https://epub.to)
-- calc: EXCEL2010 // [numbr](https://numbr.dev)
+- calc: EXCEL2010 // [numbr](https://numbr.dev) - [unsure](https://filiph.github.io/unsure/)
 - accounting: EXCEL2010 + FACTURAMA // [plain text](https://plaintextaccounting.org)
 - presentations // [descript](https://www.descript.com)
 - flowcharts // [excalidraw](https://excalidraw.com) - [tldraw](https://www.tldraw.com) - [autodraw](https://www.autodraw.com) - [nomnoml](https://nomnoml.com) - [minimator](https://minimator.app)
 - proj management // trello - [taiga](https://www.taiga.io) - [self hosted kanban](https://personalkanban.js.org) - [taskjuggler](https://taskjuggler.org)
 - forms & mail lists: SUBSTACK // gdocs - mailchimp
 - automate // [nimble text](https://nimbletext.com) - [blaze](https://blaze.today) - ahk
-- other: [justdeleteme](https://backgroundchecks.org/justdeleteme) - [flameshot](https://flameshot.org)
+- other: [justdeleteme](https://backgroundchecks.org/justdeleteme) - [flameshot](https://flameshot.org) - [resumebuildai](https://www.resumebuildai.com)
 
 ### dev
 
@@ -67,7 +67,7 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 	- twitter X // nitter
 	- reddit // [reddtok](https://reddtok.vercel.app)
 	- wikipedia // [wikitok](https://wikitok.vercel.app)
-	- hn: [daily top10](https://www.daemonology.net/hn-daily) // paper [1](https://hackerherald.com)/[2](https://www.wolfgangfaust.com/project/paper-hn)  - [feeds](https://hnrss.github.io) - [summary](https://hackyournews.com) - analysis [1](https://deephn.org)/[2](https://hn-summary.github.io)/[3](https://top-hn-stories.adhikasp.my.id) - [alt frontend](https://www.modernhn.com)
+	- hn: [daily top10](https://www.daemonology.net/hn-daily) // paper [1](https://hackerherald.com)/[2](https://www.wolfgangfaust.com/project/paper-hn)  - [feeds](https://hnrss.github.io) - [summary](https://hackyournews.com) - analysis [1](https://deephn.org)/[2](https://hn-summary.github.io)/[3](https://top-hn-stories.adhikasp.my.id) - [alt frontend](https://www.modernhn.com) - [tophn](https://hn500.azurewebsites.net/catch-up)
 - srs // anki2
 - weather: WINDGURU // [windy](https://www.windy.com) - [lightnings](https://www.blitzortung.org/en/live_lightning_maps.php)
 - travel:
@@ -81,4 +81,4 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 - shopping // vetted.ai
 - gaming // [itch.io](https://itch.io) - [boardgamearena](https://pt.boardgamearena.com) - [playok](https://www.playok.com)
 - stats: [our world in data](https://ourworldindata.org) - collections [1](https://en.numista.com)/[2](https://en.ucoin.net)/[3](https://colnect.com/pt/stamps) - [plants](https://www.getanyplant.com/plants)
-- other: [taskrabbit](https://www.taskrabbit.com)
+- other: [taskrabbit](https://www.taskrabbit.com) - [tv garden](https://tv.garden)

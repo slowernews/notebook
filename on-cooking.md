@@ -40,7 +40,7 @@ Results: better than frozen pizza. Guaranteed.
 ## Level up
 
 - [Italian food](https://www.youtube.com/c/StefanoBarbatoChef/videos) - [French guy cooking](https://www.youtube.com/@FrenchGuyCooking/videos)- [Portuguese bachelor food](https://www.youtube.com/c/TuganaCozinha/videos)
- - [Recipe radar](https://www.reciperadar.com) - [196 flavours](https://www.196flavors.com) - [Modernist cuisine](https://modernistcuisine.com/all-recipes)- [Cooking for engineers](http://www.cookingforengineers.com) - [Food map](https://www.foodmap.in)
+ - [Recipe radar](https://www.reciperadar.com) - [196 flavours](https://www.196flavors.com) - [Modernist cuisine](https://modernistcuisine.com/all-recipes) - [Other cuisines](https://github.com/smeckledorfed/Recipes-Master-List) - [Cooking for engineers](http://www.cookingforengineers.com) - [Food map](https://www.foodmap.in)
 
 ### Nerd level
 
