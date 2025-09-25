@@ -21,7 +21,7 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 - notes: SUBLIME3 // [zen journal](https://thezenjournal.com)
 - writing: SUBLIME3 + WORD2010 // [typst](https://typst.app)
 - translator: LLM // [wiki translator](https://wikitranslator.github.io)
-- research: EXCEL2010 // [zotero](https://www.zotero.org) - docfetch - [overleaf](https://www.overleaf.com)
+- research: EXCEL2010 // [zotero](https://www.zotero.org) - docfetch
 - converter // pandoc - [epub.to](https://epub.to)
 - calc: EXCEL2010 // [numbr](https://numbr.dev) - [unsure](https://filiph.github.io/unsure/)
 - accounting: EXCEL2010 + FACTURAMA // [plain text](https://plaintextaccounting.org)
