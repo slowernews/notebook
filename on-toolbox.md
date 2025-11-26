@@ -54,7 +54,7 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 
 - cad: AUTOCAD2012[lisp] // revit - archicad - [hestus](https://www.hestus.co) - [zoo.dev](https://zoo.dev)
 - 3d & render: SKETCHUP17[rb2.2] // blender[py] - D5render - lumion - [rerenderai](https://rerenderai.com)
-- raster & vectors: PHOTOSHOP6[js] // firefly - [affinity](https://affinity.serif.com) - [photopea](https://www.photopea.com) - [dpaint](https://www.stef.be/dpaint) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [colorize pics](https://palette.fm/color/filters) - [background remover](https://www.photoroom.com/background-remover) - code pics [1](https://carbon.now.sh)/[2](https://chalk.ist)
+- raster & vectors: PHOTOSHOP6[js] // firefly - [affinity](https://www.affinity.studio) - [photopea](https://www.photopea.com) - [dpaint](https://www.stef.be/dpaint) - [geometrize](https://www.geometrize.co.uk) - [photo animator](https://www.myheritage.com.pt/deep-nostalgia) - [colorize pics](https://palette.fm/color/filters) - [background remover](https://www.photoroom.com/background-remover) - code pics [1](https://carbon.now.sh)/[2](https://chalk.ist)
 - image collection: LOCAL + PINTEREST // unsplash - pexels - dribbble - behance
 - other // [qgis](https://qgis.org) - [gmaps area calculator](https://www.daftlogic.com/projects-google-maps-area-calculator-tool.htm#)
 
@@ -80,5 +80,6 @@ function: TOOLS I USE // alternatives I may use or check if necessary
 - fintech: REVOLUT + PAYPAL // n26 - swissquote - degiro
 - shopping // vetted.ai
 - gaming // [itch.io](https://itch.io) - [boardgamearena](https://pt.boardgamearena.com) - [playok](https://www.playok.com)
+- prediction markets // polymarket - kalshi
 - stats: [our world in data](https://ourworldindata.org) - collections [1](https://en.numista.com)/[2](https://en.ucoin.net)/[3](https://colnect.com/pt/stamps) - [plants](https://www.getanyplant.com/plants)
 - other: [taskrabbit](https://www.taskrabbit.com) - [tv garden](https://tv.garden)
